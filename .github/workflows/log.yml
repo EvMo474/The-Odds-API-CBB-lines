@@ -1,0 +1,37 @@
+name: cbb-halftime-logger
+# Times are UTC and assume Eastern STANDARD time (Nov-early Mar). After the March DST change, shift each hour earlier by 1.
+on:
+  schedule:
+    - cron: '30 23 * * 1-5'   # Mon-Fri 6:30pm ET -> ~12:20am ET
+    - cron: '0 16 * * 0,6'    # Sat/Sun 11:00am ET -> ~4:30pm
+    - cron: '30 21 * * 0,6'   # Sat/Sun 4:30pm ET -> ~10:20pm
+    - cron: '15 3 * * 0,1'    # Sat/Sun night 10:15pm ET -> ~1:15am
+  workflow_dispatch:
+    inputs:
+      minutes: { description: 'minutes to poll', default: '60' }
+concurrency:
+  group: cbb-logger
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    timeout-minutes: 358
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install requests
+      - name: poll
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: |
+          case "${{ github.event.schedule }}" in
+            "30 23 * * 1-5") M=350 ;;
+            "0 16 * * 0,6")  M=330 ;;
+            "30 21 * * 0,6") M=350 ;;
+            "15 3 * * 0,1")  M=180 ;;
+            *) M="${{ github.event.inputs.minutes }}"; M=${M:-60} ;;
+          esac
+          python logger.py --loop --minutes $M --every 180 --push
