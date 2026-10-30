@@ -1,19 +1,23 @@
 #!/usr/bin/env python3
-"""Flatten data/games/*/*.json into data/team_rows.csv (2 rows per game) and print bucket summaries.
-Usage: python report.py [--gap 10]
-Benchmarks per team-row (line_exp = team's expected margin, + = favorite):
-  cover_half : 2H margin beats 0.5 * pregame line_exp                      (score-blind, optimistic)
-  cover_live : 2H margin beats (live full-game line_exp at halftime) - halftime margin
-               ONLY meaningful if ESPN's halftime odds are a live full-game line (check live_moved).
+"""
+Flatten data/games/*/*.json into data/team_rows.csv (one row per game, from the COLD-shooting team's view)
+and print the same backtest we ran on history, live.
+
+  python report.py                 # cold = team with lower 1H FG%, gap >= 10 points
+  python report.py --gap 12 --shift 0.5
+
+Line used: the DraftKings / FanDuel halftime spread the logger saved closest to 'first seen at halftime + 3.5 min'
+(about 5 minutes after the first half ended, matching the historical backtest).
+Cover = cold team's 2nd-half margin beats (expected final margin from the book - halftime margin).
 """
 import argparse, glob, json
+from datetime import datetime
 import numpy as np, pandas as pd
 
-def first_spread(lst):
-    for o in lst or []:
-        if o.get("home_spread") is not None:
-            return o["home_spread"], o.get("total")
-    return None, None
+ap = argparse.ArgumentParser(); ap.add_argument("--gap", type=float, default=10); ap.add_argument("--shift", type=float, default=0.0)
+ap.add_argument("--minutes", type=float, default=3.5, help="minutes after the logger first saw halftime to take the line")
+a = ap.parse_args()
+T = lambda s: datetime.fromisoformat(s)
 
 rows = []
 for f in sorted(glob.glob("data/games/*/*.json")):
@@ -21,37 +25,45 @@ for f in sorted(glob.glob("data/games/*/*.json")):
     ht, fin = g.get("halftime"), g.get("final")
     if not ht or not fin or not fin.get("box_full") or fin.get("periods", 2) > 2:
         continue
-    pre, _ = first_spread((g.get("pregame") or {}).get("odds"))
-    ticks = [t for t in g["odds_ticks"] if t["status"] == "STATUS_HALFTIME"]
-    live, _ = first_spread(ticks[-1]["odds"]) if ticks else (None, None)
-    if live is None:
-        live, _ = first_spread(ht.get("summary_odds"))
-    b1, bf = ht["box_1h"], fin["box_full"]
-    s1 = {k: int(ht["score"][k]) for k in ("home", "away")}
-    sf = {k: int(fin["score"][k]) for k in ("home", "away")}
-    for side, opp in (("home", "away"), ("away", "home")):
-        if not (b1.get(side, {}).get("fga") and b1.get(opp, {}).get("fga")):
-            continue
-        sign = 1 if side == "home" else -1                      # home_spread<0 => home favored
-        lx = None if pre is None else -pre * sign
-        ll = None if live is None else -live * sign
-        ht_m = s1[side] - s1[opp]
-        h2 = (sf[side] - s1[side]) - (sf[opp] - s1[opp])
-        rows.append(dict(date=g["date_key"], event_id=g["event_id"], team=g[side]["name"], opp=g[opp]["name"],
-            bucket=None if lx is None or lx == 0 else ("home_" if side == "home" else "road_") + ("fav" if lx > 0 else "dog"),
-            neutral=g.get("neutral_site"), gap1=b1[side]["fg_pct"] - b1[opp]["fg_pct"], pre_line=lx, live_line=ll,
-            live_moved=None if ll is None or lx is None else abs(ll - lx) > 0.01, ht_margin=ht_m, h2_margin=h2,
-            cover_half=None if lx is None else (np.sign(h2 - 0.5 * lx) + 1) / 2 if h2 != 0.5 * lx else 0.5,
-            cover_live=None if ll is None else (np.sign(h2 - (ll - ht_m)) + 1) / 2 if h2 != ll - ht_m else 0.5))
+    b1 = ht["box_1h"]
+    if not (b1.get("home", {}).get("fga") and b1.get("away", {}).get("fga")):
+        continue
+    gap = b1["away"]["fg_pct"] - b1["home"]["fg_pct"]          # away - home; > 0 => home is the cold team
+    s = 1 if gap > 0 else -1
+    s1 = {k: int(ht["score"][k]) for k in ("home", "away")}; sf = {k: int(fin["score"][k]) for k in ("home", "away")}
+    ht_cold = s * (s1["home"] - s1["away"]); h2_cold = s * ((sf["home"] - s1["home"]) - (sf["away"] - s1["away"]))
+    ticks = [t for t in g.get("odds_api_ticks", []) if not t.get("unmatched")]
+    row = dict(date=g["date_key"], event_id=g["event_id"], home=g["home"]["name"], away=g["away"]["name"],
+               cold_side="home" if s == 1 else "road", gap=abs(gap), ht_cold=ht_cold, h2_cold=h2_cold, n_ticks=len(ticks))
+    if ticks and g.get("halftime_first_seen"):
+        target = T(g["halftime_first_seen"]).timestamp() + a.minutes * 60
+        t = min(ticks, key=lambda x: abs(T(x["t"]).timestamp() - target))
+        row["tick_min_after_first_seen"] = round((T(t["t"]).timestamp() - T(g["halftime_first_seen"]).timestamp()) / 60, 1)
+        for bk, short in (("draftkings", "dk"), ("fanduel", "fd")):
+            v = t.get(f"{bk}_home_spread")
+            if v is not None:
+                row[f"{short}_imp"] = s * (-v) - ht_cold          # implied 2H expected margin, cold team
+    rows.append(row)
 df = pd.DataFrame(rows)
 if df.empty:
     print("no completed games with halftime snapshots yet"); raise SystemExit
+for c in ("dk_imp", "fd_imp"):
+    if c not in df: df[c] = np.nan
+df["best_imp"] = df[["dk_imp", "fd_imp"]].min(axis=1)
+exp_final = (df.dk_imp.fillna(df.fd_imp) + df.ht_cold)
+df["bucket"] = df.cold_side + "_" + np.where(exp_final > 0, "fav", "dog")
 df.to_csv("data/team_rows.csv", index=False)
-ap = argparse.ArgumentParser(); ap.add_argument("--gap", type=float, default=10); a = ap.parse_args()
-print(f"{df.event_id.nunique()} games, {len(df)} team-rows; live line differs from pregame in "
-      f"{df.live_moved.mean():.0%} of rows (if ~0%, ESPN's halftime odds are just the pregame line)")
-cold = df[(df.gap1 <= -a.gap) & df.bucket.notna()]
-agg = lambda x: pd.Series(dict(n=len(x), avg_ht_margin=x.ht_margin.mean(), avg_2h_margin=x.h2_margin.mean(),
-                               cover_half=x.cover_half.mean(), cover_live=x.cover_live.mean(), n_live=x.cover_live.notna().sum()))
-print(f"\nTeams that shot {a.gap:g}+ pts worse in 1H:"); print(cold.groupby("bucket").apply(agg).round(3).to_string())
-print("\nAll cold:"); print(agg(cold).round(3).to_string())
+print(f"{len(df)} finished games logged; with a DK/FD halftime line: {int(df[['dk_imp','fd_imp']].notna().any(axis=1).sum())}")
+
+def stats(x, col):
+    x = x.dropna(subset=[col]); m = x.h2_cold - (x[col] + a.shift)
+    w, l = int((m > 0).sum()), int((m < 0).sum()); n = w + l
+    return dict(n=n, W=w, L=l, cover=w / n if n else np.nan, roi=(w * 0.9091 - l) / n if n else np.nan, avg_margin=m.mean())
+cold = df[df.gap >= a.gap]
+print(f"\nCold team = 1H FG% gap >= {a.gap:g} pts, line shift {a.shift:+g}; break-even 52.4%")
+out = []
+for k in ["road_dog", "home_fav", "road_fav", "home_dog", "ALL"]:
+    x = cold if k == "ALL" else cold[cold.bucket == k]
+    for c in ("dk_imp", "fd_imp", "best_imp"):
+        r = stats(x, c); r.update(bucket=k, line=c.split("_")[0]); out.append(r)
+print(pd.DataFrame(out).set_index(["bucket", "line"]).round(3).to_string())

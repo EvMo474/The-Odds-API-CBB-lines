@@ -12,7 +12,7 @@ One JSON file per game: data/games/<YYYYMMDD>/<event_id>.json  (merge-friendly i
   python logger.py --loop --minutes 295 --push   # poll every 60s for ~5h, commit every 20 min
 Env: ESPN_BASE overrides the API base (used for testing).
 """
-import argparse, json, os, re, subprocess, sys, time
+import argparse, difflib, json, os, re, subprocess, sys, time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -134,6 +134,8 @@ def handle(ev, date_key):
         g["pregame"] = {"t": now_iso(), "odds": odds}; changed = True
 
     if st == "STATUS_HALFTIME":
+        if "halftime_first_seen" not in g:
+            g["halftime_first_seen"] = now_iso(); changed = True
         if "halftime" not in g:
             summ = get(f"{BASE}/summary", {"event": cid})
             if summ:
@@ -159,7 +161,52 @@ def handle(ev, date_key):
         changed = True
     if changed:
         save(path, g)
-    return st, changed
+    return st, changed, (g, path, comp, habbr, aabbr) if st == "STATUS_HALFTIME" else None
+
+
+ODDS_BASE = os.environ.get("ODDS_API_BASE", "https://api.the-odds-api.com/v4")
+BOOKS = "draftkings,fanduel"
+
+
+def _norm(x):
+    return " ".join(re.sub(r"[^a-z0-9 ]", " ", str(x).lower().replace("&", " and ").replace("-", " ")).split())
+
+
+def odds_api_snapshot(halftime_games):
+    """One Odds API call (1 credit) returns live spreads for every game; attach DK/FD to each game at the break."""
+    key = os.environ.get("ODDS_API_KEY")
+    if not key or not halftime_games:
+        return
+    try:
+        r = S.get(f"{ODDS_BASE}/sports/basketball_ncaab/odds", timeout=30,
+                  params=dict(apiKey=key, bookmakers=BOOKS, markets="spreads", oddsFormat="american"))
+        if r.status_code != 200:
+            print(f"  odds api HTTP {r.status_code} {r.text[:120]}", file=sys.stderr); return
+        events, left = r.json(), r.headers.get("x-requests-remaining")
+    except Exception as e:
+        print(f"  odds api error {e!r}", file=sys.stderr); return
+    for g, path, comp, habbr, aabbr in halftime_games:
+        hn, an = _norm(g["home"]["name"]), _norm(g["away"]["name"])
+        best, score = None, 0
+        for e in events:
+            sc = (difflib.SequenceMatcher(None, hn, _norm(e["home_team"])).ratio() +
+                  difflib.SequenceMatcher(None, an, _norm(e["away_team"])).ratio()) / 2
+            if sc > score:
+                best, score = e, sc
+        tick = {"t": now_iso(), "match": round(score, 2), "credits_left": left}
+        if best is not None and score >= 0.82:
+            for b in best.get("bookmakers", []):
+                for m in b.get("markets", []):
+                    if m["key"] == "spreads":
+                        for o in m["outcomes"]:
+                            if o["name"] == best["home_team"]:
+                                tick[b["key"] + "_home_spread"] = o["point"]
+            tick["odds_event_id"] = best["id"]
+        else:
+            tick["unmatched"] = True
+        g.setdefault("odds_api_ticks", []).append(tick)
+        if len(g["odds_api_ticks"]) <= 40:
+            save(path, g)
 
 
 def poll():
@@ -167,19 +214,22 @@ def poll():
     days = {now.strftime("%Y%m%d"), (now - timedelta(days=1)).strftime("%Y%m%d")}
     n = ch = 0
     live = False
+    at_half = []
     for d in sorted(days):
         sb = get(f"{BASE}/scoreboard", {"dates": d, "groups": 50, "limit": 400})
         if not sb:
             continue
         for ev in sb.get("events", []):
             try:
-                st, c = handle(ev, d)
+                st, c, hh = handle(ev, d)
             except Exception as e:
                 print(f"  game {ev.get('id')} failed: {e!r}", file=sys.stderr)
                 continue
             n += 1; ch += c
+            if hh: at_half.append(hh)
             live |= st in ("STATUS_IN_PROGRESS", "STATUS_HALFTIME")
-    print(f"{now:%H:%M:%S} games={n} updated={ch} live={live}", flush=True)
+    odds_api_snapshot(at_half)
+    print(f"{now:%H:%M:%S} games={n} updated={ch} live={live} at_halftime={len(at_half)}", flush=True)
     return live
 
 
