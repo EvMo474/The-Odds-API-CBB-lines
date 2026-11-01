@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ND",
+  "id": "87",
+  "name": "Notre Dame Fighting Irish"
+ },
+ "date_key": "20261101",
+ "event_id": "401920982",
+ "home": {
+  "abbr": "VILL",
+  "id": "222",
+  "name": "Villanova Wildcats"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VILL -7.5",
+    "home_spread": -7.5,
+    "provider": "Draft Kings",
+    "raw_spread": -7.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-01T04:00:04+00:00"
+ },
+ "start": "2026-11-01T14:30Z"
+}

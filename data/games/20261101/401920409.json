@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LIB",
+  "id": "2335",
+  "name": "Liberty Flames"
+ },
+ "date_key": "20261101",
+ "event_id": "401920409",
+ "home": {
+  "abbr": "HPU",
+  "id": "2272",
+  "name": "High Point Panthers"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "HPU -6.5",
+    "home_spread": -6.5,
+    "provider": "Draft Kings",
+    "raw_spread": -6.5,
+    "total": 155.5
+   }
+  ],
+  "t": "2026-11-01T04:00:04+00:00"
+ },
+ "start": "2026-11-02T04:59Z"
+}
