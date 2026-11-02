@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "WIU",
+  "id": "2710",
+  "name": "Western Illinois Leathernecks"
+ },
+ "date_key": "20261102",
+ "event_id": "401928995",
+ "home": {
+  "abbr": "VAL",
+  "id": "2674",
+  "name": "Valparaiso Beacons"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VAL -18.5",
+    "home_spread": -18.5,
+    "provider": "Draft Kings",
+    "raw_spread": -18.5,
+    "total": 142.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T01:00Z"
+}

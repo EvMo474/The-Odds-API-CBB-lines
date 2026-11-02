@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UTSA",
+  "id": "2636",
+  "name": "UTSA Roadrunners"
+ },
+ "date_key": "20261102",
+ "event_id": "401911469",
+ "home": {
+  "abbr": "SJSU",
+  "id": "23",
+  "name": "San Jos\u00e9 State Spartans"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SJSU -8.5",
+    "home_spread": -8.5,
+    "provider": "Draft Kings",
+    "raw_spread": -8.5,
+    "total": 153.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-02T20:00Z"
+}

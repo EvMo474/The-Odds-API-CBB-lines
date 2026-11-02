@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "RMU",
+  "id": "2523",
+  "name": "Robert Morris Colonials"
+ },
+ "date_key": "20261102",
+ "event_id": "401911452",
+ "home": {
+  "abbr": "NEV",
+  "id": "2440",
+  "name": "Nevada Wolf Pack"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "NEV -12.5",
+    "home_spread": -12.5,
+    "provider": "Draft Kings",
+    "raw_spread": -12.5,
+    "total": 144.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T03:00Z"
+}

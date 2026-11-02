@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ETAM",
+  "id": "2837",
+  "name": "East Texas A&M Lions"
+ },
+ "date_key": "20261102",
+ "event_id": "401906801",
+ "home": {
+  "abbr": "OU",
+  "id": "201",
+  "name": "Oklahoma Sooners"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "OU -31.5",
+    "home_spread": -31.5,
+    "provider": "Draft Kings",
+    "raw_spread": -31.5,
+    "total": 149.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T01:00Z"
+}

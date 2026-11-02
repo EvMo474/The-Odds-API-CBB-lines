@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SPU",
+  "id": "2612",
+  "name": "Saint Peter's Peacocks"
+ },
+ "date_key": "20261102",
+ "event_id": "401920886",
+ "home": {
+  "abbr": "HALL",
+  "id": "2550",
+  "name": "Seton Hall Pirates"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "HALL -20.5",
+    "home_spread": -20.5,
+    "provider": "Draft Kings",
+    "raw_spread": -20.5,
+    "total": 136.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:30Z"
+}

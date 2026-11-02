@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "RID",
+  "id": "2520",
+  "name": "Rider Broncs"
+ },
+ "date_key": "20261102",
+ "event_id": "401909705",
+ "home": {
+  "abbr": "PITT",
+  "id": "221",
+  "name": "Pittsburgh Panthers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "PITT -27.5",
+    "home_spread": -27.5,
+    "provider": "Draft Kings",
+    "raw_spread": -27.5,
+    "total": 141.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:00Z"
+}

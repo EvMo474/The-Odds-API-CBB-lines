@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "FOR",
+  "id": "2230",
+  "name": "Fordham Rams"
+ },
+ "date_key": "20261102",
+ "event_id": "401909784",
+ "home": {
+  "abbr": "KU",
+  "id": "2305",
+  "name": "Kansas Jayhawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "KU -23.5",
+    "home_spread": -23.5,
+    "provider": "Draft Kings",
+    "raw_spread": -23.5,
+    "total": 143.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T01:00Z"
+}

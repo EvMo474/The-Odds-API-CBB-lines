@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NCCU",
+  "id": "2428",
+  "name": "North Carolina Central Eagles"
+ },
+ "date_key": "20261102",
+ "event_id": "401906779",
+ "home": {
+  "abbr": "UGA",
+  "id": "61",
+  "name": "Georgia Bulldogs"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UGA -37.5",
+    "home_spread": -37.5,
+    "provider": "Draft Kings",
+    "raw_spread": -37.5,
+    "total": 160.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:30Z"
+}

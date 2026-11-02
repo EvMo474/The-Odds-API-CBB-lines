@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "WMU",
+  "id": "2711",
+  "name": "Western Michigan Broncos"
+ },
+ "date_key": "20261102",
+ "event_id": "401910997",
+ "home": {
+  "abbr": "ODU",
+  "id": "295",
+  "name": "Old Dominion Monarchs"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "WMU -1.5",
+    "home_spread": 1.5,
+    "provider": "Draft Kings",
+    "raw_spread": 1.5,
+    "total": 157.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "BALL",
+  "id": "2050",
+  "name": "Ball State Cardinals"
+ },
+ "date_key": "20261102",
+ "event_id": "401911004",
+ "home": {
+  "abbr": "GASO",
+  "id": "290",
+  "name": "Georgia Southern Eagles"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "BALL -2.5",
+    "home_spread": 2.5,
+    "provider": "Draft Kings",
+    "raw_spread": 2.5,
+    "total": 158.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:00Z"
+}

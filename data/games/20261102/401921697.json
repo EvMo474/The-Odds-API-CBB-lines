@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LBSU",
+  "id": "299",
+  "name": "Long Beach State Beach"
+ },
+ "date_key": "20261102",
+ "event_id": "401921697",
+ "home": {
+  "abbr": "UTAH",
+  "id": "254",
+  "name": "Utah Utes"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UTAH -19.5",
+    "home_spread": -19.5,
+    "provider": "Draft Kings",
+    "raw_spread": -19.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T02:00Z"
+}

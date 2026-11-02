@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "MUR",
+  "id": "93",
+  "name": "Murray State Racers"
+ },
+ "date_key": "20261102",
+ "event_id": "401911707",
+ "home": {
+  "abbr": "TNST",
+  "id": "2634",
+  "name": "Tennessee State Tigers"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MUR -10.5",
+    "home_spread": 10.5,
+    "provider": "Draft Kings",
+    "raw_spread": 10.5,
+    "total": 165.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-02T16:30Z"
+}

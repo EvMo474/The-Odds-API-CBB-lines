@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ARMY",
+  "id": "349",
+  "name": "Army Black Knights"
+ },
+ "date_key": "20261102",
+ "event_id": "401909562",
+ "home": {
+  "abbr": "DUKE",
+  "id": "150",
+  "name": "Duke Blue Devils"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "DUKE -43.5",
+    "home_spread": -43.5,
+    "provider": "Draft Kings",
+    "raw_spread": -43.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-02T23:30Z"
+}

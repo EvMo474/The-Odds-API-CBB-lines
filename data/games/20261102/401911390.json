@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "GWEB",
+  "id": "2241",
+  "name": "Gardner-Webb Runnin' Bulldogs"
+ },
+ "date_key": "20261102",
+ "event_id": "401911390",
+ "home": {
+  "abbr": "CONN",
+  "id": "41",
+  "name": "UConn Huskies"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "CONN -38.5",
+    "home_spread": -38.5,
+    "provider": "Draft Kings",
+    "raw_spread": -38.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T02:00Z"
+}

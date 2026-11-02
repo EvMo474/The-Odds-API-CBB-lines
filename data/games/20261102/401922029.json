@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "MONT",
+  "id": "149",
+  "name": "Montana Grizzlies"
+ },
+ "date_key": "20261102",
+ "event_id": "401922029",
+ "home": {
+  "abbr": "ORE",
+  "id": "2483",
+  "name": "Oregon Ducks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ORE -18.5",
+    "home_spread": -18.5,
+    "provider": "Draft Kings",
+    "raw_spread": -18.5,
+    "total": 153.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T03:00Z"
+}

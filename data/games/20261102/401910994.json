@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "BGSU",
+  "id": "189",
+  "name": "Bowling Green Falcons"
+ },
+ "date_key": "20261102",
+ "event_id": "401910994",
+ "home": {
+  "abbr": "GAST",
+  "id": "2247",
+  "name": "Georgia State Panthers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "GAST -4.5",
+    "home_spread": -4.5,
+    "provider": "Draft Kings",
+    "raw_spread": -4.5,
+    "total": 158.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-02T23:00Z"
+}

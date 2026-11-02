@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "QUIN",
+  "id": "2514",
+  "name": "Quinnipiac Bobcats"
+ },
+ "date_key": "20261102",
+ "event_id": "401924856",
+ "home": {
+  "abbr": "MSU",
+  "id": "127",
+  "name": "Michigan State Spartans"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MSU -29.5",
+    "home_spread": -29.5,
+    "provider": "Draft Kings",
+    "raw_spread": -29.5,
+    "total": 149.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:00Z"
+}

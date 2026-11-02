@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CAN",
+  "id": "2099",
+  "name": "Canisius Golden Griffins"
+ },
+ "date_key": "20261102",
+ "event_id": "401917173",
+ "home": {
+  "abbr": "PSU",
+  "id": "213",
+  "name": "Penn State Nittany Lions"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "PSU -22.5",
+    "home_spread": -22.5,
+    "provider": "Draft Kings",
+    "raw_spread": -22.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:30Z"
+}

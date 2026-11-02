@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "JKST",
+  "id": "2296",
+  "name": "Jackson State Tigers"
+ },
+ "date_key": "20261102",
+ "event_id": "401921036",
+ "home": {
+  "abbr": "TTU",
+  "id": "2641",
+  "name": "Texas Tech Red Raiders"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "TTU -34.5",
+    "home_spread": -34.5,
+    "provider": "Draft Kings",
+    "raw_spread": -34.5,
+    "total": 155.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:00Z"
+}

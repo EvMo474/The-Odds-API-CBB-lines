@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "MTST",
+  "id": "147",
+  "name": "Montana State Bobcats"
+ },
+ "date_key": "20261102",
+ "event_id": "401925878",
+ "home": {
+  "abbr": "CSU",
+  "id": "36",
+  "name": "Colorado State Rams"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "CSU -11.5",
+    "home_spread": -11.5,
+    "provider": "Draft Kings",
+    "raw_spread": -11.5,
+    "total": 146.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T03:00Z"
+}

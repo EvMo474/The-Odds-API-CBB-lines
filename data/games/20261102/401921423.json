@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "WIN",
+  "id": "2737",
+  "name": "Winthrop Eagles"
+ },
+ "date_key": "20261102",
+ "event_id": "401921423",
+ "home": {
+  "abbr": "QUC",
+  "id": "2511",
+  "name": "Queens University Royals"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "QUC -1.5",
+    "home_spread": -1.5,
+    "provider": "Draft Kings",
+    "raw_spread": -1.5,
+    "total": 167.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-02T14:00Z"
+}

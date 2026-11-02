@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UNH",
+  "id": "160",
+  "name": "New Hampshire Wildcats"
+ },
+ "date_key": "20261102",
+ "event_id": "401911304",
+ "home": {
+  "abbr": "BRWN",
+  "id": "225",
+  "name": "Brown Bears"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "BRWN -8.5",
+    "home_spread": -8.5,
+    "provider": "Draft Kings",
+    "raw_spread": -8.5,
+    "total": 143.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:00Z"
+}

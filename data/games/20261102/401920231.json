@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "DART",
+  "id": "159",
+  "name": "Dartmouth Big Green"
+ },
+ "date_key": "20261102",
+ "event_id": "401920231",
+ "home": {
+  "abbr": "MRST",
+  "id": "2368",
+  "name": "Marist Red Foxes"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MRST -6.5",
+    "home_spread": -6.5,
+    "provider": "Draft Kings",
+    "raw_spread": -6.5,
+    "total": 137.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:00Z"
+}

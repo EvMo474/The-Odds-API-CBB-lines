@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CCSU",
+  "id": "2115",
+  "name": "Central Connecticut Blue Devils"
+ },
+ "date_key": "20261102",
+ "event_id": "401925857",
+ "home": {
+  "abbr": "TEM",
+  "id": "218",
+  "name": "Temple Owls"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "TEM -15.5",
+    "home_spread": -15.5,
+    "provider": "Draft Kings",
+    "raw_spread": -15.5,
+    "total": 143.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-02T23:30Z"
+}

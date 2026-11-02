@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "STMN",
+  "id": "2900",
+  "name": "St. Thomas Tommies"
+ },
+ "date_key": "20261102",
+ "event_id": "401920842",
+ "home": {
+  "abbr": "PRES",
+  "id": "2506",
+  "name": "Presbyterian Blue Hose"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "STMN -2.5",
+    "home_spread": 2.5,
+    "provider": "Draft Kings",
+    "raw_spread": 2.5,
+    "total": 145.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:00Z"
+}

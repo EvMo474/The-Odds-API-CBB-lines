@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "FGCU",
+  "id": "526",
+  "name": "Florida Gulf Coast Eagles"
+ },
+ "date_key": "20261102",
+ "event_id": "401921753",
+ "home": {
+  "abbr": "UCF",
+  "id": "2116",
+  "name": "UCF Knights"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UCF -22.5",
+    "home_spread": -22.5,
+    "provider": "Draft Kings",
+    "raw_spread": -22.5,
+    "total": 153.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:00Z"
+}

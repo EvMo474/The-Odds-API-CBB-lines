@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UNA",
+  "id": "2453",
+  "name": "North Alabama Lions"
+ },
+ "date_key": "20261102",
+ "event_id": "401911517",
+ "home": {
+  "abbr": "UCD",
+  "id": "302",
+  "name": "UC Davis Aggies"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UCD -9.5",
+    "home_spread": -9.5,
+    "provider": "Draft Kings",
+    "raw_spread": -9.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T03:00Z"
+}

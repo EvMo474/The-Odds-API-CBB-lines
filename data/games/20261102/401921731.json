@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ETSU",
+  "id": "2193",
+  "name": "East Tennessee State Buccaneers"
+ },
+ "date_key": "20261102",
+ "event_id": "401921731",
+ "home": {
+  "abbr": "ASU",
+  "id": "9",
+  "name": "Arizona State Sun Devils"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ASU -17.5",
+    "home_spread": -17.5,
+    "provider": "Draft Kings",
+    "raw_spread": -17.5,
+    "total": 145.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T03:00Z"
+}

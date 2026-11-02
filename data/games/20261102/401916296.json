@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "BUCK",
+  "id": "2083",
+  "name": "Bucknell Bison"
+ },
+ "date_key": "20261102",
+ "event_id": "401916296",
+ "home": {
+  "abbr": "MD",
+  "id": "120",
+  "name": "Maryland Terrapins"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MD -31.5",
+    "home_spread": -31.5,
+    "provider": "Draft Kings",
+    "raw_spread": -31.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-02T05:01:01+00:00"
+ },
+ "start": "2026-11-03T00:00Z"
+}
