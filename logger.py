@@ -127,6 +127,7 @@ def handle(ev, date_key):
                        "away": {"id": a["team"]["id"], "name": a["team"].get("displayName"), "abbr": aabbr},
                        "neutral_site": comp.get("neutralSite"), "odds_ticks": []}
     changed = False
+    STATUS_MAP[cid] = {"status": st.replace("STATUS_", ""), "period": per, "clock": clock}
     odds = parse_odds(comp.get("odds"), habbr, aabbr)
     sc = {"home": h.get("score"), "away": a.get("score")}
 
@@ -175,6 +176,8 @@ ODDS_BASE = os.environ.get("ODDS_API_BASE", "https://api.the-odds-api.com/v4")
 REGIONS = os.environ.get("ODDS_REGIONS", "us")          # one region = every US book (DK, FD, BetRivers, ...) for the same credits
 MARKETS = os.environ.get("ODDS_MARKETS", "spreads,totals")
 GAP_FLAG = float(os.environ.get("FLAG_GAP", "10"))       # cold-team FG% gap that qualifies
+WIN_ZONE = float(os.environ.get("WIN_ZONE", "2"))        # cold team within this many points of winning the game at the live line
+STATUS_MAP = {}                                          # latest ESPN status per game, for the live board
 PRE = []                                                 # scheduled games about to tip (filled by handle, used by poll)
 
 
@@ -251,8 +254,19 @@ def put_lines(tick, event):
     tick["odds_event_id"] = event["id"]
 
 
+def pre_home_spread(g):
+    """Home spread used for the bucket: DraftKings at tip if we have it, else any book at tip, else ESPN's pregame DK line."""
+    cb = {k: v.get("spread") for k, v in ((g.get("closing") or {}).get("books") or {}).items() if v.get("spread") is not None}
+    if cb:
+        return cb.get("draftkings", next(iter(cb.values()))), "close"
+    po = (g.get("pregame") or {}).get("odds") or []
+    if po and po[0].get("home_spread") is not None:
+        return po[0]["home_spread"], "pregame"
+    return None, None
+
+
 def compute_flag(g):
-    """Cold team (lower 1H FG%) and its implied 2H line at every book, from the latest tick that has lines."""
+    """Cold team (lower 1H FG%), its bucket from the PREGAME/closing line, and its implied 2H line at every book."""
     h = g.get("halftime")
     ticks = [x for x in g.get("odds_api_ticks", []) if x.get("books")]
     if not h or not ticks:
@@ -264,20 +278,39 @@ def compute_flag(g):
     if fh is None or fa is None:
         return
     cold_away = fa < fh
-    mc = (int(sc["away"]) - int(sc["home"])) if cold_away else (int(sc["home"]) - int(sc["away"]))
+    hm = int(sc["home"]) - int(sc["away"])                       # home halftime margin
+    mc = -hm if cold_away else hm                                # cold team's halftime margin
     gap = round(abs(fa - fh), 1)
-    lines = {}
+    lines, live_home, cold_full = {}, {}, {}
     for bk, d in ticks[-1]["books"].items():
         if d.get("spread") is not None:
+            live_home[bk] = d["spread"]
+            cold_full[bk] = -d["spread"] if cold_away else d["spread"]
             cs = -d["spread"] if cold_away else d["spread"]       # cold team's full-game spread
             lines[bk] = round(cs + mc, 1)                          # its second-half spread (+ = underdog)
     if not lines:
         return
     best_bk = max(lines, key=lines.get)
+    pre, src = pre_home_spread(g)
+    bucket = None
+    if pre is not None:
+        cold_pre = -pre if cold_away else pre                      # cold team's pregame spread (+ = underdog)
+        bucket = ("Road" if cold_away else "Home") + (" Dog" if cold_pre > 0 else " Fav" if cold_pre < 0 else " Pick")
+    # sanity: live home spread should be near pre/2 - home margin; if the swapped orientation fits far better, the home/away labels disagree
+    suspect = False
+    if pre is not None and live_home:
+        obs = sorted(live_home.values())[len(live_home) // 2]
+        exp_ok, exp_sw = pre * 0.5 - hm, pre * 0.5 + hm
+        suspect = abs(obs - exp_ok) > 12 and abs(obs - exp_sw) + 8 < abs(obs - exp_ok)
     g["flag"] = {"t": ticks[-1]["t"], "cold": "away" if cold_away else "home", "gap": gap, "cold_margin_1h": mc,
-                 "lines_2h": lines, "best_book": best_bk, "best_line": lines[best_bk],
-                 "road_dog": bool(cold_away and lines[best_bk] > 0), "qualifies": bool(cold_away and lines[best_bk] > 0 and gap >= GAP_FLAG),
-                 "gap_min": GAP_FLAG}
+                 "bucket": bucket, "bucket_src": src, "pre_home_spread": pre, "neutral": bool(g.get("neutral_site")),
+                 "suspect": suspect, "lines_2h": lines, "best_book": best_bk, "best_line": lines[best_bk],
+                 "qualifies": bool(bucket == "Road Dog" and gap >= GAP_FLAG and not suspect), "gap_min": GAP_FLAG}
+    # win zone: the live full-game line has the cold team within WIN_ZONE points of winning outright, so covering ~= winning
+    cf = sorted(cold_full.values())
+    med = cf[len(cf) // 2] if len(cf) % 2 else (cf[len(cf) // 2 - 1] + cf[len(cf) // 2]) / 2
+    g["flag"].update({"cold_full_spread": round(med, 1), "cold_full_spread_by_book": cold_full,
+                      "win_zone": bool(med <= WIN_ZONE and gap >= GAP_FLAG and not suspect), "win_zone_max": WIN_ZONE})
 
 
 def odds_api_poll(halftime_games, pre_games):
@@ -350,6 +383,11 @@ def git(*args):
 
 def push():
     """Commit data, sync with origin/main, push. Never leaves the repo mid-rebase or detached."""
+    try:
+        import livejson
+        livejson.write(str(DATA), str(DATA.parent / "live.json"), STATUS_MAP)
+    except Exception as e:
+        print("  live.json skipped:", repr(e), file=sys.stderr)
     git("add", "data")
     subprocess.run(["git", "commit", "-m", f"log {now_iso()}"], capture_output=True, text=True, env=GIT_ENV)
     if not git("pull", "--rebase", "--autostash", "origin", "main"):
@@ -366,7 +404,8 @@ def main():
     ap.add_argument("--loop", action="store_true")
     ap.add_argument("--minutes", type=float, default=295)
     ap.add_argument("--every", type=int, default=180, help="seconds between polls")
-    ap.add_argument("--push", action="store_true", help="git commit+push every 20 min and at the end")
+    ap.add_argument("--push", action="store_true", help="git commit+push periodically and at the end")
+    ap.add_argument("--push-every", type=int, default=300, help="seconds between pushes (default 300 = 5 min)")
     a = ap.parse_args()
     if a.once or not a.loop:
         poll(); return
@@ -377,7 +416,7 @@ def main():
             poll()
         except Exception as e:
             print("poll error", repr(e), file=sys.stderr)
-        if a.push and time.time() - last_push > 1200:
+        if a.push and time.time() - last_push > a.push_every:
             push(); last_push = time.time()
         time.sleep(max(1, a.every - (time.time() - t0)))
     if a.push:

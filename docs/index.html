@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CBB Halftime Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+:root {
+  --bg: #f4f3ef; --panel: #ffffff; --fg: #1d2127; --muted: #6a7078; --line: #dcdad2;
+  --flag: #b4570a; --flag-bg: #fbf0e0; --ok: #1f7a4d; --bad: #b3372f; --accent: #2b4a6f;
+  --sans: "IBM Plex Sans", system-ui, sans-serif; --mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #14171b; --panel: #1b1f24; --fg: #e8e6e0; --muted: #98a0a8; --line: #2b3138;
+  --flag: #f0a04b; --flag-bg: #2a2114; --ok: #5fc08e; --bad: #ee7b72; --accent: #8fb3dc; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #14171b; --panel: #1b1f24; --fg: #e8e6e0; --muted: #98a0a8; --line: #2b3138;
+  --flag: #f0a04b; --flag-bg: #2a2114; --ok: #5fc08e; --bad: #ee7b72; --accent: #8fb3dc; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 14px/1.45 var(--sans); }
+.wrap { max-width: 78rem; margin: 0 auto; padding: 20px max(16px, env(safe-area-inset-left)) 40px; display: flex; flex-direction: column; gap: 16px; }
+header { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 6px 16px; }
+h1 { margin: 0; font-size: 22px; font-weight: 600; letter-spacing: -.01em; }
+.meta { color: var(--muted); font: 12px var(--mono); }
+.meta b { color: var(--fg); font-weight: 500; }
+.stale { color: var(--bad); }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr)); gap: 12px; }
+.tile, .card { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; min-width: 0; }
+.tile .lab { color: var(--muted); font-size: 12px; }
+.tile .val { font: 500 24px var(--mono); margin-top: 2px; }
+.tile .sub { color: var(--muted); font: 12px var(--mono); }
+h2 { margin: 0 0 8px; font-size: 14px; font-weight: 600; }
+.note { color: var(--muted); font-size: 12px; margin: 0 0 8px; max-width: 70rem; }
+.seasons { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 12px; }
+.rec { font: 13px var(--mono); display: flex; justify-content: space-between; border-top: 1px solid var(--line); padding: 5px 0; }
+.rec:first-of-type { border-top: 0; }
+.live { display: flex; flex-direction: column; gap: 8px; }
+.livegame { display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: baseline; border-left: 3px solid var(--flag); background: var(--flag-bg); padding: 8px 10px; border-radius: 0 4px 4px 0; }
+.livegame .g { font-weight: 600; } .livegame .l { font: 13px var(--mono); }
+.tabs { display: flex; gap: 6px; margin-bottom: 8px; flex-wrap: wrap; }
+.tabs button { font: 12px var(--sans); background: transparent; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 4px 10px; cursor: pointer; }
+.tabs button[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.scroll { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { text-align: left; padding: 6px 9px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+th { color: var(--muted); font-weight: 500; font-size: 12px; position: sticky; top: 0; background: var(--panel); }
+td.n, th.n { text-align: right; font-family: var(--mono); }
+tr.flag td { background: var(--flag-bg); }
+.pill { font: 500 11px var(--mono); padding: 1px 6px; border-radius: 3px; border: 1px solid currentColor; }
+.W { color: var(--ok); } .L { color: var(--bad); } .P, .T { color: var(--muted); }
+.flagtxt { color: var(--flag); font-weight: 600; }
+.empty { color: var(--muted); padding: 16px 0; }
+.books { font: 12px var(--mono); color: var(--muted); white-space: normal; }
+.books span { margin-right: 10px; display: inline-block; }
+footer { color: var(--muted); font-size: 12px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>CBB Halftime Board</h1>
+    <div class="meta" id="meta">loading…</div>
+  </header>
+
+  <div class="tiles" id="tiles"></div>
+
+  <div class="card" id="livecard" hidden>
+    <h2>Flagged and still playing</h2>
+    <div class="live" id="live"></div>
+  </div>
+
+  <div class="card">
+    <h2>Record, all days logged</h2>
+    <p class="note">Second-half cover against each book's line about 5 minutes into the break, at -110. The bucket is the cold team's pregame or closing role. The FG% gap is the cold team's first-half FG% shortfall. Games with a suspect home/away mix-up are left out.</p>
+    <div class="seasons" id="seasons"></div>
+  </div>
+
+  <div class="card">
+    <h2>Halftime games</h2>
+    <p class="note">The cold team is the one that shot worse in the first half. Flagged means a road dog (pregame or closing line) trailing in FG% by <span id="gapmin">10</span> or more. 2H lines are the live full-game spread minus the halftime margin; positive means the cold team is the second-half underdog. Win zone means the live full-game line gives the cold team +<span id="zonemax">2</span> or better. Closing line is DraftKings at tip when captured, otherwise the earlier pregame line.</p>
+    <div class="tabs" id="tabs">
+      <button data-f="all" aria-pressed="true">All</button>
+      <button data-f="flag" aria-pressed="false">Flagged</button>
+      <button data-f="zone" aria-pressed="false">Win zone</button>
+      <button data-f="today" aria-pressed="false">Last 24h</button>
+    </div>
+    <div class="scroll"><table id="tbl">
+      <thead><tr>
+        <th>Half</th><th>Game</th><th>Bucket</th><th>Closing line</th><th class="n">Score</th><th>Cold team</th><th class="n">FG% gap</th>
+        <th class="n">DK 2H</th><th class="n">FD 2H</th><th class="n">BetRivers 2H</th><th>Best 2H</th><th class="n">Live line</th>
+        <th class="n">2H margin</th><th>DK</th><th>FD</th><th>Won</th><th></th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table></div>
+    <div class="empty" id="none" hidden>No games match yet.</div>
+  </div>
+  <footer>Updates about every 5 minutes while the logger runs. This page checks for new data every minute.</footer>
+</div>
+
+<script>
+const REPO = "EvMo474/The-Odds-API-CBB-lines";
+const API = "https://api.github.com/repos/" + REPO + "/contents/data/live.json";
+const qs = new URLSearchParams(location.search);
+const SRC = qs.get("src");                       // ?src=live.json for local testing
+let DOC = null, FILTER = "all";
+
+const $ = (id) => document.getElementById(id);
+const line = (v) => (v == null ? "—" : (v > 0 ? "+" : "") + v.toFixed(1));
+const pct = (w, l) => (w + l ? (100 * w / (w + l)).toFixed(1) + "%" : "—");
+const roi = (w, l) => (w + l ? ((w * 0.9091 - l) / (w + l) * 100).toFixed(0) + "%" : "—");
+function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+
+async function load() {
+  try {
+    let r;
+    if (SRC) r = await fetch(SRC, { cache: "no-store" });
+    else {
+      r = await fetch(API, { headers: { Accept: "application/vnd.github.raw+json" }, cache: "no-store" });
+      if (!r.ok) throw new Error("api " + r.status);
+    }
+    DOC = await r.json();
+    render();
+  } catch (e) {
+    $("meta").textContent = "Could not load data (" + e.message + "). Retrying.";
+    $("meta").className = "meta stale";
+  }
+}
+
+function ago(iso) {
+  const m = Math.max(0, Math.round((Date.now() - new Date(iso).getTime()) / 60000));
+  return m < 1 ? "just now" : m < 90 ? m + " min ago" : Math.round(m / 60) + " h ago";
+}
+
+function render() {
+  const d = DOC, rows = d.rows;
+  const mins = (Date.now() - new Date(d.as_of).getTime()) / 60000;
+  $("meta").className = "meta" + (mins > 20 ? " stale" : "");
+  $("meta").replaceChildren(document.createTextNode("Data saved "), Object.assign(el("b", null, ago(d.as_of)),{}),
+    document.createTextNode(mins > 20 ? " · logger may be idle" : " · refreshes every minute"));
+  $("gapmin").textContent = d.gap_min; $("zonemax").textContent = d.win_zone;
+
+  const dk = (rows.filter(r => r.flag && r.res.DraftKings));
+  const w = dk.filter(r => r.res.DraftKings === "W").length, l = dk.filter(r => r.res.DraftKings === "L").length;
+  const tiles = [
+    ["Games logged (3 days)", d.counts.games, d.counts.final + " final"],
+    ["Halftimes captured", d.counts.halftime, rows.filter(r => Object.keys(r.l2).length).length + " with book lines"],
+    ["Flagged", rows.filter(r => r.flag).length, "road dog, gap " + d.gap_min + "+"],
+    ["Flagged record (DK)", w + "-" + l, pct(w, l) + " cover"],
+  ];
+  $("tiles").replaceChildren(...tiles.map(([a, b, c]) => { const t = el("div", "tile"); t.append(el("div", "lab", a), el("div", "val", String(b)), el("div", "sub", c)); return t; }));
+
+  // season records
+  const order = ["Road Dog", "Home Fav", "Road Fav", "Home Dog"];
+  const seas = $("seasons"); seas.replaceChildren();
+  for (const b of order) {
+    const c = el("div"); c.append(el("h2", null, b));
+    let any = false;
+    for (const [tier, label] of [["gap10", "Gap " + d.gap_min + "+"], ["all", "Any gap"]]) for (const bk of ["DraftKings", "FanDuel"]) {
+      const s = d.season[b + "|" + tier + "|" + bk]; if (!s) continue; any = true;
+      const x = el("div", "rec"); x.append(el("span", null, label + " · " + bk), el("span", null, s.W + "-" + s.L + (s.P ? "-" + s.P : "") + "  " + pct(s.W, s.L) + "  ROI " + roi(s.W, s.L)));
+      c.append(x);
+    }
+    if (any) seas.append(c);
+  }
+  if (!seas.children.length) seas.append(el("div", "empty", "No finished games yet."));
+
+  // flagged and still playing
+  const livegames = rows.filter(r => r.flag && r.status && r.status !== "FINAL");
+  $("livecard").hidden = !livegames.length;
+  $("live").replaceChildren(...livegames.map(r => {
+    const g = el("div", "livegame");
+    g.append(el("span", "g", r.game), el("span", "l", r.status === "HALFTIME" ? "HALFTIME" : "2H " + (r.clock || "")),
+      el("span", "l", "cold: " + r.cold + " (" + r.gap + " FG% gap, " + r.half + " at half)"), el("span", "l", "best 2H: " + r.best));
+    return g;
+  }));
+
+  // table
+  const cutoff = Date.now() - 24 * 3600 * 1000;
+  const shown = rows.filter(r => FILTER === "all" || (FILTER === "flag" && r.flag) || (FILTER === "zone" && r.zone) || (FILTER === "today" && r.seen && new Date(r.seen).getTime() > cutoff));
+  $("none").hidden = shown.length > 0;
+  const tb = $("rows"); tb.replaceChildren();
+  for (const r of shown) {
+    const tr = el("tr", r.flag ? "flag" : "");
+    const c = (t, cls) => { const td = el("td", cls || "", t); tr.append(td); return td; };
+    c(r.ht); c(r.game + (r.neutral ? " (neutral)" : "") + (r.ot ? " OT" : ""));
+    c(r.bucket + (r.suspect ? " ⚠" : "")); c(r.close ? r.close + (r.close_src === "pregame" ? " (pregame)" : "") : "—");
+    c(r.half.replace("-", "–"), "n"); c(r.cold); c(r.gap.toFixed(1), "n");
+    c(line(r.l2.DraftKings), "n"); c(line(r.l2.FanDuel), "n"); c(line(r.l2.BetRivers), "n"); c(r.best || "—");
+    c(line(r.live_cold), "n"); c(r.m2 == null ? "—" : (r.m2 > 0 ? "+" : "") + r.m2, "n");
+    for (const k of [r.res.DraftKings, r.res.FanDuel, r.won]) { const td = el("td"); if (k) td.append(el("span", "pill " + k, k)); else td.textContent = "—"; tr.append(td); }
+    const tag = []; if (r.flag) tag.push("Flagged"); if (r.zone) tag.push("Win zone");
+    c(tag.join(" · "), "flagtxt");
+    tb.append(tr);
+    const books = Object.entries(r.l2);
+    if (books.length && (r.flag || r.zone)) {
+      const br = el("tr"); const td = el("td", "books"); td.colSpan = 17;
+      td.append(...books.map(([k, v]) => el("span", null, k + " " + line(v))));
+      br.append(td); tb.append(br);
+    }
+  }
+}
+
+$("tabs").addEventListener("click", (e) => {
+  const b = e.target.closest("button"); if (!b) return;
+  FILTER = b.dataset.f;
+  for (const x of $("tabs").children) x.setAttribute("aria-pressed", String(x === b));
+  if (DOC) render();
+});
+load(); setInterval(load, 60000);
+</script>
+</body>
+</html>
