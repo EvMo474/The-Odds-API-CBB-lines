@@ -173,6 +173,7 @@ def handle(ev, date_key):
 
 
 ODDS_BASE = os.environ.get("ODDS_API_BASE", "https://api.the-odds-api.com/v4")
+SKIP_BOOKS = {"bovada"}                                  # books Evan cannot bet
 REGIONS = os.environ.get("ODDS_REGIONS", "us")          # one region = every US book (DK, FD, BetRivers, ...) for the same credits
 MARKETS = os.environ.get("ODDS_MARKETS", "spreads,totals")
 GAP_FLAG = float(os.environ.get("FLAG_GAP", "10"))       # cold-team FG% gap that qualifies
@@ -200,6 +201,8 @@ def book_lines(event):
     """{book: {'spread': home spread (neg = home favored), 'total': points}} for every book on the event."""
     out = {}
     for b in event.get("bookmakers", []):
+        if b.get("key") in SKIP_BOOKS:
+            continue
         d = {}
         for m in b.get("markets", []):
             for o in m.get("outcomes", []):

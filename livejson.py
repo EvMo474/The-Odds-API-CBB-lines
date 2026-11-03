@@ -11,7 +11,8 @@ from zoneinfo import ZoneInfo
 
 ET = ZoneInfo("America/New_York")
 NAMES = {"draftkings": "DraftKings", "fanduel": "FanDuel", "betrivers": "BetRivers", "betmgm": "BetMGM",
-         "williamhill_us": "Caesars", "fanatics": "Fanatics", "bovada": "Bovada"}
+         "williamhill_us": "Caesars", "fanatics": "Fanatics"}
+SKIP = {"bovada"}
 GAP = 10.0
 WIN_ZONE = 2.0
 SHOW_DAYS = 3
@@ -35,7 +36,7 @@ def _row(g, status):
     target = _t(seen) + timedelta(minutes=5) if seen else None
     cand = []
     for x in ticks:
-        bk = {k: v.get("spread") for k, v in (x.get("books") or {}).items() if v.get("spread") is not None}
+        bk = {k: v.get("spread") for k, v in (x.get("books") or {}).items() if v.get("spread") is not None and k not in SKIP}
         if not bk:
             bk = {k: x[k + "_home_spread"] for k in ("draftkings", "fanduel") if x.get(k + "_home_spread") is not None}
         if bk:
@@ -52,7 +53,7 @@ def _row(g, status):
     l2 = {k: round((-v if ca else v) + mc, 1) for k, v in books.items()}
     cs = {k: (-v if ca else v) for k, v in books.items()}
 
-    cb = {k: v.get("spread") for k, v in ((g.get("closing") or {}).get("books") or {}).items() if v.get("spread") is not None}
+    cb = {k: v.get("spread") for k, v in ((g.get("closing") or {}).get("books") or {}).items() if v.get("spread") is not None and k not in SKIP}
     pre, src = None, None
     if cb:
         pre, src = cb.get("draftkings", next(iter(cb.values()))), "close"
