@@ -84,6 +84,46 @@
    "n_events": 41,
    "t": "2026-11-03T03:55:17+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Eastern Washington Eagles @ Stanford Cardinal",
+   "credits_left": "19891",
+   "events_list_match": 0.42,
+   "events_list_n": 41,
+   "match": 0.42,
+   "n_events": 41,
+   "t": "2026-11-03T03:58:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Eastern Washington Eagles @ Stanford Cardinal",
+   "credits_left": "19889",
+   "events_list_match": 0.42,
+   "events_list_n": 39,
+   "match": 0.42,
+   "n_events": 39,
+   "t": "2026-11-03T04:01:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Eastern Washington Eagles @ Stanford Cardinal",
+   "credits_left": "19887",
+   "events_list_match": 0.42,
+   "events_list_n": 40,
+   "match": 0.42,
+   "n_events": 40,
+   "t": "2026-11-03T04:04:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Coppin St Eagles @ Virginia Tech Hokies",
+   "credits_left": "19885",
+   "events_list_match": 0.44,
+   "events_list_n": 43,
+   "match": 0.44,
+   "n_events": 43,
+   "t": "2026-11-03T04:07:17+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -134,6 +174,87 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-03T03:55:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "35",
+    "home": "71"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:58:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "35",
+    "home": "71"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T04:01:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "35",
+    "home": "71"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T04:04:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "35",
+    "home": "71"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T04:07:17+00:00"
+  },
+  {
+   "clock": "15:29",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "40",
+    "home": "90"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T04:10:17+00:00"
+  },
+  {
+   "clock": "14:13",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "42",
+    "home": "95"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T04:13:17+00:00"
+  },
+  {
+   "clock": "12:42",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "45",
+    "home": "101"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T04:16:17+00:00"
   }
  ],
  "start": "2026-11-03T03:00Z"
