@@ -337,13 +337,27 @@ def poll():
     return live
 
 
+GIT_ENV = dict(os.environ, GIT_AUTHOR_NAME="cbb-logger", GIT_AUTHOR_EMAIL="cbb-logger@users.noreply.github.com",
+               GIT_COMMITTER_NAME="cbb-logger", GIT_COMMITTER_EMAIL="cbb-logger@users.noreply.github.com")
+
+
+def git(*args):
+    r = subprocess.run(["git", *args], capture_output=True, text=True, env=GIT_ENV)
+    if r.returncode:
+        print("  git:", " ".join(args[:2]), (r.stderr or r.stdout).strip()[:200], file=sys.stderr)
+    return r.returncode == 0
+
+
 def push():
-    cmds = [["git", "add", "data"], ["git", "-c", "user.name=cbb-logger", "-c", "user.email=cbb-logger@users.noreply.github.com",
-            "commit", "-m", f"log {now_iso()}"], ["git", "pull", "--rebase", "--autostash"], ["git", "push"]]
-    for c in cmds:
-        r = subprocess.run(c, capture_output=True, text=True)
-        if r.returncode and c[1] != "-c":      # commit with nothing to commit is fine
-            print("  git:", " ".join(c[:2]), r.stderr.strip()[:200], file=sys.stderr)
+    """Commit data, sync with origin/main, push. Never leaves the repo mid-rebase or detached."""
+    git("add", "data")
+    subprocess.run(["git", "commit", "-m", f"log {now_iso()}"], capture_output=True, text=True, env=GIT_ENV)
+    if not git("pull", "--rebase", "--autostash", "origin", "main"):
+        subprocess.run(["git", "rebase", "--abort"], capture_output=True, text=True, env=GIT_ENV)
+        git("pull", "--no-rebase", "--no-edit", "-X", "ours", "origin", "main")   # data files are per-game, so this is safe
+    if not git("push", "origin", "HEAD:main"):
+        git("pull", "--no-rebase", "--no-edit", "-X", "ours", "origin", "main")
+        git("push", "origin", "HEAD:main")
 
 
 def main():
