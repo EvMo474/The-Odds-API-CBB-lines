@@ -4,6 +4,52 @@
   "id": "2547",
   "name": "Seattle U Redhawks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -1.5,
+    "total": 140.5
+   },
+   "betonlineag": {
+    "spread": -1.5,
+    "total": 140.0
+   },
+   "betrivers": {
+    "spread": -1.5,
+    "total": 141.5
+   },
+   "betus": {
+    "spread": -1.5,
+    "total": 140.0
+   },
+   "bovada": {
+    "spread": -1.5,
+    "total": 140.5
+   },
+   "draftkings": {
+    "spread": -1.5,
+    "total": 140.5
+   },
+   "fanatics": {
+    "spread": -1.5,
+    "total": 140.5
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 140.5
+   },
+   "lowvig": {
+    "spread": -1.5,
+    "total": 140.0
+   },
+   "williamhill_us": {
+    "spread": -1.5,
+    "total": 140.5
+   }
+  },
+  "odds_event_id": "1335e3b181d2264d63797dbd87fbcac3",
+  "t": "2026-11-03T04:58:17+00:00"
+ },
  "date_key": "20261102",
  "event_id": "401917506",
  "home": {

@@ -64,6 +64,26 @@
    "n_events": 38,
    "t": "2026-11-03T04:37:17+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Idaho State Bengals @ Utah State Aggies",
+   "credits_left": "19863",
+   "events_list_match": 0.46,
+   "events_list_n": 37,
+   "match": 0.46,
+   "n_events": 37,
+   "t": "2026-11-03T04:40:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Idaho State Bengals @ Utah State Aggies",
+   "credits_left": "19861",
+   "events_list_match": 0.46,
+   "events_list_n": 36,
+   "match": 0.46,
+   "n_events": 36,
+   "t": "2026-11-03T04:43:17+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -90,6 +110,85 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-03T04:37:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "24",
+    "home": "35"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T04:40:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "24",
+    "home": "35"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T04:43:17+00:00"
+  },
+  {
+   "clock": "18:52",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "24",
+    "home": "40"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T04:46:17+00:00"
+  },
+  {
+   "clock": "17:54",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "28",
+    "home": "43"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T04:49:17+00:00"
+  },
+  {
+   "clock": "16:43",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "28",
+    "home": "47"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T04:52:17+00:00"
+  },
+  {
+   "clock": "15:39",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "28",
+    "home": "47"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T04:55:17+00:00"
+  },
+  {
+   "clock": "14:30",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "30",
+    "home": "50"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T04:58:17+00:00"
   }
  ],
  "start": "2026-11-03T03:30Z"
