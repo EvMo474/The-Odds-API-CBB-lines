@@ -1,0 +1,140 @@
+{
+ "away": {
+  "abbr": "WCBC",
+  "id": "110418",
+  "name": "West Coast Baptist Eagles"
+ },
+ "date_key": "20261102",
+ "event_id": "401925921",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 12,
+    "3pm": 3,
+    "fg_pct": 36.67,
+    "fga": 30,
+    "fgm": 11,
+    "fta": 13,
+    "ftm": 10
+   },
+   "home": {
+    "3pa": 11,
+    "3pm": 4,
+    "fg_pct": 69.05,
+    "fga": 42,
+    "fgm": 29,
+    "fta": 10,
+    "ftm": 9
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "35",
+   "home": "71"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-03T03:46:17+00:00"
+ },
+ "halftime_first_seen": "2026-11-03T03:46:17+00:00",
+ "home": {
+  "abbr": "SUU",
+  "id": "253",
+  "name": "Southern Utah Thunderbirds"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Eastern Washington Eagles @ Stanford Cardinal",
+   "credits_left": "19899",
+   "events_list_match": 0.42,
+   "events_list_n": 42,
+   "match": 0.42,
+   "n_events": 42,
+   "t": "2026-11-03T03:46:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Eastern Washington Eagles @ Stanford Cardinal",
+   "credits_left": "19897",
+   "events_list_match": 0.42,
+   "events_list_n": 42,
+   "match": 0.42,
+   "n_events": 42,
+   "t": "2026-11-03T03:49:18+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Eastern Washington Eagles @ Stanford Cardinal",
+   "credits_left": "19895",
+   "events_list_match": 0.42,
+   "events_list_n": 41,
+   "match": 0.42,
+   "n_events": 41,
+   "t": "2026-11-03T03:52:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Eastern Washington Eagles @ Stanford Cardinal",
+   "credits_left": "19893",
+   "events_list_match": 0.42,
+   "events_list_n": 41,
+   "match": 0.42,
+   "n_events": 41,
+   "t": "2026-11-03T03:55:17+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "35",
+    "home": "71"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:46:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "35",
+    "home": "71"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:49:18+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "35",
+    "home": "71"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:52:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "35",
+    "home": "71"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:55:17+00:00"
+  }
+ ],
+ "start": "2026-11-03T03:00Z"
+}

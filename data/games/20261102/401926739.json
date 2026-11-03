@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "LGC",
+  "id": "548",
+  "name": "LaGrange Panthers"
+ },
+ "date_key": "20261102",
+ "event_id": "401926739",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 21,
+    "3pm": 4,
+    "fg_pct": 32.69,
+    "fga": 52,
+    "fgm": 17,
+    "fta": 28,
+    "ftm": 21
+   },
+   "home": {
+    "3pa": 38,
+    "3pm": 17,
+    "fg_pct": 55.7,
+    "fga": 79,
+    "fgm": 44,
+    "fta": 25,
+    "ftm": 18
+   }
+  },
+  "linescores": {
+   "away": [
+    "24",
+    "35"
+   ],
+   "home": [
+    "64",
+    "59"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "59",
+   "home": "123"
+  },
+  "t": "2026-11-03T03:37:17+00:00"
+ },
+ "home": {
+  "abbr": "JXST",
+  "id": "55",
+  "name": "Jacksonville State Gamecocks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:30Z"
+}

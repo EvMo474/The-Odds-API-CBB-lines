@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "MAMC",
+  "id": "3126",
+  "name": "Mid America Christian Evangels"
+ },
+ "date_key": "20261102",
+ "event_id": "401929394",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 20,
+    "3pm": 5,
+    "fg_pct": 43.64,
+    "fga": 55,
+    "fgm": 24,
+    "fta": 18,
+    "ftm": 12
+   },
+   "home": {
+    "3pa": 25,
+    "3pm": 9,
+    "fg_pct": 46.0,
+    "fga": 50,
+    "fgm": 23,
+    "fta": 31,
+    "ftm": 18
+   }
+  },
+  "linescores": {
+   "away": [
+    "33",
+    "32"
+   ],
+   "home": [
+    "41",
+    "32"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "65",
+   "home": "73"
+  },
+  "t": "2026-11-03T03:40:17+00:00"
+ },
+ "home": {
+  "abbr": "OMA",
+  "id": "2437",
+  "name": "Omaha Mavericks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:00Z"
+}

@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "TAMK",
+  "id": "2658",
+  "name": "Texas A&M-Kingsville Javelinas"
+ },
+ "date_key": "20261102",
+ "event_id": "401925105",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 33,
+    "3pm": 6,
+    "fg_pct": 28.36,
+    "fga": 67,
+    "fgm": 19,
+    "fta": 13,
+    "ftm": 7
+   },
+   "home": {
+    "3pa": 24,
+    "3pm": 8,
+    "fg_pct": 50.0,
+    "fga": 64,
+    "fgm": 32,
+    "fta": 21,
+    "ftm": 9
+   }
+  },
+  "linescores": {
+   "away": [
+    "19",
+    "32"
+   ],
+   "home": [
+    "42",
+    "39"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "51",
+   "home": "81"
+  },
+  "t": "2026-11-03T03:37:17+00:00"
+ },
+ "home": {
+  "abbr": "RGV",
+  "id": "292",
+  "name": "UT Rio Grande Valley Vaqueros"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:30Z"
+}

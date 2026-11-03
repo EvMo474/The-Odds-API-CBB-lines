@@ -222,6 +222,83 @@
    },
    "status": "STATUS_IN_PROGRESS",
    "t": "2026-11-03T03:34:17+00:00"
+  },
+  {
+   "clock": "12:50",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "27",
+    "home": "85"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T03:37:17+00:00"
+  },
+  {
+   "clock": "11:45",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "28",
+    "home": "89"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T03:40:17+00:00"
+  },
+  {
+   "clock": "11:18",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "30",
+    "home": "89"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T03:43:17+00:00"
+  },
+  {
+   "clock": "9:53",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "30",
+    "home": "92"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T03:46:17+00:00"
+  },
+  {
+   "clock": "8:23",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "30",
+    "home": "101"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T03:49:18+00:00"
+  },
+  {
+   "clock": "7:28",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "30",
+    "home": "103"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T03:52:17+00:00"
+  },
+  {
+   "clock": "6:21",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "33",
+    "home": "105"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T03:55:17+00:00"
   }
  ],
  "start": "2026-11-03T02:15Z"
