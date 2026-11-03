@@ -8,15 +8,15 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
 <style>
 :root {
-  --bg: #f4f3ef; --panel: #ffffff; --fg: #1d2127; --muted: #6a7078; --line: #dcdad2;
+  --bg: #f4f3ef; --panel: #ffffff; --stripe: #f1efe9; --fg: #1d2127; --muted: #6a7078; --line: #dcdad2;
   --flag: #b4570a; --flag-bg: #fbf0e0; --ok: #1f7a4d; --bad: #b3372f; --accent: #2b4a6f;
   --sans: "IBM Plex Sans", system-ui, sans-serif; --mono: "IBM Plex Mono", ui-monospace, monospace;
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
-  --bg: #14171b; --panel: #1b1f24; --fg: #e8e6e0; --muted: #98a0a8; --line: #2b3138;
+  --bg: #14171b; --panel: #1b1f24; --stripe: #22272d; --fg: #e8e6e0; --muted: #98a0a8; --line: #2b3138;
   --flag: #f0a04b; --flag-bg: #2a2114; --ok: #5fc08e; --bad: #ee7b72; --accent: #8fb3dc; color-scheme: dark; } }
 :root[data-theme="dark"] {
-  --bg: #14171b; --panel: #1b1f24; --fg: #e8e6e0; --muted: #98a0a8; --line: #2b3138;
+  --bg: #14171b; --panel: #1b1f24; --stripe: #22272d; --fg: #e8e6e0; --muted: #98a0a8; --line: #2b3138;
   --flag: #f0a04b; --flag-bg: #2a2114; --ok: #5fc08e; --bad: #ee7b72; --accent: #8fb3dc; color-scheme: dark; }
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--bg); color: var(--fg); font: 14px/1.45 var(--sans); }
@@ -49,7 +49,8 @@ th, td { text-align: left; padding: 5px 7px; border-bottom: 1px solid var(--line
 td.w, th.w { white-space: normal; min-width: 8rem; max-width: 15rem; }
 th { color: var(--muted); font-weight: 500; font-size: 12px; position: sticky; top: 0; background: var(--panel); }
 td.n, th.n { text-align: right; font-family: var(--mono); }
-tr.flag td { background: var(--flag-bg); }
+tr.alt td { background: var(--stripe); }
+tr.bk td { border-bottom: 1px solid var(--line); }
 .pill { font: 500 11px var(--mono); padding: 1px 6px; border-radius: 3px; border: 1px solid currentColor; }
 .W { color: var(--ok); } .L { color: var(--bad); } .P, .T { color: var(--muted); }
 .flagtxt { color: var(--flag); font-weight: 600; }
@@ -173,8 +174,10 @@ function render() {
   const shown = rows.slice().sort((a, b) => (b.seen || "").localeCompare(a.seen || "")).filter(r => FILTER === "all" || (FILTER === "today" && r.seen && new Date(r.seen).getTime() > cutoff) || r.bucket === FILTER);
   $("none").hidden = shown.length > 0;
   const tb = $("rows"); tb.replaceChildren();
+  let gi = 0;
   for (const r of shown) {
-    const tr = el("tr", "main");
+    const alt = (gi++ % 2) ? "alt" : "";
+    const tr = el("tr", "main " + alt);
     const c = (t, cls) => { const td = el("td", cls || "", t); tr.append(td); return td; };
     c(r.seen ? new Date(r.seen).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "America/New_York" }) : "—");
     c(r.ht); c(r.game + (r.neutral ? " (neutral)" : "") + (r.ot ? " OT" : ""), "w");
@@ -187,7 +190,7 @@ function render() {
     tb.append(tr);
     const books = Object.entries(r.l2).sort((a, b) => b[1] - a[1]);
     if (books.length) {
-      const br = el("tr", "bk"); const td = el("td", "books"); td.colSpan = 17;
+      const br = el("tr", "bk " + alt); const td = el("td", "books"); td.colSpan = 17;
       td.append(el("span", "arrow", "↳"), ...books.map(([k, v]) => el("span", null, k + " " + line(v))));
       br.append(td); tb.append(br);
     }
