@@ -1,0 +1,96 @@
+{
+ "away": {
+  "abbr": "CSSM",
+  "id": "3182",
+  "name": "Cal State San Marcos Cougars"
+ },
+ "date_key": "20261102",
+ "event_id": "401920122",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 18,
+    "3pm": 1,
+    "fg_pct": 18.42,
+    "fga": 38,
+    "fgm": 7,
+    "fta": 12,
+    "ftm": 9
+   },
+   "home": {
+    "3pa": 14,
+    "3pm": 5,
+    "fg_pct": 45.83,
+    "fga": 24,
+    "fgm": 11,
+    "fta": 15,
+    "ftm": 8
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "24",
+   "home": "35"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-03T04:34:17+00:00"
+ },
+ "halftime_first_seen": "2026-11-03T04:34:17+00:00",
+ "home": {
+  "abbr": "CP",
+  "id": "13",
+  "name": "Cal Poly Mustangs"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Idaho State Bengals @ Utah State Aggies",
+   "credits_left": "19867",
+   "events_list_match": 0.46,
+   "events_list_n": 38,
+   "match": 0.46,
+   "n_events": 38,
+   "t": "2026-11-03T04:34:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Idaho State Bengals @ Utah State Aggies",
+   "credits_left": "19865",
+   "events_list_match": 0.46,
+   "events_list_n": 38,
+   "match": 0.46,
+   "n_events": 38,
+   "t": "2026-11-03T04:37:17+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "24",
+    "home": "35"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T04:34:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "24",
+    "home": "35"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T04:37:17+00:00"
+  }
+ ],
+ "start": "2026-11-03T03:30Z"
+}
