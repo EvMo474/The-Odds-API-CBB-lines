@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ALST",
+  "id": "2011",
+  "name": "Alabama State Hornets"
+ },
+ "date_key": "20261103",
+ "event_id": "401920806",
+ "home": {
+  "abbr": "TA&M",
+  "id": "245",
+  "name": "Texas A&M Aggies"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "TA&M -27.5",
+    "home_spread": -27.5,
+    "provider": "DraftKings",
+    "raw_spread": -27.5,
+    "total": 162.5
+   }
+  ],
+  "t": "2026-11-03T05:01:17+00:00"
+ },
+ "start": "2026-11-04T01:00Z"
+}

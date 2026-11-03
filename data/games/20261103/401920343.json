@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UNF",
+  "id": "2454",
+  "name": "North Florida Ospreys"
+ },
+ "date_key": "20261103",
+ "event_id": "401920343",
+ "home": {
+  "abbr": "CBU",
+  "id": "2856",
+  "name": "California Baptist Lancers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "CBU -9.5",
+    "home_spread": -9.5,
+    "provider": "DraftKings",
+    "raw_spread": -9.5,
+    "total": 155.5
+   }
+  ],
+  "t": "2026-11-03T05:01:17+00:00"
+ },
+ "start": "2026-11-04T03:00Z"
+}

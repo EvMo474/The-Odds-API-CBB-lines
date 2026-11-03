@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CLE",
+  "id": "325",
+  "name": "Cleveland State Vikings"
+ },
+ "date_key": "20261103",
+ "event_id": "401921165",
+ "home": {
+  "abbr": "MIZ",
+  "id": "142",
+  "name": "Missouri Tigers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MIZ -25.5",
+    "home_spread": -25.5,
+    "provider": "DraftKings",
+    "raw_spread": -25.5,
+    "total": 159.5
+   }
+  ],
+  "t": "2026-11-03T05:01:17+00:00"
+ },
+ "start": "2026-11-04T01:00Z"
+}
