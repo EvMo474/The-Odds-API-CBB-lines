@@ -102,7 +102,7 @@ def _row(g, status):
         status=status.get("status") if status else ("FINAL" if fin else ""),
         period=status.get("period") if status else None, clock=status.get("clock") if status else None,
         close=close_txt, close_src=src or "", bucket=bucket, half=f"{ah}-{hh}", cold=(a if ca else hm_)["name"],
-        gap=gap, l2={NAMES.get(k, k): v for k, v in l2.items()}, best=best, live_cold=(round(cs_med, 1) if cs_med is not None else None),
+        cold_fg=round(fa if ca else fh, 1), opp_fg=round(fh if ca else fa, 1), gap=gap, l2={NAMES.get(k, k): v for k, v in l2.items()}, best=best, live_cold=(round(cs_med, 1) if cs_med is not None else None),
         flag=qual, zone=zone, suspect=suspect, m2=m2, res={NAMES.get(k, k): v for k, v in res.items()}, won=won,
         exp2=exp2, dev=dev, final=(f"{fin['score']['away']}-{fin['score']['home']}" if fin else ""), ot=bool(fin and fin.get("periods", 2) > 2),
         _res_dk=res.get("draftkings"), _res_fd=res.get("fanduel"))
