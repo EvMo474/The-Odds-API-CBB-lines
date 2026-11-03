@@ -103,8 +103,8 @@ footer { color: var(--muted); font-size: 12px; }
     </div>
     <div class="scroll"><table id="tbl">
       <thead><tr>
-        <th>Date</th><th>Half</th><th class="w">Game</th><th>Bucket</th><th class="w">Closing line</th>
-        <th class="w">Cold team</th><th class="n">FG% gap</th><th class="n">1H score</th>
+        <th>Date</th><th>Half</th><th class="w">Game</th><th class="w">Closing line</th>
+        <th class="w">Cold team</th><th>Bucket</th><th class="n">Cold FG%</th><th class="n">Other FG%</th><th class="n">FG% gap</th><th class="n">1H score</th>
         <th>Best 2H</th><th class="n opt">Live line</th><th class="n opt">½ Close</th><th class="n">Mkt shift</th>
         <th class="n">Final</th><th class="n">2H margin</th><th>DK</th><th>FD</th><th>Won</th>
       </tr></thead>
@@ -196,8 +196,9 @@ function render() {
     const c = (t, cls) => { const td = el("td", cls || "", t); tr.append(td); return td; };
     c(r.seen ? new Date(r.seen).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "America/New_York" }) : "—");
     c(r.ht); c(r.game + (r.neutral ? " (neutral)" : "") + (r.ot ? " OT" : ""), "w");
-    c(r.bucket + (r.suspect ? " ⚠" : "")); c(r.close ? r.close + (r.close_src === "pregame" ? " (pregame)" : "") : "—", "w");
-    c(r.cold, "w"); c(r.gap.toFixed(1), "n"); c(r.half.replace("-", "–"), "n");
+    c(r.close ? r.close + (r.close_src === "pregame" ? " (pregame)" : "") : "—", "w");
+    c(r.cold, "w"); c(r.bucket + (r.suspect ? " ⚠" : "")); c(r.cold_fg == null ? "—" : r.cold_fg.toFixed(1), "n"); c(r.opp_fg == null ? "—" : r.opp_fg.toFixed(1), "n");
+    c(r.gap.toFixed(1), "n"); c(r.half.replace("-", "–"), "n");
     c(r.best || "—");
     c(line(r.live_cold), "n opt"); c(line(r.exp2), "n opt"); c(line(r.dev), "n");
     c(r.final ? r.final.replace("-", "–") : "—", "n"); c(r.m2 == null ? "—" : (r.m2 > 0 ? "+" : "") + r.m2, "n");
@@ -205,7 +206,7 @@ function render() {
     tb.append(tr);
     const books = Object.entries(r.l2).sort((a, b) => b[1] - a[1]);
     if (books.length) {
-      const br = el("tr", "bk " + alt); const td = el("td", "books"); td.colSpan = 17;
+      const br = el("tr", "bk " + alt); const td = el("td", "books"); td.colSpan = 19;
       td.append(el("span", "arrow", "↳"), ...books.map(([k, v]) => el("span", null, k + " " + line(v))));
       br.append(td); tb.append(br);
     }
