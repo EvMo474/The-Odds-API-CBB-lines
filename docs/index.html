@@ -49,6 +49,8 @@ th, td { text-align: left; padding: 5px 7px; border-bottom: 1px solid var(--line
 td.w, th.w { white-space: normal; min-width: 8rem; max-width: 15rem; }
 th { color: var(--muted); font-weight: 500; font-size: 12px; position: sticky; top: 0; background: var(--panel); }
 td.n, th.n { text-align: right; font-family: var(--mono); }
+.live { font: 500 11px var(--mono); padding: 1px 6px; border-radius: 3px; color: var(--muted); border: 1px solid var(--line); white-space: nowrap; }
+.live.half { color: var(--flag); border-color: var(--flag); background: var(--flag-bg); }
 .gapbar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 10px 0 4px; font-size: 13px; }
 .gapbar label { color: var(--muted); }
 .gapbar input { width: 5.5rem; font: 13px var(--mono); padding: 4px 6px; background: var(--panel); color: var(--fg); border: 1px solid var(--line); border-radius: 4px; }
@@ -88,6 +90,7 @@ footer { color: var(--muted); font-size: 12px; }
     <p class="note">The cold team is the one that shot worse in the first half. Under each game, ↳ lists every book's second-half line for the cold team, high to low: the live full-game spread about 5 minutes into the break, plus the cold team's halftime margin. Positive means the cold team is the second-half underdog. Best 2H is the top of that list. Live line is the cold team's median live full-game spread. ½ Close is half the closing spread for the cold team, which is what the second half would be worth if the market only split the closing line in two. Mkt shift is the median 2H line minus ½ Close: negative means the market is giving the cold team fewer second-half points than half the closing line, positive means more. Closing line is DraftKings at tip when captured, otherwise the earlier pregame line. Scores are away–home. The 2H margin is from the cold team's side.</p>
     <div class="tabs" id="tabs">
       <button data-f="all" aria-pressed="true">All</button>
+      <button data-f="half" aria-pressed="false">At half now</button>
       <button data-f="today" aria-pressed="false">Last 24h</button>
       <span style="width:1px;background:var(--line);margin:0 4px"></span>
       <button data-f="Road Dog" aria-pressed="false">Road Dog</button>
@@ -144,6 +147,13 @@ async function load() {
   }
 }
 
+function statusBadge(r) {
+  const st = r.status; if (!st || st === "FINAL" || st === "SCHEDULED") return null;
+  if (st === "HALFTIME") return el("span", "live half", "AT HALF");
+  const per = r.period, p = per == null ? "" : per <= 2 ? per + "H" : per === 3 ? "OT" : (per - 2) + "OT";
+  return el("span", "live", (p + " " + (r.clock || "")).trim() || "LIVE");
+}
+
 function ago(iso) {
   const m = Math.max(0, Math.round((Date.now() - new Date(iso).getTime()) / 60000));
   return m < 1 ? "just now" : m < 90 ? m + " min ago" : Math.round(m / 60) + " h ago";
@@ -161,6 +171,7 @@ function render() {
   const tiles = [
     ["Games logged (3 days)", d.counts.games, d.counts.final + " final"],
     ["Halftimes captured", d.counts.halftime, rows.filter(r => Object.keys(r.l2).length).length + " with book lines"],
+    ["At halftime now", rows.filter(r => r.status === "HALFTIME").length, rows.filter(r => r.status && r.status !== "FINAL" && r.status !== "HALFTIME" && r.status !== "SCHEDULED").length + " in progress"],
     ["Finished", rows.filter(r => r.final).length, "with a graded result"],
     ["Road dog, gap " + d.gap_min + "+ (DK)", w + "-" + l, pct(w, l) + " cover"],
   ];
@@ -184,7 +195,7 @@ function render() {
   // table
   const cutoff = Date.now() - 24 * 3600 * 1000;
   const total = rows.length;
-  const shown = rows.filter(r => r.gap >= MINGAP).sort((a, b) => (b.seen || "").localeCompare(a.seen || "")).filter(r => FILTER === "all" || (FILTER === "today" && r.seen && new Date(r.seen).getTime() > cutoff) || r.bucket === FILTER);
+  const shown = rows.filter(r => r.gap >= MINGAP).sort((a, b) => (b.seen || "").localeCompare(a.seen || "")).filter(r => FILTER === "all" || (FILTER === "half" && r.status === "HALFTIME") || (FILTER === "today" && r.seen && new Date(r.seen).getTime() > cutoff) || r.bucket === FILTER);
   $("none").hidden = shown.length > 0;
   $("count").textContent = shown.length + " of " + total + " games";
   for (const b of $("gapchips").children) b.setAttribute("aria-pressed", String((+b.dataset.g || 0) === MINGAP));
@@ -201,7 +212,9 @@ function render() {
     c(r.gap.toFixed(1), "n"); c(r.half.replace("-", "–"), "n");
     c(r.best || "—");
     c(line(r.live_cold), "n opt"); c(line(r.exp2), "n opt"); c(line(r.dev), "n");
-    c(r.final ? r.final.replace("-", "–") : "—", "n"); c(r.m2 == null ? "—" : (r.m2 > 0 ? "+" : "") + r.m2, "n");
+    if (r.final) c(r.final.replace("-", "–"), "n");
+    else { const td = el("td", "n"); const sb = statusBadge(r); if (sb) td.append(sb); else td.textContent = "—"; tr.append(td); }
+     c(r.m2 == null ? "—" : (r.m2 > 0 ? "+" : "") + r.m2, "n");
     for (const k of [r.res.DraftKings, r.res.FanDuel, r.won]) { const td = el("td"); if (k) td.append(el("span", "pill " + k, k)); else td.textContent = "—"; tr.append(td); }
     tb.append(tr);
     const books = Object.entries(r.l2).sort((a, b) => b[1] - a[1]);
