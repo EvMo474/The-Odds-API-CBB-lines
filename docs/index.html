@@ -20,7 +20,7 @@
   --flag: #f0a04b; --flag-bg: #2a2114; --ok: #5fc08e; --bad: #ee7b72; --accent: #8fb3dc; color-scheme: dark; }
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--bg); color: var(--fg); font: 14px/1.45 var(--sans); }
-.wrap { max-width: 78rem; margin: 0 auto; padding: 20px max(16px, env(safe-area-inset-left)) 40px; display: flex; flex-direction: column; gap: 16px; }
+.wrap { max-width: none; margin: 0; padding: 20px max(16px, env(safe-area-inset-left)) 40px max(16px, env(safe-area-inset-right)); display: flex; flex-direction: column; gap: 16px; }
 header { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 6px 16px; }
 h1 { margin: 0; font-size: 22px; font-weight: 600; letter-spacing: -.01em; }
 .meta { color: var(--muted); font: 12px var(--mono); }
@@ -43,8 +43,10 @@ h2 { margin: 0 0 8px; font-size: 14px; font-weight: 600; }
 .tabs button { font: 12px var(--sans); background: transparent; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 4px 10px; cursor: pointer; }
 .tabs button[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
 .scroll { overflow-x: auto; }
-table { border-collapse: collapse; width: 100%; font-size: 13px; }
-th, td { text-align: left; padding: 6px 9px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+table { border-collapse: collapse; width: 100%; font-size: 12.5px; }
+th, td { text-align: left; padding: 5px 7px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+@media (max-width: 1700px) { .opt { display: none; } }
+td.w, th.w { white-space: normal; min-width: 8rem; max-width: 15rem; }
 th { color: var(--muted); font-weight: 500; font-size: 12px; position: sticky; top: 0; background: var(--panel); }
 td.n, th.n { text-align: right; font-family: var(--mono); }
 tr.flag td { background: var(--flag-bg); }
@@ -54,6 +56,8 @@ tr.flag td { background: var(--flag-bg); }
 .empty { color: var(--muted); padding: 16px 0; }
 .books { font: 12px var(--mono); color: var(--muted); white-space: normal; }
 .books span { margin-right: 10px; display: inline-block; }
+.books .arrow { color: var(--text, inherit); margin: 0 6px 0 4px; }
+tr.main td { border-bottom: 0; }
 footer { color: var(--muted); font-size: 12px; }
 </style>
 </head>
@@ -66,31 +70,30 @@ footer { color: var(--muted); font-size: 12px; }
 
   <div class="tiles" id="tiles"></div>
 
-  <div class="card" id="livecard" hidden>
-    <h2>Flagged and still playing</h2>
-    <div class="live" id="live"></div>
-  </div>
-
   <div class="card">
-    <h2>Record, all days logged</h2>
+    <h2>Record by bucket, all days logged</h2>
     <p class="note">Second-half cover against each book's line about 5 minutes into the break, at -110. The bucket is the cold team's pregame or closing role. The FG% gap is the cold team's first-half FG% shortfall. Games with a suspect home/away mix-up are left out.</p>
     <div class="seasons" id="seasons"></div>
   </div>
 
   <div class="card">
     <h2>Halftime games</h2>
-    <p class="note">The cold team is the one that shot worse in the first half. Flagged means a road dog (pregame or closing line) trailing in FG% by <span id="gapmin">10</span> or more. 2H lines are the live full-game spread minus the halftime margin; positive means the cold team is the second-half underdog. Win zone means the live full-game line gives the cold team +<span id="zonemax">2</span> or better. Closing line is DraftKings at tip when captured, otherwise the earlier pregame line.</p>
+    <p class="note">The cold team is the one that shot worse in the first half. Under each game, ↳ lists every book's second-half line for the cold team, high to low: the live full-game spread about 5 minutes into the break, plus the cold team's halftime margin. Positive means the cold team is the second-half underdog. Best 2H is the top of that list. Live line is the cold team's median live full-game spread. ½ Close is half the closing spread for the cold team, which is what the second half would be worth if the market only split the closing line in two. Mkt shift is the median 2H line minus ½ Close: negative means the market is giving the cold team fewer second-half points than half the closing line, positive means more. Closing line is DraftKings at tip when captured, otherwise the earlier pregame line. Scores are away–home. The 2H margin is from the cold team's side.</p>
     <div class="tabs" id="tabs">
       <button data-f="all" aria-pressed="true">All</button>
-      <button data-f="flag" aria-pressed="false">Flagged</button>
-      <button data-f="zone" aria-pressed="false">Win zone</button>
       <button data-f="today" aria-pressed="false">Last 24h</button>
+      <span style="width:1px;background:var(--line);margin:0 4px"></span>
+      <button data-f="Road Dog" aria-pressed="false">Road Dog</button>
+      <button data-f="Home Fav" aria-pressed="false">Home Fav</button>
+      <button data-f="Road Fav" aria-pressed="false">Road Fav</button>
+      <button data-f="Home Dog" aria-pressed="false">Home Dog</button>
     </div>
     <div class="scroll"><table id="tbl">
       <thead><tr>
-        <th>Half</th><th>Game</th><th>Bucket</th><th>Closing line</th><th class="n">Score</th><th>Cold team</th><th class="n">FG% gap</th>
-        <th class="n">DK 2H</th><th class="n">FD 2H</th><th class="n">BetRivers 2H</th><th>Best 2H</th><th class="n">Live line</th>
-        <th class="n">2H margin</th><th>DK</th><th>FD</th><th>Won</th><th></th>
+        <th>Date</th><th>Half</th><th class="w">Game</th><th>Bucket</th><th class="w">Closing line</th>
+        <th class="w">Cold team</th><th class="n">FG% gap</th><th class="n">1H score</th>
+        <th>Best 2H</th><th class="n opt">Live line</th><th class="n opt">½ Close</th><th class="n">Mkt shift</th>
+        <th class="n">Final</th><th class="n">2H margin</th><th>DK</th><th>FD</th><th>Won</th>
       </tr></thead>
       <tbody id="rows"></tbody>
     </table></div>
@@ -139,15 +142,14 @@ function render() {
   $("meta").className = "meta" + (mins > 20 ? " stale" : "");
   $("meta").replaceChildren(document.createTextNode("Data saved "), Object.assign(el("b", null, ago(d.as_of)),{}),
     document.createTextNode(mins > 20 ? " · logger may be idle" : " · refreshes every minute"));
-  $("gapmin").textContent = d.gap_min; $("zonemax").textContent = d.win_zone;
 
-  const dk = (rows.filter(r => r.flag && r.res.DraftKings));
+  const dk = rows.filter(r => r.bucket === "Road Dog" && r.gap >= d.gap_min && !r.suspect && r.res.DraftKings);
   const w = dk.filter(r => r.res.DraftKings === "W").length, l = dk.filter(r => r.res.DraftKings === "L").length;
   const tiles = [
     ["Games logged (3 days)", d.counts.games, d.counts.final + " final"],
     ["Halftimes captured", d.counts.halftime, rows.filter(r => Object.keys(r.l2).length).length + " with book lines"],
-    ["Flagged", rows.filter(r => r.flag).length, "road dog, gap " + d.gap_min + "+"],
-    ["Flagged record (DK)", w + "-" + l, pct(w, l) + " cover"],
+    ["Finished", rows.filter(r => r.final).length, "with a graded result"],
+    ["Road dog, gap " + d.gap_min + "+ (DK)", w + "-" + l, pct(w, l) + " cover"],
   ];
   $("tiles").replaceChildren(...tiles.map(([a, b, c]) => { const t = el("div", "tile"); t.append(el("div", "lab", a), el("div", "val", String(b)), el("div", "sub", c)); return t; }));
 
@@ -162,41 +164,31 @@ function render() {
       const x = el("div", "rec"); x.append(el("span", null, label + " · " + bk), el("span", null, s.W + "-" + s.L + (s.P ? "-" + s.P : "") + "  " + pct(s.W, s.L) + "  ROI " + roi(s.W, s.L)));
       c.append(x);
     }
-    if (any) seas.append(c);
+    if (!any) c.append(el("div", "rec", "No finished games yet"));
+    seas.append(c);
   }
-  if (!seas.children.length) seas.append(el("div", "empty", "No finished games yet."));
-
-  // flagged and still playing
-  const livegames = rows.filter(r => r.flag && r.status && r.status !== "FINAL");
-  $("livecard").hidden = !livegames.length;
-  $("live").replaceChildren(...livegames.map(r => {
-    const g = el("div", "livegame");
-    g.append(el("span", "g", r.game), el("span", "l", r.status === "HALFTIME" ? "HALFTIME" : "2H " + (r.clock || "")),
-      el("span", "l", "cold: " + r.cold + " (" + r.gap + " FG% gap, " + r.half + " at half)"), el("span", "l", "best 2H: " + r.best));
-    return g;
-  }));
 
   // table
   const cutoff = Date.now() - 24 * 3600 * 1000;
-  const shown = rows.filter(r => FILTER === "all" || (FILTER === "flag" && r.flag) || (FILTER === "zone" && r.zone) || (FILTER === "today" && r.seen && new Date(r.seen).getTime() > cutoff));
+  const shown = rows.slice().sort((a, b) => (b.seen || "").localeCompare(a.seen || "")).filter(r => FILTER === "all" || (FILTER === "today" && r.seen && new Date(r.seen).getTime() > cutoff) || r.bucket === FILTER);
   $("none").hidden = shown.length > 0;
   const tb = $("rows"); tb.replaceChildren();
   for (const r of shown) {
-    const tr = el("tr", r.flag ? "flag" : "");
+    const tr = el("tr", "main");
     const c = (t, cls) => { const td = el("td", cls || "", t); tr.append(td); return td; };
-    c(r.ht); c(r.game + (r.neutral ? " (neutral)" : "") + (r.ot ? " OT" : ""));
-    c(r.bucket + (r.suspect ? " ⚠" : "")); c(r.close ? r.close + (r.close_src === "pregame" ? " (pregame)" : "") : "—");
-    c(r.half.replace("-", "–"), "n"); c(r.cold); c(r.gap.toFixed(1), "n");
-    c(line(r.l2.DraftKings), "n"); c(line(r.l2.FanDuel), "n"); c(line(r.l2.BetRivers), "n"); c(r.best || "—");
-    c(line(r.live_cold), "n"); c(r.m2 == null ? "—" : (r.m2 > 0 ? "+" : "") + r.m2, "n");
+    c(r.seen ? new Date(r.seen).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "America/New_York" }) : "—");
+    c(r.ht); c(r.game + (r.neutral ? " (neutral)" : "") + (r.ot ? " OT" : ""), "w");
+    c(r.bucket + (r.suspect ? " ⚠" : "")); c(r.close ? r.close + (r.close_src === "pregame" ? " (pregame)" : "") : "—", "w");
+    c(r.cold, "w"); c(r.gap.toFixed(1), "n"); c(r.half.replace("-", "–"), "n");
+    c(r.best || "—");
+    c(line(r.live_cold), "n opt"); c(line(r.exp2), "n opt"); c(line(r.dev), "n");
+    c(r.final ? r.final.replace("-", "–") : "—", "n"); c(r.m2 == null ? "—" : (r.m2 > 0 ? "+" : "") + r.m2, "n");
     for (const k of [r.res.DraftKings, r.res.FanDuel, r.won]) { const td = el("td"); if (k) td.append(el("span", "pill " + k, k)); else td.textContent = "—"; tr.append(td); }
-    const tag = []; if (r.flag) tag.push("Flagged"); if (r.zone) tag.push("Win zone");
-    c(tag.join(" · "), "flagtxt");
     tb.append(tr);
-    const books = Object.entries(r.l2);
-    if (books.length && (r.flag || r.zone)) {
-      const br = el("tr"); const td = el("td", "books"); td.colSpan = 17;
-      td.append(...books.map(([k, v]) => el("span", null, k + " " + line(v))));
+    const books = Object.entries(r.l2).sort((a, b) => b[1] - a[1]);
+    if (books.length) {
+      const br = el("tr", "bk"); const td = el("td", "books"); td.colSpan = 17;
+      td.append(el("span", "arrow", "↳"), ...books.map(([k, v]) => el("span", null, k + " " + line(v))));
       br.append(td); tb.append(br);
     }
   }

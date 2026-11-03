@@ -67,7 +67,7 @@ def _row(g, status):
         ok_, sw = pre * 0.5 - hmar, pre * 0.5 + hmar
         suspect = abs(obs - ok_) > 12 and abs(obs - sw) + 8 < abs(obs - ok_)
 
-    bucket, close_txt = "", ""
+    bucket, close_txt, cp = "", "", None
     if pre is not None:
         cp = -pre if ca else pre
         bucket = ("Road" if ca else "Home") + (" Dog" if cp > 0 else " Fav" if cp < 0 else " Pick")
@@ -81,6 +81,10 @@ def _row(g, status):
     cs_med = st.median(cs.values()) if cs else None
     zone = bool(cs_med is not None and cs_med <= WIN_ZONE and gap >= GAP and not suspect)
 
+    # market check: if the market just halves the closing line and adds the first-half margin, the implied 2H line
+    # (live cold spread + cold 1H margin) equals half the closing cold spread.  dev = implied 2H line - that.
+    exp2 = round(cp / 2, 1) if cp is not None else None
+    dev = round(cs_med + mc - cp / 2, 1) if (cp is not None and cs_med is not None and not suspect) else None
     m2, res, won = None, {}, ""
     if fin and not suspect:
         fs = fin["score"]
@@ -99,7 +103,7 @@ def _row(g, status):
         close=close_txt, close_src=src or "", bucket=bucket, half=f"{ah}-{hh}", cold=(a if ca else hm_)["name"],
         gap=gap, l2={NAMES.get(k, k): v for k, v in l2.items()}, best=best, live_cold=(round(cs_med, 1) if cs_med is not None else None),
         flag=qual, zone=zone, suspect=suspect, m2=m2, res={NAMES.get(k, k): v for k, v in res.items()}, won=won,
-        final=(f"{fin['score']['away']}-{fin['score']['home']}" if fin else ""), ot=bool(fin and fin.get("periods", 2) > 2),
+        exp2=exp2, dev=dev, final=(f"{fin['score']['away']}-{fin['score']['home']}" if fin else ""), ot=bool(fin and fin.get("periods", 2) > 2),
         _res_dk=res.get("draftkings"), _res_fd=res.get("fanduel"))
 
 
