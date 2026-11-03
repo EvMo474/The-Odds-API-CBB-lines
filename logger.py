@@ -132,6 +132,13 @@ def handle(ev, date_key):
 
     if st == "STATUS_SCHEDULED" and odds and "pregame" not in g:
         g["pregame"] = {"t": now_iso(), "odds": odds}; changed = True
+    if st == "STATUS_SCHEDULED" and ev.get("date"):
+        try:
+            mins = (datetime.fromisoformat(ev["date"].replace("Z", "+00:00")) - datetime.now(timezone.utc)).total_seconds() / 60
+            if -2 <= mins <= 6:
+                PRE.append((g, path))
+        except ValueError:
+            pass
 
     if st == "STATUS_HALFTIME":
         if "halftime_first_seen" not in g:
@@ -165,47 +172,144 @@ def handle(ev, date_key):
 
 
 ODDS_BASE = os.environ.get("ODDS_API_BASE", "https://api.the-odds-api.com/v4")
-BOOKS = "draftkings,fanduel"
+REGIONS = os.environ.get("ODDS_REGIONS", "us")          # one region = every US book (DK, FD, BetRivers, ...) for the same credits
+MARKETS = os.environ.get("ODDS_MARKETS", "spreads,totals")
+GAP_FLAG = float(os.environ.get("FLAG_GAP", "10"))       # cold-team FG% gap that qualifies
+PRE = []                                                 # scheduled games about to tip (filled by handle, used by poll)
 
 
 def _norm(x):
     return " ".join(re.sub(r"[^a-z0-9 ]", " ", str(x).lower().replace("&", " and ").replace("-", " ")).split())
 
 
-def odds_api_snapshot(halftime_games):
-    """One Odds API call (1 credit) returns live spreads for every game; attach DK/FD to each game at the break."""
-    key = os.environ.get("ODDS_API_KEY")
-    if not key or not halftime_games:
-        return
+def _match(g, events):
+    hn, an = _norm(g["home"]["name"]), _norm(g["away"]["name"])
+    best, score = None, 0
+    for e in events:
+        sc = (difflib.SequenceMatcher(None, hn, _norm(e["home_team"])).ratio() +
+              difflib.SequenceMatcher(None, an, _norm(e["away_team"])).ratio()) / 2
+        if sc > score:
+            best, score = e, sc
+    return best, score
+
+
+def book_lines(event):
+    """{book: {'spread': home spread (neg = home favored), 'total': points}} for every book on the event."""
+    out = {}
+    for b in event.get("bookmakers", []):
+        d = {}
+        for m in b.get("markets", []):
+            for o in m.get("outcomes", []):
+                if m["key"] == "spreads" and o["name"] == event["home_team"]:
+                    d["spread"] = o.get("point")
+                elif m["key"] == "totals" and str(o.get("name")).lower() == "over":
+                    d["total"] = o.get("point")
+        if d:
+            out[b["key"]] = d
+    return out
+
+
+def fetch_odds(key):
     try:
         r = S.get(f"{ODDS_BASE}/sports/basketball_ncaab/odds", timeout=30,
-                  params=dict(apiKey=key, bookmakers=BOOKS, markets="spreads", oddsFormat="american"))
+                  params=dict(apiKey=key, regions=REGIONS, markets=MARKETS, oddsFormat="american"))
         if r.status_code != 200:
-            print(f"  odds api HTTP {r.status_code} {r.text[:120]}", file=sys.stderr); return
-        events, left = r.json(), r.headers.get("x-requests-remaining")
+            print(f"  odds api HTTP {r.status_code} {r.text[:120]}", file=sys.stderr); return None, None
+        return r.json(), r.headers.get("x-requests-remaining")
     except Exception as e:
-        print(f"  odds api error {e!r}", file=sys.stderr); return
-    for g, path, comp, habbr, aabbr in halftime_games:
-        hn, an = _norm(g["home"]["name"]), _norm(g["away"]["name"])
-        best, score = None, 0
-        for e in events:
-            sc = (difflib.SequenceMatcher(None, hn, _norm(e["home_team"])).ratio() +
-                  difflib.SequenceMatcher(None, an, _norm(e["away_team"])).ratio()) / 2
-            if sc > score:
-                best, score = e, sc
-        tick = {"t": now_iso(), "match": round(score, 2), "credits_left": left}
+        print(f"  odds api error {e!r}", file=sys.stderr); return None, None
+
+
+def fallback_event(key, g):
+    """Game missing from the bulk odds list: is it in the (free) events list, and does a per-event call return lines?"""
+    info = {}
+    try:
+        r = S.get(f"{ODDS_BASE}/sports/basketball_ncaab/events", timeout=30, params=dict(apiKey=key))
+        evs = r.json() if r.status_code == 200 else []
+        best, score = _match(g, evs)
+        info["events_list_n"] = len(evs)
+        info["events_list_match"] = round(score, 2)
         if best is not None and score >= 0.82:
-            for b in best.get("bookmakers", []):
-                for m in b.get("markets", []):
-                    if m["key"] == "spreads":
-                        for o in m["outcomes"]:
-                            if o["name"] == best["home_team"]:
-                                tick[b["key"] + "_home_spread"] = o["point"]
-            tick["odds_event_id"] = best["id"]
+            r2 = S.get(f"{ODDS_BASE}/sports/basketball_ncaab/events/{best['id']}/odds", timeout=30,
+                       params=dict(apiKey=key, regions=REGIONS, markets=MARKETS, oddsFormat="american"))
+            info["event_odds_http"] = r2.status_code
+            if r2.status_code == 200:
+                return r2.json(), info
+    except Exception as e:
+        info["fallback_error"] = repr(e)
+    return None, info
+
+
+def put_lines(tick, event):
+    bl = book_lines(event)
+    tick["books"] = bl
+    for bk in ("draftkings", "fanduel"):          # flat keys kept for report.py
+        if bk in bl and "spread" in bl[bk]:
+            tick[bk + "_home_spread"] = bl[bk]["spread"]
+        if bk in bl and "total" in bl[bk]:
+            tick[bk + "_total"] = bl[bk]["total"]
+    tick["odds_event_id"] = event["id"]
+
+
+def compute_flag(g):
+    """Cold team (lower 1H FG%) and its implied 2H line at every book, from the latest tick that has lines."""
+    h = g.get("halftime")
+    ticks = [x for x in g.get("odds_api_ticks", []) if x.get("books")]
+    if not h or not ticks:
+        return
+    b, sc = h["box_1h"], h["score"]
+    if "home" not in b or "away" not in b:
+        return
+    fh, fa = b["home"].get("fg_pct"), b["away"].get("fg_pct")
+    if fh is None or fa is None:
+        return
+    cold_away = fa < fh
+    mc = (int(sc["away"]) - int(sc["home"])) if cold_away else (int(sc["home"]) - int(sc["away"]))
+    gap = round(abs(fa - fh), 1)
+    lines = {}
+    for bk, d in ticks[-1]["books"].items():
+        if d.get("spread") is not None:
+            cs = -d["spread"] if cold_away else d["spread"]       # cold team's full-game spread
+            lines[bk] = round(cs + mc, 1)                          # its second-half spread (+ = underdog)
+    if not lines:
+        return
+    best_bk = max(lines, key=lines.get)
+    g["flag"] = {"t": ticks[-1]["t"], "cold": "away" if cold_away else "home", "gap": gap, "cold_margin_1h": mc,
+                 "lines_2h": lines, "best_book": best_bk, "best_line": lines[best_bk],
+                 "road_dog": bool(cold_away and lines[best_bk] > 0), "qualifies": bool(cold_away and lines[best_bk] > 0 and gap >= GAP_FLAG),
+                 "gap_min": GAP_FLAG}
+
+
+def odds_api_poll(halftime_games, pre_games):
+    """One bulk call (spreads+totals, all US books) per poll when games are at the break or about to tip."""
+    key = os.environ.get("ODDS_API_KEY")
+    if not key or not (halftime_games or pre_games):
+        return
+    events, left = fetch_odds(key)
+    if events is None:
+        return
+    for g, path, comp, habbr, aabbr in halftime_games:
+        best, score = _match(g, events)
+        tick = {"t": now_iso(), "match": round(score, 2), "credits_left": left, "n_events": len(events)}
+        if best is not None and score >= 0.82:
+            put_lines(tick, best)
         else:
             tick["unmatched"] = True
+            if best is not None:
+                tick["closest"] = f"{best['away_team']} @ {best['home_team']}"
+            ev2, info = fallback_event(key, g)
+            tick.update(info)
+            if ev2:
+                put_lines(tick, ev2); tick["unmatched"] = False; tick["via"] = "event_odds"
         g.setdefault("odds_api_ticks", []).append(tick)
+        compute_flag(g)
         if len(g["odds_api_ticks"]) <= 40:
+            save(path, g)
+    for g, path in pre_games:                       # last snapshot before tip = closing line, every book
+        best, score = _match(g, events)
+        if best is not None and score >= 0.82:
+            c = {"t": now_iso(), "odds_event_id": best["id"], "books": book_lines(best)}
+            g["closing"] = c
             save(path, g)
 
 
@@ -228,7 +332,7 @@ def poll():
             n += 1; ch += c
             if hh: at_half.append(hh)
             live |= st in ("STATUS_IN_PROGRESS", "STATUS_HALFTIME")
-    odds_api_snapshot(at_half)
+    odds_api_poll(at_half, list(PRE)); PRE.clear()
     print(f"{now:%H:%M:%S} games={n} updated={ch} live={live} at_halftime={len(at_half)}", flush=True)
     return live
 
