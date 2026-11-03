@@ -4,6 +4,52 @@
   "id": "270",
   "name": "Milwaukee Panthers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "betonlineag": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "betrivers": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "betus": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "bovada": {
+    "spread": -26.5,
+    "total": 161.0
+   },
+   "draftkings": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "fanatics": {
+    "spread": -26.5,
+    "total": 161.0
+   },
+   "fanduel": {
+    "spread": -25.5,
+    "total": 160.5
+   },
+   "lowvig": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "williamhill_us": {
+    "spread": -26.5,
+    "total": 160.5
+   }
+  },
+  "odds_event_id": "4cbae12ced189eef318ab0b6d3646107",
+  "t": "2026-11-03T03:31:17+00:00"
+ },
  "date_key": "20261102",
  "event_id": "401926771",
  "home": {

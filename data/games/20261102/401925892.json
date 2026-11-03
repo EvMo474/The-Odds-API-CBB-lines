@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "RGNT",
+  "id": "131784",
+  "name": "Regent Regent Royals"
+ },
+ "date_key": "20261102",
+ "event_id": "401925892",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 26,
+    "3pm": 5,
+    "fg_pct": 33.33,
+    "fga": 51,
+    "fgm": 17,
+    "fta": 14,
+    "ftm": 6
+   },
+   "home": {
+    "3pa": 19,
+    "3pm": 5,
+    "fg_pct": 45.61,
+    "fga": 57,
+    "fgm": 26,
+    "fta": 22,
+    "ftm": 11
+   }
+  },
+  "linescores": {
+   "away": [
+    "15",
+    "30"
+   ],
+   "home": [
+    "35",
+    "33"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "45",
+   "home": "68"
+  },
+  "t": "2026-11-03T03:19:17+00:00"
+ },
+ "home": {
+  "abbr": "NORF",
+  "id": "2450",
+  "name": "Norfolk State Spartans"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:00Z"
+}
