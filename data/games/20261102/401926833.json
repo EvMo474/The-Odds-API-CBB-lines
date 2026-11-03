@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "OLDW",
+  "id": "16231",
+  "name": "SUNY Old Westbury Panthers"
+ },
+ "date_key": "20261102",
+ "event_id": "401926833",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 25,
+    "3pm": 8,
+    "fg_pct": 31.48,
+    "fga": 54,
+    "fgm": 17,
+    "fta": 11,
+    "ftm": 5
+   },
+   "home": {
+    "3pa": 35,
+    "3pm": 12,
+    "fg_pct": 53.73,
+    "fga": 67,
+    "fgm": 36,
+    "fta": 26,
+    "ftm": 13
+   }
+  },
+  "linescores": {
+   "away": [
+    "18",
+    "29"
+   ],
+   "home": [
+    "42",
+    "55"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "47",
+   "home": "97"
+  },
+  "t": "2026-11-03T02:52:18+00:00"
+ },
+ "home": {
+  "abbr": "STBK",
+  "id": "2619",
+  "name": "Stony Brook Seawolves"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-02T23:30Z"
+}

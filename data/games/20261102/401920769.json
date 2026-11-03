@@ -4,6 +4,48 @@
   "id": "2142",
   "name": "Colgate Raiders"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -14.5,
+    "total": 154.5
+   },
+   "betonlineag": {
+    "spread": -14.5,
+    "total": 154.5
+   },
+   "betrivers": {
+    "spread": -14.5,
+    "total": 155.5
+   },
+   "bovada": {
+    "spread": -14.5,
+    "total": 154.0
+   },
+   "draftkings": {
+    "spread": -14.5,
+    "total": 154.5
+   },
+   "fanatics": {
+    "spread": -14.5,
+    "total": 154.5
+   },
+   "fanduel": {
+    "spread": -14.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": -14.5,
+    "total": 154.5
+   },
+   "williamhill_us": {
+    "spread": -14.5,
+    "total": 155.5
+   }
+  },
+  "odds_event_id": "80717df051ecec2ca852c15935b3294c",
+  "t": "2026-11-03T03:01:17+00:00"
+ },
  "date_key": "20261102",
  "event_id": "401920769",
  "home": {

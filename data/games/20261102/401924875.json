@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "USCG",
+  "id": "2557",
+  "name": "Coast Guard Bears"
+ },
+ "date_key": "20261102",
+ "event_id": "401924875",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 33,
+    "3pm": 9,
+    "fg_pct": 21.62,
+    "fga": 74,
+    "fgm": 16,
+    "fta": 9,
+    "ftm": 3
+   },
+   "home": {
+    "3pa": 25,
+    "3pm": 9,
+    "fg_pct": 58.9,
+    "fga": 73,
+    "fgm": 43,
+    "fta": 24,
+    "ftm": 16
+   }
+  },
+  "linescores": {
+   "away": [
+    "15",
+    "29"
+   ],
+   "home": [
+    "58",
+    "53"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "44",
+   "home": "111"
+  },
+  "t": "2026-11-03T02:52:19+00:00"
+ },
+ "home": {
+  "abbr": "SHU",
+  "id": "2529",
+  "name": "Sacred Heart Pioneers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:00Z"
+}

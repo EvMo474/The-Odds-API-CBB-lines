@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "SWES",
+  "id": "2576",
+  "name": "Southern Wesleyan Warriors"
+ },
+ "date_key": "20261102",
+ "event_id": "401931655",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 18,
+    "3pm": 4,
+    "fg_pct": 31.82,
+    "fga": 66,
+    "fgm": 21,
+    "fta": 14,
+    "ftm": 9
+   },
+   "home": {
+    "3pa": 35,
+    "3pm": 10,
+    "fg_pct": 57.65,
+    "fga": 85,
+    "fgm": 49,
+    "fta": 4,
+    "ftm": 3
+   }
+  },
+  "linescores": {
+   "away": [
+    "26",
+    "29"
+   ],
+   "home": [
+    "52",
+    "59"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "55",
+   "home": "111"
+  },
+  "t": "2026-11-03T02:52:21+00:00"
+ },
+ "home": {
+  "abbr": "COFC",
+  "id": "232",
+  "name": "Charleston Cougars"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:30Z"
+}

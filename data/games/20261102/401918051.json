@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "ADSU",
+  "id": "2001",
+  "name": "Adams State Grizzlies"
+ },
+ "date_key": "20261102",
+ "event_id": "401918051",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 38,
+    "3pm": 13,
+    "fg_pct": 44.29,
+    "fga": 70,
+    "fgm": 31,
+    "fta": 16,
+    "ftm": 11
+   },
+   "home": {
+    "3pa": 23,
+    "3pm": 11,
+    "fg_pct": 60.61,
+    "fga": 66,
+    "fgm": 40,
+    "fta": 35,
+    "ftm": 24
+   }
+  },
+  "linescores": {
+   "away": [
+    "37",
+    "49"
+   ],
+   "home": [
+    "66",
+    "49"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "86",
+   "home": "115"
+  },
+  "t": "2026-11-03T03:04:17+00:00"
+ },
+ "home": {
+  "abbr": "CAL",
+  "id": "25",
+  "name": "California Golden Bears"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:00Z"
+}

@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "PFEI",
+  "id": "2945",
+  "name": "Pfeiffer Falcons"
+ },
+ "date_key": "20261102",
+ "event_id": "401922043",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 21,
+    "3pm": 6,
+    "fg_pct": 33.33,
+    "fga": 63,
+    "fgm": 21,
+    "fta": 24,
+    "ftm": 19
+   },
+   "home": {
+    "3pa": 23,
+    "3pm": 11,
+    "fg_pct": 59.77,
+    "fga": 87,
+    "fgm": 52,
+    "fta": 18,
+    "ftm": 8
+   }
+  },
+  "linescores": {
+   "away": [
+    "22",
+    "45"
+   ],
+   "home": [
+    "60",
+    "63"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "67",
+   "home": "123"
+  },
+  "t": "2026-11-03T02:52:21+00:00"
+ },
+ "home": {
+  "abbr": "LONG",
+  "id": "2344",
+  "name": "Longwood Lancers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:30Z"
+}

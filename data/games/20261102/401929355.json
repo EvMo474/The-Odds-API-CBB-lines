@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "UNTD",
+  "id": "126794",
+  "name": "UNT Dallas Trailblazers"
+ },
+ "date_key": "20261102",
+ "event_id": "401929355",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 33,
+    "3pm": 6,
+    "fg_pct": 23.38,
+    "fga": 77,
+    "fgm": 18,
+    "fta": 20,
+    "ftm": 14
+   },
+   "home": {
+    "3pa": 22,
+    "3pm": 7,
+    "fg_pct": 46.67,
+    "fga": 75,
+    "fgm": 35,
+    "fta": 20,
+    "ftm": 12
+   }
+  },
+  "linescores": {
+   "away": [
+    "22",
+    "34"
+   ],
+   "home": [
+    "42",
+    "47"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "56",
+   "home": "89"
+  },
+  "t": "2026-11-03T02:52:17+00:00"
+ },
+ "home": {
+  "abbr": "UTA",
+  "id": "250",
+  "name": "UT Arlington Mavericks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:00Z"
+}

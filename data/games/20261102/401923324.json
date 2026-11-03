@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "RIVI",
+  "id": "111913",
+  "name": "Rivier Raiders"
+ },
+ "date_key": "20261102",
+ "event_id": "401923324",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 33,
+    "3pm": 9,
+    "fg_pct": 28.99,
+    "fga": 69,
+    "fgm": 20,
+    "fta": 11,
+    "ftm": 8
+   },
+   "home": {
+    "3pa": 22,
+    "3pm": 11,
+    "fg_pct": 65.28,
+    "fga": 72,
+    "fgm": 47,
+    "fta": 28,
+    "ftm": 16
+   }
+  },
+  "linescores": {
+   "away": [
+    "29",
+    "28"
+   ],
+   "home": [
+    "60",
+    "61"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "57",
+   "home": "121"
+  },
+  "t": "2026-11-03T02:52:19+00:00"
+ },
+ "home": {
+  "abbr": "UML",
+  "id": "2349",
+  "name": "UMass Lowell River Hawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:00Z"
+}

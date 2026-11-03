@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "IUK",
+  "id": "3192",
+  "name": "IU Kokomo Cougars"
+ },
+ "date_key": "20261102",
+ "event_id": "401927368",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 17,
+    "3pm": 8,
+    "fg_pct": 54.35,
+    "fga": 46,
+    "fgm": 25,
+    "fta": 18,
+    "ftm": 12
+   },
+   "home": {
+    "3pa": 27,
+    "3pm": 8,
+    "fg_pct": 44.62,
+    "fga": 65,
+    "fgm": 29,
+    "fta": 20,
+    "ftm": 14
+   }
+  },
+  "linescores": {
+   "away": [
+    "42",
+    "28"
+   ],
+   "home": [
+    "34",
+    "46"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "70",
+   "home": "80"
+  },
+  "t": "2026-11-03T02:55:17+00:00"
+ },
+ "home": {
+  "abbr": "EVAN",
+  "id": "339",
+  "name": "Evansville Purple Aces"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:00Z"
+}

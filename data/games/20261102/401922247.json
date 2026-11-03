@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "SEBC",
+  "id": "111951",
+  "name": "Southeastern Baptist Chargers"
+ },
+ "date_key": "20261102",
+ "event_id": "401922247",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 14,
+    "3pm": 3,
+    "fg_pct": 34.62,
+    "fga": 52,
+    "fgm": 18,
+    "fta": 10,
+    "ftm": 3
+   },
+   "home": {
+    "3pa": 35,
+    "3pm": 16,
+    "fg_pct": 58.02,
+    "fga": 81,
+    "fgm": 47,
+    "fta": 21,
+    "ftm": 17
+   }
+  },
+  "linescores": {
+   "away": [
+    "17",
+    "25"
+   ],
+   "home": [
+    "65",
+    "62"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "42",
+   "home": "127"
+  },
+  "t": "2026-11-03T02:52:19+00:00"
+ },
+ "home": {
+  "abbr": "UWF",
+  "id": "2697",
+  "name": "West Florida Argonauts"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:00Z"
+}

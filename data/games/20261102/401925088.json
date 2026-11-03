@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "LYON",
+  "id": "2358",
+  "name": "Lyon Scots"
+ },
+ "date_key": "20261102",
+ "event_id": "401925088",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 30,
+    "3pm": 10,
+    "fg_pct": 31.67,
+    "fga": 60,
+    "fgm": 19,
+    "fta": 21,
+    "ftm": 13
+   },
+   "home": {
+    "3pa": 56,
+    "3pm": 26,
+    "fg_pct": 48.72,
+    "fga": 78,
+    "fgm": 38,
+    "fta": 25,
+    "ftm": 18
+   }
+  },
+  "linescores": {
+   "away": [
+    "26",
+    "35"
+   ],
+   "home": [
+    "62",
+    "58"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "61",
+   "home": "120"
+  },
+  "t": "2026-11-03T02:52:21+00:00"
+ },
+ "home": {
+  "abbr": "SFA",
+  "id": "2617",
+  "name": "Stephen F. Austin Lumberjacks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:30Z"
+}

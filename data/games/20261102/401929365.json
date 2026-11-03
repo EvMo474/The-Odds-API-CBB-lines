@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "CAMR",
+  "id": "2096",
+  "name": "Cameron Aggies"
+ },
+ "date_key": "20261102",
+ "event_id": "401929365",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 36,
+    "3pm": 7,
+    "fg_pct": 32.84,
+    "fga": 67,
+    "fgm": 22,
+    "fta": 15,
+    "ftm": 9
+   },
+   "home": {
+    "3pa": 18,
+    "3pm": 5,
+    "fg_pct": 52.31,
+    "fga": 65,
+    "fgm": 34,
+    "fta": 19,
+    "ftm": 13
+   }
+  },
+  "linescores": {
+   "away": [
+    "34",
+    "26"
+   ],
+   "home": [
+    "45",
+    "41"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "60",
+   "home": "86"
+  },
+  "t": "2026-11-03T02:58:17+00:00"
+ },
+ "home": {
+  "abbr": "TAR",
+  "id": "2627",
+  "name": "Tarleton State Texans"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:00Z"
+}

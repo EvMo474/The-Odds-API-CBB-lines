@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "KCU",
+  "id": "3077",
+  "name": "Kentucky Christian Knights"
+ },
+ "date_key": "20261102",
+ "event_id": "401929383",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 17,
+    "3pm": 2,
+    "fg_pct": 39.66,
+    "fga": 58,
+    "fgm": 23,
+    "fta": 8,
+    "ftm": 6
+   },
+   "home": {
+    "3pa": 39,
+    "3pm": 11,
+    "fg_pct": 50.0,
+    "fga": 84,
+    "fgm": 42,
+    "fta": 14,
+    "ftm": 10
+   }
+  },
+  "linescores": {
+   "away": [
+    "22",
+    "32"
+   ],
+   "home": [
+    "55",
+    "50"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "54",
+   "home": "105"
+  },
+  "t": "2026-11-03T02:52:18+00:00"
+ },
+ "home": {
+  "abbr": "EKU",
+  "id": "2198",
+  "name": "Eastern Kentucky Colonels"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:00Z"
+}

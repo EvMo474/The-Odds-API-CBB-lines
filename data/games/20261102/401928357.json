@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "NCF",
+  "id": "128550",
+  "name": "New College Mighty Banyans"
+ },
+ "date_key": "20261102",
+ "event_id": "401928357",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 22,
+    "3pm": 4,
+    "fg_pct": 34.33,
+    "fga": 67,
+    "fgm": 23,
+    "fta": 13,
+    "ftm": 8
+   },
+   "home": {
+    "3pa": 35,
+    "3pm": 12,
+    "fg_pct": 48.05,
+    "fga": 77,
+    "fgm": 37,
+    "fta": 16,
+    "ftm": 15
+   }
+  },
+  "linescores": {
+   "away": [
+    "18",
+    "40"
+   ],
+   "home": [
+    "52",
+    "49"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "58",
+   "home": "101"
+  },
+  "t": "2026-11-03T02:52:18+00:00"
+ },
+ "home": {
+  "abbr": "FIU",
+  "id": "2229",
+  "name": "Florida International Panthers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:00Z"
+}

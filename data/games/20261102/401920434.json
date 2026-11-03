@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "WCOL",
+  "id": "112694",
+  "name": "Western Colorado Mountaineers"
+ },
+ "date_key": "20261102",
+ "event_id": "401920434",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 21,
+    "3pm": 6,
+    "fg_pct": 31.67,
+    "fga": 60,
+    "fgm": 19,
+    "fta": 27,
+    "ftm": 19
+   },
+   "home": {
+    "3pa": 15,
+    "3pm": 6,
+    "fg_pct": 49.23,
+    "fga": 65,
+    "fgm": 32,
+    "fta": 20,
+    "ftm": 14
+   }
+  },
+  "linescores": {
+   "away": [
+    "34",
+    "29"
+   ],
+   "home": [
+    "50",
+    "34"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "63",
+   "home": "84"
+  },
+  "t": "2026-11-03T03:04:17+00:00"
+ },
+ "home": {
+  "abbr": "UVU",
+  "id": "3084",
+  "name": "Utah Valley Wolverines"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:00Z"
+}

@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "PQC",
+  "id": "2491",
+  "name": "Paul Quinn Tigers"
+ },
+ "date_key": "20261102",
+ "event_id": "401926077",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 19,
+    "3pm": 6,
+    "fg_pct": 47.92,
+    "fga": 48,
+    "fgm": 23,
+    "fta": 15,
+    "ftm": 13
+   },
+   "home": {
+    "3pa": 14,
+    "3pm": 5,
+    "fg_pct": 58.93,
+    "fga": 56,
+    "fgm": 33,
+    "fta": 25,
+    "ftm": 15
+   }
+  },
+  "linescores": {
+   "away": [
+    "33",
+    "32"
+   ],
+   "home": [
+    "43",
+    "43"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "65",
+   "home": "86"
+  },
+  "t": "2026-11-03T02:52:19+00:00"
+ },
+ "home": {
+  "abbr": "PV",
+  "id": "2504",
+  "name": "Prairie View A&M Panthers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:00Z"
+}

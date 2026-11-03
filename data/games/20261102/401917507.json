@@ -4,6 +4,47 @@
   "id": "2287",
   "name": "Illinois State Redbirds"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "total": 148.5
+   },
+   "betonlineag": {
+    "spread": -6.5,
+    "total": 148.0
+   },
+   "betrivers": {
+    "spread": -6.5,
+    "total": 148.5
+   },
+   "betus": {
+    "spread": -6.5,
+    "total": 148.0
+   },
+   "bovada": {
+    "spread": -7.0,
+    "total": 148.5
+   },
+   "draftkings": {
+    "spread": -7.5,
+    "total": 148.5
+   },
+   "fanatics": {
+    "spread": -7.0,
+    "total": 148.5
+   },
+   "fanduel": {
+    "spread": -6.5,
+    "total": 148.5
+   },
+   "lowvig": {
+    "spread": -6.5,
+    "total": 148.0
+   }
+  },
+  "odds_event_id": "f1ca3193e9bfce508eda7e609570bf96",
+  "t": "2026-11-03T03:01:17+00:00"
+ },
  "date_key": "20261102",
  "event_id": "401917507",
  "home": {

@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "OUKS",
+  "id": "2775",
+  "name": "Ottawa (KS) Braves"
+ },
+ "date_key": "20261102",
+ "event_id": "401925862",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 26,
+    "3pm": 9,
+    "fg_pct": 36.73,
+    "fga": 49,
+    "fgm": 18,
+    "fta": 7,
+    "ftm": 5
+   },
+   "home": {
+    "3pa": 40,
+    "3pm": 19,
+    "fg_pct": 50.0,
+    "fga": 64,
+    "fgm": 32,
+    "fta": 24,
+    "ftm": 15
+   }
+  },
+  "linescores": {
+   "away": [
+    "12",
+    "38"
+   ],
+   "home": [
+    "42",
+    "56"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "50",
+   "home": "98"
+  },
+  "t": "2026-11-03T02:58:17+00:00"
+ },
+ "home": {
+  "abbr": "TLSA",
+  "id": "202",
+  "name": "Tulsa Golden Hurricane"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:00Z"
+}

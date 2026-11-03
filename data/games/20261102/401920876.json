@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "TCJ",
+  "id": "3174",
+  "name": "Trinity College of Jacksonville Eagles"
+ },
+ "date_key": "20261102",
+ "event_id": "401920876",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 30,
+    "3pm": 9,
+    "fg_pct": 28.57,
+    "fga": 63,
+    "fgm": 18,
+    "fta": 22,
+    "ftm": 16
+   },
+   "home": {
+    "3pa": 32,
+    "3pm": 12,
+    "fg_pct": 59.46,
+    "fga": 74,
+    "fgm": 44,
+    "fta": 8,
+    "ftm": 5
+   }
+  },
+  "linescores": {
+   "away": [
+    "27",
+    "34"
+   ],
+   "home": [
+    "52",
+    "53"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "61",
+   "home": "105"
+  },
+  "t": "2026-11-03T02:52:19+00:00"
+ },
+ "home": {
+  "abbr": "JAX",
+  "id": "294",
+  "name": "Jacksonville Dolphins"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:00Z"
+}

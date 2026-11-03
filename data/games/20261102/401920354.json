@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "MIT",
+  "id": "109",
+  "name": "MIT Engineers"
+ },
+ "date_key": "20261102",
+ "event_id": "401920354",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 22,
+    "3pm": 7,
+    "fg_pct": 28.85,
+    "fga": 52,
+    "fgm": 15,
+    "fta": 12,
+    "ftm": 8
+   },
+   "home": {
+    "3pa": 22,
+    "3pm": 7,
+    "fg_pct": 40.62,
+    "fga": 64,
+    "fgm": 26,
+    "fta": 19,
+    "ftm": 14
+   }
+  },
+  "linescores": {
+   "away": [
+    "22",
+    "23"
+   ],
+   "home": [
+    "39",
+    "34"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "45",
+   "home": "73"
+  },
+  "t": "2026-11-03T02:52:19+00:00"
+ },
+ "home": {
+  "abbr": "HARV",
+  "id": "108",
+  "name": "Harvard Crimson"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:00Z"
+}

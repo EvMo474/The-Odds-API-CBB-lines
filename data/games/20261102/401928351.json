@@ -1,0 +1,206 @@
+{
+ "away": {
+  "abbr": "SFST",
+  "id": "22",
+  "name": "San Francisco State Gators"
+ },
+ "date_key": "20261102",
+ "event_id": "401928351",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 10,
+    "3pm": 2,
+    "fg_pct": 44.0,
+    "fga": 25,
+    "fgm": 11,
+    "fta": 3,
+    "ftm": 2
+   },
+   "home": {
+    "3pa": 5,
+    "3pm": 1,
+    "fg_pct": 52.17,
+    "fga": 23,
+    "fgm": 12,
+    "fta": 21,
+    "ftm": 16
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "26",
+   "home": "41"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-03T02:55:17+00:00"
+ },
+ "halftime_first_seen": "2026-11-03T02:55:17+00:00",
+ "home": {
+  "abbr": "UCSB",
+  "id": "2540",
+  "name": "UC Santa Barbara Gauchos"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Idaho State Bengals @ Utah State Aggies",
+   "credits_left": "19933",
+   "events_list_match": 0.49,
+   "events_list_n": 63,
+   "match": 0.49,
+   "n_events": 63,
+   "t": "2026-11-03T02:55:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Idaho State Bengals @ Utah State Aggies",
+   "credits_left": "19931",
+   "events_list_match": 0.49,
+   "events_list_n": 61,
+   "match": 0.49,
+   "n_events": 61,
+   "t": "2026-11-03T02:58:19+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Idaho State Bengals @ Utah State Aggies",
+   "credits_left": "19929",
+   "events_list_match": 0.49,
+   "events_list_n": 61,
+   "match": 0.49,
+   "n_events": 61,
+   "t": "2026-11-03T03:01:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Idaho State Bengals @ Utah State Aggies",
+   "credits_left": "19927",
+   "events_list_match": 0.49,
+   "events_list_n": 59,
+   "match": 0.49,
+   "n_events": 59,
+   "t": "2026-11-03T03:04:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Idaho State Bengals @ Utah State Aggies",
+   "credits_left": "19925",
+   "events_list_match": 0.49,
+   "events_list_n": 58,
+   "match": 0.49,
+   "n_events": 58,
+   "t": "2026-11-03T03:07:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Idaho State Bengals @ Utah State Aggies",
+   "credits_left": "19923",
+   "events_list_match": 0.49,
+   "events_list_n": 58,
+   "match": 0.49,
+   "n_events": 58,
+   "t": "2026-11-03T03:10:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Idaho State Bengals @ Utah State Aggies",
+   "credits_left": "19921",
+   "events_list_match": 0.49,
+   "events_list_n": 57,
+   "match": 0.49,
+   "n_events": 57,
+   "t": "2026-11-03T03:13:17+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T02:55:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T02:58:18+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:01:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:04:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:07:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:10:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:13:17+00:00"
+  }
+ ],
+ "start": "2026-11-03T02:00Z"
+}

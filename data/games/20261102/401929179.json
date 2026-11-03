@@ -1,0 +1,173 @@
+{
+ "away": {
+  "abbr": "FPU",
+  "id": "2235",
+  "name": "Fresno Pacific Sunbirds"
+ },
+ "date_key": "20261102",
+ "event_id": "401929179",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 12,
+    "3pm": 5,
+    "fg_pct": 45.16,
+    "fga": 31,
+    "fgm": 14,
+    "fta": 12,
+    "ftm": 5
+   },
+   "home": {
+    "3pa": 3,
+    "3pm": 1,
+    "fg_pct": 54.84,
+    "fga": 31,
+    "fgm": 17,
+    "fta": 10,
+    "ftm": 6
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "38",
+   "home": "41"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-03T02:58:18+00:00"
+ },
+ "halftime_first_seen": "2026-11-03T02:58:17+00:00",
+ "home": {
+  "abbr": "FRES",
+  "id": "278",
+  "name": "Fresno State Bulldogs"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Siena Saints @ Bryant Bulldogs",
+   "credits_left": "19931",
+   "events_list_match": 0.53,
+   "events_list_n": 61,
+   "match": 0.53,
+   "n_events": 61,
+   "t": "2026-11-03T02:58:19+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Siena Saints @ Bryant Bulldogs",
+   "credits_left": "19929",
+   "events_list_match": 0.53,
+   "events_list_n": 61,
+   "match": 0.53,
+   "n_events": 61,
+   "t": "2026-11-03T03:01:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Siena Saints @ Bryant Bulldogs",
+   "credits_left": "19927",
+   "events_list_match": 0.53,
+   "events_list_n": 59,
+   "match": 0.53,
+   "n_events": 59,
+   "t": "2026-11-03T03:04:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Siena Saints @ Bryant Bulldogs",
+   "credits_left": "19925",
+   "events_list_match": 0.53,
+   "events_list_n": 58,
+   "match": 0.53,
+   "n_events": 58,
+   "t": "2026-11-03T03:07:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Siena Saints @ Bryant Bulldogs",
+   "credits_left": "19923",
+   "events_list_match": 0.53,
+   "events_list_n": 58,
+   "match": 0.53,
+   "n_events": 58,
+   "t": "2026-11-03T03:10:17+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "38",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T02:58:18+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "38",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:01:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "38",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:04:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "38",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:07:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "38",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:10:17+00:00"
+  },
+  {
+   "clock": "19:19",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "38",
+    "home": "43"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T03:13:17+00:00"
+  }
+ ],
+ "start": "2026-11-03T02:00Z"
+}

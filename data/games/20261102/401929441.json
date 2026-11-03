@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "TOUG",
+  "id": "2650",
+  "name": "Tougaloo Bulldogs"
+ },
+ "date_key": "20261102",
+ "event_id": "401929441",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 22,
+    "3pm": 2,
+    "fg_pct": 20.9,
+    "fga": 67,
+    "fgm": 14,
+    "fta": 13,
+    "ftm": 5
+   },
+   "home": {
+    "3pa": 30,
+    "3pm": 9,
+    "fg_pct": 42.42,
+    "fga": 66,
+    "fgm": 28,
+    "fta": 21,
+    "ftm": 17
+   }
+  },
+  "linescores": {
+   "away": [
+    "12",
+    "23"
+   ],
+   "home": [
+    "45",
+    "37"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "35",
+   "home": "82"
+  },
+  "t": "2026-11-03T02:55:17+00:00"
+ },
+ "home": {
+  "abbr": "USM",
+  "id": "2572",
+  "name": "Southern Miss Golden Eagles"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:00Z"
+}

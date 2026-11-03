@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "MNIL",
+  "id": "2919",
+  "name": "Monmouth (IL) Fighting Scots"
+ },
+ "date_key": "20261102",
+ "event_id": "401927360",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 18,
+    "3pm": 4,
+    "fg_pct": 32.61,
+    "fga": 46,
+    "fgm": 15,
+    "fta": 12,
+    "ftm": 7
+   },
+   "home": {
+    "3pa": 34,
+    "3pm": 12,
+    "fg_pct": 47.76,
+    "fga": 67,
+    "fgm": 32,
+    "fta": 17,
+    "ftm": 9
+   }
+  },
+  "linescores": {
+   "away": [
+    "19",
+    "22"
+   ],
+   "home": [
+    "37",
+    "48"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "41",
+   "home": "85"
+  },
+  "t": "2026-11-03T02:52:17+00:00"
+ },
+ "home": {
+  "abbr": "BRAD",
+  "id": "71",
+  "name": "Bradley Braves"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:00Z"
+}

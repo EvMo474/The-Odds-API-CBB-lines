@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "UMO",
+  "id": "2418",
+  "name": "Mount Olive Trojans"
+ },
+ "date_key": "20261102",
+ "event_id": "401926862",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 22,
+    "3pm": 6,
+    "fg_pct": 33.9,
+    "fga": 59,
+    "fgm": 20,
+    "fta": 26,
+    "ftm": 19
+   },
+   "home": {
+    "3pa": 33,
+    "3pm": 11,
+    "fg_pct": 44.0,
+    "fga": 75,
+    "fgm": 33,
+    "fta": 33,
+    "ftm": 24
+   }
+  },
+  "linescores": {
+   "away": [
+    "27",
+    "38"
+   ],
+   "home": [
+    "36",
+    "65"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "65",
+   "home": "101"
+  },
+  "t": "2026-11-03T02:52:18+00:00"
+ },
+ "home": {
+  "abbr": "UNCW",
+  "id": "350",
+  "name": "UNC Wilmington Seahawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:00Z"
+}

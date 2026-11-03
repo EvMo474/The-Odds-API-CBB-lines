@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "ERKA",
+  "id": "101",
+  "name": "Eureka Red Devils"
+ },
+ "date_key": "20261102",
+ "event_id": "401926141",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 16,
+    "3pm": 5,
+    "fg_pct": 25.53,
+    "fga": 47,
+    "fgm": 12,
+    "fta": 13,
+    "ftm": 10
+   },
+   "home": {
+    "3pa": 16,
+    "3pm": 4,
+    "fg_pct": 54.41,
+    "fga": 68,
+    "fgm": 37,
+    "fta": 21,
+    "ftm": 13
+   }
+  },
+  "linescores": {
+   "away": [
+    "17",
+    "22"
+   ],
+   "home": [
+    "41",
+    "50"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "39",
+   "home": "91"
+  },
+  "t": "2026-11-03T02:52:19+00:00"
+ },
+ "home": {
+  "abbr": "SIUE",
+  "id": "2565",
+  "name": "SIU Edwardsville Cougars"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:00Z"
+}

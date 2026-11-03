@@ -1,0 +1,140 @@
+{
+ "away": {
+  "abbr": "SWCU",
+  "id": "3238",
+  "name": "Southwestern Christian U Eagles"
+ },
+ "date_key": "20261102",
+ "event_id": "401925826",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 16,
+    "3pm": 3,
+    "fg_pct": 22.58,
+    "fga": 31,
+    "fgm": 7,
+    "fta": 1,
+    "ftm": 0
+   },
+   "home": {
+    "3pa": 10,
+    "3pm": 5,
+    "fg_pct": 55.26,
+    "fga": 38,
+    "fgm": 21,
+    "fta": 17,
+    "ftm": 10
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "17",
+   "home": "57"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-03T03:04:17+00:00"
+ },
+ "halftime_first_seen": "2026-11-03T03:04:17+00:00",
+ "home": {
+  "abbr": "UNT",
+  "id": "249",
+  "name": "North Texas Mean Green"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Eastern Washington Eagles @ Stanford Cardinal",
+   "credits_left": "19927",
+   "events_list_match": 0.48,
+   "events_list_n": 59,
+   "match": 0.48,
+   "n_events": 59,
+   "t": "2026-11-03T03:04:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Eastern Washington Eagles @ Stanford Cardinal",
+   "credits_left": "19925",
+   "events_list_match": 0.48,
+   "events_list_n": 58,
+   "match": 0.48,
+   "n_events": 58,
+   "t": "2026-11-03T03:07:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Eastern Washington Eagles @ Stanford Cardinal",
+   "credits_left": "19923",
+   "events_list_match": 0.48,
+   "events_list_n": 58,
+   "match": 0.48,
+   "n_events": 58,
+   "t": "2026-11-03T03:10:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Eastern Washington Eagles @ Stanford Cardinal",
+   "credits_left": "19921",
+   "events_list_match": 0.48,
+   "events_list_n": 57,
+   "match": 0.48,
+   "n_events": 57,
+   "t": "2026-11-03T03:13:17+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "10:48",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "17",
+    "home": "57"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:04:17+00:00"
+  },
+  {
+   "clock": "10:48",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "17",
+    "home": "57"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:07:17+00:00"
+  },
+  {
+   "clock": "10:48",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "17",
+    "home": "57"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:10:17+00:00"
+  },
+  {
+   "clock": "10:48",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "17",
+    "home": "57"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T03:13:17+00:00"
+  }
+ ],
+ "start": "2026-11-03T02:15Z"
+}

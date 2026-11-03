@@ -4,6 +4,48 @@
   "id": "2515",
   "name": "Radford Highlanders"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -13.5,
+    "total": 154.5
+   },
+   "betonlineag": {
+    "spread": -13.5,
+    "total": 154.0
+   },
+   "betrivers": {
+    "spread": -13.5,
+    "total": 153.5
+   },
+   "bovada": {
+    "spread": -13.5,
+    "total": 154.5
+   },
+   "draftkings": {
+    "spread": -15.5,
+    "total": 154.5
+   },
+   "fanatics": {
+    "spread": -13.5,
+    "total": 154.5
+   },
+   "fanduel": {
+    "spread": -13.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": -13.5,
+    "total": 154.0
+   },
+   "williamhill_us": {
+    "spread": -13.5,
+    "total": 154.5
+   }
+  },
+  "odds_event_id": "d8cdef45cc010745e25e60cc5d05d5c7",
+  "t": "2026-11-03T03:01:17+00:00"
+ },
  "date_key": "20261102",
  "event_id": "401921060",
  "home": {

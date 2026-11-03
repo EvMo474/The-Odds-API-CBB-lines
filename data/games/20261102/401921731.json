@@ -4,6 +4,51 @@
   "id": "2193",
   "name": "East Tennessee State Buccaneers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "total": 145.5
+   },
+   "betonlineag": {
+    "spread": -19.5,
+    "total": 144.5
+   },
+   "betrivers": {
+    "spread": -19.5,
+    "total": 144.5
+   },
+   "betus": {
+    "spread": -20.0,
+    "total": 145.0
+   },
+   "bovada": {
+    "spread": -19.5,
+    "total": 145.5
+   },
+   "draftkings": {
+    "spread": -19.5,
+    "total": 145.5
+   },
+   "fanatics": {
+    "spread": -19.5,
+    "total": 145.5
+   },
+   "fanduel": {
+    "spread": -19.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": -19.5,
+    "total": 144.5
+   },
+   "williamhill_us": {
+    "spread": -19.5,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "d47ba040e2a2647a0c3e5d051fc8e897",
+  "t": "2026-11-03T03:01:17+00:00"
+ },
  "date_key": "20261102",
  "event_id": "401921731",
  "home": {

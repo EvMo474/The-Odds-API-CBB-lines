@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "LAW",
+  "id": "268",
+  "name": "Lawrence Vikings"
+ },
+ "date_key": "20261102",
+ "event_id": "401928806",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 23,
+    "3pm": 7,
+    "fg_pct": 29.41,
+    "fga": 51,
+    "fgm": 15,
+    "fta": 25,
+    "ftm": 14
+   },
+   "home": {
+    "3pa": 26,
+    "3pm": 15,
+    "fg_pct": 55.56,
+    "fga": 54,
+    "fgm": 30,
+    "fta": 26,
+    "ftm": 19
+   }
+  },
+  "linescores": {
+   "away": [
+    "18",
+    "33"
+   ],
+   "home": [
+    "45",
+    "49"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "51",
+   "home": "94"
+  },
+  "t": "2026-11-03T02:52:21+00:00"
+ },
+ "home": {
+  "abbr": "GB",
+  "id": "2739",
+  "name": "Green Bay Phoenix"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:30Z"
+}

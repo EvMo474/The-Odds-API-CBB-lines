@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "MIDW",
+  "id": "111166",
+  "name": "Midway Eagles"
+ },
+ "date_key": "20261102",
+ "event_id": "401926787",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 32,
+    "3pm": 5,
+    "fg_pct": 29.69,
+    "fga": 64,
+    "fgm": 19,
+    "fta": 18,
+    "ftm": 11
+   },
+   "home": {
+    "3pa": 45,
+    "3pm": 16,
+    "fg_pct": 52.44,
+    "fga": 82,
+    "fgm": 43,
+    "fta": 21,
+    "ftm": 14
+   }
+  },
+  "linescores": {
+   "away": [
+    "23",
+    "34"
+   ],
+   "home": [
+    "58",
+    "58"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "57",
+   "home": "116"
+  },
+  "t": "2026-11-03T02:52:18+00:00"
+ },
+ "home": {
+  "abbr": "KENN",
+  "id": "338",
+  "name": "Kennesaw State Owls"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:00Z"
+}

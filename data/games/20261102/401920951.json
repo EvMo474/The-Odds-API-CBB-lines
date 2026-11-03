@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "MUMO",
+  "id": "310",
+  "name": "Maryville (MO) Saints"
+ },
+ "date_key": "20261102",
+ "event_id": "401920951",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 21,
+    "3pm": 2,
+    "fg_pct": 26.56,
+    "fga": 64,
+    "fgm": 17,
+    "fta": 7,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 39,
+    "3pm": 16,
+    "fg_pct": 45.45,
+    "fga": 66,
+    "fgm": 30,
+    "fta": 7,
+    "ftm": 6
+   }
+  },
+  "linescores": {
+   "away": [
+    "11",
+    "29"
+   ],
+   "home": [
+    "34",
+    "48"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "40",
+   "home": "82"
+  },
+  "t": "2026-11-03T02:52:22+00:00"
+ },
+ "home": {
+  "abbr": "SIU",
+  "id": "79",
+  "name": "Southern Illinois Salukis"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T01:00Z"
+}

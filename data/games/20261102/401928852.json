@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "CHEY",
+  "id": "2129",
+  "name": "Cheyney (PA) Wolves"
+ },
+ "date_key": "20261102",
+ "event_id": "401928852",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 23,
+    "3pm": 5,
+    "fg_pct": 23.88,
+    "fga": 67,
+    "fgm": 16,
+    "fta": 25,
+    "ftm": 15
+   },
+   "home": {
+    "3pa": 29,
+    "3pm": 12,
+    "fg_pct": 50.67,
+    "fga": 75,
+    "fgm": 38,
+    "fta": 24,
+    "ftm": 15
+   }
+  },
+  "linescores": {
+   "away": [
+    "25",
+    "27"
+   ],
+   "home": [
+    "50",
+    "53"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "52",
+   "home": "103"
+  },
+  "t": "2026-11-03T02:52:18+00:00"
+ },
+ "home": {
+  "abbr": "MORG",
+  "id": "2415",
+  "name": "Morgan State Bears"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-03T00:00Z"
+}
