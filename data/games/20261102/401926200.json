@@ -1,0 +1,161 @@
+{
+ "away": {
+  "abbr": "VUL",
+  "id": "3229",
+  "name": "Virginia Lynchburg Dragons"
+ },
+ "date_key": "20261102",
+ "event_id": "401926200",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 8,
+    "3pm": 1,
+    "fg_pct": 41.18,
+    "fga": 34,
+    "fgm": 14,
+    "fta": 6,
+    "ftm": 2
+   },
+   "home": {
+    "3pa": 20,
+    "3pm": 9,
+    "fg_pct": 51.16,
+    "fga": 43,
+    "fgm": 22,
+    "fta": 12,
+    "ftm": 7
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "31",
+   "home": "60"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-02T23:58:31+00:00"
+ },
+ "halftime_first_seen": "2026-11-02T23:58:31+00:00",
+ "home": {
+  "abbr": "VMI",
+  "id": "2678",
+  "name": "VMI Keydets"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "credits_left": "19994",
+   "match": 0.42,
+   "t": "2026-11-02T23:58:32+00:00",
+   "unmatched": true
+  },
+  {
+   "credits_left": "19993",
+   "match": 0.42,
+   "t": "2026-11-03T00:01:32+00:00",
+   "unmatched": true
+  },
+  {
+   "credits_left": "19992",
+   "match": 0.42,
+   "t": "2026-11-03T00:04:31+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "60"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-02T23:58:31+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "60"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T00:01:31+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "60"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-03T00:04:31+00:00"
+  },
+  {
+   "clock": "18:24",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "33",
+    "home": "66"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T00:07:31+00:00"
+  },
+  {
+   "clock": "17:01",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "35",
+    "home": "72"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T00:10:32+00:00"
+  },
+  {
+   "clock": "15:59",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "36",
+    "home": "75"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T00:13:31+00:00"
+  },
+  {
+   "clock": "15:21",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "39",
+    "home": "75"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T00:16:32+00:00"
+  },
+  {
+   "clock": "14:32",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "44",
+    "home": "77"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-03T00:19:31+00:00"
+  }
+ ],
+ "start": "2026-11-02T23:00Z"
+}

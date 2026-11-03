@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "SFIL",
+  "id": "2595",
+  "name": "St. Francis (IL) Fighting Saints"
+ },
+ "date_key": "20261102",
+ "event_id": "401928858",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 20,
+    "3pm": 6,
+    "fg_pct": 31.82,
+    "fga": 44,
+    "fgm": 14,
+    "fta": 17,
+    "ftm": 13
+   },
+   "home": {
+    "3pa": 21,
+    "3pm": 5,
+    "fg_pct": 58.06,
+    "fga": 62,
+    "fgm": 36,
+    "fta": 27,
+    "ftm": 19
+   }
+  },
+  "linescores": {
+   "away": [
+    "31",
+    "16"
+   ],
+   "home": [
+    "51",
+    "45"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "47",
+   "home": "96"
+  },
+  "t": "2026-11-03T00:04:31+00:00"
+ },
+ "home": {
+  "abbr": "UIC",
+  "id": "82",
+  "name": "UIC Flames"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-02T22:00Z"
+}

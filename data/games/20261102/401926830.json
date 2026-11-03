@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "SJLI",
+  "id": "3196",
+  "name": "St. Joseph's Long Island Golden Eagles"
+ },
+ "date_key": "20261102",
+ "event_id": "401926830",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 21,
+    "3pm": 6,
+    "fg_pct": 27.59,
+    "fga": 58,
+    "fgm": 16,
+    "fta": 20,
+    "ftm": 13
+   },
+   "home": {
+    "3pa": 28,
+    "3pm": 11,
+    "fg_pct": 48.65,
+    "fga": 74,
+    "fgm": 36,
+    "fta": 25,
+    "ftm": 14
+   }
+  },
+  "linescores": {
+   "away": [
+    "23",
+    "28"
+   ],
+   "home": [
+    "40",
+    "57"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "51",
+   "home": "97"
+  },
+  "t": "2026-11-02T23:58:32+00:00"
+ },
+ "home": {
+  "abbr": "HOF",
+  "id": "2275",
+  "name": "Hofstra Pride"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-02T16:30Z"
+}

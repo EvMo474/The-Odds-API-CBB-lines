@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "NAMU",
+  "id": "126750",
+  "name": "North American Stallions"
+ },
+ "date_key": "20261102",
+ "event_id": "401925062",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 25,
+    "3pm": 5,
+    "fg_pct": 34.85,
+    "fga": 66,
+    "fgm": 23,
+    "fta": 8,
+    "ftm": 5
+   },
+   "home": {
+    "3pa": 30,
+    "3pm": 13,
+    "fg_pct": 58.11,
+    "fga": 74,
+    "fgm": 43,
+    "fta": 14,
+    "ftm": 11
+   }
+  },
+  "linescores": {
+   "away": [
+    "37",
+    "19"
+   ],
+   "home": [
+    "53",
+    "57"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "56",
+   "home": "110"
+  },
+  "t": "2026-11-02T23:58:32+00:00"
+ },
+ "home": {
+  "abbr": "NICH",
+  "id": "2447",
+  "name": "Nicholls Colonels"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-02T17:00Z"
+}
