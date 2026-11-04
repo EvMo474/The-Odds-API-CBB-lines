@@ -4,6 +4,48 @@
   "id": "325",
   "name": "Cleveland State Vikings"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "betonlineag": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "betrivers": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "betus": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "draftkings": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "fanatics": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "fanduel": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "lowvig": {
+    "spread": -26.5,
+    "total": 160.5
+   },
+   "williamhill_us": {
+    "spread": -26.5,
+    "total": 160.5
+   }
+  },
+  "odds_event_id": "38fbd99711e89870426e063d56d3d92c",
+  "t": "2026-11-04T00:56:04+00:00"
+ },
  "date_key": "20261103",
  "event_id": "401921165",
  "home": {
