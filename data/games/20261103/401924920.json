@@ -84,6 +84,26 @@
    "n_events": 22,
    "t": "2026-11-04T02:38:04+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Queens University Royals @ Loyola Marymount Lions",
+   "credits_left": "19759",
+   "events_list_match": 0.44,
+   "events_list_n": 22,
+   "match": 0.44,
+   "n_events": 22,
+   "t": "2026-11-04T02:41:04+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Queens University Royals @ Loyola Marymount Lions",
+   "credits_left": "19757",
+   "events_list_match": 0.44,
+   "events_list_n": 21,
+   "match": 0.44,
+   "n_events": 21,
+   "t": "2026-11-04T02:44:04+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -134,6 +154,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-04T02:38:04+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "27",
+    "home": "42"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-04T02:41:04+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "27",
+    "home": "42"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-04T02:44:04+00:00"
   }
  ],
  "start": "2026-11-04T01:30Z"
