@@ -1,0 +1,74 @@
+{
+ "away": {
+  "abbr": "CHAP",
+  "id": "411",
+  "name": "Chapman Panthers"
+ },
+ "date_key": "20261103",
+ "event_id": "401929624",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 21,
+    "3pm": 6,
+    "fg_pct": 26.32,
+    "fga": 38,
+    "fgm": 10,
+    "fta": 6,
+    "ftm": 0
+   },
+   "home": {
+    "3pa": 7,
+    "3pm": 3,
+    "fg_pct": 50.0,
+    "fga": 28,
+    "fgm": 14,
+    "fta": 15,
+    "ftm": 7
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "26",
+   "home": "38"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-04T03:56:04+00:00"
+ },
+ "halftime_first_seen": "2026-11-04T03:56:04+00:00",
+ "home": {
+  "abbr": "UCI",
+  "id": "300",
+  "name": "UC Irvine Anteaters"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Milwaukee Panthers @ Santa Clara Broncos",
+   "credits_left": "19743",
+   "events_list_match": 0.45,
+   "events_list_n": 14,
+   "match": 0.45,
+   "n_events": 14,
+   "t": "2026-11-04T03:56:04+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "38"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-04T03:56:04+00:00"
+  }
+ ],
+ "start": "2026-11-04T03:00Z"
+}
