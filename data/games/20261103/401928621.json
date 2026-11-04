@@ -64,6 +64,26 @@
    "n_events": 29,
    "t": "2026-11-04T01:56:04+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Cleveland St Vikings @ Missouri Tigers",
+   "credits_left": "19785",
+   "events_list_match": 0.49,
+   "events_list_n": 29,
+   "match": 0.49,
+   "n_events": 29,
+   "t": "2026-11-04T01:59:04+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Cleveland St Vikings @ Missouri Tigers",
+   "credits_left": "19783",
+   "events_list_match": 0.49,
+   "events_list_n": 29,
+   "match": 0.49,
+   "n_events": 29,
+   "t": "2026-11-04T02:02:04+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -90,6 +110,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-04T01:56:03+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "49"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-04T01:59:03+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "49"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-04T02:02:04+00:00"
   }
  ],
  "start": "2026-11-04T01:00Z"

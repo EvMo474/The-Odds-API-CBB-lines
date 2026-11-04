@@ -1,0 +1,74 @@
+{
+ "away": {
+  "abbr": "CNIA",
+  "id": "2155",
+  "name": "Cornell (IA) Rams"
+ },
+ "date_key": "20261103",
+ "event_id": "401927385",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 15,
+    "3pm": 6,
+    "fg_pct": 39.39,
+    "fga": 33,
+    "fgm": 13,
+    "fta": 11,
+    "ftm": 10
+   },
+   "home": {
+    "3pa": 18,
+    "3pm": 3,
+    "fg_pct": 36.11,
+    "fga": 36,
+    "fgm": 13,
+    "fta": 25,
+    "ftm": 16
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "42",
+   "home": "45"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-04T02:02:04+00:00"
+ },
+ "halftime_first_seen": "2026-11-04T02:02:04+00:00",
+ "home": {
+  "abbr": "UNI",
+  "id": "2460",
+  "name": "Northern Iowa Panthers"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Drexel Dragons @ Virginia Cavaliers",
+   "credits_left": "19783",
+   "events_list_match": 0.44,
+   "events_list_n": 29,
+   "match": 0.44,
+   "n_events": 29,
+   "t": "2026-11-04T02:02:04+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "42",
+    "home": "45"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-04T02:02:04+00:00"
+  }
+ ],
+ "start": "2026-11-04T01:00Z"
+}
