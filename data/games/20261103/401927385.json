@@ -54,6 +54,26 @@
    "n_events": 29,
    "t": "2026-11-04T02:02:04+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Drexel Dragons @ Virginia Cavaliers",
+   "credits_left": "19781",
+   "events_list_match": 0.44,
+   "events_list_n": 28,
+   "match": 0.44,
+   "n_events": 28,
+   "t": "2026-11-04T02:05:04+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Drexel Dragons @ Virginia Cavaliers",
+   "credits_left": "19779",
+   "events_list_match": 0.44,
+   "events_list_n": 28,
+   "match": 0.44,
+   "n_events": 28,
+   "t": "2026-11-04T02:08:04+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -68,6 +88,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-04T02:02:04+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "42",
+    "home": "45"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-04T02:05:04+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "42",
+    "home": "45"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-04T02:08:04+00:00"
   }
  ],
  "start": "2026-11-04T01:00Z"
