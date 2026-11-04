@@ -7,7 +7,7 @@
  "closing": {
   "books": {
    "betmgm": {
-    "spread": -23.5,
+    "spread": -24.5,
     "total": 149.5
    },
    "betonlineag": {
@@ -23,8 +23,8 @@
     "total": 149.5
    },
    "fanatics": {
-    "spread": -24.0,
-    "total": 149.5
+    "spread": -24.5,
+    "total": 149.0
    },
    "fanduel": {
     "spread": -23.5,
@@ -36,11 +36,11 @@
    },
    "williamhill_us": {
     "spread": -24.5,
-    "total": 149.5
+    "total": 148.0
    }
   },
   "odds_event_id": "7057bcf2a149f4767dba9068bbff1845",
-  "t": "2026-11-04T00:56:04+00:00"
+  "t": "2026-11-04T00:59:04+00:00"
  },
  "date_key": "20261103",
  "event_id": "401920702",
