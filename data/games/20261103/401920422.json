@@ -4,6 +4,48 @@
   "id": "2182",
   "name": "Drexel Dragons"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -32.5,
+    "total": 142.5
+   },
+   "betonlineag": {
+    "spread": -32.0,
+    "total": 142.0
+   },
+   "betrivers": {
+    "spread": -31.5,
+    "total": 142.5
+   },
+   "betus": {
+    "spread": -32.0,
+    "total": 142.0
+   },
+   "draftkings": {
+    "spread": -31.5,
+    "total": 142.5
+   },
+   "fanatics": {
+    "spread": -32.0,
+    "total": 143.0
+   },
+   "fanduel": {
+    "spread": -31.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": -32.0,
+    "total": 142.0
+   },
+   "williamhill_us": {
+    "spread": -32.0,
+    "total": 143.5
+   }
+  },
+  "odds_event_id": "0156259278d95832bc9e08be0fdfa7eb",
+  "t": "2026-11-04T00:26:04+00:00"
+ },
  "date_key": "20261103",
  "event_id": "401920422",
  "home": {

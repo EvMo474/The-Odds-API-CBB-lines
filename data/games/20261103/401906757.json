@@ -4,6 +4,48 @@
   "id": "2534",
   "name": "Sam Houston Bearkats"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -27.5,
+    "total": 171.5
+   },
+   "betonlineag": {
+    "spread": -27.5,
+    "total": 173.0
+   },
+   "betrivers": {
+    "spread": -26.5,
+    "total": 172.5
+   },
+   "betus": {
+    "spread": -27.5,
+    "total": 173.0
+   },
+   "draftkings": {
+    "spread": -27.5,
+    "total": 172.5
+   },
+   "fanatics": {
+    "spread": -27.5,
+    "total": 172.5
+   },
+   "fanduel": {
+    "spread": -27.5,
+    "total": 171.5
+   },
+   "lowvig": {
+    "spread": -27.5,
+    "total": 173.0
+   },
+   "williamhill_us": {
+    "spread": -27.5,
+    "total": 172.5
+   }
+  },
+  "odds_event_id": "89383b9fbe1119324bcf6c064e07dcd9",
+  "t": "2026-11-04T00:26:04+00:00"
+ },
  "date_key": "20261103",
  "event_id": "401906757",
  "home": {
