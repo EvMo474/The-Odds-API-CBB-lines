@@ -4,6 +4,48 @@
   "id": "2239",
   "name": "Cal State Fullerton Titans"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -13.5,
+    "total": 155.5
+   },
+   "betonlineag": {
+    "spread": -13.5,
+    "total": 156.0
+   },
+   "betrivers": {
+    "spread": -13.5,
+    "total": 156.5
+   },
+   "betus": {
+    "spread": -13.5,
+    "total": 156.0
+   },
+   "draftkings": {
+    "spread": -13.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": -13.5,
+    "total": 155.5
+   },
+   "fanduel": {
+    "spread": -13.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": -13.5,
+    "total": 156.0
+   },
+   "williamhill_us": {
+    "spread": -13.0,
+    "total": 155.0
+   }
+  },
+  "odds_event_id": "e031a72df23e6b0e1a17d9398e7189fe",
+  "t": "2026-11-04T02:56:04+00:00"
+ },
  "date_key": "20261103",
  "event_id": "401920155",
  "home": {
