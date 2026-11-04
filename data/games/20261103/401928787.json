@@ -1,0 +1,96 @@
+{
+ "away": {
+  "abbr": "WNMU",
+  "id": "2703",
+  "name": "Western New Mexico Mustangs"
+ },
+ "date_key": "20261103",
+ "event_id": "401928787",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 14,
+    "3pm": 3,
+    "fg_pct": 32.43,
+    "fga": 37,
+    "fgm": 12,
+    "fta": 5,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 12,
+    "3pm": 2,
+    "fg_pct": 29.03,
+    "fga": 31,
+    "fgm": 9,
+    "fta": 9,
+    "ftm": 6
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "31",
+   "home": "26"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-04T02:23:03+00:00"
+ },
+ "halftime_first_seen": "2026-11-04T02:23:03+00:00",
+ "home": {
+  "abbr": "NMSU",
+  "id": "166",
+  "name": "New Mexico State Aggies"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "CSU Fullerton Titans @ San Diego St Aztecs",
+   "credits_left": "19771",
+   "events_list_match": 0.45,
+   "events_list_n": 24,
+   "match": 0.45,
+   "n_events": 24,
+   "t": "2026-11-04T02:23:04+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "CSU Fullerton Titans @ San Diego St Aztecs",
+   "credits_left": "19769",
+   "events_list_match": 0.45,
+   "events_list_n": 23,
+   "match": 0.45,
+   "n_events": 23,
+   "t": "2026-11-04T02:26:04+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "26"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-04T02:23:03+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "26"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-04T02:26:03+00:00"
+  }
+ ],
+ "start": "2026-11-04T01:30Z"
+}
