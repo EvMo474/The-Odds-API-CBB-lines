@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NKU",
+  "id": "94",
+  "name": "Northern Kentucky Norse"
+ },
+ "date_key": "20261104",
+ "event_id": "401928811",
+ "home": {
+  "abbr": "SDAK",
+  "id": "233",
+  "name": "South Dakota Coyotes"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "NKU -2.5",
+    "home_spread": 2.5,
+    "provider": "DraftKings",
+    "raw_spread": 2.5,
+    "total": 160.5
+   }
+  ],
+  "t": "2026-11-04T05:02:03+00:00"
+ },
+ "start": "2026-11-05T01:00Z"
+}
