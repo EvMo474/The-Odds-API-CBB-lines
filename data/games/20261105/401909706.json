@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "BUF",
+  "id": "2084",
+  "name": "Buffalo Bulls"
+ },
+ "date_key": "20261105",
+ "event_id": "401909706",
+ "home": {
+  "abbr": "PITT",
+  "id": "221",
+  "name": "Pittsburgh Panthers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "PITT -18.5",
+    "home_spread": -18.5,
+    "provider": "DraftKings",
+    "raw_spread": -18.5,
+    "total": 151.5
+   }
+  ],
+  "t": "2026-11-05T05:02:13+00:00"
+ },
+ "start": "2026-11-06T00:00Z"
+}

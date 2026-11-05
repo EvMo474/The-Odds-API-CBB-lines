@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "MER",
+  "id": "2382",
+  "name": "Mercer Bears"
+ },
+ "date_key": "20261105",
+ "event_id": "401920377",
+ "home": {
+  "abbr": "VT",
+  "id": "259",
+  "name": "Virginia Tech Hokies"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VT -21.5",
+    "home_spread": -21.5,
+    "provider": "DraftKings",
+    "raw_spread": -21.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-05T05:02:13+00:00"
+ },
+ "start": "2026-11-06T00:00Z"
+}
