@@ -84,6 +84,16 @@
    "n_events": 53,
    "t": "2026-11-05T00:56:13+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Coastal Carolina Chanticleers @ Duke Blue Devils",
+   "credits_left": "19711",
+   "events_list_match": 0.4,
+   "events_list_n": 53,
+   "match": 0.4,
+   "n_events": 53,
+   "t": "2026-11-05T00:59:13+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -134,6 +144,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-05T00:56:13+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "34",
+    "home": "35"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-05T00:59:13+00:00"
+  },
+  {
+   "clock": "19:47",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "34",
+    "home": "35"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-05T01:02:13+00:00"
   }
  ],
  "start": "2026-11-05T00:00Z"
