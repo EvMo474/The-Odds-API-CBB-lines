@@ -1,0 +1,96 @@
+{
+ "away": {
+  "abbr": "BMCU",
+  "id": "494",
+  "name": "Blue Mountain Christian Toppers"
+ },
+ "date_key": "20261104",
+ "event_id": "401926214",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 9,
+    "3pm": 1,
+    "fg_pct": 40.74,
+    "fga": 27,
+    "fgm": 11,
+    "fta": 11,
+    "ftm": 8
+   },
+   "home": {
+    "3pa": 22,
+    "3pm": 9,
+    "fg_pct": 48.08,
+    "fga": 52,
+    "fgm": 25,
+    "fta": 11,
+    "ftm": 8
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "31",
+   "home": "67"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-05T01:23:13+00:00"
+ },
+ "halftime_first_seen": "2026-11-05T01:23:13+00:00",
+ "home": {
+  "abbr": "TNTC",
+  "id": "2635",
+  "name": "Tennessee Tech Golden Eagles"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Bethune-Cookman Wildcats @ Texas Tech Red Raiders",
+   "credits_left": "19695",
+   "events_list_match": 0.42,
+   "events_list_n": 53,
+   "match": 0.42,
+   "n_events": 53,
+   "t": "2026-11-05T01:23:14+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Bethune-Cookman Wildcats @ Texas Tech Red Raiders",
+   "credits_left": "19693",
+   "events_list_match": 0.42,
+   "events_list_n": 53,
+   "match": 0.42,
+   "n_events": 53,
+   "t": "2026-11-05T01:26:13+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "67"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-05T01:23:13+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "67"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-05T01:26:13+00:00"
+  }
+ ],
+ "start": "2026-11-05T00:30Z"
+}
