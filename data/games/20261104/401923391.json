@@ -84,6 +84,16 @@
    "n_events": 53,
    "t": "2026-11-05T01:56:13+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Northern Kentucky Norse @ South Dakota Coyotes",
+   "credits_left": "19675",
+   "events_list_match": 0.41,
+   "events_list_n": 53,
+   "match": 0.41,
+   "n_events": 53,
+   "t": "2026-11-05T01:59:13+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -134,6 +144,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-05T01:56:13+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "17",
+    "home": "58"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-05T01:59:13+00:00"
+  },
+  {
+   "clock": "19:06",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "20",
+    "home": "61"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-05T02:02:13+00:00"
   }
  ],
  "start": "2026-11-05T01:00Z"
