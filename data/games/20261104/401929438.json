@@ -1,0 +1,74 @@
+{
+ "away": {
+  "abbr": "CTDM",
+  "id": "111180",
+  "name": "Christendom Crusaders"
+ },
+ "date_key": "20261104",
+ "event_id": "401929438",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 9,
+    "3pm": 0,
+    "fg_pct": 24.14,
+    "fga": 29,
+    "fgm": 7,
+    "fta": 3,
+    "ftm": 1
+   },
+   "home": {
+    "3pa": 21,
+    "3pm": 7,
+    "fg_pct": 51.35,
+    "fga": 37,
+    "fgm": 19,
+    "fta": 7,
+    "ftm": 6
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "15",
+   "home": "51"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-05T01:20:13+00:00"
+ },
+ "halftime_first_seen": "2026-11-05T01:20:13+00:00",
+ "home": {
+  "abbr": "APP",
+  "id": "2026",
+  "name": "App State Mountaineers"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Mercyhurst Lakers @ Notre Dame Fighting Irish",
+   "credits_left": "19697",
+   "events_list_match": 0.45,
+   "events_list_n": 53,
+   "match": 0.45,
+   "n_events": 53,
+   "t": "2026-11-05T01:20:13+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "15",
+    "home": "51"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-05T01:20:13+00:00"
+  }
+ ],
+ "start": "2026-11-05T00:30Z"
+}

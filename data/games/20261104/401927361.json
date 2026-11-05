@@ -1,0 +1,74 @@
+{
+ "away": {
+  "abbr": "CNTC",
+  "id": "2964",
+  "name": "Central College Dutch"
+ },
+ "date_key": "20261104",
+ "event_id": "401927361",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 19,
+    "3pm": 4,
+    "fg_pct": 25.81,
+    "fga": 31,
+    "fgm": 8,
+    "fta": 2,
+    "ftm": 2
+   },
+   "home": {
+    "3pa": 13,
+    "3pm": 6,
+    "fg_pct": 55.56,
+    "fga": 36,
+    "fgm": 20,
+    "fta": 8,
+    "ftm": 4
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "22",
+   "home": "50"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-05T01:20:13+00:00"
+ },
+ "halftime_first_seen": "2026-11-05T01:20:13+00:00",
+ "home": {
+  "abbr": "DRKE",
+  "id": "2181",
+  "name": "Drake Bulldogs"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Fairleigh Dickinson Knights @ Butler Bulldogs",
+   "credits_left": "19697",
+   "events_list_match": 0.49,
+   "events_list_n": 53,
+   "match": 0.49,
+   "n_events": 53,
+   "t": "2026-11-05T01:20:13+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "22",
+    "home": "50"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-05T01:20:13+00:00"
+  }
+ ],
+ "start": "2026-11-05T00:30Z"
+}
