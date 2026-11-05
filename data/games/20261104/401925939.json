@@ -6,6 +6,44 @@
  },
  "date_key": "20261104",
  "event_id": "401925939",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 15,
+    "3pm": 2,
+    "fg_pct": 35.59,
+    "fga": 59,
+    "fgm": 21,
+    "fta": 6,
+    "ftm": 3
+   },
+   "home": {
+    "3pa": 27,
+    "3pm": 10,
+    "fg_pct": 51.56,
+    "fga": 64,
+    "fgm": 33,
+    "fta": 41,
+    "ftm": 27
+   }
+  },
+  "linescores": {
+   "away": [
+    "25",
+    "27"
+   ],
+   "home": [
+    "57",
+    "46"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "52",
+   "home": "103"
+  },
+  "t": "2026-11-05T03:56:13+00:00"
+ },
  "halftime": {
   "box_1h": {
    "away": {
@@ -343,6 +381,17 @@
    },
    "status": "STATUS_IN_PROGRESS",
    "t": "2026-11-05T03:50:13+00:00"
+  },
+  {
+   "clock": "2:00",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "50",
+    "home": "98"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-05T03:53:13+00:00"
   }
  ],
  "start": "2026-11-05T02:00Z"
