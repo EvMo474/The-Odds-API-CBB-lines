@@ -54,6 +54,26 @@
    "n_events": 49,
    "t": "2026-11-05T02:44:14+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "North Dakota St Bison @ Saint Mary's Gaels",
+   "credits_left": "19659",
+   "events_list_match": 0.49,
+   "events_list_n": 49,
+   "match": 0.49,
+   "n_events": 49,
+   "t": "2026-11-05T02:47:13+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "North Dakota St Bison @ Saint Mary's Gaels",
+   "credits_left": "19657",
+   "events_list_match": 0.49,
+   "events_list_n": 49,
+   "match": 0.49,
+   "n_events": 49,
+   "t": "2026-11-05T02:50:13+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -68,6 +88,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-05T02:44:13+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "19",
+    "home": "61"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-05T02:47:13+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "19",
+    "home": "61"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-05T02:50:13+00:00"
   }
  ],
  "start": "2026-11-05T02:00Z"
