@@ -9,9 +9,10 @@ Per game it writes (UTC):
   first_play_utc  first timestamped play, end1h_utc = last 1H play, start2h_utc = first 2H play  (play-by-play wall clock)
   ht_start_utc    halftime start  = end1h_utc when the timestamps pass sanity checks, else tip + the season's median
                   (tip -> halftime) learned from the good games   [ht_src = "pbp" | "estimate" | ""]
-  snap_utc        ht_start + 5 minutes: the moment the Odds API historical snapshot should be requested
-                  (same "5 minutes into the break" rule the live logger uses)
-Sanity checks per game: break between halves 8-35 min, first play to end of 1H 40-110 min.
+  snap_utc        when to request the Odds API historical snapshot: ht_start + 5 minutes for real timestamps (the same
+                  "5 minutes into the break" rule the live logger uses), ht_start + 8 for estimates (they can be several
+                  minutes early, and +8 keeps the snapshot inside the ~17 minute break for most games)
+Sanity checks per game: break between halves 5-40 min, first play to end of 1H 28-110 min.
 Writes game_times.csv.gz and times_report.txt (coverage, medians, how many games had to be estimated).
 """
 import argparse, sys
@@ -61,15 +62,15 @@ def finish(t):
     t = t.copy()
     brk = (t.start2h_utc - t.end1h_utc).dt.total_seconds() / 60
     h1 = (t.end1h_utc - t.first_play_utc).dt.total_seconds() / 60
-    good = brk.between(8, 35) & h1.between(40, 110)
+    good = brk.between(5, 40) & h1.between(28, 110)
     t["break_min"] = brk.round(1).where(good); t["h1_len_min"] = h1.round(1).where(good)
     anchor = t.tip_sched_utc.fillna(t.first_play_utc)
     lag = ((t.end1h_utc - anchor).dt.total_seconds() / 60).where(good)
     med = lag.groupby(t.season).transform("median").fillna(lag.median())
     est = anchor + pd.to_timedelta(med, unit="m")
-    t["ht_start_utc"] = t.end1h_utc.where(good).fillna(est)
+    t["ht_start_utc"] = t.end1h_utc.where(good).combine_first(est)
     t["ht_src"] = np.where(good, "pbp", np.where(t.ht_start_utc.notna(), "estimate", ""))
-    t["snap_utc"] = t.ht_start_utc + pd.Timedelta(minutes=5)
+    t["snap_utc"] = t.ht_start_utc + pd.to_timedelta(np.where(good, 5, 8), unit="m")
     return t, lag
 
 
