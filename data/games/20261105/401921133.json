@@ -23,7 +23,7 @@
     "total": 149.5
    },
    "fanatics": {
-    "spread": -30.0,
+    "spread": -30.5,
     "total": 150.0
    },
    "fanduel": {
@@ -35,12 +35,12 @@
     "total": 149.5
    },
    "williamhill_us": {
-    "spread": -30.0,
-    "total": 150.0
+    "spread": -30.5,
+    "total": 149.5
    }
   },
   "odds_event_id": "5156430ff006d5c2907fa72169ff7c64",
-  "t": "2026-11-06T01:58:35+00:00"
+  "t": "2026-11-06T02:01:35+00:00"
  },
  "date_key": "20261105",
  "event_id": "401921133",
