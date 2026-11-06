@@ -1,0 +1,29 @@
+name: build-backtest-data
+# Run by hand: Actions tab -> build-backtest-data -> Run workflow.  Free ESPN/hoopR data only, no Odds API credits.
+on:
+  workflow_dispatch:
+    inputs:
+      seasons: { description: 'seasons (ending year; 2022 = 2021-22)', default: '2022-2026' }
+      summary_limit: { description: 'max per-game ESPN calls for games the scoreboard has no line for', default: '20000' }
+concurrency:
+  group: cbb-backtest-data
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install pandas pyarrow requests numpy
+      - name: build
+        run: python backtest/make_dataset.py --seasons "${{ github.event.inputs.seasons }}" --out backtest/out --summary-limit "${{ github.event.inputs.summary_limit }}"
+      - name: save results
+        run: |
+          git config user.name "cbb-backtest"; git config user.email "cbb-backtest@users.noreply.github.com"
+          git add backtest/out
+          git commit -m "backtest data $(date -u +%FT%TZ)" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin HEAD:main && break || sleep 10; done
