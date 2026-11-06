@@ -4,6 +4,43 @@
   "id": "58",
   "name": "South Florida Bulls"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -6.5,
+    "total": 150.5
+   },
+   "betonlineag": {
+    "spread": -6.0,
+    "total": 150.0
+   },
+   "betrivers": {
+    "spread": -6.5,
+    "total": 149.5
+   },
+   "betus": {
+    "spread": -6.5
+   },
+   "draftkings": {
+    "spread": -6.5,
+    "total": 149.5
+   },
+   "fanatics": {
+    "spread": -6.5,
+    "total": 149.5
+   },
+   "fanduel": {
+    "spread": -6.5,
+    "total": 149.5
+   },
+   "lowvig": {
+    "spread": -6.0,
+    "total": 150.0
+   }
+  },
+  "odds_event_id": "16b88da9c328520f2e802a9bc4f5c246",
+  "t": "2026-11-06T01:28:35+00:00"
+ },
  "date_key": "20261105",
  "event_id": "401909501",
  "home": {

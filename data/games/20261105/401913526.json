@@ -4,6 +4,44 @@
   "id": "219",
   "name": "Pennsylvania Quakers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -30.5,
+    "total": 172.5
+   },
+   "betonlineag": {
+    "spread": -30.0,
+    "total": 172.0
+   },
+   "betrivers": {
+    "spread": -30.5,
+    "total": 172.5
+   },
+   "betus": {
+    "spread": -30.0,
+    "total": 172.5
+   },
+   "draftkings": {
+    "spread": -30.5,
+    "total": 172.5
+   },
+   "fanatics": {
+    "spread": -30.0,
+    "total": 172.5
+   },
+   "fanduel": {
+    "spread": -29.5,
+    "total": 172.5
+   },
+   "lowvig": {
+    "spread": -30.0,
+    "total": 172.0
+   }
+  },
+  "odds_event_id": "e99c31a25021bfcde3aa4d446d42f37a",
+  "t": "2026-11-06T01:28:35+00:00"
+ },
  "date_key": "20261105",
  "event_id": "401913526",
  "home": {
