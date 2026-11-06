@@ -4,6 +4,47 @@
   "id": "13",
   "name": "Cal Poly Mustangs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "total": 174.5
+   },
+   "betonlineag": {
+    "spread": -31.0,
+    "total": 174.0
+   },
+   "betrivers": {
+    "spread": -30.5,
+    "total": 173.5
+   },
+   "betus": {
+    "spread": -31.0,
+    "total": 174.0
+   },
+   "draftkings": {
+    "spread": -31.5,
+    "total": 174.5
+   },
+   "fanatics": {
+    "spread": -31.0,
+    "total": 175.0
+   },
+   "fanduel": {
+    "spread": -30.5,
+    "total": 174.5
+   },
+   "lowvig": {
+    "spread": -31.0,
+    "total": 174.0
+   },
+   "williamhill_us": {
+    "spread": -31.5,
+    "total": 174.5
+   }
+  },
+  "odds_event_id": "3bead9fd4968c29875f674846e1d345b",
+  "t": "2026-11-06T03:28:35+00:00"
+ },
  "date_key": "20261105",
  "event_id": "401909739",
  "home": {
