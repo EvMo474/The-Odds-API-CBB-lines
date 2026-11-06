@@ -1,0 +1,96 @@
+{
+ "away": {
+  "abbr": "KWC",
+  "id": "2316",
+  "name": "Kentucky Wesleyan Panthers"
+ },
+ "date_key": "20261105",
+ "event_id": "401928800",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 10,
+    "3pm": 2,
+    "fg_pct": 18.18,
+    "fga": 22,
+    "fgm": 4,
+    "fta": 9,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 13,
+    "3pm": 4,
+    "fg_pct": 39.02,
+    "fga": 41,
+    "fgm": 16,
+    "fta": 2,
+    "ftm": 2
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "14",
+   "home": "38"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-06T01:19:34+00:00"
+ },
+ "halftime_first_seen": "2026-11-06T01:19:34+00:00",
+ "home": {
+  "abbr": "WKU",
+  "id": "98",
+  "name": "Western Kentucky Hilltoppers"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "American Eagles @ Clemson Tigers",
+   "credits_left": "19585",
+   "events_list_match": 0.41,
+   "events_list_n": 83,
+   "match": 0.41,
+   "n_events": 83,
+   "t": "2026-11-06T01:19:35+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "American Eagles @ Clemson Tigers",
+   "credits_left": "19583",
+   "events_list_match": 0.41,
+   "events_list_n": 82,
+   "match": 0.41,
+   "n_events": 82,
+   "t": "2026-11-06T01:22:34+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "14",
+    "home": "38"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-06T01:19:34+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "14",
+    "home": "38"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-06T01:22:34+00:00"
+  }
+ ],
+ "start": "2026-11-06T00:30Z"
+}
