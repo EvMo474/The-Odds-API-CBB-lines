@@ -1,0 +1,32 @@
+name: pull-halftime-lines
+# SPENDS ODDS API CREDITS (10 per snapshot moment).  The script refuses to start if its estimate is above max_credits.
+on:
+  workflow_dispatch:
+    inputs:
+      mode: { description: 'plan (spends nothing) | busy | random', default: 'plan' }
+      n: { description: 'busy: number of snapshot moments; random: number of games', default: '60' }
+      max_credits: { description: 'refuse to run if the estimate is above this', default: '700' }
+concurrency:
+  group: cbb-halftime-pull
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install pandas pyarrow requests numpy
+      - name: pull
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python backtest/pull_halftime_lines.py --mode "${{ github.event.inputs.mode }}" --n "${{ github.event.inputs.n }}" --max-credits "${{ github.event.inputs.max_credits }}" --out backtest/out
+      - name: save results
+        run: |
+          git config user.name "cbb-backtest"; git config user.email "cbb-backtest@users.noreply.github.com"
+          git add backtest/out
+          git commit -m "halftime lines pull $(date -u +%FT%TZ)" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin HEAD:main && break || sleep 10; done
