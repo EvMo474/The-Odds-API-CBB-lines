@@ -1,0 +1,84 @@
+games 30508
+seasons [np.int64(2022), np.int64(2023), np.int64(2024), np.int64(2025), np.int64(2026)]
+
+per season: games / with pregame line / missing a conference label
+        games  lined  no_conf
+season                       
+2022     5830   5386        5
+2023     6116   5634       24
+2024     6151   3768       18
+2025     6136      0        5
+2026     6275   4759        3
+
+line source:
+line_src
+covers               14403
+                     10961
+espn:DraftKings       4759
+espn:consensus         357
+espn:teamrankings       28
+
+gap>=10 with line: 9171
+
+by bucket:
+bucket
+Road Dog    4548
+Home Fav    1995
+Home Dog    1691
+Road Fav     921
+Pick          16
+
+by conference tier matchup:
+matchup_tier
+low vs low            4707
+major vs major        1834
+major vs low           949
+mid vs mid             890
+mid vs low             564
+major vs mid           187
+low vs unknown          31
+mid vs unknown           4
+major vs unknown         3
+unknown vs unknown       2
+
+conferences (cold team) with games at gap>=10 and a line:
+cold_conf
+Atlantic Coast Conference             402
+Big Ten Conference                    392
+Southeastern Conference               387
+Atlantic 10 Conference                359
+Mid-American Conference               345
+Coastal Athletic Association          334
+American Conference                   334
+Big 12 Conference                     318
+Southwestern Athletic Conference      313
+Big East Conference                   309
+Sun Belt Conference                   299
+Metro Atlantic Athletic Conference    295
+Missouri Valley Conference            287
+Big West Conference                   286
+Southland Conference                  277
+Mountain West Conference              275
+Horizon League                        272
+Western Athletic Conference           266
+Pac-12 Conference                     259
+West Coast Conference                 257
+Big Sky Conference                    252
+Ohio Valley Conference                251
+Patriot League                        249
+Summit League                         241
+Northeast Conference                  239
+Southern Conference                   225
+America East Conference               216
+Atlantic Sun Conference               205
+Conference USA                        195
+Mid-Eastern Athletic Conference       191
+Ivy League                            164
+Big South Conference                  164
+Big South - South                      51
+Conference USA - West                  51
+ASUN Conference - West                 48
+Conference USA - East                  44
+Big South - North                      40
+ASUN Conference - East                 38
+College Basketball Crown                5
