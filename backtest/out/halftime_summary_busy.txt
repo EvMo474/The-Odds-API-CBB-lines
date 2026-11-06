@@ -1,0 +1,10 @@
+mode busy: 289 games selected, 60 moments, credits remaining 18895
+matched to an Odds API event: 281 (no match: 8)
+at least one book had a live line: 281 (100%)
+share with a line, by book: DK 95%, FD 96%, MGM 93%, BR 96%, CZR 90%, FAN 95%
+books per game (median, games with any): 6
+snapshot inside the break: 97%; minutes into break median 5.5 (5th-95th pct 3.4 to 10.0)
+passes the live-line sanity check: 280 of 281
+market shift (median 2H line minus half the closing spread): mean -1.95, median -1.80  [n=280]
+DK: 138-129 (51.7% cover)
+FD: 140-128 (52.2% cover)
