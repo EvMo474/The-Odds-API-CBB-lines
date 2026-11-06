@@ -1,0 +1,74 @@
+{
+ "away": {
+  "abbr": "SOVA",
+  "id": "2896",
+  "name": "Southern Virginia Knights"
+ },
+ "date_key": "20261105",
+ "event_id": "401927395",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 10,
+    "3pm": 2,
+    "fg_pct": 23.08,
+    "fga": 26,
+    "fgm": 6,
+    "fta": 4,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 14,
+    "3pm": 7,
+    "fg_pct": 57.5,
+    "fga": 40,
+    "fgm": 23,
+    "fta": 8,
+    "ftm": 5
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "18",
+   "home": "58"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-06T00:46:34+00:00"
+ },
+ "halftime_first_seen": "2026-11-06T00:46:34+00:00",
+ "home": {
+  "abbr": "RICH",
+  "id": "257",
+  "name": "Richmond Spiders"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Bellarmine Knights @ Indiana Hoosiers",
+   "credits_left": "19607",
+   "events_list_match": 0.56,
+   "events_list_n": 84,
+   "match": 0.56,
+   "n_events": 84,
+   "t": "2026-11-06T00:46:35+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "18",
+    "home": "58"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-06T00:46:34+00:00"
+  }
+ ],
+ "start": "2026-11-06T00:00Z"
+}
