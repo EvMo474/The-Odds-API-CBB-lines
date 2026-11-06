@@ -6,6 +6,44 @@
  },
  "date_key": "20261105",
  "event_id": "401911273",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 19,
+    "3pm": 3,
+    "fg_pct": 33.33,
+    "fga": 45,
+    "fgm": 15,
+    "fta": 35,
+    "ftm": 25
+   },
+   "home": {
+    "3pa": 23,
+    "3pm": 6,
+    "fg_pct": 35.42,
+    "fga": 48,
+    "fgm": 17,
+    "fta": 20,
+    "ftm": 15
+   }
+  },
+  "linescores": {
+   "away": [
+    "27",
+    "31"
+   ],
+   "home": [
+    "27",
+    "28"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "58",
+   "home": "55"
+  },
+  "t": "2026-11-06T02:25:34+00:00"
+ },
  "flag": {
   "best_book": "draftkings",
   "best_line": -4.5,
