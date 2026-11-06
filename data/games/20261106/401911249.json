@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SLU",
+  "id": "139",
+  "name": "Saint Louis Billikens"
+ },
+ "date_key": "20261106",
+ "event_id": "401911249",
+ "home": {
+  "abbr": "MIZ",
+  "id": "142",
+  "name": "Missouri Tigers"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MIZ -2.5",
+    "home_spread": -2.5,
+    "provider": "DraftKings",
+    "raw_spread": -2.5,
+    "total": 161.5
+   }
+  ],
+  "t": "2026-11-06T05:01:34+00:00"
+ },
+ "start": "2026-11-07T00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "TAR",
+  "id": "2627",
+  "name": "Tarleton State Texans"
+ },
+ "date_key": "20261106",
+ "event_id": "401917515",
+ "home": {
+  "abbr": "USD",
+  "id": "301",
+  "name": "San Diego Toreros"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "USD -5.5",
+    "home_spread": -5.5,
+    "provider": "DraftKings",
+    "raw_spread": -5.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-06T05:01:34+00:00"
+ },
+ "start": "2026-11-07T02:30Z"
+}

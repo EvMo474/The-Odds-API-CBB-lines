@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "MTSU",
+  "id": "2393",
+  "name": "Middle Tennessee Blue Raiders"
+ },
+ "date_key": "20261106",
+ "event_id": "401909785",
+ "home": {
+  "abbr": "KU",
+  "id": "2305",
+  "name": "Kansas Jayhawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "KU -29.5",
+    "home_spread": -29.5,
+    "provider": "DraftKings",
+    "raw_spread": -29.5,
+    "total": 153.5
+   }
+  ],
+  "t": "2026-11-06T05:01:34+00:00"
+ },
+ "start": "2026-11-07T02:00Z"
+}

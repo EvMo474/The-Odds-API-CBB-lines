@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ARST",
+  "id": "2032",
+  "name": "Arkansas State Red Wolves"
+ },
+ "date_key": "20261106",
+ "event_id": "401906758",
+ "home": {
+  "abbr": "ALA",
+  "id": "333",
+  "name": "Alabama Crimson Tide"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ALA -25.5",
+    "home_spread": -25.5,
+    "provider": "DraftKings",
+    "raw_spread": -25.5,
+    "total": 174.5
+   }
+  ],
+  "t": "2026-11-06T05:01:34+00:00"
+ },
+ "start": "2026-11-07T00:30Z"
+}

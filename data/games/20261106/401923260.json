@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "FAU",
+  "id": "2226",
+  "name": "Florida Atlantic Owls"
+ },
+ "date_key": "20261106",
+ "event_id": "401923260",
+ "home": {
+  "abbr": "WRST",
+  "id": "2750",
+  "name": "Wright State Raiders"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "WRST -3.5",
+    "home_spread": -3.5,
+    "provider": "DraftKings",
+    "raw_spread": -3.5,
+    "total": 158.5
+   }
+  ],
+  "t": "2026-11-06T05:01:34+00:00"
+ },
+ "start": "2026-11-07T00:30Z"
+}
