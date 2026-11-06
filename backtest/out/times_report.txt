@@ -1,0 +1,36 @@
+games 31103
+
+halftime time source by season (pbp = real timestamps passed checks):
+ht_src  estimate   pbp
+season                
+2022        1975  4001
+2023        1933  4328
+2024        1275  4974
+2025        1329  4970
+2026        1164  5154
+
+median tip -> halftime start, minutes (good games only):
+season
+2022    48.9
+2023    49.2
+2024    49.7
+2025    51.8
+2026    50.8
+
+median break length, minutes:
+season
+2022    17.4
+2023    17.6
+2024    17.6
+2025    17.2
+2026    15.0
+
+median first-half length (first play to last 1H play), minutes:
+season
+2022    44.3
+2023    44.5
+2024    44.9
+2025    45.5
+2026    46.9
+
+games with a snapshot time: 31103
