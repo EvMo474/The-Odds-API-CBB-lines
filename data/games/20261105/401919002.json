@@ -4,6 +4,44 @@
   "id": "2296",
   "name": "Jackson State Tigers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -12.5,
+    "total": 151.5
+   },
+   "betonlineag": {
+    "spread": -12.5,
+    "total": 150.5
+   },
+   "betrivers": {
+    "spread": -12.5,
+    "total": 151.5
+   },
+   "draftkings": {
+    "spread": -12.5,
+    "total": 152.5
+   },
+   "fanatics": {
+    "spread": -12.5,
+    "total": 152.5
+   },
+   "fanduel": {
+    "spread": -12.5,
+    "total": 151.5
+   },
+   "lowvig": {
+    "spread": -12.5,
+    "total": 150.5
+   },
+   "williamhill_us": {
+    "spread": -12.5,
+    "total": 151.5
+   }
+  },
+  "odds_event_id": "947b153ad88abea624c118320ce92776",
+  "t": "2026-11-06T00:28:34+00:00"
+ },
  "date_key": "20261105",
  "event_id": "401919002",
  "home": {
