@@ -1,0 +1,27 @@
+name: build-halftime-times
+# Free: downloads the hoopR play-by-play + schedules and writes real-world tip / halftime times. No Odds API credits.
+on:
+  workflow_dispatch:
+    inputs:
+      seasons: { description: 'seasons (ending year)', default: '2022-2026' }
+concurrency:
+  group: cbb-halftime-times
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  times:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install pandas pyarrow requests numpy
+      - run: python backtest/halftime_times.py --seasons "${{ github.event.inputs.seasons }}" --out backtest/out
+      - name: save results
+        run: |
+          git config user.name "cbb-backtest"; git config user.email "cbb-backtest@users.noreply.github.com"
+          git add backtest/out
+          git commit -m "halftime times $(date -u +%FT%TZ)" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin HEAD:main && break || sleep 10; done
