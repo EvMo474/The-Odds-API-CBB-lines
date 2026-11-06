@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UWF",
+  "id": "2697",
+  "name": "West Florida Argonauts"
+ },
+ "date_key": "20261106",
+ "event_id": "401922248",
+ "home": {
+  "abbr": "FIU",
+  "id": "2229",
+  "name": "Florida International Panthers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "FIU -14.5",
+    "home_spread": -14.5,
+    "provider": "DraftKings",
+    "raw_spread": -14.5,
+    "total": 154.5
+   }
+  ],
+  "t": "2026-11-06T05:34:34+00:00"
+ },
+ "start": "2026-11-06T22:00Z"
+}
