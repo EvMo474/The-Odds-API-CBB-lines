@@ -19,7 +19,8 @@
     "total": 149.5
    },
    "betus": {
-    "spread": -6.5
+    "spread": -6.5,
+    "total": 149.5
    },
    "draftkings": {
     "spread": -6.5,
@@ -27,7 +28,7 @@
    },
    "fanatics": {
     "spread": -6.5,
-    "total": 149.5
+    "total": 150.0
    },
    "fanduel": {
     "spread": -6.5,
@@ -39,7 +40,7 @@
    }
   },
   "odds_event_id": "16b88da9c328520f2e802a9bc4f5c246",
-  "t": "2026-11-06T01:28:35+00:00"
+  "t": "2026-11-06T01:31:35+00:00"
  },
  "date_key": "20261105",
  "event_id": "401909501",

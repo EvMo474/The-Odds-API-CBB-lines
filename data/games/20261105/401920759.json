@@ -84,6 +84,16 @@
    "n_events": 82,
    "t": "2026-11-06T01:28:35+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "N Colorado Bears @ Arizona St Sun Devils",
+   "credits_left": "19577",
+   "events_list_match": 0.46,
+   "events_list_n": 82,
+   "match": 0.46,
+   "n_events": 82,
+   "t": "2026-11-06T01:31:35+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -134,6 +144,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-06T01:28:34+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "33"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-06T01:31:34+00:00"
+  },
+  {
+   "clock": "18:19",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "31",
+    "home": "36"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-06T01:34:34+00:00"
   }
  ],
  "start": "2026-11-06T00:30Z"
