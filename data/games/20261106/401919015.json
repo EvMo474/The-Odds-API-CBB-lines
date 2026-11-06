@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NICH",
+  "id": "2447",
+  "name": "Nicholls Colonels"
+ },
+ "date_key": "20261106",
+ "event_id": "401919015",
+ "home": {
+  "abbr": "UAB",
+  "id": "5",
+  "name": "UAB Blazers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UAB -13.5",
+    "home_spread": -13.5,
+    "provider": "DraftKings",
+    "raw_spread": -13.5,
+    "total": 155.5
+   }
+  ],
+  "t": "2026-11-06T05:43:34+00:00"
+ },
+ "start": "2026-11-07T00:30Z"
+}
