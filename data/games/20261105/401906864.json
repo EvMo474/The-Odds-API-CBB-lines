@@ -4,6 +4,44 @@
   "id": "2241",
   "name": "Gardner-Webb Runnin' Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -40.5,
+    "total": 154.5
+   },
+   "betonlineag": {
+    "spread": -41.0,
+    "total": 155.0
+   },
+   "betrivers": {
+    "spread": -40.5,
+    "total": 155.5
+   },
+   "draftkings": {
+    "spread": -40.5,
+    "total": 154.5
+   },
+   "fanatics": {
+    "spread": -41.5,
+    "total": 155.0
+   },
+   "fanduel": {
+    "spread": -40.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": -41.0,
+    "total": 155.0
+   },
+   "williamhill_us": {
+    "spread": -41.0,
+    "total": 154.5
+   }
+  },
+  "odds_event_id": "302160cd0c99f7fdd781972903301843",
+  "t": "2026-11-06T00:58:35+00:00"
+ },
  "date_key": "20261105",
  "event_id": "401906864",
  "home": {

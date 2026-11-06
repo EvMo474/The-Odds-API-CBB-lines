@@ -4,6 +4,48 @@
   "id": "2678",
   "name": "VMI Keydets"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -24.5,
+    "total": 160.5
+   },
+   "betonlineag": {
+    "spread": -24.5,
+    "total": 159.5
+   },
+   "betrivers": {
+    "spread": -24.5,
+    "total": 159.5
+   },
+   "betus": {
+    "spread": -24.5,
+    "total": 160.0
+   },
+   "draftkings": {
+    "spread": -24.5,
+    "total": 160.5
+   },
+   "fanatics": {
+    "spread": -24.5,
+    "total": 160.0
+   },
+   "fanduel": {
+    "spread": -24.5,
+    "total": 159.5
+   },
+   "lowvig": {
+    "spread": -24.5,
+    "total": 159.5
+   },
+   "williamhill_us": {
+    "spread": -25.0,
+    "total": 160.0
+   }
+  },
+  "odds_event_id": "7b71516706f86893c72e047cd9e37d4a",
+  "t": "2026-11-06T00:58:35+00:00"
+ },
  "date_key": "20261105",
  "event_id": "401918968",
  "home": {

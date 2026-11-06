@@ -74,6 +74,26 @@
    "n_events": 84,
    "t": "2026-11-06T00:52:35+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Bellarmine Knights @ Indiana Hoosiers",
+   "credits_left": "19601",
+   "events_list_match": 0.43,
+   "events_list_n": 84,
+   "match": 0.43,
+   "n_events": 84,
+   "t": "2026-11-06T00:55:35+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Bellarmine Knights @ Indiana Hoosiers",
+   "credits_left": "19599",
+   "events_list_match": 0.43,
+   "events_list_n": 84,
+   "match": 0.43,
+   "n_events": 84,
+   "t": "2026-11-06T00:58:34+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -112,6 +132,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-06T00:52:34+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "15",
+    "home": "63"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-06T00:55:35+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "15",
+    "home": "63"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-06T00:58:34+00:00"
   }
  ],
  "start": "2026-11-06T00:00Z"

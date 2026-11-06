@@ -4,6 +4,44 @@
   "id": "294",
   "name": "Jacksonville Dolphins"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -37.5,
+    "total": 156.5
+   },
+   "betonlineag": {
+    "spread": -37.5,
+    "total": 156.0
+   },
+   "betrivers": {
+    "spread": -36.5,
+    "total": 156.5
+   },
+   "draftkings": {
+    "spread": -37.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": -37.5,
+    "total": 156.0
+   },
+   "fanduel": {
+    "spread": -36.5,
+    "total": 155.5
+   },
+   "lowvig": {
+    "spread": -37.5,
+    "total": 156.0
+   },
+   "williamhill_us": {
+    "spread": -37.5,
+    "total": 155.5
+   }
+  },
+  "odds_event_id": "582b7e49e8336dd23eca76cd47f5aeaf",
+  "t": "2026-11-06T00:58:35+00:00"
+ },
  "date_key": "20261105",
  "event_id": "401906770",
  "home": {

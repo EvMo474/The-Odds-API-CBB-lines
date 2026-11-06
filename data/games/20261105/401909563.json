@@ -4,6 +4,48 @@
   "id": "324",
   "name": "Coastal Carolina Chanticleers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -40.5,
+    "total": 149.5
+   },
+   "betonlineag": {
+    "spread": -40.5,
+    "total": 149.5
+   },
+   "betrivers": {
+    "spread": -40.5,
+    "total": 149.5
+   },
+   "betus": {
+    "spread": -40.5,
+    "total": 149.5
+   },
+   "draftkings": {
+    "spread": -40.5,
+    "total": 149.5
+   },
+   "fanatics": {
+    "spread": -40.5,
+    "total": 150.0
+   },
+   "fanduel": {
+    "spread": -40.5,
+    "total": 149.5
+   },
+   "lowvig": {
+    "spread": -40.5,
+    "total": 149.5
+   },
+   "williamhill_us": {
+    "spread": -40.5,
+    "total": 150.0
+   }
+  },
+  "odds_event_id": "775c40116c26286ded7f130c3a090cdc",
+  "t": "2026-11-06T00:58:35+00:00"
+ },
  "date_key": "20261105",
  "event_id": "401909563",
  "home": {
