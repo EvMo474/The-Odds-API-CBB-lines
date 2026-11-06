@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LEM",
+  "id": "2330",
+  "name": "Le Moyne Dolphins"
+ },
+ "date_key": "20261105",
+ "event_id": "401909491",
+ "home": {
+  "abbr": "CREI",
+  "id": "156",
+  "name": "Creighton Bluejays"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "CREI -29.5",
+    "home_spread": -29.5,
+    "provider": "DraftKings",
+    "raw_spread": -29.5,
+    "total": 156.5
+   }
+  ],
+  "t": "2026-11-06T00:04:34+00:00"
+ },
+ "start": "2026-11-06T01:00Z"
+}

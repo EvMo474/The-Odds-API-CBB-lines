@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "GWEB",
+  "id": "2241",
+  "name": "Gardner-Webb Runnin' Bulldogs"
+ },
+ "date_key": "20261105",
+ "event_id": "401906864",
+ "home": {
+  "abbr": "TEX",
+  "id": "251",
+  "name": "Texas Longhorns"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "TEX -41.5",
+    "home_spread": -41.5,
+    "provider": "DraftKings",
+    "raw_spread": -41.5,
+    "total": 154.5
+   }
+  ],
+  "t": "2026-11-06T00:04:34+00:00"
+ },
+ "start": "2026-11-06T01:00Z"
+}

@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "JKST",
+  "id": "2296",
+  "name": "Jackson State Tigers"
+ },
+ "date_key": "20261105",
+ "event_id": "401919002",
+ "home": {
+  "abbr": "TULN",
+  "id": "2655",
+  "name": "Tulane Green Wave"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "TULN -12.5",
+    "home_spread": -12.5,
+    "provider": "DraftKings",
+    "raw_spread": -12.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-06T00:04:34+00:00"
+ },
+ "start": "2026-11-06T00:30Z"
+}

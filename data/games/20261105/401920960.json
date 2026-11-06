@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "VUL",
+  "id": "3229",
+  "name": "Virginia Lynchburg Dragons"
+ },
+ "date_key": "20261105",
+ "event_id": "401920960",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 32,
+    "3pm": 9,
+    "fg_pct": 31.88,
+    "fga": 69,
+    "fgm": 22,
+    "fta": 7,
+    "ftm": 7
+   },
+   "home": {
+    "3pa": 31,
+    "3pm": 15,
+    "fg_pct": 60.27,
+    "fga": 73,
+    "fgm": 44,
+    "fta": 16,
+    "ftm": 11
+   }
+  },
+  "linescores": {
+   "away": [
+    "24",
+    "36"
+   ],
+   "home": [
+    "58",
+    "56"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "60",
+   "home": "114"
+  },
+  "t": "2026-11-06T00:04:34+00:00"
+ },
+ "home": {
+  "abbr": "MORE",
+  "id": "2413",
+  "name": "Morehead State Eagles"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-05T22:15Z"
+}
