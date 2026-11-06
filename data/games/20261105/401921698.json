@@ -4,6 +4,48 @@
   "id": "119",
   "name": "Towson Tigers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -8.5,
+    "total": 137.5
+   },
+   "betonlineag": {
+    "spread": -8.5,
+    "total": 137.0
+   },
+   "betrivers": {
+    "spread": -8.5,
+    "total": 136.5
+   },
+   "betus": {
+    "spread": -8.5,
+    "total": 137.0
+   },
+   "draftkings": {
+    "spread": -8.5,
+    "total": 137.5
+   },
+   "fanatics": {
+    "spread": -8.5,
+    "total": 137.0
+   },
+   "fanduel": {
+    "spread": -7.5,
+    "total": 136.5
+   },
+   "lowvig": {
+    "spread": -8.5,
+    "total": 137.0
+   },
+   "williamhill_us": {
+    "spread": -8.5,
+    "total": 137.0
+   }
+  },
+  "odds_event_id": "5cc76f9a5f90c66256075f91598fd634",
+  "t": "2026-11-06T01:58:35+00:00"
+ },
  "date_key": "20261105",
  "event_id": "401921698",
  "home": {
