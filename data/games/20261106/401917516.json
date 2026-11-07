@@ -299,6 +299,28 @@
    },
    "status": "STATUS_IN_PROGRESS",
    "t": "2026-11-07T04:35:48+00:00"
+  },
+  {
+   "clock": "2:18",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "48",
+    "home": "100"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-07T04:38:48+00:00"
+  },
+  {
+   "clock": "0:52",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "50",
+    "home": "100"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-07T04:41:48+00:00"
   }
  ],
  "start": "2026-11-07T03:00Z"
