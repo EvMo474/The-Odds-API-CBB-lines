@@ -4,6 +4,48 @@
   "id": "2032",
   "name": "Arkansas State Red Wolves"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -26.5,
+    "total": 178.5
+   },
+   "betonlineag": {
+    "spread": -26.0,
+    "total": 177.5
+   },
+   "betrivers": {
+    "spread": -25.5,
+    "total": 177.5
+   },
+   "betus": {
+    "spread": -26.5,
+    "total": 178.5
+   },
+   "draftkings": {
+    "spread": -25.5,
+    "total": 178.5
+   },
+   "fanatics": {
+    "spread": -25.5,
+    "total": 178.5
+   },
+   "fanduel": {
+    "spread": -26.5,
+    "total": 178.5
+   },
+   "lowvig": {
+    "spread": -26.0,
+    "total": 177.5
+   },
+   "williamhill_us": {
+    "spread": -26.0,
+    "total": 178.5
+   }
+  },
+  "odds_event_id": "fb7ba48c3852820bfba3c4b1e6b4c177",
+  "t": "2026-11-07T00:29:48+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401906758",
  "home": {

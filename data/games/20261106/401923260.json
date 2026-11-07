@@ -4,6 +4,48 @@
   "id": "2226",
   "name": "Florida Atlantic Owls"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 156.5
+   },
+   "betonlineag": {
+    "spread": -4.0,
+    "total": 156.5
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 157.5
+   },
+   "betus": {
+    "spread": -4.0,
+    "total": 156.0
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 156.5
+   },
+   "fanatics": {
+    "spread": -4.0,
+    "total": 156.5
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 156.5
+   },
+   "lowvig": {
+    "spread": -4.0,
+    "total": 156.5
+   },
+   "williamhill_us": {
+    "spread": -4.0,
+    "total": 156.0
+   }
+  },
+  "odds_event_id": "0fb7572b9878ed260df664d738309405",
+  "t": "2026-11-07T00:29:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401923260",
  "home": {
