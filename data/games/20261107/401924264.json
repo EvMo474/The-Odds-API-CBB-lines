@@ -724,6 +724,26 @@
    "n_events": 64,
    "t": "2026-11-07T21:04:51+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Long Beach St 49ers @ Montana St Bobcats",
+   "credits_left": "30982",
+   "events_list_match": 0.8,
+   "events_list_n": 64,
+   "match": 0.8,
+   "n_events": 64,
+   "t": "2026-11-07T21:07:51+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Long Beach St 49ers @ Montana St Bobcats",
+   "credits_left": "30980",
+   "events_list_match": 0.8,
+   "events_list_n": 64,
+   "match": 0.8,
+   "n_events": 64,
+   "t": "2026-11-07T21:10:51+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -774,6 +794,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-07T21:04:50+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T21:07:50+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T21:10:50+00:00"
   }
  ],
  "pregame": {
