@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "CCNY",
+  "id": "170",
+  "name": "City College NY Beavers"
+ },
+ "break_via": "STATUS_IN_PROGRESS",
+ "date_key": "20261107",
+ "event_id": "401919758",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 15,
+    "3pm": 8,
+    "fg_pct": 44.83,
+    "fga": 29,
+    "fgm": 13,
+    "fta": 5,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 12,
+    "3pm": 4,
+    "fg_pct": 46.67,
+    "fga": 30,
+    "fgm": 14,
+    "fta": 12,
+    "ftm": 12
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "38",
+   "home": "44"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-07T17:49:50+00:00"
+ },
+ "halftime_first_seen": "2026-11-07T17:49:50+00:00",
+ "home": {
+  "abbr": "FDU",
+  "id": "161",
+  "name": "Fairleigh Dickinson Knights"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Mercer Bears @ Davidson Wildcats",
+   "credits_left": "31052",
+   "events_list_match": 0.46,
+   "events_list_n": 55,
+   "match": 0.46,
+   "n_events": 55,
+   "t": "2026-11-07T17:49:51+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Mercer Bears @ Davidson Wildcats",
+   "credits_left": "31050",
+   "events_list_match": 0.46,
+   "events_list_n": 55,
+   "match": 0.46,
+   "n_events": 55,
+   "t": "2026-11-07T17:52:50+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "38",
+    "home": "44"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-07T17:49:50+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "38",
+    "home": "44"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-07T17:52:50+00:00"
+  }
+ ],
+ "start": "2026-11-07T17:00Z"
+}
