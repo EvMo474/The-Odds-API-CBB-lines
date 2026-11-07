@@ -1,0 +1,96 @@
+{
+ "away": {
+  "abbr": "UMDB",
+  "id": "2391",
+  "name": "Michigan Dearborn Wolves"
+ },
+ "date_key": "20261106",
+ "event_id": "401921166",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 14,
+    "3pm": 5,
+    "fg_pct": 53.57,
+    "fga": 28,
+    "fgm": 15,
+    "fta": 6,
+    "ftm": 5
+   },
+   "home": {
+    "3pa": 17,
+    "3pm": 4,
+    "fg_pct": 52.94,
+    "fga": 34,
+    "fgm": 18,
+    "fta": 7,
+    "ftm": 7
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "40",
+   "home": "47"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-07T00:50:48+00:00"
+ },
+ "halftime_first_seen": "2026-11-07T00:50:48+00:00",
+ "home": {
+  "abbr": "CLE",
+  "id": "325",
+  "name": "Cleveland State Vikings"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Indiana St Sycamores @ Ball State Cardinals",
+   "credits_left": "13849",
+   "events_list_match": 0.51,
+   "events_list_n": 97,
+   "match": 0.51,
+   "n_events": 97,
+   "t": "2026-11-07T00:50:49+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Indiana St Sycamores @ Ball State Cardinals",
+   "credits_left": "13847",
+   "events_list_match": 0.51,
+   "events_list_n": 97,
+   "match": 0.51,
+   "n_events": 97,
+   "t": "2026-11-07T00:53:49+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "40",
+    "home": "47"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T00:50:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "40",
+    "home": "47"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T00:53:48+00:00"
+  }
+ ],
+ "start": "2026-11-07T00:00Z"
+}
