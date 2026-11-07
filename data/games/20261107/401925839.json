@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "CHEY",
+  "id": "2129",
+  "name": "Cheyney (PA) Wolves"
+ },
+ "break_via": "STATUS_IN_PROGRESS",
+ "date_key": "20261107",
+ "event_id": "401925839",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 4,
+    "3pm": 0,
+    "fg_pct": 36.0,
+    "fga": 25,
+    "fgm": 9,
+    "fta": 11,
+    "ftm": 6
+   },
+   "home": {
+    "3pa": 13,
+    "3pm": 5,
+    "fg_pct": 40.62,
+    "fga": 32,
+    "fgm": 13,
+    "fta": 12,
+    "ftm": 6
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "24",
+   "home": "37"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-07T22:26:55+00:00"
+ },
+ "halftime_first_seen": "2026-11-07T22:26:55+00:00",
+ "home": {
+  "abbr": "UMES",
+  "id": "2379",
+  "name": "Maryland Eastern Shore Hawks"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Utah Valley Wolverines @ Weber State Wildcats",
+   "credits_left": "30942",
+   "events_list_match": 0.42,
+   "events_list_n": 58,
+   "match": 0.42,
+   "n_events": 58,
+   "t": "2026-11-07T22:26:56+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Utah Valley Wolverines @ Weber State Wildcats",
+   "credits_left": "30940",
+   "events_list_match": 0.42,
+   "events_list_n": 58,
+   "match": 0.42,
+   "n_events": 58,
+   "t": "2026-11-07T22:29:55+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "24",
+    "home": "37"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-07T22:26:55+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "24",
+    "home": "37"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T22:29:55+00:00"
+  }
+ ],
+ "start": "2026-11-07T21:30Z"
+}

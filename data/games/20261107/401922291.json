@@ -4,6 +4,44 @@
   "id": "2717",
   "name": "Western Carolina Catamounts"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 3.5,
+    "total": 152.5
+   },
+   "betonlineag": {
+    "spread": 3.5,
+    "total": 152.5
+   },
+   "betrivers": {
+    "spread": 3.5,
+    "total": 152.5
+   },
+   "draftkings": {
+    "spread": 3.5,
+    "total": 152.5
+   },
+   "fanatics": {
+    "spread": 3.5,
+    "total": 152.5
+   },
+   "fanduel": {
+    "spread": 4.5,
+    "total": 152.5
+   },
+   "lowvig": {
+    "spread": 3.5,
+    "total": 152.5
+   },
+   "williamhill_us": {
+    "spread": 3.5,
+    "total": 152.5
+   }
+  },
+  "odds_event_id": "9e452442a22d637a0e0b5c72f5f0b3a3",
+  "t": "2026-11-07T22:29:56+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401922291",
  "home": {
