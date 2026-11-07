@@ -4,6 +4,48 @@
   "id": "2405",
   "name": "Monmouth Hawks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -6.5,
+    "total": 144.5
+   },
+   "betonlineag": {
+    "spread": -6.0,
+    "total": 144.5
+   },
+   "betrivers": {
+    "spread": -6.5,
+    "total": 145.5
+   },
+   "betus": {
+    "spread": -6.5,
+    "total": 144.5
+   },
+   "draftkings": {
+    "spread": -6.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": -6.5,
+    "total": 144.5
+   },
+   "fanduel": {
+    "spread": -6.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": -6.0,
+    "total": 144.5
+   },
+   "williamhill_us": {
+    "spread": -6.5,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "ce492f4ed1f024a8332f35dd1ff065d2",
+  "t": "2026-11-07T20:58:51+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401920062",
  "home": {

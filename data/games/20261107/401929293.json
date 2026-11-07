@@ -4,6 +4,48 @@
   "id": "2437",
   "name": "Omaha Mavericks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -29.5,
+    "total": 153.5
+   },
+   "betonlineag": {
+    "spread": -29.0,
+    "total": 154.5
+   },
+   "betrivers": {
+    "spread": -29.5,
+    "total": 153.5
+   },
+   "betus": {
+    "spread": -29.5,
+    "total": 154.0
+   },
+   "draftkings": {
+    "spread": -29.5,
+    "total": 154.5
+   },
+   "fanatics": {
+    "spread": -29.5,
+    "total": 154.0
+   },
+   "fanduel": {
+    "spread": -29.5,
+    "total": 153.5
+   },
+   "lowvig": {
+    "spread": -29.0,
+    "total": 154.5
+   },
+   "williamhill_us": {
+    "spread": -29.5,
+    "total": 153.5
+   }
+  },
+  "odds_event_id": "c4a50f597254e62cf6bb56c576e3d866",
+  "t": "2026-11-07T20:58:51+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401929293",
  "home": {

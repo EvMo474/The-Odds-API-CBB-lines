@@ -4,6 +4,48 @@
   "id": "2473",
   "name": "Oakland Golden Grizzlies"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -13.5,
+    "total": 148.5
+   },
+   "betonlineag": {
+    "spread": -13.5,
+    "total": 149.0
+   },
+   "betrivers": {
+    "spread": -13.5,
+    "total": 148.5
+   },
+   "betus": {
+    "spread": -14.0,
+    "total": 149.0
+   },
+   "draftkings": {
+    "spread": -13.5,
+    "total": 149.5
+   },
+   "fanatics": {
+    "spread": -13.5,
+    "total": 149.0
+   },
+   "fanduel": {
+    "spread": -13.5,
+    "total": 148.5
+   },
+   "lowvig": {
+    "spread": -13.5,
+    "total": 149.0
+   },
+   "williamhill_us": {
+    "spread": -13.5,
+    "total": 149.0
+   }
+  },
+  "odds_event_id": "ffdc4937cb4e802afce7b5b8894a1cf8",
+  "t": "2026-11-07T20:58:51+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401928352",
  "home": {

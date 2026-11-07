@@ -4,6 +4,48 @@
   "id": "2535",
   "name": "Samford Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -12.5,
+    "total": 157.5
+   },
+   "betonlineag": {
+    "spread": -11.0,
+    "total": 158.0
+   },
+   "betrivers": {
+    "spread": -12.5,
+    "total": 158.5
+   },
+   "betus": {
+    "spread": -11.5,
+    "total": 158.0
+   },
+   "draftkings": {
+    "spread": -11.5,
+    "total": 158.5
+   },
+   "fanatics": {
+    "spread": -11.5,
+    "total": 158.0
+   },
+   "fanduel": {
+    "spread": -12.5,
+    "total": 157.5
+   },
+   "lowvig": {
+    "spread": -11.0,
+    "total": 158.0
+   },
+   "williamhill_us": {
+    "spread": -12.5,
+    "total": 158.0
+   }
+  },
+  "odds_event_id": "74c510490b9dc16a4a1ffca922cb8dfb",
+  "t": "2026-11-07T20:58:51+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401924912",
  "home": {
