@@ -4,6 +4,44 @@
   "id": "2619",
   "name": "Stony Brook Seawolves"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -12.5,
+    "total": 144.5
+   },
+   "betonlineag": {
+    "spread": -13.0,
+    "total": 144.0
+   },
+   "betrivers": {
+    "spread": -12.5,
+    "total": 144.5
+   },
+   "betus": {
+    "spread": -13.0,
+    "total": 144.0
+   },
+   "draftkings": {
+    "spread": -11.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": -12.5,
+    "total": 144.0
+   },
+   "fanduel": {
+    "spread": -12.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": -13.0,
+    "total": 144.0
+   }
+  },
+  "odds_event_id": "5f3373c439e5e1f30d5df3d16b00c3e4",
+  "t": "2026-11-07T00:59:50+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401920733",
  "home": {

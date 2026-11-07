@@ -4,6 +4,43 @@
   "id": "2523",
   "name": "Robert Morris Colonials"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -10.5,
+    "total": 142.5
+   },
+   "betonlineag": {
+    "spread": -10.5,
+    "total": 142.5
+   },
+   "betrivers": {
+    "spread": -10.5,
+    "total": 143.5
+   },
+   "betus": {
+    "spread": -10.0
+   },
+   "draftkings": {
+    "spread": -10.5,
+    "total": 142.5
+   },
+   "fanatics": {
+    "spread": -10.5,
+    "total": 142.5
+   },
+   "fanduel": {
+    "spread": -10.5,
+    "total": 142.5
+   },
+   "lowvig": {
+    "spread": -10.5,
+    "total": 142.5
+   }
+  },
+  "odds_event_id": "d60136f35a646d85f6a3cfae9a318710",
+  "t": "2026-11-07T00:59:50+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401928823",
  "home": {

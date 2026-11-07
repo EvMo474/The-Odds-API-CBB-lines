@@ -4,6 +4,48 @@
   "id": "94",
   "name": "Northern Kentucky Norse"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -27.5,
+    "total": 170.5
+   },
+   "betonlineag": {
+    "spread": -27.0,
+    "total": 170.5
+   },
+   "betrivers": {
+    "spread": -27.5,
+    "total": 171.5
+   },
+   "betus": {
+    "spread": -27.0,
+    "total": 170.5
+   },
+   "draftkings": {
+    "spread": -26.5,
+    "total": 170.5
+   },
+   "fanatics": {
+    "spread": -26.5,
+    "total": 171.0
+   },
+   "fanduel": {
+    "spread": -27.5,
+    "total": 171.5
+   },
+   "lowvig": {
+    "spread": -27.0,
+    "total": 170.5
+   },
+   "williamhill_us": {
+    "spread": -27.0,
+    "total": 170.5
+   }
+  },
+  "odds_event_id": "287854af1fc5104e48b2bf1bbf89bab6",
+  "t": "2026-11-07T00:59:50+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401920807",
  "home": {

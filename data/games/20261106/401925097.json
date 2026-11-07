@@ -4,6 +4,44 @@
   "id": "357",
   "name": "Texas A&M-Corpus Christi Islanders"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 129.5
+   },
+   "betonlineag": {
+    "spread": -3.0,
+    "total": 129.5
+   },
+   "betrivers": {
+    "spread": -2.5,
+    "total": 130.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 129.5
+   },
+   "fanatics": {
+    "spread": -3.5,
+    "total": 129.5
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 129.5
+   },
+   "lowvig": {
+    "spread": -3.0,
+    "total": 129.5
+   },
+   "williamhill_us": {
+    "spread": -3.0,
+    "total": 129.5
+   }
+  },
+  "odds_event_id": "223c9005e074e9ff13cbff2cc80f2b7d",
+  "t": "2026-11-07T00:59:50+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401925097",
  "home": {
