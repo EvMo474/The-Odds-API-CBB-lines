@@ -84,6 +84,16 @@
    "n_events": 95,
    "t": "2026-11-07T01:59:49+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "South Carolina St Bulldogs @ South Carolina Upstate Spartans",
+   "credits_left": "31154",
+   "events_list_match": 0.61,
+   "events_list_n": 95,
+   "match": 0.61,
+   "n_events": 95,
+   "t": "2026-11-07T02:02:49+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -134,6 +144,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-07T01:59:49+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "29",
+    "home": "34"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T02:02:48+00:00"
+  },
+  {
+   "clock": "18:56",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "29",
+    "home": "37"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-07T02:05:48+00:00"
   }
  ],
  "start": "2026-11-07T01:00Z"
