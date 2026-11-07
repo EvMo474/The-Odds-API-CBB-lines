@@ -4,6 +4,48 @@
   "id": "2046",
   "name": "Austin Peay Governors"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -5.5,
+    "total": 161.5
+   },
+   "betonlineag": {
+    "spread": -6.0,
+    "total": 161.5
+   },
+   "betrivers": {
+    "spread": -5.5,
+    "total": 160.5
+   },
+   "betus": {
+    "spread": -6.0,
+    "total": 161.5
+   },
+   "draftkings": {
+    "spread": -5.5,
+    "total": 161.5
+   },
+   "fanatics": {
+    "spread": -6.0,
+    "total": 161.5
+   },
+   "fanduel": {
+    "spread": -5.5,
+    "total": 161.5
+   },
+   "lowvig": {
+    "spread": -6.0,
+    "total": 161.5
+   },
+   "williamhill_us": {
+    "spread": -6.0,
+    "total": 161.5
+   }
+  },
+  "odds_event_id": "2bd9a263687892a299d3f936fb592d7c",
+  "t": "2026-11-06T23:59:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401917949",
  "home": {

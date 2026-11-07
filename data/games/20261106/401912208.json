@@ -4,6 +4,44 @@
   "id": "44",
   "name": "American University Eagles"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -15.5,
+    "total": 141.5
+   },
+   "betonlineag": {
+    "spread": -15.5,
+    "total": 141.0
+   },
+   "betrivers": {
+    "spread": -16.5,
+    "total": 141.5
+   },
+   "draftkings": {
+    "spread": -15.5,
+    "total": 141.5
+   },
+   "fanatics": {
+    "spread": -15.5,
+    "total": 141.5
+   },
+   "fanduel": {
+    "spread": -15.5,
+    "total": 141.5
+   },
+   "lowvig": {
+    "spread": -15.5,
+    "total": 141.0
+   },
+   "williamhill_us": {
+    "spread": -16.0,
+    "total": 142.0
+   }
+  },
+  "odds_event_id": "229b6af00a22bee24249299501e1f916",
+  "t": "2026-11-06T23:59:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401912208",
  "home": {

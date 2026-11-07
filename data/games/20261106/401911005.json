@@ -4,6 +4,48 @@
   "id": "282",
   "name": "Indiana State Sycamores"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -1.5,
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": -1.5,
+    "total": 146.5
+   },
+   "betrivers": {
+    "spread": -1.5,
+    "total": 146.5
+   },
+   "betus": {
+    "spread": -2.0,
+    "total": 146.5
+   },
+   "draftkings": {
+    "spread": -1.5,
+    "total": 146.5
+   },
+   "fanatics": {
+    "spread": -2.0,
+    "total": 147.0
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 146.5
+   },
+   "lowvig": {
+    "spread": -1.5,
+    "total": 146.5
+   },
+   "williamhill_us": {
+    "spread": -1.5,
+    "total": 146.5
+   }
+  },
+  "odds_event_id": "09eec96f2954c7f37969719c51a0def5",
+  "t": "2026-11-06T23:59:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401911005",
  "home": {

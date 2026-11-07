@@ -4,6 +4,48 @@
   "id": "2430",
   "name": "UNC Greensboro Spartans"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -8.5,
+    "total": 150.5
+   },
+   "betonlineag": {
+    "spread": -9.0,
+    "total": 150.5
+   },
+   "betrivers": {
+    "spread": -8.5,
+    "total": 151.5
+   },
+   "betus": {
+    "spread": -9.0,
+    "total": 150.5
+   },
+   "draftkings": {
+    "spread": -8.5,
+    "total": 150.5
+   },
+   "fanatics": {
+    "spread": -8.5,
+    "total": 150.0
+   },
+   "fanduel": {
+    "spread": -8.5,
+    "total": 150.5
+   },
+   "lowvig": {
+    "spread": -9.0,
+    "total": 150.5
+   },
+   "williamhill_us": {
+    "spread": -9.0,
+    "total": 150.5
+   }
+  },
+  "odds_event_id": "19d228ef64ef660e06130f7c03135181",
+  "t": "2026-11-06T23:59:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401921140",
  "home": {

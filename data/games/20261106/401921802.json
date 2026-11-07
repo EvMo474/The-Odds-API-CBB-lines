@@ -4,6 +4,48 @@
   "id": "256",
   "name": "James Madison Dukes"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -23.5,
+    "total": 156.5
+   },
+   "betonlineag": {
+    "spread": -23.0,
+    "total": 157.0
+   },
+   "betrivers": {
+    "spread": -24.5,
+    "total": 156.5
+   },
+   "betus": {
+    "spread": -23.5,
+    "total": 157.0
+   },
+   "draftkings": {
+    "spread": -23.5,
+    "total": 156.5
+   },
+   "fanatics": {
+    "spread": -23.5,
+    "total": 156.5
+   },
+   "fanduel": {
+    "spread": -23.5,
+    "total": 156.5
+   },
+   "lowvig": {
+    "spread": -23.0,
+    "total": 157.0
+   },
+   "williamhill_us": {
+    "spread": -23.5,
+    "total": 156.5
+   }
+  },
+  "odds_event_id": "5c26c14508ea693b221baa22091b376c",
+  "t": "2026-11-06T23:59:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401921802",
  "home": {

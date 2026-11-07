@@ -1,0 +1,67 @@
+{
+ "away": {
+  "abbr": "BU",
+  "id": "104",
+  "name": "Boston University Terriers"
+ },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -1.5,
+    "total": 144.5
+   },
+   "betonlineag": {
+    "spread": -1.0,
+    "total": 144.0
+   },
+   "betrivers": {
+    "spread": -2.5,
+    "total": 144.5
+   },
+   "draftkings": {
+    "spread": -1.5,
+    "total": 143.5
+   },
+   "fanatics": {
+    "spread": -1.5,
+    "total": 144.0
+   },
+   "fanduel": {
+    "spread": -2.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": -1.0,
+    "total": 144.0
+   },
+   "williamhill_us": {
+    "spread": -1.0,
+    "total": 143.5
+   }
+  },
+  "odds_event_id": "ec1d45d055e12ea7fe7817fa8b1a6ae7",
+  "t": "2026-11-06T23:59:49+00:00"
+ },
+ "date_key": "20261106",
+ "event_id": "401911305",
+ "home": {
+  "abbr": "BRWN",
+  "id": "225",
+  "name": "Brown Bears"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "BRWN -1.5",
+    "home_spread": -1.5,
+    "provider": "DraftKings",
+    "raw_spread": -1.5,
+    "total": 144.5
+   }
+  ],
+  "t": "2026-11-06T23:59:48+00:00"
+ },
+ "start": "2026-11-07T00:00Z"
+}
