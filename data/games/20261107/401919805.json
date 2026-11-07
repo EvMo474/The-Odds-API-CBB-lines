@@ -734,6 +734,26 @@
    "n_events": 60,
    "t": "2026-11-07T21:34:51+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "LIU Sharks @ La Salle Explorers",
+   "credits_left": "30968",
+   "events_list_match": 0.76,
+   "events_list_n": 60,
+   "match": 0.76,
+   "n_events": 60,
+   "t": "2026-11-07T21:37:51+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "LIU Sharks @ La Salle Explorers",
+   "credits_left": "30966",
+   "events_list_match": 0.76,
+   "events_list_n": 60,
+   "match": 0.76,
+   "n_events": 60,
+   "t": "2026-11-07T21:40:51+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -796,6 +816,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-07T21:34:50+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "37",
+    "home": "39"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T21:37:51+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "37",
+    "home": "39"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T21:40:50+00:00"
   }
  ],
  "pregame": {
