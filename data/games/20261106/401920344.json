@@ -4,6 +4,48 @@
   "id": "2856",
   "name": "California Baptist Lancers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -20.5,
+    "total": 157.5
+   },
+   "betonlineag": {
+    "spread": -20.0,
+    "total": 157.5
+   },
+   "betrivers": {
+    "spread": -20.5,
+    "total": 158.5
+   },
+   "betus": {
+    "spread": -20.0,
+    "total": 157.5
+   },
+   "draftkings": {
+    "spread": -20.5,
+    "total": 157.5
+   },
+   "fanatics": {
+    "spread": -20.5,
+    "total": 157.5
+   },
+   "fanduel": {
+    "spread": -20.5,
+    "total": 157.5
+   },
+   "lowvig": {
+    "spread": -20.0,
+    "total": 157.5
+   },
+   "williamhill_us": {
+    "spread": -20.5,
+    "total": 157.5
+   }
+  },
+  "odds_event_id": "e444aca613119e56b3cf6904efe0b53a",
+  "t": "2026-11-07T02:29:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401920344",
  "home": {

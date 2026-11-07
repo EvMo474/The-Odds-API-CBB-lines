@@ -4,6 +4,48 @@
   "id": "2627",
   "name": "Tarleton State Texans"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -7.5,
+    "total": 147.5
+   },
+   "betonlineag": {
+    "spread": -8.0,
+    "total": 148.0
+   },
+   "betrivers": {
+    "spread": -6.5,
+    "total": 148.5
+   },
+   "betus": {
+    "spread": -7.5,
+    "total": 147.5
+   },
+   "draftkings": {
+    "spread": -7.5,
+    "total": 147.5
+   },
+   "fanatics": {
+    "spread": -7.5,
+    "total": 147.5
+   },
+   "fanduel": {
+    "spread": -7.5,
+    "total": 147.5
+   },
+   "lowvig": {
+    "spread": -8.0,
+    "total": 148.0
+   },
+   "williamhill_us": {
+    "spread": -7.5,
+    "total": 147.5
+   }
+  },
+  "odds_event_id": "66a4683ebb0f4c5dc1736e52d6d64a1b",
+  "t": "2026-11-07T02:29:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401917515",
  "home": {
