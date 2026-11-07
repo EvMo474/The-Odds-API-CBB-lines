@@ -4,6 +4,36 @@
   "id": "2277",
   "name": "Houston Christian Huskies"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 9.5,
+    "total": 136.5
+   },
+   "betonlineag": {
+    "spread": 9.0,
+    "total": 136.0
+   },
+   "betrivers": {
+    "spread": 9.5,
+    "total": 136.5
+   },
+   "draftkings": {
+    "spread": 9.5,
+    "total": 136.5
+   },
+   "fanduel": {
+    "spread": 9.5,
+    "total": 136.5
+   },
+   "lowvig": {
+    "spread": 9.0,
+    "total": 136.0
+   }
+  },
+  "odds_event_id": "a17b252a474151cdb7b2245ac963d946",
+  "t": "2026-11-07T23:59:55+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401924951",
  "home": {

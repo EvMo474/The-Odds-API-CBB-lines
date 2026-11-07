@@ -4,6 +4,44 @@
   "id": "2507",
   "name": "Providence Friars"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -2.5,
+    "total": 158.5
+   },
+   "betonlineag": {
+    "spread": -2.0,
+    "total": 158.5
+   },
+   "betrivers": {
+    "spread": -2.5,
+    "total": 158.5
+   },
+   "betus": {
+    "spread": -2.0,
+    "total": 158.0
+   },
+   "draftkings": {
+    "spread": -2.5,
+    "total": 158.5
+   },
+   "fanduel": {
+    "spread": -2.5,
+    "total": 158.5
+   },
+   "lowvig": {
+    "spread": -2.0,
+    "total": 158.5
+   },
+   "williamhill_us": {
+    "spread": -2.5,
+    "total": 158.5
+   }
+  },
+  "odds_event_id": "e8b5176c1a4665b33b1fc7f70c8d4876",
+  "t": "2026-11-07T23:59:55+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401909532",
  "home": {

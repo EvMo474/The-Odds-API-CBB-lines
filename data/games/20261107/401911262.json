@@ -4,6 +4,48 @@
   "id": "179",
   "name": "St. Bonaventure Bonnies"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 9.5,
+    "total": 149.5
+   },
+   "betonlineag": {
+    "spread": 10.0,
+    "total": 148.5
+   },
+   "betrivers": {
+    "spread": 9.5,
+    "total": 148.5
+   },
+   "betus": {
+    "spread": 9.0,
+    "total": 149.5
+   },
+   "draftkings": {
+    "spread": 9.5,
+    "total": 149.5
+   },
+   "fanatics": {
+    "spread": 9.0,
+    "total": 149.0
+   },
+   "fanduel": {
+    "spread": 9.5,
+    "total": 148.5
+   },
+   "lowvig": {
+    "spread": 9.5,
+    "total": 148.5
+   },
+   "williamhill_us": {
+    "spread": 9.5,
+    "total": 149.0
+   }
+  },
+  "odds_event_id": "f9a714b70c2d395a4d28c564dfb901bc",
+  "t": "2026-11-07T23:59:55+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401911262",
  "home": {

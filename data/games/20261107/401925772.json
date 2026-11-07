@@ -4,6 +4,48 @@
   "id": "2382",
   "name": "Mercer Bears"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -11.5,
+    "total": 147.5
+   },
+   "betonlineag": {
+    "spread": -11.0,
+    "total": 148.5
+   },
+   "betrivers": {
+    "spread": -11.5,
+    "total": 147.5
+   },
+   "betus": {
+    "spread": -11.0,
+    "total": 148.0
+   },
+   "draftkings": {
+    "spread": -11.5,
+    "total": 148.5
+   },
+   "fanatics": {
+    "spread": -11.5,
+    "total": 148.0
+   },
+   "fanduel": {
+    "spread": -11.5,
+    "total": 147.5
+   },
+   "lowvig": {
+    "spread": -11.0,
+    "total": 148.5
+   },
+   "williamhill_us": {
+    "spread": -11.5,
+    "total": 147.5
+   }
+  },
+  "odds_event_id": "0db607c107940f8af9dad9ed65ddd367",
+  "t": "2026-11-07T23:59:55+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401925772",
  "home": {
