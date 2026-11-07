@@ -1,13 +1,15 @@
 name: pull-halftime-lines
-# SPENDS ODDS API CREDITS (10 per snapshot moment).  The script refuses to start if its estimate is above max_credits.
+# SPENDS ODDS API CREDITS (10 per snapshot moment).  mode=plan spends nothing and prints the cost per season.
 on:
   workflow_dispatch:
     inputs:
-      mode: { description: 'plan (spends nothing) | busy | random | all', default: 'plan' }
-      n: { description: 'busy: number of snapshot moments; random: number of games', default: '60' }
-      max_credits: { description: 'busy/random: refuse to run if the estimate is above this', default: '700' }
-      budget: { description: 'mode all: most credits to spend in this run', default: '5000' }
-      reserve: { description: 'stop if remaining credits fall below this (keeps room for the live logger)', default: '3000' }
+      mode: { description: 'plan (spends nothing) | all', default: 'plan' }
+      seasons: { description: 'comma list, pulled in this order (2026 = 2025-26)', default: '2026,2024,2023,2022,2025' }
+      gap: { description: 'minimum first-half FG% gap', default: '10' }
+      budget: { description: 'most credits to spend in THIS run', default: '40000' }
+      reserve: { description: 'stop if remaining credits fall below this (room for the live logger to Dec 1)', default: '3000' }
+      include_neutral: { description: 'include neutral-site games (true/false)', default: 'true' }
+      fill_pregame: { description: 'seasons whose games have no closing line: fetch it from the API (e.g. 2025), or all', default: '2025' }
 concurrency:
   group: cbb-halftime-pull
   cancel-in-progress: false
@@ -16,7 +18,7 @@ permissions:
 jobs:
   pull:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 340
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -25,8 +27,13 @@ jobs:
       - name: pull
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python backtest/pull_halftime_lines.py --mode "${{ github.event.inputs.mode }}" --n "${{ github.event.inputs.n }}" --max-credits "${{ github.event.inputs.max_credits }}" --budget "${{ github.event.inputs.budget }}" --min-credits "${{ github.event.inputs.reserve }}" --out backtest/out
+        run: |
+          NEUT=""; if [ "${{ github.event.inputs.include_neutral }}" = "true" ]; then NEUT="--include-neutral"; fi
+          python backtest/pull_halftime_lines.py --mode "${{ github.event.inputs.mode }}" --seasons "${{ github.event.inputs.seasons }}" \
+            --gap "${{ github.event.inputs.gap }}" --budget "${{ github.event.inputs.budget }}" --min-credits "${{ github.event.inputs.reserve }}" \
+            --fill-pregame "${{ github.event.inputs.fill_pregame }}" $NEUT --out backtest/out
       - name: save results
+        if: always()
         run: |
           git config user.name "cbb-backtest"; git config user.email "cbb-backtest@users.noreply.github.com"
           git add backtest/out
