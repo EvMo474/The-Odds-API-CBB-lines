@@ -1,0 +1,85 @@
+{
+ "away": {
+  "abbr": "BRCF",
+  "id": "3065",
+  "name": "Briar Cliff Chargers"
+ },
+ "date_key": "20261106",
+ "event_id": "401929410",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 9,
+    "3pm": 3,
+    "fg_pct": 38.1,
+    "fga": 21,
+    "fgm": 8,
+    "fta": 6,
+    "ftm": 5
+   },
+   "home": {
+    "3pa": 14,
+    "3pm": 3,
+    "fg_pct": 42.42,
+    "fga": 33,
+    "fgm": 14,
+    "fta": 6,
+    "ftm": 5
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "24",
+   "home": "36"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-07T03:32:48+00:00"
+ },
+ "halftime_first_seen": "2026-11-07T03:32:48+00:00",
+ "home": {
+  "abbr": "SDST",
+  "id": "2571",
+  "name": "South Dakota State Jackrabbits"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "CSU Fullerton Titans @ South Dakota Coyotes",
+   "credits_left": "31098",
+   "events_list_match": 0.45,
+   "events_list_n": 61,
+   "match": 0.45,
+   "n_events": 61,
+   "t": "2026-11-07T03:32:49+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "24",
+    "home": "36"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T03:32:48+00:00"
+  },
+  {
+   "clock": "19:20",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "24",
+    "home": "36"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-07T03:35:48+00:00"
+  }
+ ],
+ "start": "2026-11-07T02:30Z"
+}
