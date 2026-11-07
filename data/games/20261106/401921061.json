@@ -4,6 +4,48 @@
   "id": "2449",
   "name": "North Dakota State Bison"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -8.5,
+    "total": 145.5
+   },
+   "betonlineag": {
+    "spread": -8.0,
+    "total": 145.0
+   },
+   "betrivers": {
+    "spread": -8.5,
+    "total": 145.5
+   },
+   "betus": {
+    "spread": -8.0,
+    "total": 145.0
+   },
+   "draftkings": {
+    "spread": -8.5,
+    "total": 145.5
+   },
+   "fanatics": {
+    "spread": -8.5,
+    "total": 145.0
+   },
+   "fanduel": {
+    "spread": -8.5,
+    "total": 145.5
+   },
+   "lowvig": {
+    "spread": -8.0,
+    "total": 145.0
+   },
+   "williamhill_us": {
+    "spread": -8.5,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "b51fb65aaa3eee46f783a7faadb6ff90",
+  "t": "2026-11-07T02:59:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401921061",
  "home": {
