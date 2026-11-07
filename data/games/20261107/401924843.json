@@ -4,6 +4,44 @@
   "id": "2415",
   "name": "Morgan State Bears"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 148.5
+   },
+   "betonlineag": {
+    "spread": -3.5,
+    "total": 148.5
+   },
+   "betrivers": {
+    "spread": -2.5,
+    "total": 149.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 148.5
+   },
+   "fanatics": {
+    "spread": -3.5,
+    "total": 148.0
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 148.5
+   },
+   "lowvig": {
+    "spread": -3.5,
+    "total": 148.5
+   },
+   "williamhill_us": {
+    "spread": -3.5,
+    "total": 148.5
+   }
+  },
+  "odds_event_id": "e98027bf796b234fb9133f59ee7abefc",
+  "t": "2026-11-07T23:29:56+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401924843",
  "home": {

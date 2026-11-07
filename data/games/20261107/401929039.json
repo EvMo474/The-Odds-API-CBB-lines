@@ -7,6 +7,44 @@
  "break_via": "STATUS_IN_PROGRESS",
  "date_key": "20261107",
  "event_id": "401929039",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 25,
+    "3pm": 8,
+    "fg_pct": 25.81,
+    "fga": 62,
+    "fgm": 16,
+    "fta": 10,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 19,
+    "3pm": 8,
+    "fg_pct": 56.96,
+    "fga": 79,
+    "fgm": 45,
+    "fta": 27,
+    "ftm": 17
+   }
+  },
+  "linescores": {
+   "away": [
+    "24",
+    "20"
+   ],
+   "home": [
+    "63",
+    "52"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "44",
+   "home": "115"
+  },
+  "t": "2026-11-07T23:26:55+00:00"
+ },
  "halftime": {
   "box_1h": {
    "away": {
