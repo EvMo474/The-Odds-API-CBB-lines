@@ -19,7 +19,7 @@
     "total": 161.5
    },
    "betus": {
-    "spread": -15.5,
+    "spread": -14.5,
     "total": 161.0
    },
    "draftkings": {
@@ -27,7 +27,7 @@
     "total": 161.5
    },
    "fanatics": {
-    "spread": -14.5,
+    "spread": -15.5,
     "total": 161.5
    },
    "fanduel": {
@@ -40,11 +40,11 @@
    },
    "williamhill_us": {
     "spread": -15.5,
-    "total": 161.5
+    "total": 160.5
    }
   },
   "odds_event_id": "95a884620a33548d3bba4614a54981e4",
-  "t": "2026-11-07T17:58:51+00:00"
+  "t": "2026-11-07T18:01:51+00:00"
  },
  "date_key": "20261107",
  "event_id": "401921154",
