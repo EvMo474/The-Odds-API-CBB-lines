@@ -65,6 +65,26 @@
    "n_events": 58,
    "t": "2026-11-07T22:29:55+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Utah Valley Wolverines @ Weber State Wildcats",
+   "credits_left": "30938",
+   "events_list_match": 0.42,
+   "events_list_n": 58,
+   "match": 0.42,
+   "n_events": 58,
+   "t": "2026-11-07T22:32:56+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Utah Valley Wolverines @ Weber State Wildcats",
+   "credits_left": "30936",
+   "events_list_match": 0.42,
+   "events_list_n": 56,
+   "match": 0.42,
+   "n_events": 56,
+   "t": "2026-11-07T22:35:55+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -91,6 +111,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-07T22:29:55+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "24",
+    "home": "37"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T22:32:55+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "24",
+    "home": "37"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T22:35:55+00:00"
   }
  ],
  "start": "2026-11-07T21:30Z"
