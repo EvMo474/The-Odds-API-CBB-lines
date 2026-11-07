@@ -4,6 +4,43 @@
   "id": "91",
   "name": "Bellarmine Knights"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "total": 158.5
+   },
+   "betonlineag": {
+    "spread": -19.0,
+    "total": 158.5
+   },
+   "betrivers": {
+    "spread": -19.5,
+    "total": 158.5
+   },
+   "draftkings": {
+    "spread": -18.5,
+    "total": 158.5
+   },
+   "fanatics": {
+    "spread": -18.5,
+    "total": 158.5
+   },
+   "fanduel": {
+    "spread": -18.5,
+    "total": 158.5
+   },
+   "lowvig": {
+    "spread": -19.0,
+    "total": 158.5
+   },
+   "williamhill_us": {
+    "spread": -18.5,
+    "total": 158.0
+   }
+  },
+  "odds_event_id": "13682aa418e925f984130159d8f351b8",
+  "t": "2026-11-07T21:55:51+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401911007",
  "home": {
