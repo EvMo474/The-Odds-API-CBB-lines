@@ -1,4 +1,4 @@
-run spent 40,000 credits on 4000 moments; credits remaining 59996
+run spent 28,800 credits on 2880 moments; credits remaining 31174
 season 2026: 1972 candidate games; rows built 1935; no Odds API match 37; no closing line found 0
   any live line 100%; median books 6; in break 97%; closing line filled from Odds API: 0
   passes orientation check 1934; mean market shift -2.11
@@ -14,9 +14,13 @@ season 2023: 2039 candidate games; rows built 1817; no Odds API match 222; no cl
   passes orientation check 1724; mean market shift -2.33
   DK: 834-772 (51.9%)
   FD: 711-629 (53.1%)
-season 2022: 1861 candidate games; rows built 874; no Odds API match 138; no closing line found 0
-  any live line 93%; median books 2; in break 68%; closing line filled from Odds API: 0
-  passes orientation check 812; mean market shift -2.39
-  DK: 324-386 (45.6%)
-  FD: 290-324 (47.2%)
-season 2025: 2534 candidate games; rows built 0; no Odds API match 0; no closing line found 0
+season 2022: 1861 candidate games; rows built 1645; no Odds API match 216; no closing line found 0
+  any live line 95%; median books 3; in break 69%; closing line filled from Odds API: 0
+  passes orientation check 1549; mean market shift -2.48
+  DK: 666-722 (48.0%)
+  FD: 605-630 (49.0%)
+season 2025: 2534 candidate games; rows built 1782; no Odds API match 750; no closing line found 2
+  any live line 100%; median books 5; in break 100%; closing line filled from Odds API: 1782
+  passes orientation check 1782; mean market shift -2.32
+  DK: 878-897 (49.5%)
+  FD: 850-868 (49.5%)
