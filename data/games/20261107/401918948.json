@@ -4,6 +4,48 @@
   "id": "2413",
   "name": "Morehead State Eagles"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -37.5,
+    "total": 151.5
+   },
+   "betonlineag": {
+    "spread": -37.0,
+    "total": 152.0
+   },
+   "betrivers": {
+    "spread": -36.5,
+    "total": 151.5
+   },
+   "betus": {
+    "spread": -37.0,
+    "total": 151.5
+   },
+   "draftkings": {
+    "spread": -37.5,
+    "total": 151.5
+   },
+   "fanatics": {
+    "spread": -37.0,
+    "total": 151.5
+   },
+   "fanduel": {
+    "spread": -37.5,
+    "total": 152.5
+   },
+   "lowvig": {
+    "spread": -37.0,
+    "total": 152.0
+   },
+   "williamhill_us": {
+    "spread": -37.5,
+    "total": 152.0
+   }
+  },
+  "odds_event_id": "3e1fc8d41a25b1142a03fc0bc907b2f5",
+  "t": "2026-11-07T16:58:50+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401918948",
  "home": {

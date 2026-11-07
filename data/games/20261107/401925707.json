@@ -4,6 +4,44 @@
   "id": "155",
   "name": "North Dakota Fighting Hawks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -9.5,
+    "total": 159.5
+   },
+   "betonlineag": {
+    "spread": -9.0,
+    "total": 158.5
+   },
+   "betrivers": {
+    "spread": -9.5,
+    "total": 159.5
+   },
+   "draftkings": {
+    "spread": -9.5,
+    "total": 159.5
+   },
+   "fanatics": {
+    "spread": -9.0,
+    "total": 159.5
+   },
+   "fanduel": {
+    "spread": -9.5,
+    "total": 159.5
+   },
+   "lowvig": {
+    "spread": -9.0,
+    "total": 158.5
+   },
+   "williamhill_us": {
+    "spread": -9.0,
+    "total": 159.5
+   }
+  },
+  "odds_event_id": "bee8eb51e6e5e53cda4d14e196962187",
+  "t": "2026-11-07T16:58:50+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401925707",
  "home": {
