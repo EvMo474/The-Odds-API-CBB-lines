@@ -714,6 +714,26 @@
    "n_events": 55,
    "t": "2026-11-07T22:53:55+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Tenn-Martin Skyhawks @ IUPUI Jaguars",
+   "credits_left": "30922",
+   "events_list_match": 0.75,
+   "events_list_n": 55,
+   "match": 0.75,
+   "n_events": 55,
+   "t": "2026-11-07T22:56:55+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Tenn-Martin Skyhawks @ IUPUI Jaguars",
+   "credits_left": "30920",
+   "events_list_match": 0.75,
+   "events_list_n": 55,
+   "match": 0.75,
+   "n_events": 55,
+   "t": "2026-11-07T22:59:55+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -752,6 +772,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-07T22:53:55+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "34",
+    "home": "36"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T22:56:55+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "34",
+    "home": "36"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T22:59:55+00:00"
   }
  ],
  "pregame": {
