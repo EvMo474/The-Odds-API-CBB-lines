@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "MER",
+  "id": "2382",
+  "name": "Mercer Bears"
+ },
+ "date_key": "20261107",
+ "event_id": "401925772",
+ "home": {
+  "abbr": "DAV",
+  "id": "2166",
+  "name": "Davidson Wildcats"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "DAV -11.5",
+    "home_spread": -11.5,
+    "provider": "DraftKings",
+    "raw_spread": -11.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-07T05:02:48+00:00"
+ },
+ "start": "2026-11-08T00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "VCU",
+  "id": "2670",
+  "name": "VCU Rams"
+ },
+ "date_key": "20261107",
+ "event_id": "401918986",
+ "home": {
+  "abbr": "MEM",
+  "id": "235",
+  "name": "Memphis Tigers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VCU -1.5",
+    "home_spread": 1.5,
+    "provider": "DraftKings",
+    "raw_spread": 1.5,
+    "total": 158.5
+   }
+  ],
+  "t": "2026-11-07T05:02:48+00:00"
+ },
+ "start": "2026-11-07T20:00Z"
+}

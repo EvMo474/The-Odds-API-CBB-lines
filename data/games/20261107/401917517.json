@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "PRST",
+  "id": "2502",
+  "name": "Portland State Vikings"
+ },
+ "date_key": "20261107",
+ "event_id": "401917517",
+ "home": {
+  "abbr": "SEA",
+  "id": "2547",
+  "name": "Seattle U Redhawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SEA -10.5",
+    "home_spread": -10.5,
+    "provider": "DraftKings",
+    "raw_spread": -10.5,
+    "total": 144.5
+   }
+  ],
+  "t": "2026-11-07T05:02:48+00:00"
+ },
+ "start": "2026-11-08T03:00Z"
+}
