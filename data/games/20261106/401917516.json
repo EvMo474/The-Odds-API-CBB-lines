@@ -64,6 +64,26 @@
    "n_events": 59,
    "t": "2026-11-07T03:47:49+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "North Florida Ospreys @ UCLA Bruins",
+   "credits_left": "31086",
+   "events_list_match": 0.41,
+   "events_list_n": 56,
+   "match": 0.41,
+   "n_events": 56,
+   "t": "2026-11-07T03:50:48+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "North Florida Ospreys @ UCLA Bruins",
+   "credits_left": "31084",
+   "events_list_match": 0.41,
+   "events_list_n": 56,
+   "match": 0.41,
+   "n_events": 56,
+   "t": "2026-11-07T03:53:48+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -90,6 +110,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-07T03:47:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "19",
+    "home": "54"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T03:50:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "19",
+    "home": "54"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T03:53:48+00:00"
   }
  ],
  "start": "2026-11-07T03:00Z"
