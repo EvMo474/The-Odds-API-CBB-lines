@@ -3,9 +3,11 @@ name: pull-halftime-lines
 on:
   workflow_dispatch:
     inputs:
-      mode: { description: 'plan (spends nothing) | busy | random', default: 'plan' }
+      mode: { description: 'plan (spends nothing) | busy | random | all', default: 'plan' }
       n: { description: 'busy: number of snapshot moments; random: number of games', default: '60' }
-      max_credits: { description: 'refuse to run if the estimate is above this', default: '700' }
+      max_credits: { description: 'busy/random: refuse to run if the estimate is above this', default: '700' }
+      budget: { description: 'mode all: most credits to spend in this run', default: '5000' }
+      reserve: { description: 'stop if remaining credits fall below this (keeps room for the live logger)', default: '3000' }
 concurrency:
   group: cbb-halftime-pull
   cancel-in-progress: false
@@ -23,7 +25,7 @@ jobs:
       - name: pull
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python backtest/pull_halftime_lines.py --mode "${{ github.event.inputs.mode }}" --n "${{ github.event.inputs.n }}" --max-credits "${{ github.event.inputs.max_credits }}" --out backtest/out
+        run: python backtest/pull_halftime_lines.py --mode "${{ github.event.inputs.mode }}" --n "${{ github.event.inputs.n }}" --max-credits "${{ github.event.inputs.max_credits }}" --budget "${{ github.event.inputs.budget }}" --min-credits "${{ github.event.inputs.reserve }}" --out backtest/out
       - name: save results
         run: |
           git config user.name "cbb-backtest"; git config user.email "cbb-backtest@users.noreply.github.com"
