@@ -1,0 +1,96 @@
+{
+ "away": {
+  "abbr": "LNCA",
+  "id": "124946",
+  "name": "Lincoln (CA) Oaklanders"
+ },
+ "date_key": "20261106",
+ "event_id": "401917516",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 5,
+    "3pm": 1,
+    "fg_pct": 23.08,
+    "fga": 13,
+    "fgm": 3,
+    "fta": 0,
+    "ftm": 0
+   },
+   "home": {
+    "3pa": 24,
+    "3pm": 8,
+    "fg_pct": 51.16,
+    "fga": 43,
+    "fgm": 22,
+    "fta": 3,
+    "ftm": 2
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "19",
+   "home": "54"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-07T03:44:48+00:00"
+ },
+ "halftime_first_seen": "2026-11-07T03:44:48+00:00",
+ "home": {
+  "abbr": "LMU",
+  "id": "2351",
+  "name": "Loyola Marymount Lions"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "North Florida Ospreys @ UCLA Bruins",
+   "credits_left": "31090",
+   "events_list_match": 0.41,
+   "events_list_n": 59,
+   "match": 0.41,
+   "n_events": 59,
+   "t": "2026-11-07T03:44:49+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "North Florida Ospreys @ UCLA Bruins",
+   "credits_left": "31088",
+   "events_list_match": 0.41,
+   "events_list_n": 59,
+   "match": 0.41,
+   "n_events": 59,
+   "t": "2026-11-07T03:47:49+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "19",
+    "home": "54"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T03:44:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "19",
+    "home": "54"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T03:47:48+00:00"
+  }
+ ],
+ "start": "2026-11-07T03:00Z"
+}
