@@ -723,6 +723,16 @@
    "n_events": 61,
    "t": "2026-11-07T03:35:49+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Southern Illinois Salukis @ UMKC Kangaroos",
+   "credits_left": "31094",
+   "events_list_match": 0.77,
+   "events_list_n": 61,
+   "match": 0.77,
+   "n_events": 61,
+   "t": "2026-11-07T03:38:48+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -773,6 +783,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-07T03:35:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "42",
+    "home": "55"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T03:38:48+00:00"
+  },
+  {
+   "clock": "18:56",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "44",
+    "home": "57"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-07T03:41:48+00:00"
   }
  ],
  "pregame": {

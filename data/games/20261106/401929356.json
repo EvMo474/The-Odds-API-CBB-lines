@@ -703,6 +703,26 @@
    "n_events": 61,
    "t": "2026-11-07T03:35:49+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "UNC Wilmington Seahawks @ East Carolina Pirates",
+   "credits_left": "31094",
+   "events_list_match": 0.51,
+   "events_list_n": 61,
+   "match": 0.51,
+   "n_events": 61,
+   "t": "2026-11-07T03:38:48+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "UNC Wilmington Seahawks @ East Carolina Pirates",
+   "credits_left": "31092",
+   "events_list_match": 0.51,
+   "events_list_n": 59,
+   "match": 0.51,
+   "n_events": 59,
+   "t": "2026-11-07T03:41:48+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -729,6 +749,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-07T03:35:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "46",
+    "home": "43"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T03:38:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "46",
+    "home": "43"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T03:41:48+00:00"
   }
  ],
  "pregame": {
