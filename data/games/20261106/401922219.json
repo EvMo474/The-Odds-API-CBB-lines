@@ -4,6 +4,44 @@
   "id": "2454",
   "name": "North Florida Ospreys"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -31.5,
+    "total": 156.5
+   },
+   "betonlineag": {
+    "spread": -31.5,
+    "total": 157.0
+   },
+   "betrivers": {
+    "spread": -32.5,
+    "total": 155.5
+   },
+   "draftkings": {
+    "spread": -31.5,
+    "total": 157.5
+   },
+   "fanatics": {
+    "spread": -31.5,
+    "total": 156.5
+   },
+   "fanduel": {
+    "spread": -30.5,
+    "total": 156.5
+   },
+   "lowvig": {
+    "spread": -31.5,
+    "total": 157.0
+   },
+   "williamhill_us": {
+    "spread": -32.0,
+    "total": 157.0
+   }
+  },
+  "odds_event_id": "538de54e3bbd117a7ef4c7425582f09e",
+  "t": "2026-11-07T03:29:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401922219",
  "home": {
