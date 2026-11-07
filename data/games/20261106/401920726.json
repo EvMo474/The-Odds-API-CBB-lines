@@ -933,6 +933,28 @@
    },
    "status": "STATUS_IN_PROGRESS",
    "t": "2026-11-07T03:05:48+00:00"
+  },
+  {
+   "clock": "7:38",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "36",
+    "home": "67"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-07T03:08:48+00:00"
+  },
+  {
+   "clock": "6:39",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "37",
+    "home": "72"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-07T03:11:48+00:00"
   }
  ],
  "pregame": {
