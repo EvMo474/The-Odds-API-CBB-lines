@@ -127,7 +127,10 @@ def handle(ev, date_key):
                        "away": {"id": a["team"]["id"], "name": a["team"].get("displayName"), "abbr": aabbr},
                        "neutral_site": comp.get("neutralSite"), "odds_ticks": []}
     changed = False
-    STATUS_MAP[cid] = {"status": st.replace("STATUS_", ""), "period": per, "clock": clock}
+    # ESPN sometimes flags the break late: the game sits at "period 1, 0:00" (or END_PERIOD) before HALFTIME appears,
+    # so those count as the break too.  The raw status is kept in g["break_via"] to see how often that happens.
+    brk = st == "STATUS_HALFTIME" or (per == 1 and (st == "STATUS_END_PERIOD" or (st == "STATUS_IN_PROGRESS" and str(clock).strip() in ("0:00", "0.0", "0"))))
+    STATUS_MAP[cid] = {"status": "HALFTIME" if brk else st.replace("STATUS_", ""), "period": per, "clock": clock}
     odds = parse_odds(comp.get("odds"), habbr, aabbr)
     sc = {"home": h.get("score"), "away": a.get("score")}
 
@@ -141,9 +144,9 @@ def handle(ev, date_key):
         except ValueError:
             pass
 
-    if st == "STATUS_HALFTIME":
+    if brk:
         if "halftime_first_seen" not in g:
-            g["halftime_first_seen"] = now_iso(); changed = True
+            g["halftime_first_seen"] = now_iso(); g["break_via"] = st; changed = True
         if "halftime" not in g:
             summ = get(f"{BASE}/summary", {"event": cid})
             if summ:
@@ -169,7 +172,7 @@ def handle(ev, date_key):
         changed = True
     if changed:
         save(path, g)
-    return st, changed, (g, path, comp, habbr, aabbr) if st == "STATUS_HALFTIME" else None
+    return ("STATUS_HALFTIME" if brk else st), changed, (g, path, comp, habbr, aabbr) if brk else None
 
 
 ODDS_BASE = os.environ.get("ODDS_API_BASE", "https://api.the-odds-api.com/v4")
