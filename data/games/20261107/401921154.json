@@ -4,6 +4,48 @@
   "id": "2448",
   "name": "North Carolina A&T Aggies"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -15.5,
+    "total": 161.5
+   },
+   "betonlineag": {
+    "spread": -15.0,
+    "total": 161.0
+   },
+   "betrivers": {
+    "spread": -14.5,
+    "total": 161.5
+   },
+   "betus": {
+    "spread": -15.5,
+    "total": 161.0
+   },
+   "draftkings": {
+    "spread": -15.5,
+    "total": 161.5
+   },
+   "fanatics": {
+    "spread": -14.5,
+    "total": 161.5
+   },
+   "fanduel": {
+    "spread": -14.5,
+    "total": 161.5
+   },
+   "lowvig": {
+    "spread": -15.0,
+    "total": 161.0
+   },
+   "williamhill_us": {
+    "spread": -15.5,
+    "total": 161.5
+   }
+  },
+  "odds_event_id": "95a884620a33548d3bba4614a54981e4",
+  "t": "2026-11-07T17:58:51+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401921154",
  "home": {
