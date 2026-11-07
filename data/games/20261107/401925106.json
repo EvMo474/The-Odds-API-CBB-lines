@@ -70,7 +70,7 @@
   "pre_home_spread": -8.5,
   "qualifies": false,
   "suspect": false,
-  "t": "2026-11-07T23:29:56+00:00",
+  "t": "2026-11-07T23:35:55+00:00",
   "win_zone": false,
   "win_zone_max": 2.0
  },
@@ -811,6 +811,66 @@
    "n_events": 50,
    "odds_event_id": "23efc4a58ecc218d159460b515d0a781",
    "t": "2026-11-07T23:29:56+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "total": 132.5
+    },
+    "betrivers": {
+     "spread": -5.5,
+     "total": 134.5
+    },
+    "draftkings": {
+     "spread": -4.5,
+     "total": 137.5
+    },
+    "fanatics": {
+     "spread": -5.5,
+     "total": 135.5
+    },
+    "williamhill_us": {
+     "spread": -5.5,
+     "total": 137.5
+    }
+   },
+   "credits_left": "30904",
+   "draftkings_home_spread": -4.5,
+   "draftkings_total": 137.5,
+   "match": 0.92,
+   "n_events": 50,
+   "odds_event_id": "23efc4a58ecc218d159460b515d0a781",
+   "t": "2026-11-07T23:32:55+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "total": 132.5
+    },
+    "betrivers": {
+     "spread": -5.5,
+     "total": 134.5
+    },
+    "draftkings": {
+     "spread": -4.5,
+     "total": 137.5
+    },
+    "fanatics": {
+     "spread": -5.5,
+     "total": 135.5
+    },
+    "williamhill_us": {
+     "spread": -5.5,
+     "total": 137.5
+    }
+   },
+   "credits_left": "30902",
+   "draftkings_home_spread": -4.5,
+   "draftkings_total": 137.5,
+   "match": 0.92,
+   "n_events": 50,
+   "odds_event_id": "23efc4a58ecc218d159460b515d0a781",
+   "t": "2026-11-07T23:35:55+00:00"
   }
  ],
  "odds_ticks": [
@@ -837,6 +897,30 @@
    },
    "status": "STATUS_IN_PROGRESS",
    "t": "2026-11-07T23:29:55+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "29",
+    "home": "30"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-07T23:32:55+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "29",
+    "home": "30"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T23:35:55+00:00"
   }
  ],
  "pregame": {
