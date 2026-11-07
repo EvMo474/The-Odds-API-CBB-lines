@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "ANDR",
+  "id": "134851",
+  "name": "Andrew Fighting Tigers"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261107",
+ "event_id": "401929449",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 10,
+    "3pm": 3,
+    "fg_pct": 35.48,
+    "fga": 31,
+    "fgm": 11,
+    "fta": 10,
+    "ftm": 7
+   },
+   "home": {
+    "3pa": 23,
+    "3pm": 5,
+    "fg_pct": 46.15,
+    "fga": 39,
+    "fgm": 18,
+    "fta": 11,
+    "ftm": 7
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "32",
+   "home": "48"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-07T18:46:50+00:00"
+ },
+ "halftime_first_seen": "2026-11-07T18:46:50+00:00",
+ "home": {
+  "abbr": "GAST",
+  "id": "2247",
+  "name": "Georgia State Panthers"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Washington St Cougars @ High Point Panthers",
+   "credits_left": "31036",
+   "events_list_match": 0.55,
+   "events_list_n": 55,
+   "match": 0.55,
+   "n_events": 55,
+   "t": "2026-11-07T18:46:51+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "48"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T18:46:50+00:00"
+  }
+ ],
+ "start": "2026-11-07T18:00Z"
+}
