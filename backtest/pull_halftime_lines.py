@@ -5,6 +5,8 @@ Pull live halftime lines (all six of your books) from The Odds API history for a
   python backtest/pull_halftime_lines.py --mode plan                      # counts + credit estimate, spends nothing
   python backtest/pull_halftime_lines.py --mode busy   --n 60             # the 60 busiest halftime moments (~600 credits)
   python backtest/pull_halftime_lines.py --mode random --n 300            # random games (~2,800 credits)
+  python backtest/pull_halftime_lines.py --mode all --budget 5000        # every qualifying game, oldest first, spend at most 5,000 credits this run
+                                                                          # (rerun to continue: moments already pulled are cached and free)
 
 One call (10 credits) returns EVERY game's lines at that moment, so games that reach halftime together share it.
 Safety: refuses to start if the estimate exceeds --max-credits; checks the cost of the first call (x-requests-last)
@@ -97,11 +99,12 @@ def candidates(out, season, gap):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--mode", choices=["plan", "busy", "random"], default="plan")
+    ap.add_argument("--mode", choices=["plan", "busy", "random", "all"], default="plan")
     ap.add_argument("--n", type=int, default=60, help="busy: number of snapshot moments; random: number of games")
     ap.add_argument("--season", type=int, default=2026); ap.add_argument("--gap", type=float, default=10)
     ap.add_argument("--out", default="backtest/out")
     ap.add_argument("--max-credits", type=int, default=700); ap.add_argument("--min-credits", type=int, default=300)
+    ap.add_argument("--budget", type=int, default=5000, help="mode all: most credits to spend in this run")
     a = ap.parse_args()
     out = Path(a.out); cache = out / "odds_cache"; cache.mkdir(parents=True, exist_ok=True)
     g = candidates(out, a.season, a.gap)
@@ -113,7 +116,13 @@ def main():
     elif a.mode == "random":
         g = g.sample(min(a.n, len(g)), random_state=7)
     slots = sorted(g.slot.unique())
-    new = [s for s in slots if not (cache / (s.strftime("%Y%m%dT%H%M%SZ") + ".json.gz")).exists()]
+    cached = lambda s: (cache / (s.strftime("%Y%m%dT%H%M%SZ") + ".json.gz")).exists()
+    if a.mode == "all":                       # cached moments are free; add uncached ones oldest-first until the budget is used
+        todo = [s for s in slots if not cached(s)][: a.budget // 10]
+        slots = sorted([s for s in slots if cached(s)] + todo)
+        g = g[g.slot.isin(slots)]
+        a.max_credits = max(a.max_credits, a.budget)
+    new = [s for s in slots if not cached(s)]
     est = len(new) * 10
     print(f"selected games: {len(g)}; snapshot moments: {len(slots)} ({len(new)} not cached) -> about {est:,} credits")
     if a.mode == "plan":
@@ -182,7 +191,7 @@ def main():
         L.append(f"books per game (median, games with any): {res[res.n_books > 0].n_books.median():.0f}")
         L.append(f"snapshot inside the break: {res.in_break.mean():.0%}; minutes into break median {res.min_into_break.median():.1f} "
                  f"(5th-95th pct {res.min_into_break.quantile(.05):.1f} to {res.min_into_break.quantile(.95):.1f})")
-        ok = res[res.get("orientation_ok", True) == True]
+        ok = res[res["orientation_ok"] == True] if "orientation_ok" in res else res.iloc[0:0]
         L.append(f"passes the live-line sanity check: {len(ok)} of {int((res.n_books > 0).sum())}")
         if len(ok):
             L.append(f"market shift (median 2H line minus half the closing spread): mean {ok.mkt_shift.mean():+.2f}, median {ok.mkt_shift.median():+.2f}  [n={len(ok)}]")
