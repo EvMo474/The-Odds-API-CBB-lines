@@ -4,6 +4,44 @@
   "id": "2428",
   "name": "North Carolina Central Eagles"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -13.5,
+    "total": 149.5
+   },
+   "betonlineag": {
+    "spread": -13.0,
+    "total": 149.5
+   },
+   "betrivers": {
+    "spread": -13.5,
+    "total": 149.5
+   },
+   "draftkings": {
+    "spread": -12.5,
+    "total": 149.5
+   },
+   "fanatics": {
+    "spread": -13.0,
+    "total": 149.5
+   },
+   "fanduel": {
+    "spread": -12.5,
+    "total": 149.5
+   },
+   "lowvig": {
+    "spread": -13.0,
+    "total": 149.5
+   },
+   "williamhill_us": {
+    "spread": -13.0,
+    "total": 149.5
+   }
+  },
+  "odds_event_id": "5569c1c8821ecf008dd21c7bb1019d3c",
+  "t": "2026-11-07T19:58:51+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401922044",
  "home": {

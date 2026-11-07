@@ -75,6 +75,26 @@
    "n_events": 65,
    "t": "2026-11-07T19:52:50+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Samford Bulldogs @ UNLV Rebels",
+   "credits_left": "31014",
+   "events_list_match": 0.53,
+   "events_list_n": 65,
+   "match": 0.53,
+   "n_events": 65,
+   "t": "2026-11-07T19:55:50+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Samford Bulldogs @ UNLV Rebels",
+   "credits_left": "31012",
+   "events_list_match": 0.53,
+   "events_list_n": 65,
+   "match": 0.53,
+   "n_events": 65,
+   "t": "2026-11-07T19:58:51+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -113,6 +133,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-07T19:52:50+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "19",
+    "home": "51"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T19:55:50+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "19",
+    "home": "51"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T19:58:50+00:00"
   }
  ],
  "start": "2026-11-07T19:00Z"
