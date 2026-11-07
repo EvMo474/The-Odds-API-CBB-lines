@@ -7,7 +7,7 @@
  "closing": {
   "books": {
    "betmgm": {
-    "spread": -13.5,
+    "spread": -12.5,
     "total": 149.5
    },
    "betonlineag": {
@@ -40,7 +40,7 @@
    }
   },
   "odds_event_id": "5569c1c8821ecf008dd21c7bb1019d3c",
-  "t": "2026-11-07T19:58:51+00:00"
+  "t": "2026-11-07T20:01:51+00:00"
  },
  "date_key": "20261107",
  "event_id": "401922044",

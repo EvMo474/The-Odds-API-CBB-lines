@@ -75,6 +75,26 @@
    "n_events": 65,
    "t": "2026-11-07T19:58:51+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "San Jos\u00e9 St Spartans @ UC Irvine Anteaters",
+   "credits_left": "31010",
+   "events_list_match": 0.4,
+   "events_list_n": 65,
+   "match": 0.4,
+   "n_events": 65,
+   "t": "2026-11-07T20:01:51+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "San Jos\u00e9 St Spartans @ UC Irvine Anteaters",
+   "credits_left": "31008",
+   "events_list_match": 0.4,
+   "events_list_n": 65,
+   "match": 0.4,
+   "n_events": 65,
+   "t": "2026-11-07T20:04:51+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -113,6 +133,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-07T19:58:50+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "42"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T20:01:50+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "42"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T20:04:50+00:00"
   }
  ],
  "start": "2026-11-07T19:00Z"
