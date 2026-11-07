@@ -4,6 +4,48 @@
   "id": "2110",
   "name": "Central Arkansas Bears"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "betonlineag": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "betrivers": {
+    "spread": -17.5,
+    "total": 153.5
+   },
+   "betus": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "draftkings": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "fanatics": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "fanduel": {
+    "spread": -17.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "williamhill_us": {
+    "spread": -16.5,
+    "total": 154.0
+   }
+  },
+  "odds_event_id": "b01820f294f90f4d2d37d747724491a7",
+  "t": "2026-11-07T01:29:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401917914",
  "home": {

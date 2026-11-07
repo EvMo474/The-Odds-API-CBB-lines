@@ -4,6 +4,48 @@
   "id": "304",
   "name": "Idaho State Bengals"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -18.5,
+    "total": 145.5
+   },
+   "betonlineag": {
+    "spread": -18.5,
+    "total": 146.0
+   },
+   "betrivers": {
+    "spread": -18.5,
+    "total": 144.5
+   },
+   "betus": {
+    "spread": -18.5,
+    "total": 146.0
+   },
+   "draftkings": {
+    "spread": -18.5,
+    "total": 146.5
+   },
+   "fanatics": {
+    "spread": -18.5,
+    "total": 146.0
+   },
+   "fanduel": {
+    "spread": -18.5,
+    "total": 145.5
+   },
+   "lowvig": {
+    "spread": -18.5,
+    "total": 146.0
+   },
+   "williamhill_us": {
+    "spread": -18.5,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "8f7ff428d3c97b0dd370724d1b4f9910",
+  "t": "2026-11-07T01:29:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401922021",
  "home": {
