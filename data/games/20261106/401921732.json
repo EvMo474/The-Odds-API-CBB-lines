@@ -4,6 +4,48 @@
   "id": "2458",
   "name": "Northern Colorado Bears"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -19.5,
+    "total": 143.5
+   },
+   "betonlineag": {
+    "spread": -19.0,
+    "total": 144.0
+   },
+   "betrivers": {
+    "spread": -19.5,
+    "total": 143.5
+   },
+   "betus": {
+    "spread": -19.5,
+    "total": 143.5
+   },
+   "draftkings": {
+    "spread": -19.5,
+    "total": 143.5
+   },
+   "fanatics": {
+    "spread": -19.5,
+    "total": 143.5
+   },
+   "fanduel": {
+    "spread": -19.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": -19.0,
+    "total": 144.0
+   },
+   "williamhill_us": {
+    "spread": -19.5,
+    "total": 143.5
+   }
+  },
+  "odds_event_id": "40cc248210c364c4b27f492d2a29cac1",
+  "t": "2026-11-07T01:59:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401921732",
  "home": {

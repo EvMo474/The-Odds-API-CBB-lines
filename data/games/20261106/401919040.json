@@ -4,6 +4,44 @@
   "id": "2511",
   "name": "Queens University Royals"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -17.5,
+    "total": 179.5
+   },
+   "betonlineag": {
+    "spread": -17.0,
+    "total": 179.0
+   },
+   "betrivers": {
+    "spread": -17.5,
+    "total": 179.5
+   },
+   "draftkings": {
+    "spread": -17.5,
+    "total": 179.5
+   },
+   "fanatics": {
+    "spread": -17.5,
+    "total": 179.0
+   },
+   "fanduel": {
+    "spread": -17.5,
+    "total": 177.5
+   },
+   "lowvig": {
+    "spread": -17.0,
+    "total": 179.0
+   },
+   "williamhill_us": {
+    "spread": -17.5,
+    "total": 179.0
+   }
+  },
+  "odds_event_id": "e8d14513abcb1352e0eca787066bb646",
+  "t": "2026-11-07T01:59:49+00:00"
+ },
  "date_key": "20261106",
  "event_id": "401919040",
  "home": {
