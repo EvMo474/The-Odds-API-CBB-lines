@@ -703,6 +703,26 @@
    "n_events": 97,
    "t": "2026-11-07T00:59:49+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Texas Southern Tigers @ LSU Tigers",
+   "credits_left": "99994",
+   "events_list_match": 0.5,
+   "events_list_n": 97,
+   "match": 0.5,
+   "n_events": 97,
+   "t": "2026-11-07T01:02:49+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Texas Southern Tigers @ LSU Tigers",
+   "credits_left": "99622",
+   "events_list_match": 0.5,
+   "events_list_n": 97,
+   "match": 0.5,
+   "n_events": 97,
+   "t": "2026-11-07T01:05:49+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -729,6 +749,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-07T00:59:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "49",
+    "home": "38"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T01:02:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "49",
+    "home": "38"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-07T01:05:49+00:00"
   }
  ],
  "pregame": {
