@@ -4,6 +4,44 @@
   "id": "2320",
   "name": "Lamar Cardinals"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 167.5
+   },
+   "betonlineag": {
+    "spread": 2.0,
+    "total": 168.5
+   },
+   "betrivers": {
+    "spread": 1.5,
+    "total": 167.5
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 167.5
+   },
+   "fanatics": {
+    "spread": 2.0,
+    "total": 168.5
+   },
+   "fanduel": {
+    "spread": 1.5,
+    "total": 167.5
+   },
+   "lowvig": {
+    "spread": 2.0,
+    "total": 168.5
+   },
+   "williamhill_us": {
+    "spread": 1.5,
+    "total": 168.0
+   }
+  },
+  "odds_event_id": "84d1c6e7d5e0b1c7442b5e7b1b39ffef",
+  "t": "2026-11-07T18:58:51+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401917962",
  "home": {
