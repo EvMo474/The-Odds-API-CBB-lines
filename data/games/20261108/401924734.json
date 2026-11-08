@@ -8,7 +8,7 @@
   "books": {
    "betmgm": {
     "spread": 1.5,
-    "total": 153.5
+    "total": 154.5
    },
    "betonlineag": {
     "spread": 2.0,
@@ -40,11 +40,11 @@
    },
    "williamhill_us": {
     "spread": 2.0,
-    "total": 154.0
+    "total": 153.5
    }
   },
   "odds_event_id": "b791f115e68a00b090f9f78d07a757b1",
-  "t": "2026-11-08T17:58:44+00:00"
+  "t": "2026-11-08T18:01:44+00:00"
  },
  "date_key": "20261108",
  "event_id": "401924734",
