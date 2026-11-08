@@ -55,6 +55,26 @@
    "n_events": 41,
    "t": "2026-11-08T00:41:55+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Iona Gaels @ St. John's Red Storm",
+   "credits_left": "30864",
+   "events_list_match": 0.38,
+   "events_list_n": 41,
+   "match": 0.38,
+   "n_events": 41,
+   "t": "2026-11-08T00:44:55+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Iona Gaels @ St. John's Red Storm",
+   "credits_left": "30862",
+   "events_list_match": 0.38,
+   "events_list_n": 41,
+   "match": 0.38,
+   "n_events": 41,
+   "t": "2026-11-08T00:47:55+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -69,6 +89,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-08T00:41:55+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "60"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-08T00:44:55+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "60"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-08T00:47:55+00:00"
   }
  ],
  "start": "2026-11-08T00:00Z"
