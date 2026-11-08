@@ -4,6 +4,48 @@
   "id": "2097",
   "name": "Campbell Fighting Camels"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -4.5,
+    "total": 151.5
+   },
+   "betonlineag": {
+    "spread": -4.0,
+    "total": 152.0
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 151.5
+   },
+   "betus": {
+    "spread": -4.0,
+    "total": 152.0
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 151.5
+   },
+   "fanatics": {
+    "spread": -4.0,
+    "total": 151.5
+   },
+   "fanduel": {
+    "spread": -4.5,
+    "total": 151.5
+   },
+   "lowvig": {
+    "spread": -4.0,
+    "total": 152.0
+   },
+   "williamhill_us": {
+    "spread": -4.5,
+    "total": 151.5
+   }
+  },
+  "odds_event_id": "36662c75f1da54ae1b0e62b85edd8c67",
+  "t": "2026-11-08T18:58:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401920739",
  "home": {

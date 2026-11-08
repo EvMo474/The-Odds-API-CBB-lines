@@ -4,6 +4,44 @@
   "id": "2115",
   "name": "Central Connecticut Blue Devils"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -8.5,
+    "total": 139.5
+   },
+   "betonlineag": {
+    "spread": -9.0,
+    "total": 139.5
+   },
+   "betrivers": {
+    "spread": -8.5,
+    "total": 141.5
+   },
+   "draftkings": {
+    "spread": -8.5,
+    "total": 140.5
+   },
+   "fanatics": {
+    "spread": -8.5,
+    "total": 140.5
+   },
+   "fanduel": {
+    "spread": -8.5,
+    "total": 139.5
+   },
+   "lowvig": {
+    "spread": -9.0,
+    "total": 139.5
+   },
+   "williamhill_us": {
+    "spread": -8.5,
+    "total": 139.5
+   }
+  },
+  "odds_event_id": "a14ef06cee81734fbca92d5a235cf541",
+  "t": "2026-11-08T18:58:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401920233",
  "home": {

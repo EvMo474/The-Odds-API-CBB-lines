@@ -4,6 +4,44 @@
   "id": "2514",
   "name": "Quinnipiac Bobcats"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -8.5,
+    "total": 138.5
+   },
+   "betonlineag": {
+    "spread": -8.5,
+    "total": 138.0
+   },
+   "betrivers": {
+    "spread": -8.5,
+    "total": 139.5
+   },
+   "draftkings": {
+    "spread": -8.5,
+    "total": 138.5
+   },
+   "fanatics": {
+    "spread": -8.5,
+    "total": 139.0
+   },
+   "fanduel": {
+    "spread": -8.5,
+    "total": 138.5
+   },
+   "lowvig": {
+    "spread": -8.5,
+    "total": 138.0
+   },
+   "williamhill_us": {
+    "spread": -8.5,
+    "total": 139.0
+   }
+  },
+  "odds_event_id": "2ea59be5ea48be55282cf76a1a337a9c",
+  "t": "2026-11-08T18:58:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401920692",
  "home": {

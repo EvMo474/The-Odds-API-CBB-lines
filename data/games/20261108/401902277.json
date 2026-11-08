@@ -4,6 +4,48 @@
   "id": "2086",
   "name": "Butler Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -2.5,
+    "total": 158.5
+   },
+   "betonlineag": {
+    "spread": -2.5,
+    "total": 158.0
+   },
+   "betrivers": {
+    "spread": -2.5,
+    "total": 158.5
+   },
+   "betus": {
+    "spread": -2.5,
+    "total": 158.5
+   },
+   "draftkings": {
+    "spread": -2.5,
+    "total": 158.5
+   },
+   "fanatics": {
+    "spread": -3.0,
+    "total": 159.0
+   },
+   "fanduel": {
+    "spread": -2.5,
+    "total": 158.5
+   },
+   "lowvig": {
+    "spread": -2.5,
+    "total": 158.0
+   },
+   "williamhill_us": {
+    "spread": -2.5,
+    "total": 158.5
+   }
+  },
+  "odds_event_id": "928d73b1594da7d8b59856d8bf7e05eb",
+  "t": "2026-11-08T18:58:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401902277",
  "home": {
