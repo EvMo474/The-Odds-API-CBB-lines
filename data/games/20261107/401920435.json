@@ -4,6 +4,48 @@
   "id": "3084",
   "name": "Utah Valley Wolverines"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 7.5,
+    "total": 156.5
+   },
+   "betonlineag": {
+    "spread": 7.5,
+    "total": 156.5
+   },
+   "betrivers": {
+    "spread": 7.5,
+    "total": 154.5
+   },
+   "betus": {
+    "spread": 7.5,
+    "total": 156.0
+   },
+   "draftkings": {
+    "spread": 7.5,
+    "total": 156.5
+   },
+   "fanatics": {
+    "spread": 7.5,
+    "total": 156.0
+   },
+   "fanduel": {
+    "spread": 7.5,
+    "total": 155.5
+   },
+   "lowvig": {
+    "spread": 7.5,
+    "total": 156.5
+   },
+   "williamhill_us": {
+    "spread": 7.5,
+    "total": 155.5
+   }
+  },
+  "odds_event_id": "7ce61dffdd710ea97915ce3eee02c768",
+  "t": "2026-11-08T01:59:56+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401920435",
  "home": {
