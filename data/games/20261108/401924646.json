@@ -4,6 +4,47 @@
   "id": "314",
   "name": "Iona Gaels"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "total": 150.5
+   },
+   "betonlineag": {
+    "spread": -27.0,
+    "total": 150.5
+   },
+   "betrivers": {
+    "spread": -27.5,
+    "total": 151.5
+   },
+   "betus": {
+    "spread": -27.0,
+    "total": 150.5
+   },
+   "draftkings": {
+    "spread": -26.5,
+    "total": 150.5
+   },
+   "fanatics": {
+    "spread": -27.0,
+    "total": 150.5
+   },
+   "fanduel": {
+    "spread": -26.5,
+    "total": 151.5
+   },
+   "lowvig": {
+    "spread": -27.0,
+    "total": 150.5
+   },
+   "williamhill_us": {
+    "spread": -27.0,
+    "total": 150.5
+   }
+  },
+  "odds_event_id": "2303b6223847bd67b993f4263a484f46",
+  "t": "2026-11-08T16:58:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401924646",
  "home": {
