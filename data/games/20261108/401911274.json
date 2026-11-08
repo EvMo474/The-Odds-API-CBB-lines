@@ -46,17 +46,17 @@
  "date_key": "20261108",
  "event_id": "401911274",
  "flag": {
-  "best_book": "draftkings",
+  "best_book": "williamhill_us",
   "best_line": 2.5,
   "bucket": "Road Dog",
   "bucket_src": "close",
   "cold": "away",
-  "cold_full_spread": 12.0,
+  "cold_full_spread": 12.5,
   "cold_full_spread_by_book": {
    "betmgm": 12.5,
    "betrivers": 10.5,
    "draftkings": 12.5,
-   "williamhill_us": 11.5
+   "williamhill_us": 12.5
   },
   "cold_margin_1h": -10,
   "gap": 13.1,
@@ -65,13 +65,13 @@
    "betmgm": 2.5,
    "betrivers": 0.5,
    "draftkings": 2.5,
-   "williamhill_us": 1.5
+   "williamhill_us": 2.5
   },
   "neutral": false,
   "pre_home_spread": -6.5,
   "qualifies": true,
   "suspect": false,
-  "t": "2026-11-08T21:52:44+00:00",
+  "t": "2026-11-08T21:55:44+00:00",
   "win_zone": false,
   "win_zone_max": 2.0
  },
@@ -806,6 +806,33 @@
    "n_events": 35,
    "odds_event_id": "5431b8036952832d64aaa285f9ce207f",
    "t": "2026-11-08T21:52:44+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "spread": -12.5,
+     "total": 144.5
+    },
+    "betrivers": {
+     "spread": -10.5,
+     "total": 149.5
+    },
+    "draftkings": {
+     "spread": -12.5,
+     "total": 146.5
+    },
+    "williamhill_us": {
+     "spread": -12.5,
+     "total": 144.5
+    }
+   },
+   "credits_left": "30662",
+   "draftkings_home_spread": -12.5,
+   "draftkings_total": 146.5,
+   "match": 1.0,
+   "n_events": 35,
+   "odds_event_id": "5431b8036952832d64aaa285f9ce207f",
+   "t": "2026-11-08T21:55:44+00:00"
   }
  ],
  "odds_ticks": [
@@ -832,6 +859,18 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-08T21:52:44+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "42"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-08T21:55:43+00:00"
   }
  ],
  "pregame": {
