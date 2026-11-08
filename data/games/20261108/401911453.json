@@ -4,6 +4,47 @@
   "id": "2608",
   "name": "Saint Mary's Gaels"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": -1.0,
+    "total": 146.0
+   },
+   "betrivers": {
+    "spread": -1.5,
+    "total": 146.5
+   },
+   "betus": {
+    "spread": -1.5,
+    "total": 146.0
+   },
+   "draftkings": {
+    "spread": -1.5,
+    "total": 146.5
+   },
+   "fanatics": {
+    "spread": -1.5,
+    "total": 146.5
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 145.5
+   },
+   "lowvig": {
+    "spread": -1.0,
+    "total": 146.0
+   },
+   "williamhill_us": {
+    "spread": -1.0,
+    "total": 146.5
+   }
+  },
+  "odds_event_id": "7757c80ca9080492a28d75de6e15e1cb",
+  "t": "2026-11-08T21:28:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401911453",
  "home": {
