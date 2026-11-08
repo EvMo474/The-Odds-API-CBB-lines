@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "LNCA",
+  "id": "124946",
+  "name": "Lincoln (CA) Oaklanders"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261108",
+ "event_id": "401922262",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 13,
+    "3pm": 3,
+    "fg_pct": 35.48,
+    "fga": 31,
+    "fgm": 11,
+    "fta": 11,
+    "ftm": 8
+   },
+   "home": {
+    "3pa": 16,
+    "3pm": 9,
+    "fg_pct": 64.86,
+    "fga": 37,
+    "fgm": 24,
+    "fta": 5,
+    "ftm": 2
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "33",
+   "home": "59"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-08T22:45:10+00:00"
+ },
+ "halftime_first_seen": "2026-11-08T22:45:10+00:00",
+ "home": {
+  "abbr": "IDHO",
+  "id": "70",
+  "name": "Idaho Vandals"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "UL Monroe Warhawks @ Texas A&M Aggies",
+   "credits_left": "30640",
+   "events_list_match": 0.42,
+   "events_list_n": 33,
+   "match": 0.42,
+   "n_events": 33,
+   "t": "2026-11-08T22:45:10+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "UL Monroe Warhawks @ Texas A&M Aggies",
+   "credits_left": "30638",
+   "events_list_match": 0.42,
+   "events_list_n": 32,
+   "match": 0.42,
+   "n_events": 32,
+   "t": "2026-11-08T22:48:10+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "33",
+    "home": "59"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-08T22:45:10+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "33",
+    "home": "59"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-08T22:48:10+00:00"
+  }
+ ],
+ "start": "2026-11-08T22:00Z"
+}
