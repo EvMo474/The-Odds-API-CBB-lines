@@ -766,6 +766,26 @@
    "n_events": 37,
    "t": "2026-11-08T01:59:55+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Houston Christian Huskies @ Western Illinois Leathernecks",
+   "credits_left": "30816",
+   "events_list_match": 0.46,
+   "events_list_n": 37,
+   "match": 0.46,
+   "n_events": 37,
+   "t": "2026-11-08T02:03:00+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Morgan St Bears @ Niagara Purple Eagles",
+   "credits_left": "30814",
+   "events_list_match": 0.45,
+   "events_list_n": 36,
+   "match": 0.45,
+   "n_events": 36,
+   "t": "2026-11-08T02:05:55+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -816,6 +836,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-08T01:59:55+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "35",
+    "home": "30"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-08T02:02:58+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "35",
+    "home": "30"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-08T02:05:55+00:00"
   }
  ],
  "pregame": {
