@@ -4,6 +4,48 @@
   "id": "98",
   "name": "Western Kentucky Hilltoppers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 2.5,
+    "total": 164.5
+   },
+   "betonlineag": {
+    "spread": 3.0,
+    "total": 164.5
+   },
+   "betrivers": {
+    "spread": 3.5,
+    "total": 164.5
+   },
+   "betus": {
+    "spread": 3.0,
+    "total": 164.5
+   },
+   "draftkings": {
+    "spread": 3.5,
+    "total": 164.5
+   },
+   "fanatics": {
+    "spread": 3.5,
+    "total": 164.0
+   },
+   "fanduel": {
+    "spread": 3.5,
+    "total": 164.5
+   },
+   "lowvig": {
+    "spread": 3.0,
+    "total": 164.5
+   },
+   "williamhill_us": {
+    "spread": 3.0,
+    "total": 164.5
+   }
+  },
+  "odds_event_id": "9e16ed8203d19232e90330b202b1fd69",
+  "t": "2026-11-08T19:58:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401926215",
  "home": {
