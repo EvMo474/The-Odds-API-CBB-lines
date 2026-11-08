@@ -4,6 +4,48 @@
   "id": "2172",
   "name": "Denver Pioneers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -2.5,
+    "total": 156.5
+   },
+   "betonlineag": {
+    "spread": -2.5,
+    "total": 156.0
+   },
+   "betrivers": {
+    "spread": -1.5,
+    "total": 155.5
+   },
+   "betus": {
+    "spread": -2.5,
+    "total": 156.0
+   },
+   "draftkings": {
+    "spread": -2.5,
+    "total": 156.5
+   },
+   "fanatics": {
+    "spread": -1.5,
+    "total": 156.0
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 156.5
+   },
+   "lowvig": {
+    "spread": -2.5,
+    "total": 156.0
+   },
+   "williamhill_us": {
+    "spread": -2.0,
+    "total": 156.0
+   }
+  },
+  "odds_event_id": "7795f37cca47b3cdf4005418da02c78d",
+  "t": "2026-11-08T00:29:56+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401926227",
  "home": {
