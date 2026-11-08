@@ -4,6 +4,44 @@
   "id": "2217",
   "name": "Fairfield Stags"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 145.5
+   },
+   "betonlineag": {
+    "spread": 1.5,
+    "total": 145.5
+   },
+   "betrivers": {
+    "spread": 1.5,
+    "total": 145.5
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 145.5
+   },
+   "fanatics": {
+    "spread": 1.5,
+    "total": 145.5
+   },
+   "fanduel": {
+    "spread": 1.5,
+    "total": 146.5
+   },
+   "lowvig": {
+    "spread": 1.5,
+    "total": 145.5
+   },
+   "williamhill_us": {
+    "spread": 1.5,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "8f861f2e1704f9b0fbae3e1aa816bc48",
+  "t": "2026-11-08T17:58:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401921683",
  "home": {

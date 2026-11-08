@@ -4,6 +4,44 @@
   "id": "2368",
   "name": "Marist Red Foxes"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -1.5,
+    "total": 141.5
+   },
+   "betonlineag": {
+    "spread": -1.0,
+    "total": 142.0
+   },
+   "betrivers": {
+    "spread": -0.5,
+    "total": 143.5
+   },
+   "draftkings": {
+    "spread": -1.5,
+    "total": 141.5
+   },
+   "fanatics": {
+    "spread": -1.5,
+    "total": 142.0
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 141.5
+   },
+   "lowvig": {
+    "spread": -1.0,
+    "total": 142.0
+   },
+   "williamhill_us": {
+    "spread": -1.5,
+    "total": 142.0
+   }
+  },
+  "odds_event_id": "c60a638033180898ceab69f0baae6a52",
+  "t": "2026-11-08T17:58:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401921687",
  "home": {

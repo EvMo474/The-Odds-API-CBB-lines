@@ -4,6 +4,48 @@
   "id": "8",
   "name": "Arkansas Razorbacks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -4.5,
+    "total": 161.5
+   },
+   "betonlineag": {
+    "spread": -4.5,
+    "total": 162.5
+   },
+   "betrivers": {
+    "spread": -4.5,
+    "total": 163.5
+   },
+   "betus": {
+    "spread": -4.5,
+    "total": 162.5
+   },
+   "draftkings": {
+    "spread": -4.5,
+    "total": 162.5
+   },
+   "fanatics": {
+    "spread": -4.5,
+    "total": 162.5
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 161.5
+   },
+   "lowvig": {
+    "spread": -4.5,
+    "total": 162.5
+   },
+   "williamhill_us": {
+    "spread": -4.5,
+    "total": 162.5
+   }
+  },
+  "odds_event_id": "95432fedd19fd4b0534dd96656875b91",
+  "t": "2026-11-08T17:58:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401920424",
  "home": {

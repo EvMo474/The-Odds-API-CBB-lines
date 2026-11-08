@@ -4,6 +4,44 @@
   "id": "2363",
   "name": "Manhattan Jaspers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -2.5,
+    "total": 136.5
+   },
+   "betonlineag": {
+    "spread": -2.0,
+    "total": 137.0
+   },
+   "betrivers": {
+    "spread": -1.5,
+    "total": 138.5
+   },
+   "draftkings": {
+    "spread": -2.5,
+    "total": 136.5
+   },
+   "fanatics": {
+    "spread": -2.5,
+    "total": 136.5
+   },
+   "fanduel": {
+    "spread": -2.5,
+    "total": 136.5
+   },
+   "lowvig": {
+    "spread": -2.0,
+    "total": 137.0
+   },
+   "williamhill_us": {
+    "spread": -2.0,
+    "total": 136.5
+   }
+  },
+  "odds_event_id": "651b839e9ed75e621320514c90ebcaaa",
+  "t": "2026-11-08T17:58:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401921684",
  "home": {

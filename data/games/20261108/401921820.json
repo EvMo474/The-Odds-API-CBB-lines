@@ -4,6 +4,48 @@
   "id": "2546",
   "name": "Southeast Missouri State Redhawks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -17.5,
+    "total": 144.5
+   },
+   "betonlineag": {
+    "spread": -17.0,
+    "total": 144.0
+   },
+   "betrivers": {
+    "spread": -17.5,
+    "total": 144.5
+   },
+   "betus": {
+    "spread": -17.0,
+    "total": 144.0
+   },
+   "draftkings": {
+    "spread": -17.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": -17.0,
+    "total": 144.5
+   },
+   "fanduel": {
+    "spread": -17.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": -17.0,
+    "total": 144.0
+   },
+   "williamhill_us": {
+    "spread": -17.5,
+    "total": 144.5
+   }
+  },
+  "odds_event_id": "4a88827c71210aaa950ea6b5995aabda",
+  "t": "2026-11-08T17:58:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401921820",
  "home": {
