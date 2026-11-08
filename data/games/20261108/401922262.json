@@ -85,6 +85,16 @@
    "n_events": 32,
    "t": "2026-11-08T22:54:10+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "UL Monroe Warhawks @ Texas A&M Aggies",
+   "credits_left": "30632",
+   "events_list_match": 0.42,
+   "events_list_n": 32,
+   "match": 0.42,
+   "n_events": 32,
+   "t": "2026-11-08T22:57:10+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -135,6 +145,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-08T22:54:10+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "33",
+    "home": "59"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-08T22:57:10+00:00"
+  },
+  {
+   "clock": "19:27",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "33",
+    "home": "59"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-08T23:00:10+00:00"
   }
  ],
  "start": "2026-11-08T22:00Z"
