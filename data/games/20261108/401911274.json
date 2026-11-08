@@ -4,6 +4,44 @@
   "id": "2520",
   "name": "Rider Broncs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -6.5,
+    "total": 137.5
+   },
+   "betonlineag": {
+    "spread": -6.0,
+    "total": 138.0
+   },
+   "betrivers": {
+    "spread": -7.5,
+    "total": 138.5
+   },
+   "draftkings": {
+    "spread": -6.5,
+    "total": 137.5
+   },
+   "fanatics": {
+    "spread": -6.5,
+    "total": 137.0
+   },
+   "fanduel": {
+    "spread": -6.5,
+    "total": 137.5
+   },
+   "lowvig": {
+    "spread": -6.0,
+    "total": 138.0
+   },
+   "williamhill_us": {
+    "spread": -6.0,
+    "total": 137.5
+   }
+  },
+  "odds_event_id": "5431b8036952832d64aaa285f9ce207f",
+  "t": "2026-11-08T20:58:44+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401911274",
  "home": {
