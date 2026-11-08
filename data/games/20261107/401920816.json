@@ -4,6 +4,44 @@
   "id": "2545",
   "name": "SE Louisiana Lions"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -9.5,
+    "total": 144.5
+   },
+   "betonlineag": {
+    "spread": -9.5,
+    "total": 145.0
+   },
+   "betrivers": {
+    "spread": -9.5,
+    "total": 145.5
+   },
+   "draftkings": {
+    "spread": -9.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": -10.0,
+    "total": 144.5
+   },
+   "fanduel": {
+    "spread": -9.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": -9.5,
+    "total": 145.0
+   },
+   "williamhill_us": {
+    "spread": -9.5,
+    "total": 144.5
+   }
+  },
+  "odds_event_id": "392dbcd0a3077d4062e430d2dbae1a76",
+  "t": "2026-11-08T00:59:55+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401920816",
  "home": {

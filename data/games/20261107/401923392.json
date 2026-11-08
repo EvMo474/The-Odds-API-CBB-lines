@@ -4,6 +4,48 @@
   "id": "88",
   "name": "Southern Indiana Screaming Eagles"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -7.5,
+    "total": 143.5
+   },
+   "betonlineag": {
+    "spread": -7.5,
+    "total": 143.0
+   },
+   "betrivers": {
+    "spread": -7.5,
+    "total": 143.5
+   },
+   "betus": {
+    "spread": -7.5,
+    "total": 143.0
+   },
+   "draftkings": {
+    "spread": -7.5,
+    "total": 143.5
+   },
+   "fanatics": {
+    "spread": -7.0,
+    "total": 143.5
+   },
+   "fanduel": {
+    "spread": -7.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": -7.5,
+    "total": 143.0
+   },
+   "williamhill_us": {
+    "spread": -7.0,
+    "total": 143.5
+   }
+  },
+  "odds_event_id": "0c0b87a4ca3e26dae6a79d50a65514be",
+  "t": "2026-11-08T00:59:55+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401923392",
  "home": {

@@ -4,6 +4,44 @@
   "id": "279",
   "name": "Pacific Tigers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -1.5,
+    "total": 139.5
+   },
+   "betonlineag": {
+    "spread": -1.0,
+    "total": 139.5
+   },
+   "betrivers": {
+    "spread": -1.5,
+    "total": 139.5
+   },
+   "betus": {
+    "spread": -1.0,
+    "total": 139.5
+   },
+   "draftkings": {
+    "spread": -1.5,
+    "total": 139.5
+   },
+   "fanatics": {
+    "spread": -1.0,
+    "total": 139.5
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 139.5
+   },
+   "lowvig": {
+    "spread": -1.0,
+    "total": 139.5
+   }
+  },
+  "odds_event_id": "cb9ed150617cacee1bade170e023c9ed",
+  "t": "2026-11-08T00:59:55+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401917518",
  "home": {

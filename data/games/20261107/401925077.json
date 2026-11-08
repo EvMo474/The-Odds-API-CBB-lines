@@ -4,6 +4,44 @@
   "id": "2466",
   "name": "Northwestern State Demons"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -23.5,
+    "total": 155.5
+   },
+   "betonlineag": {
+    "spread": -23.5,
+    "total": 154.5
+   },
+   "betrivers": {
+    "spread": -23.5,
+    "total": 155.5
+   },
+   "draftkings": {
+    "spread": -23.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": -23.5,
+    "total": 155.0
+   },
+   "fanduel": {
+    "spread": -22.5,
+    "total": 155.5
+   },
+   "lowvig": {
+    "spread": -23.5,
+    "total": 154.5
+   },
+   "williamhill_us": {
+    "spread": -23.0,
+    "total": 155.5
+   }
+  },
+  "odds_event_id": "d19782d2cbf1c575788a1c710d9111b5",
+  "t": "2026-11-08T00:59:55+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401925077",
  "home": {
