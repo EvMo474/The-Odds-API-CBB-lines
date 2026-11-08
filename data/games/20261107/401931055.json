@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "BTHS",
+  "id": "3246",
+  "name": "Bethesda Flames"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261107",
+ "event_id": "401931055",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 20,
+    "3pm": 5,
+    "fg_pct": 23.33,
+    "fga": 30,
+    "fgm": 7,
+    "fta": 9,
+    "ftm": 5
+   },
+   "home": {
+    "3pa": 20,
+    "3pm": 9,
+    "fg_pct": 61.9,
+    "fga": 42,
+    "fgm": 26,
+    "fta": 14,
+    "ftm": 12
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "24",
+   "home": "73"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-08T02:17:56+00:00"
+ },
+ "halftime_first_seen": "2026-11-08T02:17:56+00:00",
+ "home": {
+  "abbr": "SUU",
+  "id": "253",
+  "name": "Southern Utah Thunderbirds"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Campbell Fighting Camels @ Western Michigan Broncos",
+   "credits_left": "30806",
+   "events_list_match": 0.41,
+   "events_list_n": 33,
+   "match": 0.41,
+   "n_events": 33,
+   "t": "2026-11-08T02:17:56+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "24",
+    "home": "73"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-08T02:17:56+00:00"
+  }
+ ],
+ "start": "2026-11-08T01:30Z"
+}
