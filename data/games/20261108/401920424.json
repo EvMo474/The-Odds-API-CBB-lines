@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ARK",
+  "id": "8",
+  "name": "Arkansas Razorbacks"
+ },
+ "date_key": "20261108",
+ "event_id": "401920424",
+ "home": {
+  "abbr": "UVA",
+  "id": "258",
+  "name": "Virginia Cavaliers"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UVA -2.5",
+    "home_spread": -2.5,
+    "provider": "DraftKings",
+    "raw_spread": -2.5,
+    "total": 162.5
+   }
+  ],
+  "t": "2026-11-08T05:01:51+00:00"
+ },
+ "start": "2026-11-08T18:00Z"
+}

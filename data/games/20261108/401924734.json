@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "PRIN",
+  "id": "163",
+  "name": "Princeton Tigers"
+ },
+ "date_key": "20261108",
+ "event_id": "401924734",
+ "home": {
+  "abbr": "SIE",
+  "id": "2561",
+  "name": "Siena Saints"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SIE -1.5",
+    "home_spread": -1.5,
+    "provider": "DraftKings",
+    "raw_spread": -1.5,
+    "total": 154.5
+   }
+  ],
+  "t": "2026-11-08T05:01:51+00:00"
+ },
+ "start": "2026-11-08T18:00Z"
+}

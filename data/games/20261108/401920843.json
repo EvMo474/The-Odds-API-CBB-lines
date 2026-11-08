@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "GB",
+  "id": "2739",
+  "name": "Green Bay Phoenix"
+ },
+ "date_key": "20261108",
+ "event_id": "401920843",
+ "home": {
+  "abbr": "STMN",
+  "id": "2900",
+  "name": "St. Thomas Tommies"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "STMN -8.5",
+    "home_spread": -8.5,
+    "provider": "DraftKings",
+    "raw_spread": -8.5,
+    "total": 149.5
+   }
+  ],
+  "t": "2026-11-08T05:01:51+00:00"
+ },
+ "start": "2026-11-08T19:00Z"
+}
