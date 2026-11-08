@@ -4,6 +4,48 @@
   "id": "16",
   "name": "Sacramento State Hornets"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -19.5,
+    "total": 169.5
+   },
+   "betonlineag": {
+    "spread": -20.0,
+    "total": 170.5
+   },
+   "betrivers": {
+    "spread": -19.5,
+    "total": 170.5
+   },
+   "betus": {
+    "spread": -19.5,
+    "total": 170.0
+   },
+   "draftkings": {
+    "spread": -19.5,
+    "total": 170.5
+   },
+   "fanatics": {
+    "spread": -19.5,
+    "total": 170.0
+   },
+   "fanduel": {
+    "spread": -19.5,
+    "total": 169.5
+   },
+   "lowvig": {
+    "spread": -20.0,
+    "total": 170.5
+   },
+   "williamhill_us": {
+    "spread": -20.0,
+    "total": 170.0
+   }
+  },
+  "odds_event_id": "fc880e5a120c069cb1dae81b47fc1451",
+  "t": "2026-11-08T02:59:55+00:00"
+ },
  "date_key": "20261107",
  "event_id": "401917519",
  "home": {
