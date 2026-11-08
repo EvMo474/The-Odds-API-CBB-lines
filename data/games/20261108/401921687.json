@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "MRST",
+  "id": "2368",
+  "name": "Marist Red Foxes"
+ },
+ "date_key": "20261108",
+ "event_id": "401921687",
+ "home": {
+  "abbr": "UML",
+  "id": "2349",
+  "name": "UMass Lowell River Hawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UML -1.5",
+    "home_spread": -1.5,
+    "provider": "DraftKings",
+    "raw_spread": -1.5,
+    "total": 142.5
+   }
+  ],
+  "t": "2026-11-08T16:28:44+00:00"
+ },
+ "start": "2026-11-08T18:00Z"
+}

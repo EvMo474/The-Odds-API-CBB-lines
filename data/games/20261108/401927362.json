@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SOU",
+  "id": "2582",
+  "name": "Southern Jaguars"
+ },
+ "date_key": "20261108",
+ "event_id": "401927362",
+ "home": {
+  "abbr": "DRKE",
+  "id": "2181",
+  "name": "Drake Bulldogs"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "DRKE -13.5",
+    "home_spread": -13.5,
+    "provider": "DraftKings",
+    "raw_spread": -13.5,
+    "total": 151.5
+   }
+  ],
+  "t": "2026-11-08T16:28:44+00:00"
+ },
+ "start": "2026-11-08T20:00Z"
+}
