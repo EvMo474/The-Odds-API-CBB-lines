@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "KEUK",
+  "id": "6319",
+  "name": "Keuka Storm"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261108",
+ "event_id": "401924719",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 14,
+    "3pm": 3,
+    "fg_pct": 37.5,
+    "fga": 32,
+    "fgm": 12,
+    "fta": 4,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 17,
+    "3pm": 7,
+    "fg_pct": 51.85,
+    "fga": 27,
+    "fgm": 14,
+    "fta": 19,
+    "ftm": 11
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "31",
+   "home": "46"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-08T19:52:44+00:00"
+ },
+ "halftime_first_seen": "2026-11-08T19:52:44+00:00",
+ "home": {
+  "abbr": "COR",
+  "id": "172",
+  "name": "Cornell Big Red"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Houston Cougars @ California Golden Bears",
+   "credits_left": "30710",
+   "events_list_match": 0.4,
+   "events_list_n": 49,
+   "match": 0.4,
+   "n_events": 49,
+   "t": "2026-11-08T19:52:44+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "46"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-08T19:52:44+00:00"
+  }
+ ],
+ "start": "2026-11-08T19:00Z"
+}
