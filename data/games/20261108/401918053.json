@@ -79,7 +79,7 @@
   "pre_home_spread": 19.5,
   "qualifies": false,
   "suspect": true,
-  "t": "2026-11-09T02:36:10+00:00",
+  "t": "2026-11-09T02:42:10+00:00",
   "win_zone": false,
   "win_zone_max": 2.0
  },
@@ -908,6 +908,80 @@
    "n_events": 41,
    "odds_event_id": "cd111ab90595f6edda41523f3c541390",
    "t": "2026-11-09T02:36:10+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "spread": 20.5,
+     "total": 149.5
+    },
+    "betrivers": {
+     "spread": 19.5,
+     "total": 149.5
+    },
+    "draftkings": {
+     "spread": 20.5,
+     "total": 149.5
+    },
+    "fanatics": {
+     "spread": 20.5,
+     "total": 150.5
+    },
+    "fanduel": {
+     "spread": 19.5,
+     "total": 149.5
+    },
+    "williamhill_us": {
+     "spread": 20.5,
+     "total": 149.5
+    }
+   },
+   "credits_left": "30546",
+   "draftkings_home_spread": 20.5,
+   "draftkings_total": 149.5,
+   "fanduel_home_spread": 19.5,
+   "fanduel_total": 149.5,
+   "match": 1.0,
+   "n_events": 41,
+   "odds_event_id": "cd111ab90595f6edda41523f3c541390",
+   "t": "2026-11-09T02:39:10+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "spread": 20.5,
+     "total": 149.5
+    },
+    "betrivers": {
+     "spread": 19.5,
+     "total": 149.5
+    },
+    "draftkings": {
+     "spread": 20.5,
+     "total": 149.5
+    },
+    "fanatics": {
+     "spread": 20.5,
+     "total": 150.5
+    },
+    "fanduel": {
+     "spread": 19.5,
+     "total": 149.5
+    },
+    "williamhill_us": {
+     "spread": 20.5,
+     "total": 149.5
+    }
+   },
+   "credits_left": "30544",
+   "draftkings_home_spread": 20.5,
+   "draftkings_total": 149.5,
+   "fanduel_home_spread": 19.5,
+   "fanduel_total": 149.5,
+   "match": 1.0,
+   "n_events": 41,
+   "odds_event_id": "cd111ab90595f6edda41523f3c541390",
+   "t": "2026-11-09T02:42:10+00:00"
   }
  ],
  "odds_ticks": [
@@ -958,6 +1032,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-09T02:36:10+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "43"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-09T02:39:10+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "43"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-09T02:42:10+00:00"
   }
  ],
  "pregame": {
