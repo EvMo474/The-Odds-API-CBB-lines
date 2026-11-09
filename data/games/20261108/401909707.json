@@ -4,6 +4,48 @@
   "id": "221",
   "name": "Pittsburgh Panthers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 2.5,
+    "total": 153.5
+   },
+   "betonlineag": {
+    "spread": 3.0,
+    "total": 153.5
+   },
+   "betrivers": {
+    "spread": 2.5,
+    "total": 153.5
+   },
+   "betus": {
+    "spread": 2.5,
+    "total": 153.5
+   },
+   "draftkings": {
+    "spread": 2.5,
+    "total": 153.5
+   },
+   "fanatics": {
+    "spread": 2.5,
+    "total": 153.5
+   },
+   "fanduel": {
+    "spread": 2.5,
+    "total": 153.5
+   },
+   "lowvig": {
+    "spread": 3.0,
+    "total": 153.5
+   },
+   "williamhill_us": {
+    "spread": 2.5,
+    "total": 153.0
+   }
+  },
+  "odds_event_id": "f5da6ca8311593f74c000c5b491cc74c",
+  "t": "2026-11-09T00:54:10+00:00"
+ },
  "date_key": "20261108",
  "event_id": "401909707",
  "home": {
