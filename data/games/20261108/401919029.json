@@ -7,6 +7,44 @@
  "break_via": "STATUS_HALFTIME",
  "date_key": "20261108",
  "event_id": "401919029",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 19,
+    "3pm": 9,
+    "fg_pct": 48.15,
+    "fga": 54,
+    "fgm": 26,
+    "fta": 36,
+    "ftm": 25
+   },
+   "home": {
+    "3pa": 14,
+    "3pm": 2,
+    "fg_pct": 44.26,
+    "fga": 61,
+    "fgm": 27,
+    "fta": 42,
+    "ftm": 37
+   }
+  },
+  "linescores": {
+   "away": [
+    "45",
+    "41"
+   ],
+   "home": [
+    "43",
+    "50"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "86",
+   "home": "93"
+  },
+  "t": "2026-11-09T06:31:29+00:00"
+ },
  "halftime": {
   "box_1h": {
    "away": {
