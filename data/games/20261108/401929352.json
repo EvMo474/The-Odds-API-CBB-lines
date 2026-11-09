@@ -12,7 +12,7 @@
    },
    "betonlineag": {
     "spread": -13.0,
-    "total": 142.5
+    "total": 143.0
    },
    "betrivers": {
     "spread": -13.5,
@@ -24,7 +24,7 @@
    },
    "fanatics": {
     "spread": -13.5,
-    "total": 142.5
+    "total": 143.0
    },
    "fanduel": {
     "spread": -12.5,
@@ -32,15 +32,15 @@
    },
    "lowvig": {
     "spread": -13.0,
-    "total": 142.5
+    "total": 143.0
    },
    "williamhill_us": {
     "spread": -13.5,
-    "total": 142.5
+    "total": 143.0
    }
   },
   "odds_event_id": "fda713cae3e805506547d5b1e705bcc8",
-  "t": "2026-11-08T23:54:10+00:00"
+  "t": "2026-11-09T00:00:10+00:00"
  },
  "date_key": "20261108",
  "event_id": "401929352",
