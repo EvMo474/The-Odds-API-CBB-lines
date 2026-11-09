@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "STO",
+  "id": "284",
+  "name": "Stonehill Skyhawks"
+ },
+ "date_key": "20261109",
+ "event_id": "401919846",
+ "home": {
+  "abbr": "COLU",
+  "id": "171",
+  "name": "Columbia Lions"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "COLU -10.5",
+    "home_spread": -10.5,
+    "provider": "DraftKings",
+    "raw_spread": -10.5,
+    "total": 145.5
+   }
+  ],
+  "t": "2026-11-09T05:01:29+00:00"
+ },
+ "start": "2026-11-10T00:00Z"
+}

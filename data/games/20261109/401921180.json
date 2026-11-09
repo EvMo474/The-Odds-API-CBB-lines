@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "HOW",
+  "id": "47",
+  "name": "Howard Bison"
+ },
+ "date_key": "20261109",
+ "event_id": "401921180",
+ "home": {
+  "abbr": "PENN",
+  "id": "219",
+  "name": "Pennsylvania Quakers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "PENN -5.5",
+    "home_spread": -5.5,
+    "provider": "DraftKings",
+    "raw_spread": -5.5,
+    "total": 158.5
+   }
+  ],
+  "t": "2026-11-09T05:01:29+00:00"
+ },
+ "start": "2026-11-09T23:30Z"
+}

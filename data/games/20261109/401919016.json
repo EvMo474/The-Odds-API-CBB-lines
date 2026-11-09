@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "FAMU",
+  "id": "50",
+  "name": "Florida A&M Rattlers"
+ },
+ "date_key": "20261109",
+ "event_id": "401919016",
+ "home": {
+  "abbr": "UAB",
+  "id": "5",
+  "name": "UAB Blazers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UAB -16.5",
+    "home_spread": -16.5,
+    "provider": "DraftKings",
+    "raw_spread": -16.5,
+    "total": 154.5
+   }
+  ],
+  "t": "2026-11-09T05:01:29+00:00"
+ },
+ "start": "2026-11-10T00:30Z"
+}

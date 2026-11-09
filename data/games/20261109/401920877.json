@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "KC",
+  "id": "140",
+  "name": "Kansas City Roos"
+ },
+ "date_key": "20261109",
+ "event_id": "401920877",
+ "home": {
+  "abbr": "JAX",
+  "id": "294",
+  "name": "Jacksonville Dolphins"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "JAX -5.5",
+    "home_spread": -5.5,
+    "provider": "DraftKings",
+    "raw_spread": -5.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-09T05:01:29+00:00"
+ },
+ "start": "2026-11-10T00:00Z"
+}

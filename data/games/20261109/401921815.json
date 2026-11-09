@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SIUE",
+  "id": "2565",
+  "name": "SIU Edwardsville Cougars"
+ },
+ "date_key": "20261109",
+ "event_id": "401921815",
+ "home": {
+  "abbr": "MIZ",
+  "id": "142",
+  "name": "Missouri Tigers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MIZ -29.5",
+    "home_spread": -29.5,
+    "provider": "DraftKings",
+    "raw_spread": -29.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-09T05:01:29+00:00"
+ },
+ "start": "2026-11-10T01:00Z"
+}

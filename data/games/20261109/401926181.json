@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UNCG",
+  "id": "2430",
+  "name": "UNC Greensboro Spartans"
+ },
+ "date_key": "20261109",
+ "event_id": "401926181",
+ "home": {
+  "abbr": "UIC",
+  "id": "82",
+  "name": "UIC Flames"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UIC -20.5",
+    "home_spread": -20.5,
+    "provider": "DraftKings",
+    "raw_spread": -20.5,
+    "total": 149.5
+   }
+  ],
+  "t": "2026-11-09T05:01:29+00:00"
+ },
+ "start": "2026-11-10T00:00Z"
+}
