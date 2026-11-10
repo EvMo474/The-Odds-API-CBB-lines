@@ -4,6 +4,48 @@
   "id": "2453",
   "name": "North Alabama Lions"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -28.5,
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": -28.5,
+    "total": 147.0
+   },
+   "betrivers": {
+    "spread": -27.5,
+    "total": 146.5
+   },
+   "betus": {
+    "spread": -28.5,
+    "total": 147.0
+   },
+   "draftkings": {
+    "spread": -27.5,
+    "total": 147.5
+   },
+   "fanatics": {
+    "spread": -28.0,
+    "total": 147.0
+   },
+   "fanduel": {
+    "spread": -27.5,
+    "total": 146.5
+   },
+   "lowvig": {
+    "spread": -28.5,
+    "total": 147.0
+   },
+   "williamhill_us": {
+    "spread": -28.0,
+    "total": 147.0
+   }
+  },
+  "odds_event_id": "1792ce79116f30fb236201b611d05641",
+  "t": "2026-11-10T00:54:24+00:00"
+ },
  "date_key": "20261109",
  "event_id": "401906803",
  "home": {

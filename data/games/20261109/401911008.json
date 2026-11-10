@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "BRES",
+  "id": "2855",
+  "name": "Brescia Bearcats"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261109",
+ "event_id": "401911008",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 14,
+    "3pm": 4,
+    "fg_pct": 33.33,
+    "fga": 30,
+    "fgm": 10,
+    "fta": 5,
+    "ftm": 2
+   },
+   "home": {
+    "3pa": 16,
+    "3pm": 6,
+    "fg_pct": 53.33,
+    "fga": 30,
+    "fgm": 16,
+    "fta": 11,
+    "ftm": 7
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "26",
+   "home": "45"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-10T00:54:23+00:00"
+ },
+ "halftime_first_seen": "2026-11-10T00:54:23+00:00",
+ "home": {
+  "abbr": "BALL",
+  "id": "2050",
+  "name": "Ball State Cardinals"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Florida Gators @ Florida St Seminoles",
+   "credits_left": "30494",
+   "events_list_match": 0.46,
+   "events_list_n": 89,
+   "match": 0.46,
+   "n_events": 89,
+   "t": "2026-11-10T00:54:24+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "45"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T00:54:23+00:00"
+  }
+ ],
+ "start": "2026-11-10T00:00Z"
+}

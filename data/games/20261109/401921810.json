@@ -4,6 +4,48 @@
   "id": "2348",
   "name": "Louisiana Tech Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -29.5,
+    "total": 148.5
+   },
+   "betonlineag": {
+    "spread": -29.5,
+    "total": 148.0
+   },
+   "betrivers": {
+    "spread": -29.5,
+    "total": 148.5
+   },
+   "betus": {
+    "spread": -29.5,
+    "total": 148.0
+   },
+   "draftkings": {
+    "spread": -29.5,
+    "total": 148.5
+   },
+   "fanatics": {
+    "spread": -29.5,
+    "total": 148.5
+   },
+   "fanduel": {
+    "spread": -29.5,
+    "total": 147.5
+   },
+   "lowvig": {
+    "spread": -29.5,
+    "total": 148.0
+   },
+   "williamhill_us": {
+    "spread": -29.5,
+    "total": 148.5
+   }
+  },
+  "odds_event_id": "cd831e7e0e5ac304dc52af96b501a4da",
+  "t": "2026-11-10T00:54:24+00:00"
+ },
  "date_key": "20261109",
  "event_id": "401921810",
  "home": {

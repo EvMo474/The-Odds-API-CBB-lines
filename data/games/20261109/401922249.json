@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "BAP",
+  "id": "132013",
+  "name": "Baptist (Fl) Eagles"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261109",
+ "event_id": "401922249",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 10,
+    "3pm": 1,
+    "fg_pct": 31.25,
+    "fga": 32,
+    "fgm": 10,
+    "fta": 9,
+    "ftm": 8
+   },
+   "home": {
+    "3pa": 16,
+    "3pm": 7,
+    "fg_pct": 61.54,
+    "fga": 39,
+    "fgm": 24,
+    "fta": 9,
+    "ftm": 6
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "29",
+   "home": "61"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-10T00:51:23+00:00"
+ },
+ "halftime_first_seen": "2026-11-10T00:51:23+00:00",
+ "home": {
+  "abbr": "UWF",
+  "id": "2697",
+  "name": "West Florida Argonauts"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Boston Univ. Terriers @ Northwestern Wildcats",
+   "credits_left": "30496",
+   "events_list_match": 0.45,
+   "events_list_n": 89,
+   "match": 0.45,
+   "n_events": 89,
+   "t": "2026-11-10T00:51:24+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Boston Univ. Terriers @ Northwestern Wildcats",
+   "credits_left": "30494",
+   "events_list_match": 0.45,
+   "events_list_n": 89,
+   "match": 0.45,
+   "n_events": 89,
+   "t": "2026-11-10T00:54:23+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "29",
+    "home": "61"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T00:51:23+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "29",
+    "home": "61"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T00:54:23+00:00"
+  }
+ ],
+ "start": "2026-11-10T00:00Z"
+}
