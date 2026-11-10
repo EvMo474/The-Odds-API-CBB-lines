@@ -4,6 +4,48 @@
   "id": "242",
   "name": "Rice Owls"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -18.5,
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": -18.5,
+    "total": 146.0
+   },
+   "betrivers": {
+    "spread": -18.5,
+    "total": 146.5
+   },
+   "betus": {
+    "spread": -18.5,
+    "total": 146.0
+   },
+   "draftkings": {
+    "spread": -18.5,
+    "total": 146.5
+   },
+   "fanatics": {
+    "spread": -18.5,
+    "total": 146.0
+   },
+   "fanduel": {
+    "spread": -18.5,
+    "total": 146.5
+   },
+   "lowvig": {
+    "spread": -18.5,
+    "total": 146.0
+   },
+   "williamhill_us": {
+    "spread": -18.5,
+    "total": 146.5
+   }
+  },
+  "odds_event_id": "2a80dd8061cc9e506c15bafdfb0f7839",
+  "t": "2026-11-10T02:54:24+00:00"
+ },
  "date_key": "20261109",
  "event_id": "401921095",
  "home": {
