@@ -15,11 +15,11 @@
     "total": 157.0
    },
    "betrivers": {
-    "spread": -9.5,
+    "spread": -7.5,
     "total": 157.5
    },
    "betus": {
-    "spread": -8.0,
+    "spread": -7.5,
     "total": 157.0
    },
    "draftkings": {
@@ -39,12 +39,12 @@
     "total": 157.0
    },
    "williamhill_us": {
-    "spread": -7.5,
+    "spread": -8.0,
     "total": 157.5
    }
   },
   "odds_event_id": "c3059edfb2a6c5df3aad474b927e0198",
-  "t": "2026-11-10T04:54:23+00:00"
+  "t": "2026-11-10T05:00:22+00:00"
  },
  "date_key": "20261109",
  "event_id": "401929003",

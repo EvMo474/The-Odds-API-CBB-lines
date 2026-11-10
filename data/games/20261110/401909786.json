@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "KU",
+  "id": "2305",
+  "name": "Kansas Jayhawks"
+ },
+ "date_key": "20261110",
+ "event_id": "401909786",
+ "home": {
+  "abbr": "UK",
+  "id": "96",
+  "name": "Kentucky Wildcats"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "KU -4.5",
+    "home_spread": 4.5,
+    "provider": "DraftKings",
+    "raw_spread": 4.5,
+    "total": 155.5
+   }
+  ],
+  "t": "2026-11-10T05:00:22+00:00"
+ },
+ "start": "2026-11-11T02:30Z"
+}

@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NAU",
+  "id": "2464",
+  "name": "Northern Arizona Lumberjacks"
+ },
+ "date_key": "20261110",
+ "event_id": "401909740",
+ "home": {
+  "abbr": "ARIZ",
+  "id": "12",
+  "name": "Arizona Wildcats"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ARIZ -36.5",
+    "home_spread": -36.5,
+    "provider": "DraftKings",
+    "raw_spread": -36.5,
+    "total": 156.5
+   }
+  ],
+  "t": "2026-11-10T05:00:22+00:00"
+ },
+ "start": "2026-11-11T02:00Z"
+}

@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "EVAN",
+  "id": "339",
+  "name": "Evansville Purple Aces"
+ },
+ "date_key": "20261110",
+ "event_id": "401927369",
+ "home": {
+  "abbr": "MTSU",
+  "id": "2393",
+  "name": "Middle Tennessee Blue Raiders"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MTSU -7.5",
+    "home_spread": -7.5,
+    "provider": "DraftKings",
+    "raw_spread": -7.5,
+    "total": 143.5
+   }
+  ],
+  "t": "2026-11-10T05:00:22+00:00"
+ },
+ "start": "2026-11-11T00:30Z"
+}

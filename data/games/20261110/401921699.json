@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "WEB",
+  "id": "2692",
+  "name": "Weber State Wildcats"
+ },
+ "date_key": "20261110",
+ "event_id": "401921699",
+ "home": {
+  "abbr": "UTAH",
+  "id": "254",
+  "name": "Utah Utes"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UTAH -18.5",
+    "home_spread": -18.5,
+    "provider": "DraftKings",
+    "raw_spread": -18.5,
+    "total": 155.5
+   }
+  ],
+  "t": "2026-11-10T05:00:22+00:00"
+ },
+ "start": "2026-11-11T02:00Z"
+}

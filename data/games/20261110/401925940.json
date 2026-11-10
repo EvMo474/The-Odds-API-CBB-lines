@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UTU",
+  "id": "3101",
+  "name": "Utah Tech Trailblazers"
+ },
+ "date_key": "20261110",
+ "event_id": "401925940",
+ "home": {
+  "abbr": "USU",
+  "id": "328",
+  "name": "Utah State Aggies"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "USU -26.5",
+    "home_spread": -26.5,
+    "provider": "DraftKings",
+    "raw_spread": -26.5,
+    "total": 154.5
+   }
+  ],
+  "t": "2026-11-10T05:00:22+00:00"
+ },
+ "start": "2026-11-11T02:00Z"
+}
