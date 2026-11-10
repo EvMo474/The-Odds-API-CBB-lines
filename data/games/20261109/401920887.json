@@ -704,6 +704,26 @@
    "n_events": 68,
    "t": "2026-11-10T03:12:23+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Houston Christian Huskies @ South Dakota Coyotes",
+   "credits_left": "30412",
+   "events_list_match": 0.46,
+   "events_list_n": 67,
+   "match": 0.46,
+   "n_events": 67,
+   "t": "2026-11-10T03:15:23+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Houston Christian Huskies @ South Dakota Coyotes",
+   "credits_left": "30410",
+   "events_list_match": 0.46,
+   "events_list_n": 65,
+   "match": 0.46,
+   "n_events": 65,
+   "t": "2026-11-10T03:18:23+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -730,6 +750,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-10T03:12:23+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "36",
+    "home": "34"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T03:15:23+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "36",
+    "home": "34"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T03:18:22+00:00"
   }
  ],
  "pregame": {
