@@ -704,6 +704,26 @@
    "n_events": 89,
    "t": "2026-11-10T00:54:23+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "UMKC Kangaroos @ Jacksonville Dolphins",
+   "credits_left": "30492",
+   "events_list_match": 0.77,
+   "events_list_n": 89,
+   "match": 0.77,
+   "n_events": 89,
+   "t": "2026-11-10T00:57:23+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "UMKC Kangaroos @ Jacksonville Dolphins",
+   "credits_left": "30490",
+   "events_list_match": 0.77,
+   "events_list_n": 89,
+   "match": 0.77,
+   "n_events": 89,
+   "t": "2026-11-10T01:00:25+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -730,6 +750,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-10T00:54:23+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "20",
+    "home": "36"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T00:57:23+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "20",
+    "home": "36"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T01:00:23+00:00"
   }
  ],
  "pregame": {
