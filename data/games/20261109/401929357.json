@@ -65,6 +65,26 @@
    "n_events": 64,
    "t": "2026-11-10T03:24:23+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Northern Arizona Lumberjacks @ Arizona Wildcats",
+   "credits_left": "30404",
+   "events_list_match": 0.44,
+   "events_list_n": 64,
+   "match": 0.44,
+   "n_events": 64,
+   "t": "2026-11-10T03:27:22+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Northern Arizona Lumberjacks @ Arizona Wildcats",
+   "credits_left": "30402",
+   "events_list_match": 0.44,
+   "events_list_n": 64,
+   "match": 0.44,
+   "n_events": 64,
+   "t": "2026-11-10T03:30:23+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -91,6 +111,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-10T03:24:22+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "57",
+    "home": "32"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T03:27:22+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "57",
+    "home": "32"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T03:30:22+00:00"
   }
  ],
  "start": "2026-11-10T02:30Z"
