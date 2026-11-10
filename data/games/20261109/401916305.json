@@ -49,6 +49,28 @@
  },
  "date_key": "20261109",
  "event_id": "401916305",
+ "final": {
+  "box_full": {
+   "away": {},
+   "home": {}
+  },
+  "linescores": {
+   "away": [
+    "30",
+    "33"
+   ],
+   "home": [
+    "30",
+    "31"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "63",
+   "home": "61"
+  },
+  "t": "2026-11-10T02:09:23+00:00"
+ },
  "halftime": {
   "box_1h": {
    "away": {},
