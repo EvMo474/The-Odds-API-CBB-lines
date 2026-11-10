@@ -49,36 +49,36 @@
  "date_key": "20261109",
  "event_id": "401911010",
  "flag": {
-  "best_book": "betrivers",
-  "best_line": 6.5,
+  "best_book": "williamhill_us",
+  "best_line": 5.5,
   "bucket": "Road Dog",
   "bucket_src": "close",
   "cold": "away",
-  "cold_full_spread": 12.5,
+  "cold_full_spread": 11.5,
   "cold_full_spread_by_book": {
-   "betmgm": 12.5,
-   "betrivers": 13.5,
-   "draftkings": 12.5,
-   "fanatics": 12.5,
-   "fanduel": 12.5,
+   "betmgm": 11.5,
+   "betrivers": 12.5,
+   "draftkings": 11.5,
+   "fanatics": 11.5,
+   "fanduel": 11.5,
    "williamhill_us": 12.5
   },
   "cold_margin_1h": -7,
   "gap": 9.0,
   "gap_min": 10.0,
   "lines_2h": {
-   "betmgm": 5.5,
-   "betrivers": 6.5,
-   "draftkings": 5.5,
-   "fanatics": 5.5,
-   "fanduel": 5.5,
+   "betmgm": 4.5,
+   "betrivers": 5.5,
+   "draftkings": 4.5,
+   "fanatics": 4.5,
+   "fanduel": 4.5,
    "williamhill_us": 5.5
   },
   "neutral": false,
   "pre_home_spread": -12.5,
   "qualifies": false,
   "suspect": false,
-  "t": "2026-11-10T01:00:25+00:00",
+  "t": "2026-11-10T01:03:23+00:00",
   "win_zone": false,
   "win_zone_max": 2.0
  },
@@ -981,6 +981,43 @@
    "n_events": 89,
    "odds_event_id": "20920eccaae2cae00a75b086fa1d8891",
    "t": "2026-11-10T01:00:25+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "spread": -11.5,
+     "total": 161.5
+    },
+    "betrivers": {
+     "spread": -12.5,
+     "total": 161.5
+    },
+    "draftkings": {
+     "spread": -11.5,
+     "total": 161.5
+    },
+    "fanatics": {
+     "spread": -11.5,
+     "total": 162.5
+    },
+    "fanduel": {
+     "spread": -11.5,
+     "total": 161.5
+    },
+    "williamhill_us": {
+     "spread": -12.5,
+     "total": 163.5
+    }
+   },
+   "credits_left": "30488",
+   "draftkings_home_spread": -11.5,
+   "draftkings_total": 161.5,
+   "fanduel_home_spread": -11.5,
+   "fanduel_total": 161.5,
+   "match": 0.97,
+   "n_events": 89,
+   "odds_event_id": "20920eccaae2cae00a75b086fa1d8891",
+   "t": "2026-11-10T01:03:23+00:00"
   }
  ],
  "odds_ticks": [
@@ -1055,6 +1092,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-10T01:00:23+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "37",
+    "home": "44"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T01:03:22+00:00"
+  },
+  {
+   "clock": "17:57",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "41",
+    "home": "50"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-10T01:06:22+00:00"
   }
  ],
  "pregame": {
