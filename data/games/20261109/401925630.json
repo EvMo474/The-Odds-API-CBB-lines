@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "CHEY",
+  "id": "2129",
+  "name": "Cheyney (PA) Wolves"
+ },
+ "date_key": "20261109",
+ "event_id": "401925630",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 18,
+    "3pm": 2,
+    "fg_pct": 25.4,
+    "fga": 63,
+    "fgm": 16,
+    "fta": 26,
+    "ftm": 19
+   },
+   "home": {
+    "3pa": 25,
+    "3pm": 9,
+    "fg_pct": 54.84,
+    "fga": 62,
+    "fgm": 34,
+    "fta": 20,
+    "ftm": 13
+   }
+  },
+  "linescores": {
+   "away": [
+    "23",
+    "30"
+   ],
+   "home": [
+    "47",
+    "43"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "53",
+   "home": "90"
+  },
+  "t": "2026-11-10T00:00:23+00:00"
+ },
+ "home": {
+  "abbr": "COPP",
+  "id": "2154",
+  "name": "Coppin State Eagles"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-09T16:00Z"
+}

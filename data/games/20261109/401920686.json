@@ -4,6 +4,44 @@
   "id": "2681",
   "name": "Wagner Seahawks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -39.5,
+    "total": 139.5
+   },
+   "betonlineag": {
+    "spread": -39.5,
+    "total": 140.0
+   },
+   "betrivers": {
+    "spread": -39.5,
+    "total": 139.5
+   },
+   "draftkings": {
+    "spread": -39.5,
+    "total": 139.5
+   },
+   "fanatics": {
+    "spread": -40.0,
+    "total": 140.0
+   },
+   "fanduel": {
+    "spread": -39.5,
+    "total": 139.5
+   },
+   "lowvig": {
+    "spread": -39.5,
+    "total": 140.0
+   },
+   "williamhill_us": {
+    "spread": -40.0,
+    "total": 140.0
+   }
+  },
+  "odds_event_id": "ed89e56c30ce178fdc3853a4c27064aa",
+  "t": "2026-11-10T00:00:24+00:00"
+ },
  "date_key": "20261109",
  "event_id": "401920686",
  "home": {

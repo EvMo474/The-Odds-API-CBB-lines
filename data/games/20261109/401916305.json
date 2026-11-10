@@ -4,6 +4,48 @@
   "id": "135",
   "name": "Minnesota Golden Gophers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -7.5,
+    "total": 143.5
+   },
+   "betonlineag": {
+    "spread": -7.5,
+    "total": 143.5
+   },
+   "betrivers": {
+    "spread": -7.5,
+    "total": 144.5
+   },
+   "betus": {
+    "spread": -7.5,
+    "total": 144.0
+   },
+   "draftkings": {
+    "spread": -7.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": -7.5,
+    "total": 144.0
+   },
+   "fanduel": {
+    "spread": -7.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": -7.5,
+    "total": 143.5
+   },
+   "williamhill_us": {
+    "spread": -7.5,
+    "total": 144.0
+   }
+  },
+  "odds_event_id": "469286b8c4d62249df7d89201149dc5e",
+  "t": "2026-11-10T00:00:24+00:00"
+ },
  "date_key": "20261109",
  "event_id": "401916305",
  "home": {

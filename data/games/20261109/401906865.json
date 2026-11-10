@@ -4,6 +4,44 @@
   "id": "2755",
   "name": "Grambling Tigers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -37.5,
+    "total": 154.5
+   },
+   "betonlineag": {
+    "spread": -37.5,
+    "total": 155.0
+   },
+   "betrivers": {
+    "spread": -37.5,
+    "total": 155.5
+   },
+   "draftkings": {
+    "spread": -37.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": -37.5,
+    "total": 155.0
+   },
+   "fanduel": {
+    "spread": -37.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": -37.5,
+    "total": 155.0
+   },
+   "williamhill_us": {
+    "spread": -37.5,
+    "total": 155.0
+   }
+  },
+  "odds_event_id": "d9ba98e5123d72bb5bc8883720a068d4",
+  "t": "2026-11-10T00:00:24+00:00"
+ },
  "date_key": "20261109",
  "event_id": "401906865",
  "home": {
