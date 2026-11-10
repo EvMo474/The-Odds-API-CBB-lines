@@ -4,6 +4,39 @@
   "id": "2010",
   "name": "Alabama A&M Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "total": 139.5
+   },
+   "betonlineag": {
+    "spread": -24.5,
+    "total": 139.5
+   },
+   "betrivers": {
+    "spread": -24.5,
+    "total": 139.5
+   },
+   "draftkings": {
+    "spread": -24.5,
+    "total": 139.5
+   },
+   "fanatics": {
+    "spread": -24.5,
+    "total": 140.0
+   },
+   "fanduel": {
+    "spread": -23.5,
+    "total": 139.5
+   },
+   "lowvig": {
+    "spread": -24.5,
+    "total": 139.5
+   }
+  },
+  "odds_event_id": "50a2280a257b166f0b2a9c6c2febf44d",
+  "t": "2026-11-10T01:54:23+00:00"
+ },
  "date_key": "20261109",
  "event_id": "401909502",
  "home": {

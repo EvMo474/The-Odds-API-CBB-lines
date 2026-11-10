@@ -4,6 +4,48 @@
   "id": "2026",
   "name": "App State Mountaineers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -23.5,
+    "total": 143.5
+   },
+   "betonlineag": {
+    "spread": -23.5,
+    "total": 144.0
+   },
+   "betrivers": {
+    "spread": -23.5,
+    "total": 143.5
+   },
+   "betus": {
+    "spread": -23.5,
+    "total": 144.0
+   },
+   "draftkings": {
+    "spread": -23.5,
+    "total": 143.5
+   },
+   "fanatics": {
+    "spread": -23.5,
+    "total": 144.0
+   },
+   "fanduel": {
+    "spread": -23.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": -23.5,
+    "total": 144.0
+   },
+   "williamhill_us": {
+    "spread": -23.5,
+    "total": 144.0
+   }
+  },
+  "odds_event_id": "1152e203aa3ee97c99f07631aa18c375",
+  "t": "2026-11-10T01:54:23+00:00"
+ },
  "date_key": "20261109",
  "event_id": "401920799",
  "home": {
