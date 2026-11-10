@@ -55,6 +55,26 @@
    "n_events": 86,
    "t": "2026-11-10T02:00:27+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Northern Kentucky Norse @ Saint Louis Billikens",
+   "credits_left": "30450",
+   "events_list_match": 0.44,
+   "events_list_n": 86,
+   "match": 0.44,
+   "n_events": 86,
+   "t": "2026-11-10T02:03:23+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Northern Kentucky Norse @ Saint Louis Billikens",
+   "credits_left": "30448",
+   "events_list_match": 0.44,
+   "events_list_n": 86,
+   "match": 0.44,
+   "n_events": 86,
+   "t": "2026-11-10T02:06:23+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -69,6 +89,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-10T02:00:27+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "15",
+    "home": "26"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T02:03:22+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "15",
+    "home": "26"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T02:06:22+00:00"
   }
  ],
  "start": "2026-11-10T01:00Z"
