@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "MSK",
+  "id": "332",
+  "name": "Muskingum Fighting Muskies"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261109",
+ "event_id": "401928833",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 15,
+    "3pm": 4,
+    "fg_pct": 37.04,
+    "fga": 27,
+    "fgm": 10,
+    "fta": 4,
+    "ftm": 3
+   },
+   "home": {
+    "3pa": 17,
+    "3pm": 9,
+    "fg_pct": 60.61,
+    "fga": 33,
+    "fgm": 20,
+    "fta": 11,
+    "ftm": 7
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "27",
+   "home": "51"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-10T00:48:23+00:00"
+ },
+ "halftime_first_seen": "2026-11-10T00:48:23+00:00",
+ "home": {
+  "abbr": "AKR",
+  "id": "2006",
+  "name": "Akron Zips"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "North Dakota Fighting Hawks @ Clemson Tigers",
+   "credits_left": "30498",
+   "events_list_match": 0.43,
+   "events_list_n": 89,
+   "match": 0.43,
+   "n_events": 89,
+   "t": "2026-11-10T00:48:23+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "27",
+    "home": "51"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-10T00:48:23+00:00"
+  }
+ ],
+ "start": "2026-11-10T00:00Z"
+}
