@@ -4,6 +4,48 @@
   "id": "149",
   "name": "Montana Grizzlies"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -11.5,
+    "total": 147.5
+   },
+   "betonlineag": {
+    "spread": -11.5,
+    "total": 148.0
+   },
+   "betrivers": {
+    "spread": -11.5,
+    "total": 147.5
+   },
+   "betus": {
+    "spread": -11.5,
+    "total": 148.0
+   },
+   "draftkings": {
+    "spread": -11.5,
+    "total": 147.5
+   },
+   "fanatics": {
+    "spread": -11.5,
+    "total": 147.5
+   },
+   "fanduel": {
+    "spread": -11.5,
+    "total": 147.5
+   },
+   "lowvig": {
+    "spread": -11.5,
+    "total": 148.0
+   },
+   "williamhill_us": {
+    "spread": -11.5,
+    "total": 147.5
+   }
+  },
+  "odds_event_id": "ec95fa37f8cd117d2b0e8da4db83b192",
+  "t": "2026-11-11T02:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401921062",
  "home": {
