@@ -4,6 +4,44 @@
   "id": "356",
   "name": "Illinois Fighting Illini"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 2.5,
+    "total": 166.5
+   },
+   "betonlineag": {
+    "spread": 2.0,
+    "total": 166.5
+   },
+   "betrivers": {
+    "spread": 2.5,
+    "total": 166.5
+   },
+   "betus": {
+    "spread": 2.5,
+    "total": 166.5
+   },
+   "draftkings": {
+    "spread": 2.5,
+    "total": 166.5
+   },
+   "fanatics": {
+    "spread": 2.5,
+    "total": 166.5
+   },
+   "fanduel": {
+    "spread": 2.5,
+    "total": 166.5
+   },
+   "lowvig": {
+    "spread": 2.0,
+    "total": 166.5
+   }
+  },
+  "odds_event_id": "034812d38d48580c8bd4e35dab576b42",
+  "t": "2026-11-11T00:59:08+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401913527",
  "home": {

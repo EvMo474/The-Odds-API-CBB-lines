@@ -4,6 +4,48 @@
   "id": "43",
   "name": "Yale Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -19.5,
+    "total": 158.5
+   },
+   "betonlineag": {
+    "spread": -19.5,
+    "total": 158.5
+   },
+   "betrivers": {
+    "spread": -19.5,
+    "total": 157.5
+   },
+   "betus": {
+    "spread": -19.5,
+    "total": 158.5
+   },
+   "draftkings": {
+    "spread": -19.5,
+    "total": 158.5
+   },
+   "fanatics": {
+    "spread": -19.5,
+    "total": 158.0
+   },
+   "fanduel": {
+    "spread": -19.5,
+    "total": 157.5
+   },
+   "lowvig": {
+    "spread": -19.5,
+    "total": 158.5
+   },
+   "williamhill_us": {
+    "spread": -19.5,
+    "total": 158.0
+   }
+  },
+  "odds_event_id": "f4997c7daa0e22a1989d1c42c627d5b9",
+  "t": "2026-11-11T00:59:08+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401909752",
  "home": {

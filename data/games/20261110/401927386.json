@@ -4,6 +4,48 @@
   "id": "2739",
   "name": "Green Bay Phoenix"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 150.5
+   },
+   "betonlineag": {
+    "spread": -3.5,
+    "total": 150.0
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 150.5
+   },
+   "betus": {
+    "spread": -3.5,
+    "total": 150.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 150.5
+   },
+   "fanatics": {
+    "spread": -3.5,
+    "total": 150.5
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 150.5
+   },
+   "lowvig": {
+    "spread": -3.5,
+    "total": 150.0
+   },
+   "williamhill_us": {
+    "spread": -3.5,
+    "total": 151.0
+   }
+  },
+  "odds_event_id": "c8cdef4896e31a481ccbbe46fd13c74c",
+  "t": "2026-11-11T00:59:08+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401927386",
  "home": {
