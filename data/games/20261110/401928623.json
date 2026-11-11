@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "NWM",
+  "id": "580",
+  "name": "Newman Jets"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261110",
+ "event_id": "401928623",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 13,
+    "3pm": 1,
+    "fg_pct": 27.03,
+    "fga": 37,
+    "fgm": 10,
+    "fta": 12,
+    "ftm": 8
+   },
+   "home": {
+    "3pa": 10,
+    "3pm": 3,
+    "fg_pct": 53.57,
+    "fga": 28,
+    "fgm": 15,
+    "fta": 12,
+    "ftm": 8
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "29",
+   "home": "41"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-11T01:53:07+00:00"
+ },
+ "halftime_first_seen": "2026-11-11T01:53:07+00:00",
+ "home": {
+  "abbr": "MOST",
+  "id": "2623",
+  "name": "Missouri State Bears"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Pepperdine Waves @ Sam Houston St Bearkats",
+   "credits_left": "30304",
+   "events_list_match": 0.5,
+   "events_list_n": 90,
+   "match": 0.5,
+   "n_events": 90,
+   "t": "2026-11-11T01:53:07+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "29",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-11T01:53:07+00:00"
+  }
+ ],
+ "start": "2026-11-11T01:00Z"
+}
