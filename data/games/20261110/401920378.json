@@ -4,6 +4,48 @@
   "id": "259",
   "name": "Virginia Tech Hokies"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -4.5,
+    "total": 140.5
+   },
+   "betonlineag": {
+    "spread": -4.0,
+    "total": 141.0
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 140.5
+   },
+   "betus": {
+    "spread": -4.0,
+    "total": 140.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 140.5
+   },
+   "fanatics": {
+    "spread": -4.0,
+    "total": 140.0
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 140.5
+   },
+   "lowvig": {
+    "spread": -4.0,
+    "total": 141.0
+   },
+   "williamhill_us": {
+    "spread": -4.0,
+    "total": 140.0
+   }
+  },
+  "odds_event_id": "b57b809e9212138f9e00ffb2931cf4fd",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401920378",
  "home": {

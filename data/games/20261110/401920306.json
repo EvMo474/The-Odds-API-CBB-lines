@@ -4,6 +4,48 @@
   "id": "2198",
   "name": "Eastern Kentucky Colonels"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -15.5,
+    "total": 165.5
+   },
+   "betonlineag": {
+    "spread": -15.0,
+    "total": 165.5
+   },
+   "betrivers": {
+    "spread": -15.5,
+    "total": 166.5
+   },
+   "betus": {
+    "spread": -15.5,
+    "total": 165.5
+   },
+   "draftkings": {
+    "spread": -15.5,
+    "total": 165.5
+   },
+   "fanatics": {
+    "spread": -15.5,
+    "total": 165.5
+   },
+   "fanduel": {
+    "spread": -15.5,
+    "total": 165.5
+   },
+   "lowvig": {
+    "spread": -15.0,
+    "total": 165.5
+   },
+   "williamhill_us": {
+    "spread": -15.0,
+    "total": 165.5
+   }
+  },
+  "odds_event_id": "9a48ea0e6a4d0c1b7a6a9c38e825eb81",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401920306",
  "home": {

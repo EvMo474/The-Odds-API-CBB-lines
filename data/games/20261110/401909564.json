@@ -4,6 +4,48 @@
   "id": "127",
   "name": "Michigan State Spartans"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -7.5,
+    "total": 147.5
+   },
+   "betonlineag": {
+    "spread": -7.5,
+    "total": 147.0
+   },
+   "betrivers": {
+    "spread": -7.5,
+    "total": 147.5
+   },
+   "betus": {
+    "spread": -7.5,
+    "total": 147.0
+   },
+   "draftkings": {
+    "spread": -7.5,
+    "total": 147.5
+   },
+   "fanatics": {
+    "spread": -7.5,
+    "total": 147.0
+   },
+   "fanduel": {
+    "spread": -7.5,
+    "total": 147.5
+   },
+   "lowvig": {
+    "spread": -8.0,
+    "total": 147.0
+   },
+   "williamhill_us": {
+    "spread": -8.0,
+    "total": 147.0
+   }
+  },
+  "odds_event_id": "8f8f96b87641a3cbc280c8e63aed3ad4",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401909564",
  "home": {

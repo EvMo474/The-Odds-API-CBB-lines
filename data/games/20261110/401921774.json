@@ -4,6 +4,48 @@
   "id": "2325",
   "name": "La Salle Explorers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -20.5,
+    "total": 157.5
+   },
+   "betonlineag": {
+    "spread": -21.0,
+    "total": 157.5
+   },
+   "betrivers": {
+    "spread": -21.5,
+    "total": 159.5
+   },
+   "betus": {
+    "spread": -21.0,
+    "total": 157.5
+   },
+   "draftkings": {
+    "spread": -20.5,
+    "total": 157.5
+   },
+   "fanatics": {
+    "spread": -21.0,
+    "total": 158.0
+   },
+   "fanduel": {
+    "spread": -20.5,
+    "total": 157.5
+   },
+   "lowvig": {
+    "spread": -21.0,
+    "total": 157.5
+   },
+   "williamhill_us": {
+    "spread": -21.0,
+    "total": 158.0
+   }
+  },
+  "odds_event_id": "69af0f725cf0220fbce85a364931bee5",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401921774",
  "home": {

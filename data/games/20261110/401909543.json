@@ -4,6 +4,48 @@
   "id": "2174",
   "name": "Detroit Mercy Titans"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -35.5,
+    "total": 155.5
+   },
+   "betonlineag": {
+    "spread": -35.5,
+    "total": 156.0
+   },
+   "betrivers": {
+    "spread": -35.5,
+    "total": 156.5
+   },
+   "betus": {
+    "spread": -35.5,
+    "total": 156.0
+   },
+   "draftkings": {
+    "spread": -35.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": -35.5,
+    "total": 156.0
+   },
+   "fanduel": {
+    "spread": -35.5,
+    "total": 155.5
+   },
+   "lowvig": {
+    "spread": -35.5,
+    "total": 156.0
+   },
+   "williamhill_us": {
+    "spread": -35.5,
+    "total": 156.0
+   }
+  },
+  "odds_event_id": "11ceba18c68149101dcde26737c1e810",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401909543",
  "home": {

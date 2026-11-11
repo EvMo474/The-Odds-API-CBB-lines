@@ -4,6 +4,48 @@
   "id": "2754",
   "name": "Youngstown State Penguins"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 152.5
+   },
+   "betonlineag": {
+    "spread": -3.5,
+    "total": 152.0
+   },
+   "betrivers": {
+    "spread": -2.5,
+    "total": 152.5
+   },
+   "betus": {
+    "spread": -3.5,
+    "total": 152.0
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 152.5
+   },
+   "fanatics": {
+    "spread": -3.5,
+    "total": 151.5
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 151.5
+   },
+   "lowvig": {
+    "spread": -3.5,
+    "total": 152.0
+   },
+   "williamhill_us": {
+    "spread": -3.0,
+    "total": 152.0
+   }
+  },
+  "odds_event_id": "604069251e105a4695deda046f92b38b",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401911011",
  "home": {

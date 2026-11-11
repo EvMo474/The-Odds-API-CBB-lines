@@ -4,6 +4,44 @@
   "id": "311",
   "name": "Maine Black Bears"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -20.5,
+    "total": 139.5
+   },
+   "betonlineag": {
+    "spread": -20.5,
+    "total": 139.0
+   },
+   "betrivers": {
+    "spread": -20.5,
+    "total": 139.5
+   },
+   "draftkings": {
+    "spread": -20.5,
+    "total": 139.5
+   },
+   "fanatics": {
+    "spread": -20.5,
+    "total": 140.0
+   },
+   "fanduel": {
+    "spread": -20.5,
+    "total": 140.5
+   },
+   "lowvig": {
+    "spread": -20.5,
+    "total": 139.0
+   },
+   "williamhill_us": {
+    "spread": -20.0,
+    "total": 139.5
+   }
+  },
+  "odds_event_id": "0001ef1c010fb44d8b93c5aa3e9d2aa1",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401920063",
  "home": {

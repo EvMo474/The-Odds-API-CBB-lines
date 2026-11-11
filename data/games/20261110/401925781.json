@@ -4,6 +4,48 @@
   "id": "265",
   "name": "Washington State Cougars"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "betonlineag": {
+    "spread": -3.5,
+    "total": 145.0
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "betus": {
+    "spread": -3.5,
+    "total": 145.0
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "fanatics": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": -3.5,
+    "total": 145.0
+   },
+   "williamhill_us": {
+    "spread": -3.5,
+    "total": 146.5
+   }
+  },
+  "odds_event_id": "cb982523378ba8e6e0aadc0e97748791",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401925781",
  "home": {

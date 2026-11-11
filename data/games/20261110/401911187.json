@@ -4,6 +4,48 @@
   "id": "2561",
   "name": "Siena Saints"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -14.5,
+    "total": 158.5
+   },
+   "betonlineag": {
+    "spread": -14.0,
+    "total": 158.0
+   },
+   "betrivers": {
+    "spread": -13.5,
+    "total": 158.5
+   },
+   "betus": {
+    "spread": -14.0,
+    "total": 158.5
+   },
+   "draftkings": {
+    "spread": -14.5,
+    "total": 158.5
+   },
+   "fanatics": {
+    "spread": -14.0,
+    "total": 158.5
+   },
+   "fanduel": {
+    "spread": -13.5,
+    "total": 158.5
+   },
+   "lowvig": {
+    "spread": -14.0,
+    "total": 158.0
+   },
+   "williamhill_us": {
+    "spread": -14.5,
+    "total": 158.5
+   }
+  },
+  "odds_event_id": "0995f116710c1331512cfda71ce00555",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401911187",
  "home": {

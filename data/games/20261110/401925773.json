@@ -4,6 +4,44 @@
   "id": "71",
   "name": "Bradley Braves"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -9.5,
+    "total": 137.5
+   },
+   "betonlineag": {
+    "spread": -9.5,
+    "total": 138.0
+   },
+   "betrivers": {
+    "spread": -9.5,
+    "total": 138.5
+   },
+   "betus": {
+    "spread": -9.5,
+    "total": 138.0
+   },
+   "draftkings": {
+    "spread": -9.5,
+    "total": 138.5
+   },
+   "fanatics": {
+    "spread": -9.5,
+    "total": 138.0
+   },
+   "fanduel": {
+    "spread": -9.5,
+    "total": 137.5
+   },
+   "lowvig": {
+    "spread": -9.5,
+    "total": 138.0
+   }
+  },
+  "odds_event_id": "59827fe0f02a369e1af3d183360ba896",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401925773",
  "home": {

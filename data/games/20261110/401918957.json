@@ -4,6 +4,44 @@
   "id": "2506",
   "name": "Presbyterian Blue Hose"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -18.5,
+    "total": 150.5
+   },
+   "betonlineag": {
+    "spread": -18.0,
+    "total": 152.5
+   },
+   "betrivers": {
+    "spread": -18.5,
+    "total": 151.5
+   },
+   "draftkings": {
+    "spread": -18.5,
+    "total": 151.5
+   },
+   "fanatics": {
+    "spread": -18.5,
+    "total": 151.5
+   },
+   "fanduel": {
+    "spread": -17.5,
+    "total": 149.5
+   },
+   "lowvig": {
+    "spread": -18.0,
+    "total": 152.5
+   },
+   "williamhill_us": {
+    "spread": -18.5,
+    "total": 152.5
+   }
+  },
+  "odds_event_id": "e4c5dde6dc40ba56df0f75056bc28b37",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401918957",
  "home": {

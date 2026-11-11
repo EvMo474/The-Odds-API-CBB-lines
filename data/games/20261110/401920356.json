@@ -4,6 +4,48 @@
   "id": "108",
   "name": "Harvard Crimson"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 142.5
+   },
+   "betonlineag": {
+    "spread": 1.5,
+    "total": 142.5
+   },
+   "betrivers": {
+    "spread": 1.5,
+    "total": 142.5
+   },
+   "betus": {
+    "spread": 2.0,
+    "total": 143.0
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 142.5
+   },
+   "fanatics": {
+    "spread": 1.5,
+    "total": 142.5
+   },
+   "fanduel": {
+    "spread": 1.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": 1.5,
+    "total": 142.5
+   },
+   "williamhill_us": {
+    "spread": 1.5,
+    "total": 142.5
+   }
+  },
+  "odds_event_id": "b49dc83f68f292ba15cb12280610891d",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401920356",
  "home": {

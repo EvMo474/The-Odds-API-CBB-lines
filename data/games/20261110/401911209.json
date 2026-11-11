@@ -4,6 +4,48 @@
   "id": "2210",
   "name": "Elon Phoenix"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -13.5,
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": -13.5,
+    "total": 146.5
+   },
+   "betrivers": {
+    "spread": -13.5,
+    "total": 147.5
+   },
+   "betus": {
+    "spread": -13.5,
+    "total": 146.5
+   },
+   "draftkings": {
+    "spread": -13.5,
+    "total": 147.5
+   },
+   "fanatics": {
+    "spread": -13.5,
+    "total": 146.5
+   },
+   "fanduel": {
+    "spread": -13.5,
+    "total": 147.5
+   },
+   "lowvig": {
+    "spread": -13.5,
+    "total": 146.5
+   },
+   "williamhill_us": {
+    "spread": -13.5,
+    "total": 147.0
+   }
+  },
+  "odds_event_id": "56e97d53de1e7bf6c31ad2b111448a6b",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401911209",
  "home": {

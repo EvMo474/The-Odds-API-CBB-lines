@@ -4,6 +4,48 @@
   "id": "6",
   "name": "South Alabama Jaguars"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -13.5,
+    "total": 151.5
+   },
+   "betonlineag": {
+    "spread": -13.5,
+    "total": 151.0
+   },
+   "betrivers": {
+    "spread": -13.5,
+    "total": 151.5
+   },
+   "betus": {
+    "spread": -13.5,
+    "total": 151.0
+   },
+   "draftkings": {
+    "spread": -13.5,
+    "total": 150.5
+   },
+   "fanatics": {
+    "spread": -13.5,
+    "total": 151.0
+   },
+   "fanduel": {
+    "spread": -13.5,
+    "total": 151.5
+   },
+   "lowvig": {
+    "spread": -13.5,
+    "total": 151.0
+   },
+   "williamhill_us": {
+    "spread": -14.0,
+    "total": 151.0
+   }
+  },
+  "odds_event_id": "154c30f8f7ea51bd1ad16deb41fbfd05",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401921755",
  "home": {

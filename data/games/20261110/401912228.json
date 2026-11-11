@@ -4,6 +4,44 @@
   "id": "349",
   "name": "Army Black Knights"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 133.5
+   },
+   "betonlineag": {
+    "spread": 0.0,
+    "total": 133.5
+   },
+   "betrivers": {
+    "spread": -0.5,
+    "total": 133.5
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 134.5
+   },
+   "fanatics": {
+    "spread": 1.0,
+    "total": 134.0
+   },
+   "fanduel": {
+    "spread": 1.5,
+    "total": 133.5
+   },
+   "lowvig": {
+    "spread": 0.0,
+    "total": 133.5
+   },
+   "williamhill_us": {
+    "spread": 1.5,
+    "total": 134.5
+   }
+  },
+  "odds_event_id": "bf7a605f776bde1cc6778ed8a8cff04a",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401912228",
  "home": {

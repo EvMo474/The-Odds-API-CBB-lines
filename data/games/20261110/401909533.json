@@ -4,6 +4,44 @@
   "id": "2803",
   "name": "Bryant Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -30.5,
+    "total": 149.5
+   },
+   "betonlineag": {
+    "spread": -30.5,
+    "total": 150.0
+   },
+   "betrivers": {
+    "spread": -30.5,
+    "total": 149.5
+   },
+   "draftkings": {
+    "spread": -30.5,
+    "total": 149.5
+   },
+   "fanatics": {
+    "spread": -30.5,
+    "total": 149.5
+   },
+   "fanduel": {
+    "spread": -31.5,
+    "total": 148.5
+   },
+   "lowvig": {
+    "spread": -30.5,
+    "total": 150.0
+   },
+   "williamhill_us": {
+    "spread": -30.5,
+    "total": 150.5
+   }
+  },
+  "odds_event_id": "02420c8c9efd8150390de1e94efe26ff",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401909533",
  "home": {

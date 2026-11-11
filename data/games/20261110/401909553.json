@@ -4,6 +4,44 @@
   "id": "2379",
   "name": "Maryland Eastern Shore Hawks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -26.5,
+    "total": 128.5
+   },
+   "betonlineag": {
+    "spread": -26.0,
+    "total": 128.5
+   },
+   "betrivers": {
+    "spread": -26.5,
+    "total": 128.5
+   },
+   "draftkings": {
+    "spread": -26.5,
+    "total": 127.5
+   },
+   "fanatics": {
+    "spread": -26.0,
+    "total": 128.0
+   },
+   "fanduel": {
+    "spread": -25.5,
+    "total": 127.5
+   },
+   "lowvig": {
+    "spread": -26.0,
+    "total": 128.5
+   },
+   "williamhill_us": {
+    "spread": -26.0,
+    "total": 128.0
+   }
+  },
+  "odds_event_id": "9ab69673b2a59af7135ebb4768c3d851",
+  "t": "2026-11-10T23:59:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401909553",
  "home": {
