@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UTSA",
+  "id": "2636",
+  "name": "UTSA Roadrunners"
+ },
+ "date_key": "20261111",
+ "event_id": "401917521",
+ "home": {
+  "abbr": "SEA",
+  "id": "2547",
+  "name": "Seattle U Redhawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SEA -16.5",
+    "home_spread": -16.5,
+    "provider": "Draft Kings",
+    "raw_spread": -16.5,
+    "total": 149.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-12T03:00Z"
+}

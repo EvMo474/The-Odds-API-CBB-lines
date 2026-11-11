@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NCCU",
+  "id": "2428",
+  "name": "North Carolina Central Eagles"
+ },
+ "date_key": "20261111",
+ "event_id": "401926202",
+ "home": {
+  "abbr": "VMI",
+  "id": "2678",
+  "name": "VMI Keydets"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VMI -7.5",
+    "home_spread": -7.5,
+    "provider": "Draft Kings",
+    "raw_spread": -7.5,
+    "total": 151.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-11T23:00Z"
+}

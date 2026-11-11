@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SCST",
+  "id": "2569",
+  "name": "South Carolina State Bulldogs"
+ },
+ "date_key": "20261111",
+ "event_id": "401925682",
+ "home": {
+  "abbr": "ND",
+  "id": "87",
+  "name": "Notre Dame Fighting Irish"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ND -26.5",
+    "home_spread": -26.5,
+    "provider": "Draft Kings",
+    "raw_spread": -26.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-12T00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ODU",
+  "id": "295",
+  "name": "Old Dominion Monarchs"
+ },
+ "date_key": "20261111",
+ "event_id": "401925895",
+ "home": {
+  "abbr": "NORF",
+  "id": "2450",
+  "name": "Norfolk State Spartans"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ODU -4.5",
+    "home_spread": 4.5,
+    "provider": "Draft Kings",
+    "raw_spread": 4.5,
+    "total": 138.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-12T00:00Z"
+}

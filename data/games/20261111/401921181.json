@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "PENN",
+  "id": "219",
+  "name": "Pennsylvania Quakers"
+ },
+ "date_key": "20261111",
+ "event_id": "401921181",
+ "home": {
+  "abbr": "NAVY",
+  "id": "2426",
+  "name": "Navy Midshipmen"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "PENN -9.5",
+    "home_spread": 9.5,
+    "provider": "Draft Kings",
+    "raw_spread": 9.5,
+    "total": 146.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-11T22:30Z"
+}

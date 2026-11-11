@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "BCU",
+  "id": "2065",
+  "name": "Bethune-Cookman Wildcats"
+ },
+ "date_key": "20261111",
+ "event_id": "401925717",
+ "home": {
+  "abbr": "SDSU",
+  "id": "21",
+  "name": "San Diego State Aztecs"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SDSU -18.5",
+    "home_spread": -18.5,
+    "provider": "Draft Kings",
+    "raw_spread": -18.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-11T22:00Z"
+}

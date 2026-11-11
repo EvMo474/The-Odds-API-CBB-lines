@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SPU",
+  "id": "2612",
+  "name": "Saint Peter's Peacocks"
+ },
+ "date_key": "20261111",
+ "event_id": "401921821",
+ "home": {
+  "abbr": "SC",
+  "id": "2579",
+  "name": "South Carolina Gamecocks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SC -22.5",
+    "home_spread": -22.5,
+    "provider": "Draft Kings",
+    "raw_spread": -22.5,
+    "total": 126.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-12T00:00Z"
+}

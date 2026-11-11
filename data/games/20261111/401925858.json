@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "COFC",
+  "id": "232",
+  "name": "Charleston Cougars"
+ },
+ "date_key": "20261111",
+ "event_id": "401925858",
+ "home": {
+  "abbr": "TEM",
+  "id": "218",
+  "name": "Temple Owls"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "TEM -1.5",
+    "home_spread": -1.5,
+    "provider": "Draft Kings",
+    "raw_spread": -1.5,
+    "total": 155.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-11T23:30Z"
+}

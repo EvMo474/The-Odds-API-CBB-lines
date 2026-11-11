@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "PAC",
+  "id": "279",
+  "name": "Pacific Tigers"
+ },
+ "date_key": "20261111",
+ "event_id": "401917523",
+ "home": {
+  "abbr": "LBSU",
+  "id": "299",
+  "name": "Long Beach State Beach"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "PAC -6.5",
+    "home_spread": 6.5,
+    "provider": "Draft Kings",
+    "raw_spread": 6.5,
+    "total": 137.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-12T03:00Z"
+}

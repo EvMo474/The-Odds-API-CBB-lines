@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "KENT",
+  "id": "2309",
+  "name": "Kent State Golden Flashes"
+ },
+ "date_key": "20261111",
+ "event_id": "401926863",
+ "home": {
+  "abbr": "UNCW",
+  "id": "350",
+  "name": "UNC Wilmington Seahawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UNCW -7.5",
+    "home_spread": -7.5,
+    "provider": "Draft Kings",
+    "raw_spread": -7.5,
+    "total": 155.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-12T00:00Z"
+}

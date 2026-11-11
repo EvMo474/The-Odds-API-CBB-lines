@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "JOES",
+  "id": "2603",
+  "name": "Saint Joseph's Hawks"
+ },
+ "date_key": "20261111",
+ "event_id": "401918992",
+ "home": {
+  "abbr": "USF",
+  "id": "58",
+  "name": "South Florida Bulls"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "USF -7.5",
+    "home_spread": -7.5,
+    "provider": "Draft Kings",
+    "raw_spread": -7.5,
+    "total": 151.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-11T20:00Z"
+}

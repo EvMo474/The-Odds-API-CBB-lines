@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "MILW",
+  "id": "270",
+  "name": "Milwaukee Panthers"
+ },
+ "date_key": "20261111",
+ "event_id": "401926868",
+ "home": {
+  "abbr": "INST",
+  "id": "282",
+  "name": "Indiana State Sycamores"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "INST -4.5",
+    "home_spread": -4.5,
+    "provider": "Draft Kings",
+    "raw_spread": -4.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-12T00:00Z"
+}

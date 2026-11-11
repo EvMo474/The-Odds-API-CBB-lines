@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NEV",
+  "id": "2440",
+  "name": "Nevada Wolf Pack"
+ },
+ "date_key": "20261111",
+ "event_id": "401911454",
+ "home": {
+  "abbr": "UCSB",
+  "id": "2540",
+  "name": "UC Santa Barbara Gauchos"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "NEV -1.5",
+    "home_spread": 1.5,
+    "provider": "Draft Kings",
+    "raw_spread": 1.5,
+    "total": 144.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-12T02:00Z"
+}

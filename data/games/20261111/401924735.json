@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "STBK",
+  "id": "2619",
+  "name": "Stony Brook Seawolves"
+ },
+ "date_key": "20261111",
+ "event_id": "401924735",
+ "home": {
+  "abbr": "PRIN",
+  "id": "163",
+  "name": "Princeton Tigers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "PRIN -4.5",
+    "home_spread": -4.5,
+    "provider": "Draft Kings",
+    "raw_spread": -4.5,
+    "total": 137.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-12T00:00Z"
+}

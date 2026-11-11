@@ -49,6 +49,44 @@
  },
  "date_key": "20261110",
  "event_id": "401909786",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 26,
+    "3pm": 10,
+    "fg_pct": 46.38,
+    "fga": 69,
+    "fgm": 32,
+    "fta": 23,
+    "ftm": 15
+   },
+   "home": {
+    "3pa": 21,
+    "3pm": 4,
+    "fg_pct": 45.76,
+    "fga": 59,
+    "fgm": 27,
+    "fta": 19,
+    "ftm": 11
+   }
+  },
+  "linescores": {
+   "away": [
+    "46",
+    "43"
+   ],
+   "home": [
+    "36",
+    "33"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "89",
+   "home": "69"
+  },
+  "t": "2026-11-11T05:05:07+00:00"
+ },
  "flag": {
   "best_book": "williamhill_us",
   "best_line": 0.5,
@@ -1243,6 +1281,17 @@
    },
    "status": "STATUS_IN_PROGRESS",
    "t": "2026-11-11T04:59:07+00:00"
+  },
+  {
+   "clock": "0:26",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "88",
+    "home": "66"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-11T05:02:07+00:00"
   }
  ],
  "pregame": {

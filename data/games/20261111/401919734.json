@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CHST",
+  "id": "2130",
+  "name": "Chicago State Cougars"
+ },
+ "date_key": "20261111",
+ "event_id": "401919734",
+ "home": {
+  "abbr": "CBU",
+  "id": "2856",
+  "name": "California Baptist Lancers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "CBU -10.5",
+    "home_spread": -10.5,
+    "provider": "Draft Kings",
+    "raw_spread": -10.5,
+    "total": 142.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-12T03:00Z"
+}

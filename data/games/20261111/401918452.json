@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "W&M",
+  "id": "2729",
+  "name": "William & Mary Tribe"
+ },
+ "date_key": "20261111",
+ "event_id": "401918452",
+ "home": {
+  "abbr": "FAU",
+  "id": "2226",
+  "name": "Florida Atlantic Owls"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "FAU -4.5",
+    "home_spread": -4.5,
+    "provider": "Draft Kings",
+    "raw_spread": -4.5,
+    "total": 165.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-12T00:00Z"
+}

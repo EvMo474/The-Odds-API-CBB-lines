@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UIW",
+  "id": "2916",
+  "name": "Incarnate Word Cardinals"
+ },
+ "date_key": "20261111",
+ "event_id": "401911519",
+ "home": {
+  "abbr": "UCD",
+  "id": "302",
+  "name": "UC Davis Aggies"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UCD -12.5",
+    "home_spread": -12.5,
+    "provider": "Draft Kings",
+    "raw_spread": -12.5,
+    "total": 145.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-11T19:00Z"
+}

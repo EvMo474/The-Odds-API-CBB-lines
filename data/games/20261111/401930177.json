@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UAPB",
+  "id": "2029",
+  "name": "Arkansas-Pine Bluff Golden Lions"
+ },
+ "date_key": "20261111",
+ "event_id": "401930177",
+ "home": {
+  "abbr": "UCLA",
+  "id": "26",
+  "name": "UCLA Bruins"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UCLA -44.5",
+    "home_spread": -44.5,
+    "provider": "Draft Kings",
+    "raw_spread": -44.5,
+    "total": 156.5
+   }
+  ],
+  "t": "2026-11-11T05:02:07+00:00"
+ },
+ "start": "2026-11-12T02:00Z"
+}
