@@ -4,6 +4,48 @@
   "id": "235",
   "name": "Memphis Tigers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -13.5,
+    "total": 161.5
+   },
+   "betonlineag": {
+    "spread": -13.5,
+    "total": 161.5
+   },
+   "betrivers": {
+    "spread": -14.5,
+    "total": 161.5
+   },
+   "betus": {
+    "spread": -13.5,
+    "total": 161.0
+   },
+   "draftkings": {
+    "spread": -13.5,
+    "total": 161.5
+   },
+   "fanatics": {
+    "spread": -13.5,
+    "total": 161.5
+   },
+   "fanduel": {
+    "spread": -13.5,
+    "total": 161.5
+   },
+   "lowvig": {
+    "spread": -13.5,
+    "total": 161.5
+   },
+   "williamhill_us": {
+    "spread": -13.5,
+    "total": 161.5
+   }
+  },
+  "odds_event_id": "1b493fb07c04f10198445ee5d1b7f375",
+  "t": "2026-11-11T00:11:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401918987",
  "home": {
