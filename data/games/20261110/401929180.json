@@ -4,6 +4,48 @@
   "id": "2247",
   "name": "Georgia State Panthers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -5.5,
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": -6.0,
+    "total": 146.0
+   },
+   "betrivers": {
+    "spread": -5.5,
+    "total": 144.5
+   },
+   "betus": {
+    "spread": -6.0,
+    "total": 146.0
+   },
+   "draftkings": {
+    "spread": -6.5,
+    "total": 145.5
+   },
+   "fanatics": {
+    "spread": -6.0,
+    "total": 145.5
+   },
+   "fanduel": {
+    "spread": -5.5,
+    "total": 146.5
+   },
+   "lowvig": {
+    "spread": -6.0,
+    "total": 146.0
+   },
+   "williamhill_us": {
+    "spread": -6.0,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "d59d81aa5d936c398264a0634ed0daf2",
+  "t": "2026-11-11T01:59:09+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401929180",
  "home": {

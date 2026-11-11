@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "LIV",
+  "id": "2940",
+  "name": "Livingstone Blue Bears"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261110",
+ "event_id": "401917950",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 6,
+    "3pm": 1,
+    "fg_pct": 33.33,
+    "fga": 33,
+    "fgm": 11,
+    "fta": 14,
+    "ftm": 8
+   },
+   "home": {
+    "3pa": 17,
+    "3pm": 5,
+    "fg_pct": 45.95,
+    "fga": 37,
+    "fgm": 17,
+    "fta": 18,
+    "ftm": 7
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "31",
+   "home": "46"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-11T01:56:07+00:00"
+ },
+ "halftime_first_seen": "2026-11-11T01:56:07+00:00",
+ "home": {
+  "abbr": "APSU",
+  "id": "2046",
+  "name": "Austin Peay Governors"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Charleston Southern Buccaneers @ Wake Forest Demon Deacons",
+   "credits_left": "30302",
+   "events_list_match": 0.47,
+   "events_list_n": 90,
+   "match": 0.47,
+   "n_events": 90,
+   "t": "2026-11-11T01:56:08+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Charleston Southern Buccaneers @ Wake Forest Demon Deacons",
+   "credits_left": "30300",
+   "events_list_match": 0.47,
+   "events_list_n": 89,
+   "match": 0.47,
+   "n_events": 89,
+   "t": "2026-11-11T01:59:08+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "46"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-11T01:56:07+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "46"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-11T01:59:07+00:00"
+  }
+ ],
+ "start": "2026-11-11T01:00Z"
+}

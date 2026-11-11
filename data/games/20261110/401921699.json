@@ -4,6 +4,48 @@
   "id": "2692",
   "name": "Weber State Wildcats"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "betonlineag": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "betrivers": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "betus": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "draftkings": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "fanatics": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "fanduel": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": -16.5,
+    "total": 154.5
+   },
+   "williamhill_us": {
+    "spread": -16.5,
+    "total": 154.5
+   }
+  },
+  "odds_event_id": "1697ac30f74318b8094ae3f11442cdea",
+  "t": "2026-11-11T01:59:09+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401921699",
  "home": {

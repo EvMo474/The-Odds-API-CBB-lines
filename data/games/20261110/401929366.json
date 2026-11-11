@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "UTD",
+  "id": "2905",
+  "name": "UT Dallas Comets"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261110",
+ "event_id": "401929366",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 13,
+    "3pm": 2,
+    "fg_pct": 22.86,
+    "fga": 35,
+    "fgm": 8,
+    "fta": 6,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 5,
+    "3pm": 1,
+    "fg_pct": 43.75,
+    "fga": 32,
+    "fgm": 14,
+    "fta": 13,
+    "ftm": 8
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "22",
+   "home": "37"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-11T01:56:07+00:00"
+ },
+ "halftime_first_seen": "2026-11-11T01:56:07+00:00",
+ "home": {
+  "abbr": "TAR",
+  "id": "2627",
+  "name": "Tarleton State Texans"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Utah Tech Trailblazers @ Utah State Aggies",
+   "credits_left": "30302",
+   "events_list_match": 0.5,
+   "events_list_n": 90,
+   "match": 0.5,
+   "n_events": 90,
+   "t": "2026-11-11T01:56:07+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Utah Tech Trailblazers @ Utah State Aggies",
+   "credits_left": "30300",
+   "events_list_match": 0.5,
+   "events_list_n": 89,
+   "match": 0.5,
+   "n_events": 89,
+   "t": "2026-11-11T01:59:07+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "22",
+    "home": "37"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-11T01:56:07+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "22",
+    "home": "37"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-11T01:59:07+00:00"
+  }
+ ],
+ "start": "2026-11-11T01:00Z"
+}

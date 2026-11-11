@@ -4,6 +4,48 @@
   "id": "3101",
   "name": "Utah Tech Trailblazers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -25.5,
+    "total": 156.5
+   },
+   "betonlineag": {
+    "spread": -26.0,
+    "total": 156.5
+   },
+   "betrivers": {
+    "spread": -25.5,
+    "total": 156.5
+   },
+   "betus": {
+    "spread": -25.5,
+    "total": 156.5
+   },
+   "draftkings": {
+    "spread": -25.5,
+    "total": 156.5
+   },
+   "fanatics": {
+    "spread": -26.0,
+    "total": 156.0
+   },
+   "fanduel": {
+    "spread": -25.5,
+    "total": 156.5
+   },
+   "lowvig": {
+    "spread": -26.0,
+    "total": 156.5
+   },
+   "williamhill_us": {
+    "spread": -26.0,
+    "total": 156.0
+   }
+  },
+  "odds_event_id": "d24e603bbb4f28d250f93c3098cf862d",
+  "t": "2026-11-11T01:59:09+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401925940",
  "home": {

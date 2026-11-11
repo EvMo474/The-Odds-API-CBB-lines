@@ -4,6 +4,48 @@
   "id": "2464",
   "name": "Northern Arizona Lumberjacks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -36.5,
+    "total": 156.5
+   },
+   "betonlineag": {
+    "spread": -35.5,
+    "total": 156.0
+   },
+   "betrivers": {
+    "spread": -36.5,
+    "total": 156.5
+   },
+   "betus": {
+    "spread": -35.5,
+    "total": 156.5
+   },
+   "draftkings": {
+    "spread": -35.5,
+    "total": 156.5
+   },
+   "fanatics": {
+    "spread": -35.5,
+    "total": 157.0
+   },
+   "fanduel": {
+    "spread": -36.5,
+    "total": 156.5
+   },
+   "lowvig": {
+    "spread": -35.5,
+    "total": 156.0
+   },
+   "williamhill_us": {
+    "spread": -36.0,
+    "total": 156.5
+   }
+  },
+  "odds_event_id": "5ec6bd990d3b9454b395d51b2f6ec8a7",
+  "t": "2026-11-11T01:59:09+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401909740",
  "home": {

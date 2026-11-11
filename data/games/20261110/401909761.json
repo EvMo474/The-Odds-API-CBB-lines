@@ -4,6 +4,48 @@
   "id": "301",
   "name": "San Diego Toreros"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -12.5,
+    "total": 150.5
+   },
+   "betonlineag": {
+    "spread": -12.5,
+    "total": 151.0
+   },
+   "betrivers": {
+    "spread": -11.5,
+    "total": 151.5
+   },
+   "betus": {
+    "spread": -12.5,
+    "total": 151.0
+   },
+   "draftkings": {
+    "spread": -12.5,
+    "total": 150.5
+   },
+   "fanatics": {
+    "spread": -12.0,
+    "total": 150.5
+   },
+   "fanduel": {
+    "spread": -11.5,
+    "total": 150.5
+   },
+   "lowvig": {
+    "spread": -12.5,
+    "total": 151.0
+   },
+   "williamhill_us": {
+    "spread": -12.5,
+    "total": 150.5
+   }
+  },
+  "odds_event_id": "9c96831c894928b32d315fa2542cdcdf",
+  "t": "2026-11-11T01:59:09+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401909761",
  "home": {

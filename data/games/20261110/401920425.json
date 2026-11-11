@@ -4,6 +4,44 @@
   "id": "2083",
   "name": "Bucknell Bison"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -38.5,
+    "total": 151.5
+   },
+   "betonlineag": {
+    "spread": -38.5,
+    "total": 151.5
+   },
+   "betrivers": {
+    "spread": -38.5,
+    "total": 151.5
+   },
+   "draftkings": {
+    "spread": -38.5,
+    "total": 151.5
+   },
+   "fanatics": {
+    "spread": -38.5,
+    "total": 151.5
+   },
+   "fanduel": {
+    "spread": -38.5,
+    "total": 151.5
+   },
+   "lowvig": {
+    "spread": -38.5,
+    "total": 151.5
+   },
+   "williamhill_us": {
+    "spread": -38.5,
+    "total": 151.5
+   }
+  },
+  "odds_event_id": "3687093fc999c352c8a97cfa9b188589",
+  "t": "2026-11-11T01:59:08+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401920425",
  "home": {
