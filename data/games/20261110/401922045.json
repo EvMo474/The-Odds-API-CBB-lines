@@ -105,6 +105,26 @@
    "n_events": 90,
    "t": "2026-11-11T01:11:07+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Tenn-Martin Skyhawks @ Arkansas St Red Wolves",
+   "credits_left": "30330",
+   "events_list_match": 0.45,
+   "events_list_n": 90,
+   "match": 0.45,
+   "n_events": 90,
+   "t": "2026-11-11T01:14:07+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Tenn-Martin Skyhawks @ Arkansas St Red Wolves",
+   "credits_left": "30328",
+   "events_list_match": 0.45,
+   "events_list_n": 90,
+   "match": 0.45,
+   "n_events": 90,
+   "t": "2026-11-11T01:17:07+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -179,6 +199,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-11T01:11:07+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "23",
+    "home": "48"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-11T01:14:07+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "23",
+    "home": "48"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-11T01:17:07+00:00"
   }
  ],
  "start": "2026-11-11T00:00Z"
