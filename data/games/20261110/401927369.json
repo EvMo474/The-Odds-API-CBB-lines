@@ -4,6 +4,48 @@
   "id": "339",
   "name": "Evansville Purple Aces"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -9.5,
+    "total": 143.5
+   },
+   "betonlineag": {
+    "spread": -9.5,
+    "total": 143.0
+   },
+   "betrivers": {
+    "spread": -9.5,
+    "total": 143.5
+   },
+   "betus": {
+    "spread": -9.5,
+    "total": 143.0
+   },
+   "draftkings": {
+    "spread": -9.5,
+    "total": 142.5
+   },
+   "fanatics": {
+    "spread": -9.5,
+    "total": 143.0
+   },
+   "fanduel": {
+    "spread": -9.5,
+    "total": 142.5
+   },
+   "lowvig": {
+    "spread": -9.5,
+    "total": 143.0
+   },
+   "williamhill_us": {
+    "spread": -9.5,
+    "total": 143.0
+   }
+  },
+  "odds_event_id": "6e5f0afa161cb1c7b90a86be779800bf",
+  "t": "2026-11-11T00:29:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401927369",
  "home": {

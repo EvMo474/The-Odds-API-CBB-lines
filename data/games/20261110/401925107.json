@@ -4,6 +4,44 @@
   "id": "326",
   "name": "Texas State Bobcats"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 5.5,
+    "total": 137.5
+   },
+   "betonlineag": {
+    "spread": 5.5,
+    "total": 137.5
+   },
+   "betrivers": {
+    "spread": 5.5,
+    "total": 137.5
+   },
+   "draftkings": {
+    "spread": 5.5,
+    "total": 138.5
+   },
+   "fanatics": {
+    "spread": 5.5,
+    "total": 137.5
+   },
+   "fanduel": {
+    "spread": 5.5,
+    "total": 137.5
+   },
+   "lowvig": {
+    "spread": 5.5,
+    "total": 137.5
+   },
+   "williamhill_us": {
+    "spread": 5.5,
+    "total": 137.5
+   }
+  },
+  "odds_event_id": "62ff4677a2d36350d135e9ffdcccdf6f",
+  "t": "2026-11-11T00:29:07+00:00"
+ },
  "date_key": "20261110",
  "event_id": "401925107",
  "home": {
