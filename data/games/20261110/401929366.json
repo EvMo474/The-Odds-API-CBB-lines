@@ -65,6 +65,26 @@
    "n_events": 89,
    "t": "2026-11-11T01:59:07+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Utah Tech Trailblazers @ Utah State Aggies",
+   "credits_left": "30298",
+   "events_list_match": 0.5,
+   "events_list_n": 89,
+   "match": 0.5,
+   "n_events": 89,
+   "t": "2026-11-11T02:02:07+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Utah Tech Trailblazers @ Utah State Aggies",
+   "credits_left": "30296",
+   "events_list_match": 0.5,
+   "events_list_n": 88,
+   "match": 0.5,
+   "n_events": 88,
+   "t": "2026-11-11T02:05:07+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -91,6 +111,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-11T01:59:07+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "22",
+    "home": "37"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-11T02:02:07+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "22",
+    "home": "37"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-11T02:05:07+00:00"
   }
  ],
  "start": "2026-11-11T01:00Z"
