@@ -4,6 +4,48 @@
   "id": "2440",
   "name": "Nevada Wolf Pack"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": 0.0,
+    "total": 146.5
+   },
+   "betrivers": {
+    "spread": 1.5,
+    "total": 146.5
+   },
+   "betus": {
+    "spread": 1.0,
+    "total": 146.5
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 146.5
+   },
+   "fanatics": {
+    "spread": 1.0,
+    "total": 146.5
+   },
+   "fanduel": {
+    "spread": 1.5,
+    "total": 145.5
+   },
+   "lowvig": {
+    "spread": 0.0,
+    "total": 146.5
+   },
+   "williamhill_us": {
+    "spread": 1.0,
+    "total": 146.5
+   }
+  },
+  "odds_event_id": "3cc19d97cf26e86153795e21abb5f55d",
+  "t": "2026-11-12T01:59:21+00:00"
+ },
  "date_key": "20261111",
  "event_id": "401911454",
  "home": {

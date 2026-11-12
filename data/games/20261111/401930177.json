@@ -4,6 +4,44 @@
   "id": "2029",
   "name": "Arkansas-Pine Bluff Golden Lions"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -47.5,
+    "total": 155.5
+   },
+   "betonlineag": {
+    "spread": -47.0,
+    "total": 155.5
+   },
+   "betrivers": {
+    "spread": -47.5,
+    "total": 156.5
+   },
+   "draftkings": {
+    "spread": -47.5,
+    "total": 156.5
+   },
+   "fanatics": {
+    "spread": -47.0,
+    "total": 156.5
+   },
+   "fanduel": {
+    "spread": -46.5,
+    "total": 156.5
+   },
+   "lowvig": {
+    "spread": -47.0,
+    "total": 155.5
+   },
+   "williamhill_us": {
+    "spread": -47.0,
+    "total": 156.0
+   }
+  },
+  "odds_event_id": "ee8df98863b999a13a16537c60218354",
+  "t": "2026-11-12T01:59:21+00:00"
+ },
  "date_key": "20261111",
  "event_id": "401930177",
  "home": {
