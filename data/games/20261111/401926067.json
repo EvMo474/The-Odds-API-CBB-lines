@@ -65,6 +65,26 @@
    "n_events": 62,
    "t": "2026-11-12T01:47:21+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "CSU Bakersfield Roadrunners @ Western Illinois Leathernecks",
+   "credits_left": "30174",
+   "events_list_match": 0.59,
+   "events_list_n": 62,
+   "match": 0.59,
+   "n_events": 62,
+   "t": "2026-11-12T01:50:21+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "CSU Bakersfield Roadrunners @ Western Illinois Leathernecks",
+   "credits_left": "30172",
+   "events_list_match": 0.59,
+   "events_list_n": 61,
+   "match": 0.59,
+   "n_events": 61,
+   "t": "2026-11-12T01:53:21+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -91,6 +111,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-12T01:47:21+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "24",
+    "home": "53"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-12T01:50:21+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "24",
+    "home": "53"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-12T01:53:21+00:00"
   }
  ],
  "start": "2026-11-12T01:00Z"
