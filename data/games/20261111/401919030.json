@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "FRU",
+  "id": "128218",
+  "name": "Friends Falcons"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261111",
+ "event_id": "401919030",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 14,
+    "3pm": 4,
+    "fg_pct": 35.71,
+    "fga": 28,
+    "fgm": 10,
+    "fta": 6,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 12,
+    "3pm": 9,
+    "fg_pct": 66.67,
+    "fga": 30,
+    "fgm": 20,
+    "fta": 15,
+    "ftm": 12
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "28",
+   "home": "61"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-12T01:17:21+00:00"
+ },
+ "halftime_first_seen": "2026-11-12T01:17:21+00:00",
+ "home": {
+  "abbr": "WICH",
+  "id": "2724",
+  "name": "Wichita State Shockers"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Lindenwood Lions @ Nebraska Cornhuskers",
+   "credits_left": "30196",
+   "events_list_match": 0.46,
+   "events_list_n": 64,
+   "match": 0.46,
+   "n_events": 64,
+   "t": "2026-11-12T01:17:21+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "28",
+    "home": "61"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-12T01:17:21+00:00"
+  }
+ ],
+ "start": "2026-11-12T00:30Z"
+}
