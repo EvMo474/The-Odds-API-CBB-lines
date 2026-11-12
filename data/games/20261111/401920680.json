@@ -13,13 +13,13 @@
   "bucket": "Road Dog",
   "bucket_src": "pregame",
   "cold": "away",
-  "cold_full_spread": 29.5,
+  "cold_full_spread": 30.5,
   "cold_full_spread_by_book": {
    "betrivers": 29.5,
    "draftkings": 30.5,
    "fanatics": 30.5,
    "fanduel": 29.5,
-   "williamhill_us": 29.5
+   "williamhill_us": 30.5
   },
   "cold_margin_1h": -17,
   "gap": 5.6,
@@ -29,13 +29,13 @@
    "draftkings": 13.5,
    "fanatics": 13.5,
    "fanduel": 12.5,
-   "williamhill_us": 12.5
+   "williamhill_us": 13.5
   },
   "neutral": false,
   "pre_home_spread": -28.5,
   "qualifies": false,
   "suspect": false,
-  "t": "2026-11-12T00:59:21+00:00",
+  "t": "2026-11-12T01:05:21+00:00",
   "win_zone": false,
   "win_zone_max": 2.0
  },
@@ -811,6 +811,78 @@
    "n_events": 64,
    "odds_event_id": "d4d1389e55bdbfb24f58904d81877ca3",
    "t": "2026-11-12T00:59:21+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "total": 164.5
+    },
+    "betrivers": {
+     "spread": -29.5,
+     "total": 165.5
+    },
+    "draftkings": {
+     "spread": -30.5,
+     "total": 164.5
+    },
+    "fanatics": {
+     "spread": -30.5,
+     "total": 165.5
+    },
+    "fanduel": {
+     "spread": -29.5,
+     "total": 164.5
+    },
+    "williamhill_us": {
+     "spread": -29.5,
+     "total": 163.5
+    }
+   },
+   "credits_left": "30206",
+   "draftkings_home_spread": -30.5,
+   "draftkings_total": 164.5,
+   "fanduel_home_spread": -29.5,
+   "fanduel_total": 164.5,
+   "match": 1.0,
+   "n_events": 64,
+   "odds_event_id": "d4d1389e55bdbfb24f58904d81877ca3",
+   "t": "2026-11-12T01:02:21+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "total": 164.5
+    },
+    "betrivers": {
+     "spread": -29.5,
+     "total": 165.5
+    },
+    "draftkings": {
+     "spread": -30.5,
+     "total": 164.5
+    },
+    "fanatics": {
+     "spread": -30.5,
+     "total": 165.5
+    },
+    "fanduel": {
+     "spread": -29.5,
+     "total": 164.5
+    },
+    "williamhill_us": {
+     "spread": -30.5,
+     "total": 164.5
+    }
+   },
+   "credits_left": "30204",
+   "draftkings_home_spread": -30.5,
+   "draftkings_total": 164.5,
+   "fanduel_home_spread": -29.5,
+   "fanduel_total": 164.5,
+   "match": 1.0,
+   "n_events": 64,
+   "odds_event_id": "d4d1389e55bdbfb24f58904d81877ca3",
+   "t": "2026-11-12T01:05:21+00:00"
   }
  ],
  "odds_ticks": [
@@ -861,6 +933,30 @@
    },
    "status": "STATUS_IN_PROGRESS",
    "t": "2026-11-12T00:59:21+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "49"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-12T01:02:21+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "49"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-12T01:05:21+00:00"
   }
  ],
  "pregame": {
