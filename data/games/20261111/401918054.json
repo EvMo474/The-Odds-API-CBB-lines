@@ -4,6 +4,48 @@
   "id": "30",
   "name": "USC Trojans"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 7.5,
+    "total": 159.5
+   },
+   "betonlineag": {
+    "spread": 7.5,
+    "total": 159.5
+   },
+   "betrivers": {
+    "spread": 7.5,
+    "total": 159.5
+   },
+   "betus": {
+    "spread": 7.0,
+    "total": 159.5
+   },
+   "draftkings": {
+    "spread": 7.5,
+    "total": 159.5
+   },
+   "fanatics": {
+    "spread": 7.5,
+    "total": 159.5
+   },
+   "fanduel": {
+    "spread": 8.5,
+    "total": 159.5
+   },
+   "lowvig": {
+    "spread": 7.0,
+    "total": 159.5
+   },
+   "williamhill_us": {
+    "spread": 7.5,
+    "total": 159.5
+   }
+  },
+  "odds_event_id": "92cc2f2a169d4efd4f1a0ac9d25672bc",
+  "t": "2026-11-12T03:59:21+00:00"
+ },
  "date_key": "20261111",
  "event_id": "401918054",
  "home": {
