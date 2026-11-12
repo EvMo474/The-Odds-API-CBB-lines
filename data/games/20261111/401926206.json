@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "VUL",
+  "id": "3229",
+  "name": "Virginia Lynchburg Dragons"
+ },
+ "date_key": "20261111",
+ "event_id": "401926206",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 28,
+    "3pm": 8,
+    "fg_pct": 36.36,
+    "fga": 66,
+    "fgm": 24,
+    "fta": 19,
+    "ftm": 12
+   },
+   "home": {
+    "3pa": 55,
+    "3pm": 29,
+    "fg_pct": 58.82,
+    "fga": 85,
+    "fgm": 50,
+    "fta": 10,
+    "ftm": 7
+   }
+  },
+  "linescores": {
+   "away": [
+    "27",
+    "41"
+   ],
+   "home": [
+    "75",
+    "61"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "68",
+   "home": "136"
+  },
+  "t": "2026-11-12T00:53:21+00:00"
+ },
+ "home": {
+  "abbr": "WCU",
+  "id": "2717",
+  "name": "Western Carolina Catamounts"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-11T23:00Z"
+}

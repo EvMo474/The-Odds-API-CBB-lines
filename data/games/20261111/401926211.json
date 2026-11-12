@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "VRHS",
+  "id": "2679",
+  "name": "Voorhees Tigers"
+ },
+ "date_key": "20261111",
+ "event_id": "401926211",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 12,
+    "3pm": 1,
+    "fg_pct": 33.33,
+    "fga": 60,
+    "fgm": 20,
+    "fta": 8,
+    "ftm": 6
+   },
+   "home": {
+    "3pa": 27,
+    "3pm": 11,
+    "fg_pct": 50.82,
+    "fga": 61,
+    "fgm": 31,
+    "fta": 26,
+    "ftm": 18
+   }
+  },
+  "linescores": {
+   "away": [
+    "16",
+    "31"
+   ],
+   "home": [
+    "40",
+    "51"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "47",
+   "home": "91"
+  },
+  "t": "2026-11-12T00:53:21+00:00"
+ },
+ "home": {
+  "abbr": "WOF",
+  "id": "2747",
+  "name": "Wofford Terriers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-11T23:00Z"
+}

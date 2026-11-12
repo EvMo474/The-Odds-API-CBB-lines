@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "THMC",
+  "id": "2645",
+  "name": "Thomas College Terriers"
+ },
+ "date_key": "20261111",
+ "event_id": "401923311",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 27,
+    "3pm": 6,
+    "fg_pct": 34.43,
+    "fga": 61,
+    "fgm": 21,
+    "fta": 8,
+    "ftm": 7
+   },
+   "home": {
+    "3pa": 35,
+    "3pm": 11,
+    "fg_pct": 54.43,
+    "fga": 79,
+    "fgm": 43,
+    "fta": 18,
+    "ftm": 17
+   }
+  },
+  "linescores": {
+   "away": [
+    "26",
+    "29"
+   ],
+   "home": [
+    "51",
+    "63"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "55",
+   "home": "114"
+  },
+  "t": "2026-11-12T00:53:21+00:00"
+ },
+ "home": {
+  "abbr": "UNH",
+  "id": "160",
+  "name": "New Hampshire Wildcats"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-11T23:00Z"
+}
