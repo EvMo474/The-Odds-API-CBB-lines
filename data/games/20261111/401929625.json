@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "LNCA",
+  "id": "124946",
+  "name": "Lincoln (CA) Oaklanders"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261111",
+ "event_id": "401929625",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 17,
+    "3pm": 5,
+    "fg_pct": 20.0,
+    "fga": 30,
+    "fgm": 6,
+    "fta": 7,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 13,
+    "3pm": 4,
+    "fg_pct": 51.22,
+    "fga": 41,
+    "fgm": 21,
+    "fta": 6,
+    "ftm": 3
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "21",
+   "home": "49"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-12T03:47:21+00:00"
+ },
+ "halftime_first_seen": "2026-11-12T03:47:21+00:00",
+ "home": {
+  "abbr": "UCI",
+  "id": "300",
+  "name": "UC Irvine Anteaters"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Southern Utah Thunderbirds @ High Point Panthers",
+   "credits_left": "30124",
+   "events_list_match": 0.48,
+   "events_list_n": 36,
+   "match": 0.48,
+   "n_events": 36,
+   "t": "2026-11-12T03:47:21+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "21",
+    "home": "49"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-12T03:47:21+00:00"
+  }
+ ],
+ "start": "2026-11-12T03:00Z"
+}
