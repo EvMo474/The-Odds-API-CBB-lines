@@ -4,6 +4,44 @@
   "id": "2617",
   "name": "Stephen F. Austin Lumberjacks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 6.5,
+    "total": 142.5
+   },
+   "betonlineag": {
+    "spread": 6.0,
+    "total": 143.0
+   },
+   "betrivers": {
+    "spread": 6.5,
+    "total": 142.5
+   },
+   "draftkings": {
+    "spread": 6.5,
+    "total": 142.5
+   },
+   "fanatics": {
+    "spread": 6.5,
+    "total": 142.0
+   },
+   "fanduel": {
+    "spread": 6.5,
+    "total": 142.5
+   },
+   "lowvig": {
+    "spread": 6.0,
+    "total": 143.0
+   },
+   "williamhill_us": {
+    "spread": 6.0,
+    "total": 142.0
+   }
+  },
+  "odds_event_id": "5d71d9f77f845ab0748462e4714c0215",
+  "t": "2026-11-12T00:59:22+00:00"
+ },
  "date_key": "20261111",
  "event_id": "401917963",
  "home": {

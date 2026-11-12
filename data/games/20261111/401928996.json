@@ -4,6 +4,48 @@
   "id": "2674",
   "name": "Valparaiso Beacons"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 141.5
+   },
+   "betonlineag": {
+    "spread": 1.5,
+    "total": 141.5
+   },
+   "betrivers": {
+    "spread": 1.5,
+    "total": 141.5
+   },
+   "betus": {
+    "spread": 1.5,
+    "total": 141.0
+   },
+   "draftkings": {
+    "spread": 2.5,
+    "total": 141.5
+   },
+   "fanatics": {
+    "spread": 1.5,
+    "total": 141.0
+   },
+   "fanduel": {
+    "spread": 1.5,
+    "total": 141.5
+   },
+   "lowvig": {
+    "spread": 1.5,
+    "total": 141.5
+   },
+   "williamhill_us": {
+    "spread": 1.5,
+    "total": 141.5
+   }
+  },
+  "odds_event_id": "7a535301a94288a573a2206f13a52cd9",
+  "t": "2026-11-12T00:59:22+00:00"
+ },
  "date_key": "20261111",
  "event_id": "401928996",
  "home": {

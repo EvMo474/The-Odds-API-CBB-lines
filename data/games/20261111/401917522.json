@@ -4,6 +4,48 @@
   "id": "2541",
   "name": "Santa Clara Broncos"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 155.5
+   },
+   "betonlineag": {
+    "spread": 1.5,
+    "total": 154.5
+   },
+   "betrivers": {
+    "spread": 0.5,
+    "total": 154.5
+   },
+   "betus": {
+    "spread": 1.5,
+    "total": 155.0
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": 1.5,
+    "total": 155.0
+   },
+   "fanduel": {
+    "spread": 1.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": 1.5,
+    "total": 154.5
+   },
+   "williamhill_us": {
+    "spread": 1.0,
+    "total": 155.5
+   }
+  },
+  "odds_event_id": "797335cb74e596831cb223b996eda670",
+  "t": "2026-11-12T00:59:22+00:00"
+ },
  "date_key": "20261111",
  "event_id": "401917522",
  "home": {

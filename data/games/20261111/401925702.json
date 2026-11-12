@@ -4,6 +4,48 @@
   "id": "55",
   "name": "Jacksonville State Gamecocks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -34.5,
+    "total": 136.5
+   },
+   "betonlineag": {
+    "spread": -34.5,
+    "total": 136.5
+   },
+   "betrivers": {
+    "spread": -34.5,
+    "total": 135.5
+   },
+   "betus": {
+    "spread": -34.5,
+    "total": 136.0
+   },
+   "draftkings": {
+    "spread": -33.5,
+    "total": 136.5
+   },
+   "fanatics": {
+    "spread": -34.5,
+    "total": 136.5
+   },
+   "fanduel": {
+    "spread": -34.5,
+    "total": 136.5
+   },
+   "lowvig": {
+    "spread": -34.5,
+    "total": 136.5
+   },
+   "williamhill_us": {
+    "spread": -34.5,
+    "total": 136.0
+   }
+  },
+  "odds_event_id": "8be8e7e6cde374ce6f951b17a29a62c3",
+  "t": "2026-11-12T00:59:22+00:00"
+ },
  "date_key": "20261111",
  "event_id": "401925702",
  "home": {
