@@ -4,6 +4,48 @@
   "id": "2636",
   "name": "UTSA Roadrunners"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -16.5,
+    "total": 148.5
+   },
+   "betonlineag": {
+    "spread": -17.0,
+    "total": 148.5
+   },
+   "betrivers": {
+    "spread": -17.5,
+    "total": 147.5
+   },
+   "betus": {
+    "spread": -17.0,
+    "total": 148.5
+   },
+   "draftkings": {
+    "spread": -16.5,
+    "total": 148.5
+   },
+   "fanatics": {
+    "spread": -17.0,
+    "total": 148.5
+   },
+   "fanduel": {
+    "spread": -16.5,
+    "total": 148.5
+   },
+   "lowvig": {
+    "spread": -17.0,
+    "total": 148.5
+   },
+   "williamhill_us": {
+    "spread": -17.0,
+    "total": 148.5
+   }
+  },
+  "odds_event_id": "7519c97618a3f43c4af47a05aeb69e78",
+  "t": "2026-11-12T02:59:21+00:00"
+ },
  "date_key": "20261111",
  "event_id": "401917521",
  "home": {

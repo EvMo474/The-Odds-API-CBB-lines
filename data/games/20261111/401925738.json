@@ -4,6 +4,44 @@
   "id": "2400",
   "name": "Mississippi Valley State Delta Devils"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -33.5,
+    "total": 150.5
+   },
+   "betonlineag": {
+    "spread": -33.5,
+    "total": 150.0
+   },
+   "betrivers": {
+    "spread": -34.5,
+    "total": 149.5
+   },
+   "draftkings": {
+    "spread": -33.5,
+    "total": 150.5
+   },
+   "fanatics": {
+    "spread": -33.5,
+    "total": 150.0
+   },
+   "fanduel": {
+    "spread": -33.5,
+    "total": 150.5
+   },
+   "lowvig": {
+    "spread": -33.5,
+    "total": 150.0
+   },
+   "williamhill_us": {
+    "spread": -33.5,
+    "total": 150.5
+   }
+  },
+  "odds_event_id": "3387415c1bb29e69af3695a6527e5586",
+  "t": "2026-11-12T02:59:21+00:00"
+ },
  "date_key": "20261111",
  "event_id": "401925738",
  "home": {
