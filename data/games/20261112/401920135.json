@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CSUB",
+  "id": "2934",
+  "name": "Cal State Bakersfield Roadrunners"
+ },
+ "date_key": "20261112",
+ "event_id": "401920135",
+ "home": {
+  "abbr": "WIU",
+  "id": "2710",
+  "name": "Western Illinois Leathernecks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "CSUB -9.5",
+    "home_spread": 9.5,
+    "provider": "DraftKings",
+    "raw_spread": 9.5,
+    "total": 151.5
+   }
+  ],
+  "t": "2026-11-12T05:02:21+00:00"
+ },
+ "start": "2026-11-13T00:00Z"
+}

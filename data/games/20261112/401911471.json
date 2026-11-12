@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UCR",
+  "id": "27",
+  "name": "UC Riverside Highlanders"
+ },
+ "date_key": "20261112",
+ "event_id": "401911471",
+ "home": {
+  "abbr": "SJSU",
+  "id": "23",
+  "name": "San Jos\u00e9 State Spartans"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SJSU -8.5",
+    "home_spread": -8.5,
+    "provider": "DraftKings",
+    "raw_spread": -8.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-12T05:02:21+00:00"
+ },
+ "start": "2026-11-13T03:00Z"
+}

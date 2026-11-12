@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "RICH",
+  "id": "257",
+  "name": "Richmond Spiders"
+ },
+ "date_key": "20261112",
+ "event_id": "401911239",
+ "home": {
+  "abbr": "SIU",
+  "id": "79",
+  "name": "Southern Illinois Salukis"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "RICH -3.5",
+    "home_spread": 3.5,
+    "provider": "DraftKings",
+    "raw_spread": 3.5,
+    "total": 154.5
+   }
+  ],
+  "t": "2026-11-12T05:02:21+00:00"
+ },
+ "start": "2026-11-13T01:00Z"
+}

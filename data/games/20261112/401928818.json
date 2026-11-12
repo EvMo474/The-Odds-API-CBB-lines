@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "WMU",
+  "id": "2711",
+  "name": "Western Michigan Broncos"
+ },
+ "date_key": "20261112",
+ "event_id": "401928818",
+ "home": {
+  "abbr": "PFW",
+  "id": "2870",
+  "name": "Purdue Fort Wayne Mastodons"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "WMU -3.5",
+    "home_spread": 3.5,
+    "provider": "DraftKings",
+    "raw_spread": 3.5,
+    "total": 151.5
+   }
+  ],
+  "t": "2026-11-12T05:02:21+00:00"
+ },
+ "start": "2026-11-13T00:00Z"
+}
