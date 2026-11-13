@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "VUL",
+  "id": "3229",
+  "name": "Virginia Lynchburg Dragons"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261112",
+ "event_id": "401929447",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 16,
+    "3pm": 6,
+    "fg_pct": 33.33,
+    "fga": 36,
+    "fgm": 12,
+    "fta": 2,
+    "ftm": 2
+   },
+   "home": {
+    "3pa": 26,
+    "3pm": 8,
+    "fg_pct": 51.11,
+    "fga": 45,
+    "fgm": 23,
+    "fta": 2,
+    "ftm": 1
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "32",
+   "home": "55"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-13T00:40:00+00:00"
+ },
+ "halftime_first_seen": "2026-11-13T00:39:59+00:00",
+ "home": {
+  "abbr": "CCU",
+  "id": "324",
+  "name": "Coastal Carolina Chanticleers"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Georgia Bulldogs @ North Carolina Tar Heels",
+   "credits_left": "30086",
+   "events_list_match": 0.52,
+   "events_list_n": 62,
+   "match": 0.52,
+   "n_events": 62,
+   "t": "2026-11-13T00:40:00+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Georgia Bulldogs @ North Carolina Tar Heels",
+   "credits_left": "30084",
+   "events_list_match": 0.52,
+   "events_list_n": 62,
+   "match": 0.52,
+   "n_events": 62,
+   "t": "2026-11-13T00:43:00+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "55"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-13T00:40:00+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "55"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-13T00:43:00+00:00"
+  }
+ ],
+ "start": "2026-11-13T00:00Z"
+}
