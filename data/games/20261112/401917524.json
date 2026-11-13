@@ -4,6 +4,48 @@
   "id": "2351",
   "name": "Loyola Marymount Lions"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -1.5,
+    "total": 141.5
+   },
+   "betonlineag": {
+    "spread": 0.0,
+    "total": 141.5
+   },
+   "betrivers": {
+    "spread": 1.5,
+    "total": 142.5
+   },
+   "betus": {
+    "spread": 0.0,
+    "total": 141.0
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 141.5
+   },
+   "fanatics": {
+    "spread": 1.0,
+    "total": 141.5
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 141.5
+   },
+   "lowvig": {
+    "spread": 0.0,
+    "total": 141.5
+   },
+   "williamhill_us": {
+    "spread": 1.0,
+    "total": 141.5
+   }
+  },
+  "odds_event_id": "941f2cdc3c144d4d6ec9d98620c4804c",
+  "t": "2026-11-13T00:55:00+00:00"
+ },
  "date_key": "20261112",
  "event_id": "401917524",
  "home": {

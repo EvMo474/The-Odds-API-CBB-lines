@@ -4,6 +4,44 @@
   "id": "2582",
   "name": "Southern Jaguars"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -26.5,
+    "total": 142.5
+   },
+   "betonlineag": {
+    "spread": -26.5,
+    "total": 142.0
+   },
+   "betrivers": {
+    "spread": -26.5,
+    "total": 141.5
+   },
+   "draftkings": {
+    "spread": -26.5,
+    "total": 142.5
+   },
+   "fanatics": {
+    "spread": -26.5,
+    "total": 142.5
+   },
+   "fanduel": {
+    "spread": -25.5,
+    "total": 141.5
+   },
+   "lowvig": {
+    "spread": -26.5,
+    "total": 142.0
+   },
+   "williamhill_us": {
+    "spread": -26.5,
+    "total": 142.0
+   }
+  },
+  "odds_event_id": "b1475de379dc7a6760a16fea0af94a6f",
+  "t": "2026-11-13T00:55:00+00:00"
+ },
  "date_key": "20261112",
  "event_id": "401916306",
  "home": {

@@ -4,6 +4,42 @@
   "id": "2697",
   "name": "West Florida Argonauts"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": -4.0,
+    "total": 146.0
+   },
+   "betrivers": {
+    "spread": -4.5,
+    "total": 148.5
+   },
+   "draftkings": {
+    "spread": -4.5,
+    "total": 146.5
+   },
+   "fanatics": {
+    "spread": -4.5,
+    "total": 146.5
+   },
+   "fanduel": {
+    "total": 146.5
+   },
+   "lowvig": {
+    "spread": -4.0,
+    "total": 146.0
+   },
+   "williamhill_us": {
+    "spread": -4.5,
+    "total": 146.5
+   }
+  },
+  "odds_event_id": "7d106785bb452a99d872a4a1233edf17",
+  "t": "2026-11-13T00:55:00+00:00"
+ },
  "date_key": "20261112",
  "event_id": "401922250",
  "home": {

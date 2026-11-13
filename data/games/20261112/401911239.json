@@ -4,6 +4,44 @@
   "id": "257",
   "name": "Richmond Spiders"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 2.5,
+    "total": 151.5
+   },
+   "betonlineag": {
+    "spread": 2.5,
+    "total": 151.5
+   },
+   "betrivers": {
+    "spread": 2.5,
+    "total": 151.5
+   },
+   "betus": {
+    "spread": 2.5,
+    "total": 151.5
+   },
+   "draftkings": {
+    "spread": 2.5,
+    "total": 151.5
+   },
+   "fanatics": {
+    "spread": 2.5,
+    "total": 152.0
+   },
+   "fanduel": {
+    "spread": 2.5,
+    "total": 151.5
+   },
+   "lowvig": {
+    "spread": 2.5,
+    "total": 151.5
+   }
+  },
+  "odds_event_id": "5003f1022ff5701d7b72662678604d83",
+  "t": "2026-11-13T00:55:00+00:00"
+ },
  "date_key": "20261112",
  "event_id": "401911239",
  "home": {
