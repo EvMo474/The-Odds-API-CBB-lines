@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SIUE",
+  "id": "2565",
+  "name": "SIU Edwardsville Cougars"
+ },
+ "date_key": "20261113",
+ "event_id": "401909565",
+ "home": {
+  "abbr": "DUKE",
+  "id": "150",
+  "name": "Duke Blue Devils"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "DUKE -44.5",
+    "home_spread": -44.5,
+    "provider": "Draft Kings",
+    "raw_spread": -44.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-13T05:01:00+00:00"
+ },
+ "start": "2026-11-14T01:00Z"
+}

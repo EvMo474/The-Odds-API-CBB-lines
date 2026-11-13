@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "MSM",
+  "id": "116",
+  "name": "Mount St. Mary's Mountaineers"
+ },
+ "date_key": "20261113",
+ "event_id": "401920379",
+ "home": {
+  "abbr": "VT",
+  "id": "259",
+  "name": "Virginia Tech Hokies"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VT -28.5",
+    "home_spread": -28.5,
+    "provider": "Draft Kings",
+    "raw_spread": -28.5,
+    "total": 150.5
+   }
+  ],
+  "t": "2026-11-13T05:01:00+00:00"
+ },
+ "start": "2026-11-14T00:00Z"
+}

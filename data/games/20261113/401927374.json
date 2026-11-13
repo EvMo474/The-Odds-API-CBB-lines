@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ILST",
+  "id": "2287",
+  "name": "Illinois State Redbirds"
+ },
+ "date_key": "20261113",
+ "event_id": "401927374",
+ "home": {
+  "abbr": "NDSU",
+  "id": "2449",
+  "name": "North Dakota State Bison"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ILST -2.5",
+    "home_spread": 2.5,
+    "provider": "Draft Kings",
+    "raw_spread": 2.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-13T05:01:00+00:00"
+ },
+ "start": "2026-11-14T01:00Z"
+}

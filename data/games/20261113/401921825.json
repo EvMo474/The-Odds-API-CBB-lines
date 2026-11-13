@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "PV",
+  "id": "2504",
+  "name": "Prairie View A&M Panthers"
+ },
+ "date_key": "20261113",
+ "event_id": "401921825",
+ "home": {
+  "abbr": "VAN",
+  "id": "238",
+  "name": "Vanderbilt Commodores"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VAN -37.5",
+    "home_spread": -37.5,
+    "provider": "Draft Kings",
+    "raw_spread": -37.5,
+    "total": 153.5
+   }
+  ],
+  "t": "2026-11-13T05:01:00+00:00"
+ },
+ "start": "2026-11-14T00:00Z"
+}

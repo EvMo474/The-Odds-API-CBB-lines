@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "WRST",
+  "id": "2750",
+  "name": "Wright State Raiders"
+ },
+ "date_key": "20261113",
+ "event_id": "401926117",
+ "home": {
+  "abbr": "SAM",
+  "id": "2535",
+  "name": "Samford Bulldogs"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "WRST -1.5",
+    "home_spread": 1.5,
+    "provider": "Draft Kings",
+    "raw_spread": 1.5,
+    "total": 156.5
+   }
+  ],
+  "t": "2026-11-13T05:01:00+00:00"
+ },
+ "start": "2026-11-14T01:00Z"
+}

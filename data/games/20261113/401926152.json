@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SEMO",
+  "id": "2546",
+  "name": "Southeast Missouri State Redhawks"
+ },
+ "date_key": "20261113",
+ "event_id": "401926152",
+ "home": {
+  "abbr": "MTSU",
+  "id": "2393",
+  "name": "Middle Tennessee Blue Raiders"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MTSU -5.5",
+    "home_spread": -5.5,
+    "provider": "Draft Kings",
+    "raw_spread": -5.5,
+    "total": 146.5
+   }
+  ],
+  "t": "2026-11-13T05:01:00+00:00"
+ },
+ "start": "2026-11-14T00:30Z"
+}

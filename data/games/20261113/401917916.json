@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CARK",
+  "id": "2110",
+  "name": "Central Arkansas Bears"
+ },
+ "date_key": "20261113",
+ "event_id": "401917916",
+ "home": {
+  "abbr": "ARK",
+  "id": "8",
+  "name": "Arkansas Razorbacks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ARK -25.5",
+    "home_spread": -25.5,
+    "provider": "Draft Kings",
+    "raw_spread": -25.5,
+    "total": 161.5
+   }
+  ],
+  "t": "2026-11-13T05:01:00+00:00"
+ },
+ "start": "2026-11-14T01:00Z"
+}
