@@ -4,6 +4,48 @@
   "id": "27",
   "name": "UC Riverside Highlanders"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -8.5,
+    "total": 153.5
+   },
+   "betonlineag": {
+    "spread": -8.5,
+    "total": 153.5
+   },
+   "betrivers": {
+    "spread": -8.5,
+    "total": 153.5
+   },
+   "betus": {
+    "spread": -8.5,
+    "total": 153.5
+   },
+   "draftkings": {
+    "spread": -8.5,
+    "total": 153.5
+   },
+   "fanatics": {
+    "spread": -8.5,
+    "total": 153.5
+   },
+   "fanduel": {
+    "spread": -8.5,
+    "total": 153.5
+   },
+   "lowvig": {
+    "spread": -8.5,
+    "total": 153.5
+   },
+   "williamhill_us": {
+    "spread": -8.5,
+    "total": 153.5
+   }
+  },
+  "odds_event_id": "41ff76ffb87fd6a1186e8bd6e4e78efa",
+  "t": "2026-11-13T02:55:00+00:00"
+ },
  "date_key": "20261112",
  "event_id": "401911471",
  "home": {
