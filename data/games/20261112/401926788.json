@@ -85,6 +85,26 @@
    "n_events": 62,
    "t": "2026-11-13T01:01:00+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Northern Iowa Panthers @ Michigan St Spartans",
+   "credits_left": "30070",
+   "events_list_match": 0.44,
+   "events_list_n": 62,
+   "match": 0.44,
+   "n_events": 62,
+   "t": "2026-11-13T01:04:00+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Northern Iowa Panthers @ Michigan St Spartans",
+   "credits_left": "30068",
+   "events_list_match": 0.44,
+   "events_list_n": 62,
+   "match": 0.44,
+   "n_events": 62,
+   "t": "2026-11-13T01:07:00+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -135,6 +155,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-13T01:01:00+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "28",
+    "home": "53"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-13T01:04:00+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "28",
+    "home": "53"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-13T01:07:00+00:00"
   }
  ],
  "start": "2026-11-13T00:00Z"
