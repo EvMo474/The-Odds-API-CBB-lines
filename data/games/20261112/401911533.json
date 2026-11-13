@@ -4,6 +4,48 @@
   "id": "166",
   "name": "New Mexico State Aggies"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -4.5,
+    "total": 145.5
+   },
+   "betonlineag": {
+    "spread": -4.5,
+    "total": 145.5
+   },
+   "betrivers": {
+    "spread": -4.5,
+    "total": 145.5
+   },
+   "betus": {
+    "spread": -5.0,
+    "total": 145.5
+   },
+   "draftkings": {
+    "spread": -4.5,
+    "total": 145.5
+   },
+   "fanatics": {
+    "spread": -5.0,
+    "total": 145.0
+   },
+   "fanduel": {
+    "spread": -4.5,
+    "total": 145.5
+   },
+   "lowvig": {
+    "spread": -4.5,
+    "total": 145.5
+   },
+   "williamhill_us": {
+    "spread": -5.0,
+    "total": 145.0
+   }
+  },
+  "odds_event_id": "36b964d987dcf869d0b46b1cd61a1363",
+  "t": "2026-11-13T01:55:00+00:00"
+ },
  "date_key": "20261112",
  "event_id": "401911533",
  "home": {
