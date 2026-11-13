@@ -4,15 +4,126 @@
   "id": "2099",
   "name": "Canisius Golden Griffins"
  },
+ "break_via": "STATUS_HALFTIME",
  "date_key": "20261112",
  "event_id": "401911307",
+ "flag": {
+  "best_book": "betrivers",
+  "best_line": -9.5,
+  "bucket": "Home Fav",
+  "bucket_src": "pregame",
+  "cold": "home",
+  "cold_full_spread": 3.5,
+  "cold_full_spread_by_book": {
+   "betmgm": 3.5,
+   "betrivers": 4.5,
+   "draftkings": 3.5,
+   "fanatics": 3.5,
+   "williamhill_us": 2.5
+  },
+  "cold_margin_1h": -14,
+  "gap": 6.7,
+  "gap_min": 10.0,
+  "lines_2h": {
+   "betmgm": -10.5,
+   "betrivers": -9.5,
+   "draftkings": -10.5,
+   "fanatics": -10.5,
+   "williamhill_us": -11.5
+  },
+  "neutral": false,
+  "pre_home_spread": -12.5,
+  "qualifies": false,
+  "suspect": false,
+  "t": "2026-11-13T00:49:00+00:00",
+  "win_zone": false,
+  "win_zone_max": 2.0
+ },
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 13,
+    "3pm": 7,
+    "fg_pct": 53.33,
+    "fga": 30,
+    "fgm": 16,
+    "fta": 6,
+    "ftm": 5
+   },
+   "home": {
+    "3pa": 7,
+    "3pm": 1,
+    "fg_pct": 46.67,
+    "fga": 30,
+    "fgm": 14,
+    "fta": 5,
+    "ftm": 1
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "44",
+   "home": "30"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-13T00:49:00+00:00"
+ },
+ "halftime_first_seen": "2026-11-13T00:49:00+00:00",
  "home": {
   "abbr": "BRWN",
   "id": "225",
   "name": "Brown Bears"
  },
  "neutral_site": false,
- "odds_ticks": [],
+ "odds_api_ticks": [
+  {
+   "books": {
+    "betmgm": {
+     "spread": 3.5,
+     "total": 147.5
+    },
+    "betrivers": {
+     "spread": 4.5,
+     "total": 149.5
+    },
+    "draftkings": {
+     "spread": 3.5,
+     "total": 147.5
+    },
+    "fanatics": {
+     "spread": 3.5,
+     "total": 147.5
+    },
+    "williamhill_us": {
+     "spread": 2.5,
+     "total": 143.5
+    }
+   },
+   "credits_left": "30080",
+   "draftkings_home_spread": 3.5,
+   "draftkings_total": 147.5,
+   "match": 1.0,
+   "n_events": 62,
+   "odds_event_id": "60340e8a19f88be7b0c22c5428810081",
+   "t": "2026-11-13T00:49:00+00:00"
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "44",
+    "home": "30"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-13T00:49:00+00:00"
+  }
+ ],
  "pregame": {
   "odds": [
    {

@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "JWU",
+  "id": "353",
+  "name": "Johnson & Wales Griffins"
+ },
+ "date_key": "20261112",
+ "event_id": "401923400",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 19,
+    "3pm": 11,
+    "fg_pct": 46.43,
+    "fga": 56,
+    "fgm": 26,
+    "fta": 14,
+    "ftm": 11
+   },
+   "home": {
+    "3pa": 20,
+    "3pm": 8,
+    "fg_pct": 60.0,
+    "fga": 65,
+    "fgm": 39,
+    "fta": 17,
+    "ftm": 14
+   }
+  },
+  "linescores": {
+   "away": [
+    "40",
+    "34"
+   ],
+   "home": [
+    "51",
+    "49"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "74",
+   "home": "100"
+  },
+  "t": "2026-11-13T00:49:00+00:00"
+ },
+ "home": {
+  "abbr": "BU",
+  "id": "104",
+  "name": "Boston University Terriers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-12T23:00Z"
+}

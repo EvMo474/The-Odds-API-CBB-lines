@@ -65,6 +65,26 @@
    "n_events": 62,
    "t": "2026-11-13T00:43:00+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Georgia Bulldogs @ North Carolina Tar Heels",
+   "credits_left": "30082",
+   "events_list_match": 0.52,
+   "events_list_n": 62,
+   "match": 0.52,
+   "n_events": 62,
+   "t": "2026-11-13T00:46:00+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Georgia Bulldogs @ North Carolina Tar Heels",
+   "credits_left": "30080",
+   "events_list_match": 0.52,
+   "events_list_n": 62,
+   "match": 0.52,
+   "n_events": 62,
+   "t": "2026-11-13T00:49:00+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -91,6 +111,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-13T00:43:00+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "55"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-13T00:46:00+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "55"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-13T00:49:00+00:00"
   }
  ],
  "start": "2026-11-13T00:00Z"
