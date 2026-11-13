@@ -85,6 +85,16 @@
    "n_events": 58,
    "t": "2026-11-13T03:55:00+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Merrimack Warriors @ Florida Gators",
+   "credits_left": "30006",
+   "events_list_match": 0.47,
+   "events_list_n": 58,
+   "match": 0.47,
+   "n_events": 58,
+   "t": "2026-11-13T03:58:00+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -135,6 +145,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-13T03:55:00+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "37",
+    "home": "57"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-13T03:58:00+00:00"
+  },
+  {
+   "clock": "19:27",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "37",
+    "home": "57"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-13T04:01:00+00:00"
   }
  ],
  "start": "2026-11-13T03:00Z"
