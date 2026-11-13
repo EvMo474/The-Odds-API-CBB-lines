@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "LNCA",
+  "id": "124946",
+  "name": "Lincoln (CA) Oaklanders"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261112",
+ "event_id": "401920157",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 14,
+    "3pm": 6,
+    "fg_pct": 40.0,
+    "fga": 30,
+    "fgm": 12,
+    "fta": 13,
+    "ftm": 11
+   },
+   "home": {
+    "3pa": 25,
+    "3pm": 7,
+    "fg_pct": 44.19,
+    "fga": 43,
+    "fgm": 19,
+    "fta": 4,
+    "ftm": 3
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "41",
+   "home": "48"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-13T02:46:00+00:00"
+ },
+ "halftime_first_seen": "2026-11-13T02:46:00+00:00",
+ "home": {
+  "abbr": "CSUF",
+  "id": "2239",
+  "name": "Cal State Fullerton Titans"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Northern Iowa Panthers @ Michigan St Spartans",
+   "credits_left": "30036",
+   "events_list_match": 0.49,
+   "events_list_n": 47,
+   "match": 0.49,
+   "n_events": 47,
+   "t": "2026-11-13T02:46:00+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Northern Iowa Panthers @ Michigan St Spartans",
+   "credits_left": "30034",
+   "events_list_match": 0.49,
+   "events_list_n": 47,
+   "match": 0.49,
+   "n_events": 47,
+   "t": "2026-11-13T02:49:00+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "41",
+    "home": "48"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-13T02:46:00+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "41",
+    "home": "48"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-13T02:49:00+00:00"
+  }
+ ],
+ "start": "2026-11-13T02:00Z"
+}
