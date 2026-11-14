@@ -4,6 +4,44 @@
   "id": "2643",
   "name": "The Citadel Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 155.5
+   },
+   "betonlineag": {
+    "spread": -4.0,
+    "total": 155.5
+   },
+   "betrivers": {
+    "spread": -4.5,
+    "total": 154.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": -4.0,
+    "total": 155.0
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 155.5
+   },
+   "lowvig": {
+    "spread": -4.0,
+    "total": 155.5
+   },
+   "williamhill_us": {
+    "spread": -4.0,
+    "total": 155.5
+   }
+  },
+  "odds_event_id": "315f611a3a841f575260db9d7138f5e1",
+  "t": "2026-11-14T18:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401922220",
  "home": {

@@ -4,6 +4,47 @@
   "id": "193",
   "name": "Miami (OH) RedHawks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "total": 154.5
+   },
+   "betonlineag": {
+    "spread": 9.5,
+    "total": 154.5
+   },
+   "betrivers": {
+    "spread": 9.5,
+    "total": 153.5
+   },
+   "betus": {
+    "spread": 9.5,
+    "total": 154.5
+   },
+   "draftkings": {
+    "spread": 9.5,
+    "total": 154.5
+   },
+   "fanatics": {
+    "spread": 9.5,
+    "total": 154.5
+   },
+   "fanduel": {
+    "spread": 9.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": 9.5,
+    "total": 154.5
+   },
+   "williamhill_us": {
+    "spread": 9.5,
+    "total": 154.5
+   }
+  },
+  "odds_event_id": "51f9ec7bdcf8d8941d395ace6f54d2fe",
+  "t": "2026-11-14T18:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401911015",
  "home": {

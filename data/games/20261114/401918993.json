@@ -4,6 +4,44 @@
   "id": "2154",
   "name": "Coppin State Eagles"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -25.5,
+    "total": 149.5
+   },
+   "betonlineag": {
+    "spread": -25.5,
+    "total": 149.0
+   },
+   "betrivers": {
+    "spread": -25.5,
+    "total": 149.5
+   },
+   "draftkings": {
+    "spread": -25.5,
+    "total": 149.5
+   },
+   "fanatics": {
+    "spread": -25.5,
+    "total": 149.5
+   },
+   "fanduel": {
+    "spread": -25.5,
+    "total": 149.5
+   },
+   "lowvig": {
+    "spread": -25.5,
+    "total": 149.0
+   },
+   "williamhill_us": {
+    "spread": -25.5,
+    "total": 149.5
+   }
+  },
+  "odds_event_id": "32e34c35ae4bcafb47d5b848e7d0cea1",
+  "t": "2026-11-14T18:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401918993",
  "home": {

@@ -4,6 +4,44 @@
   "id": "284",
   "name": "Stonehill Skyhawks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -39.5,
+    "total": 143.5
+   },
+   "betonlineag": {
+    "spread": -39.0,
+    "total": 143.0
+   },
+   "betrivers": {
+    "spread": -39.5,
+    "total": 143.5
+   },
+   "draftkings": {
+    "spread": -38.5,
+    "total": 143.5
+   },
+   "fanatics": {
+    "spread": -39.0,
+    "total": 143.5
+   },
+   "fanduel": {
+    "spread": -38.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": -39.0,
+    "total": 143.0
+   },
+   "williamhill_us": {
+    "spread": -39.0,
+    "total": 144.5
+   }
+  },
+  "odds_event_id": "87495030c89d6ccf9cc9edc6abc8ff34",
+  "t": "2026-11-14T18:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401919847",
  "home": {

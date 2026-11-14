@@ -4,6 +4,39 @@
   "id": "2459",
   "name": "Northern Illinois Huskies"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "total": 149.5
+   },
+   "betonlineag": {
+    "spread": 2.0,
+    "total": 149.5
+   },
+   "betrivers": {
+    "spread": 0.5,
+    "total": 149.5
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 149.5
+   },
+   "fanatics": {
+    "spread": 1.5,
+    "total": 149.5
+   },
+   "fanduel": {
+    "spread": 1.5,
+    "total": 150.5
+   },
+   "lowvig": {
+    "spread": 2.0,
+    "total": 149.5
+   }
+  },
+  "odds_event_id": "a1cc87eeeffb39fecaa58bf0df4d6ce8",
+  "t": "2026-11-14T18:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401920915",
  "home": {

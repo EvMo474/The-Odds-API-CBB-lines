@@ -4,6 +4,44 @@
   "id": "2747",
   "name": "Wofford Terriers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -6.5,
+    "total": 178.5
+   },
+   "betonlineag": {
+    "spread": -6.5,
+    "total": 177.5
+   },
+   "betrivers": {
+    "spread": -6.5,
+    "total": 179.5
+   },
+   "draftkings": {
+    "spread": -5.5,
+    "total": 177.5
+   },
+   "fanatics": {
+    "spread": -6.5,
+    "total": 178.0
+   },
+   "fanduel": {
+    "spread": -5.5,
+    "total": 178.5
+   },
+   "lowvig": {
+    "spread": -7.0,
+    "total": 177.5
+   },
+   "williamhill_us": {
+    "spread": -7.0,
+    "total": 178.0
+   }
+  },
+  "odds_event_id": "7428b124d458bea8a330d6a74c913ae6",
+  "t": "2026-11-14T18:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401922230",
  "home": {
