@@ -4,6 +4,48 @@
   "id": "2571",
   "name": "South Dakota State Jackrabbits"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 2.5,
+    "total": 150.5
+   },
+   "betonlineag": {
+    "spread": 2.5,
+    "total": 150.0
+   },
+   "betrivers": {
+    "spread": 3.5,
+    "total": 150.5
+   },
+   "betus": {
+    "spread": 3.0,
+    "total": 150.0
+   },
+   "draftkings": {
+    "spread": 2.5,
+    "total": 150.5
+   },
+   "fanatics": {
+    "spread": 3.0,
+    "total": 149.5
+   },
+   "fanduel": {
+    "spread": 2.5,
+    "total": 149.5
+   },
+   "lowvig": {
+    "spread": 2.5,
+    "total": 150.0
+   },
+   "williamhill_us": {
+    "spread": 3.0,
+    "total": 150.0
+   }
+  },
+  "odds_event_id": "e67728580d608d1ac0d327750a3c7bd7",
+  "t": "2026-11-14T20:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401925889",
  "home": {

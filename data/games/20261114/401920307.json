@@ -4,6 +4,44 @@
   "id": "2427",
   "name": "UNC Asheville Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -17.5,
+    "total": 157.5
+   },
+   "betonlineag": {
+    "spread": -17.0,
+    "total": 157.5
+   },
+   "betrivers": {
+    "spread": -17.5,
+    "total": 157.5
+   },
+   "draftkings": {
+    "spread": -17.5,
+    "total": 157.5
+   },
+   "fanatics": {
+    "spread": -17.5,
+    "total": 157.0
+   },
+   "fanduel": {
+    "spread": -17.5,
+    "total": 157.5
+   },
+   "lowvig": {
+    "spread": -17.0,
+    "total": 157.5
+   },
+   "williamhill_us": {
+    "spread": -17.5,
+    "total": 157.5
+   }
+  },
+  "odds_event_id": "81c7fbbb761806436869922f63aa1309",
+  "t": "2026-11-14T20:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401920307",
  "home": {

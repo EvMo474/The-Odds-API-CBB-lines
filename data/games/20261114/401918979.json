@@ -4,6 +4,44 @@
   "id": "2169",
   "name": "Delaware State Hornets"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -13.5,
+    "total": 147.5
+   },
+   "betonlineag": {
+    "spread": -14.0,
+    "total": 148.0
+   },
+   "betrivers": {
+    "spread": -13.5,
+    "total": 147.5
+   },
+   "draftkings": {
+    "spread": -13.5,
+    "total": 147.5
+   },
+   "fanatics": {
+    "spread": -14.0,
+    "total": 147.5
+   },
+   "fanduel": {
+    "spread": -13.5,
+    "total": 147.5
+   },
+   "lowvig": {
+    "spread": -14.0,
+    "total": 148.0
+   },
+   "williamhill_us": {
+    "spread": -14.0,
+    "total": 147.5
+   }
+  },
+  "odds_event_id": "64e199f7ea93a190062392e432d1f799",
+  "t": "2026-11-14T20:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401918979",
  "home": {

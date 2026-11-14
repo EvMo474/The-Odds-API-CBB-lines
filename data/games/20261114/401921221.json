@@ -4,6 +4,44 @@
   "id": "2261",
   "name": "Hampton Pirates"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 136.5
+   },
+   "betonlineag": {
+    "spread": 1.0,
+    "total": 136.5
+   },
+   "betrivers": {
+    "spread": -0.5,
+    "total": 136.5
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 136.5
+   },
+   "fanatics": {
+    "spread": -1.0,
+    "total": 136.0
+   },
+   "fanduel": {
+    "spread": -0.5,
+    "total": 136.5
+   },
+   "lowvig": {
+    "spread": 1.0,
+    "total": 136.5
+   },
+   "williamhill_us": {
+    "spread": 1.0,
+    "total": 136.5
+   }
+  },
+  "odds_event_id": "cee986e39a59f8a4fbc4ca2d0fc1c828",
+  "t": "2026-11-14T20:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401921221",
  "home": {

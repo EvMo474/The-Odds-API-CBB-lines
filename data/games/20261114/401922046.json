@@ -4,6 +4,44 @@
   "id": "2344",
   "name": "Longwood Lancers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -6.5,
+    "total": 137.5
+   },
+   "betonlineag": {
+    "spread": -7.0,
+    "total": 137.0
+   },
+   "betrivers": {
+    "spread": -6.5,
+    "total": 136.5
+   },
+   "draftkings": {
+    "spread": -6.5,
+    "total": 137.5
+   },
+   "fanatics": {
+    "spread": -7.0,
+    "total": 136.5
+   },
+   "fanduel": {
+    "spread": -6.5,
+    "total": 136.5
+   },
+   "lowvig": {
+    "spread": -7.0,
+    "total": 137.0
+   },
+   "williamhill_us": {
+    "spread": -6.5,
+    "total": 137.0
+   }
+  },
+  "odds_event_id": "5f2f53853b0d9aefa237d8c1959c4a9b",
+  "t": "2026-11-14T20:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401922046",
  "home": {

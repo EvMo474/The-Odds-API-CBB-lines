@@ -4,6 +4,48 @@
   "id": "2649",
   "name": "Toledo Rockets"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 10.5,
+    "total": 153.5
+   },
+   "betonlineag": {
+    "spread": 10.0,
+    "total": 154.0
+   },
+   "betrivers": {
+    "spread": 9.5,
+    "total": 153.5
+   },
+   "betus": {
+    "spread": 10.0,
+    "total": 153.5
+   },
+   "draftkings": {
+    "spread": 10.5,
+    "total": 153.5
+   },
+   "fanatics": {
+    "spread": 10.5,
+    "total": 154.0
+   },
+   "fanduel": {
+    "spread": 9.5,
+    "total": 153.5
+   },
+   "lowvig": {
+    "spread": 10.0,
+    "total": 154.0
+   },
+   "williamhill_us": {
+    "spread": 10.0,
+    "total": 154.0
+   }
+  },
+  "odds_event_id": "4b25bcaf9f4a6dcfa8d36ebd39eb0c28",
+  "t": "2026-11-14T20:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401928804",
  "home": {

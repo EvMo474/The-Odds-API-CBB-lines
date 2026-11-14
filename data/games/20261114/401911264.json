@@ -4,6 +4,44 @@
   "id": "322",
   "name": "Lafayette Leopards"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -16.5,
+    "total": 143.5
+   },
+   "betonlineag": {
+    "spread": -16.0,
+    "total": 144.0
+   },
+   "betrivers": {
+    "spread": -16.5,
+    "total": 143.5
+   },
+   "draftkings": {
+    "spread": -16.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": -16.0,
+    "total": 144.0
+   },
+   "fanduel": {
+    "spread": -16.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": -16.0,
+    "total": 144.0
+   },
+   "williamhill_us": {
+    "spread": -16.0,
+    "total": 144.0
+   }
+  },
+  "odds_event_id": "fa1b98a7b5a89d610bb08d8a8f5afc50",
+  "t": "2026-11-14T20:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401911264",
  "home": {
