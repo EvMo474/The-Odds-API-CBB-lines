@@ -8,7 +8,7 @@
   "books": {
    "betmgm": {
     "spread": -3.5,
-    "total": 146.5
+    "total": 145.5
    },
    "betonlineag": {
     "spread": -3.0,
@@ -20,7 +20,7 @@
    },
    "betus": {
     "spread": -3.0,
-    "total": 146.5
+    "total": 146.0
    },
    "draftkings": {
     "spread": -3.5,
@@ -32,7 +32,7 @@
    },
    "fanduel": {
     "spread": -3.5,
-    "total": 146.5
+    "total": 145.5
    },
    "lowvig": {
     "spread": -3.0,
@@ -44,7 +44,7 @@
    }
   },
   "odds_event_id": "30e4151fcfc0df7a8c2a16867364d270",
-  "t": "2026-11-14T22:55:36+00:00"
+  "t": "2026-11-14T23:01:36+00:00"
  },
  "date_key": "20261114",
  "event_id": "401926777",
