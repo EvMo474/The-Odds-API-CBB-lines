@@ -59,7 +59,7 @@
   "cold_full_spread_by_book": {
    "betmgm": 3.5,
    "betrivers": 3.5,
-   "draftkings": 2.5,
+   "draftkings": 3.5,
    "fanatics": 3.5,
    "fanduel": 3.5,
    "williamhill_us": 3.5
@@ -70,7 +70,7 @@
   "lines_2h": {
    "betmgm": -3.5,
    "betrivers": -3.5,
-   "draftkings": -4.5,
+   "draftkings": -3.5,
    "fanatics": -3.5,
    "fanduel": -3.5,
    "williamhill_us": -3.5
@@ -79,7 +79,7 @@
   "pre_home_spread": -3.5,
   "qualifies": false,
   "suspect": false,
-  "t": "2026-11-14T01:05:54+00:00",
+  "t": "2026-11-14T01:08:55+00:00",
   "win_zone": false,
   "win_zone_max": 2.0
  },
@@ -945,6 +945,43 @@
    "n_events": 86,
    "odds_event_id": "95b21cbf2b6a6b03515d4da03dae452e",
    "t": "2026-11-14T01:05:54+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "spread": 3.5,
+     "total": 156.5
+    },
+    "betrivers": {
+     "spread": 3.5,
+     "total": 156.5
+    },
+    "draftkings": {
+     "spread": 3.5,
+     "total": 155.5
+    },
+    "fanatics": {
+     "spread": 3.5,
+     "total": 155.5
+    },
+    "fanduel": {
+     "spread": 3.5,
+     "total": 156.5
+    },
+    "williamhill_us": {
+     "spread": 3.5,
+     "total": 156.5
+    }
+   },
+   "credits_left": "29966",
+   "draftkings_home_spread": 3.5,
+   "draftkings_total": 155.5,
+   "fanduel_home_spread": 3.5,
+   "fanduel_total": 156.5,
+   "match": 1.0,
+   "n_events": 86,
+   "odds_event_id": "95b21cbf2b6a6b03515d4da03dae452e",
+   "t": "2026-11-14T01:08:55+00:00"
   }
  ],
  "odds_ticks": [
@@ -1007,6 +1044,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-14T01:05:54+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "38",
+    "home": "31"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T01:08:54+00:00"
+  },
+  {
+   "clock": "18:37",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "40",
+    "home": "33"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-14T01:11:54+00:00"
   }
  ],
  "pregame": {
