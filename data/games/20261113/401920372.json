@@ -4,6 +4,48 @@
   "id": "28",
   "name": "UC San Diego Tritons"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -12.5,
+    "total": 159.5
+   },
+   "betonlineag": {
+    "spread": -13.0,
+    "total": 159.0
+   },
+   "betrivers": {
+    "spread": -12.5,
+    "total": 158.5
+   },
+   "betus": {
+    "spread": -13.0,
+    "total": 159.0
+   },
+   "draftkings": {
+    "spread": -12.5,
+    "total": 158.5
+   },
+   "fanatics": {
+    "spread": -13.0,
+    "total": 159.0
+   },
+   "fanduel": {
+    "spread": -12.5,
+    "total": 159.5
+   },
+   "lowvig": {
+    "spread": -13.0,
+    "total": 159.0
+   },
+   "williamhill_us": {
+    "spread": -12.5,
+    "total": 159.0
+   }
+  },
+  "odds_event_id": "c08f7d2a57b7050d9effea514daa7bab",
+  "t": "2026-11-14T02:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401920372",
  "home": {

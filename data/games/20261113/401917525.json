@@ -4,6 +4,43 @@
   "id": "82",
   "name": "UIC Flames"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "total": 151.5
+   },
+   "betonlineag": {
+    "spread": -6.5,
+    "total": 150.5
+   },
+   "betrivers": {
+    "spread": -6.5,
+    "total": 151.5
+   },
+   "betus": {
+    "spread": -6.5,
+    "total": 150.5
+   },
+   "draftkings": {
+    "spread": -6.5,
+    "total": 151.5
+   },
+   "fanatics": {
+    "spread": -6.5,
+    "total": 151.0
+   },
+   "fanduel": {
+    "spread": -6.5,
+    "total": 151.5
+   },
+   "lowvig": {
+    "spread": -6.5,
+    "total": 150.5
+   }
+  },
+  "odds_event_id": "85a997dbe516f43742ed9726057606b1",
+  "t": "2026-11-14T02:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401917525",
  "home": {
