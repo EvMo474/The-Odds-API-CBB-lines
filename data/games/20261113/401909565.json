@@ -4,6 +4,44 @@
   "id": "2565",
   "name": "SIU Edwardsville Cougars"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -42.5,
+    "total": 148.5
+   },
+   "betonlineag": {
+    "spread": -43.0,
+    "total": 148.5
+   },
+   "betrivers": {
+    "spread": -43.5,
+    "total": 148.5
+   },
+   "betus": {
+    "spread": -43.0,
+    "total": 148.5
+   },
+   "draftkings": {
+    "spread": -42.5,
+    "total": 148.5
+   },
+   "fanatics": {
+    "spread": -43.0,
+    "total": 149.0
+   },
+   "fanduel": {
+    "spread": -42.5,
+    "total": 148.5
+   },
+   "lowvig": {
+    "spread": -43.0,
+    "total": 148.5
+   }
+  },
+  "odds_event_id": "d92ca99754896c9df89f8734a83693b1",
+  "t": "2026-11-14T00:59:55+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401909565",
  "home": {

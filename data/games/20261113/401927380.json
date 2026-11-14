@@ -4,6 +4,44 @@
   "id": "2640",
   "name": "Texas Southern Tigers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -29.5,
+    "total": 162.5
+   },
+   "betonlineag": {
+    "spread": -29.0,
+    "total": 162.5
+   },
+   "betrivers": {
+    "spread": -28.5,
+    "total": 164.5
+   },
+   "draftkings": {
+    "spread": -28.5,
+    "total": 162.5
+   },
+   "fanatics": {
+    "spread": -28.5,
+    "total": 163.0
+   },
+   "fanduel": {
+    "spread": -28.5,
+    "total": 162.5
+   },
+   "lowvig": {
+    "spread": -29.0,
+    "total": 162.5
+   },
+   "williamhill_us": {
+    "spread": -29.0,
+    "total": 163.0
+   }
+  },
+  "odds_event_id": "d098ee44a8ccae008fb103de2f781632",
+  "t": "2026-11-14T00:59:55+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401927380",
  "home": {

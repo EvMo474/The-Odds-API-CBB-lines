@@ -4,6 +4,44 @@
   "id": "2016",
   "name": "Alcorn State Braves"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -16.5,
+    "total": 150.5
+   },
+   "betonlineag": {
+    "spread": -16.0,
+    "total": 151.0
+   },
+   "betrivers": {
+    "spread": -16.5,
+    "total": 150.5
+   },
+   "draftkings": {
+    "spread": -16.5,
+    "total": 150.5
+   },
+   "fanatics": {
+    "spread": -16.0,
+    "total": 151.0
+   },
+   "fanduel": {
+    "spread": -15.5,
+    "total": 150.5
+   },
+   "lowvig": {
+    "spread": -16.0,
+    "total": 151.0
+   },
+   "williamhill_us": {
+    "spread": -16.0,
+    "total": 151.0
+   }
+  },
+  "odds_event_id": "2907ec9d768bcfc13aca0bca1d82c278",
+  "t": "2026-11-14T00:59:55+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401925686",
  "home": {

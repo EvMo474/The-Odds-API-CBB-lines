@@ -4,6 +4,48 @@
   "id": "2750",
   "name": "Wright State Raiders"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 157.5
+   },
+   "betonlineag": {
+    "spread": 1.0,
+    "total": 157.0
+   },
+   "betrivers": {
+    "spread": 1.5,
+    "total": 157.5
+   },
+   "betus": {
+    "spread": 1.5,
+    "total": 157.0
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 157.5
+   },
+   "fanatics": {
+    "spread": 1.5,
+    "total": 157.5
+   },
+   "fanduel": {
+    "spread": 1.5,
+    "total": 157.5
+   },
+   "lowvig": {
+    "spread": 1.0,
+    "total": 157.0
+   },
+   "williamhill_us": {
+    "spread": 1.0,
+    "total": 157.5
+   }
+  },
+  "odds_event_id": "2320c172615410b0a773eb086dcef8ea",
+  "t": "2026-11-14T00:59:55+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401926117",
  "home": {

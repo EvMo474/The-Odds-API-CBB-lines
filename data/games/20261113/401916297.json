@@ -4,6 +4,48 @@
   "id": "258",
   "name": "Virginia Cavaliers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 5.5,
+    "total": 153.5
+   },
+   "betonlineag": {
+    "spread": 6.0,
+    "total": 154.0
+   },
+   "betrivers": {
+    "spread": 5.5,
+    "total": 152.5
+   },
+   "betus": {
+    "spread": 6.0,
+    "total": 154.0
+   },
+   "draftkings": {
+    "spread": 5.5,
+    "total": 153.5
+   },
+   "fanatics": {
+    "spread": 6.0,
+    "total": 153.5
+   },
+   "fanduel": {
+    "spread": 5.5,
+    "total": 153.5
+   },
+   "lowvig": {
+    "spread": 6.0,
+    "total": 154.0
+   },
+   "williamhill_us": {
+    "spread": 6.0,
+    "total": 153.5
+   }
+  },
+  "odds_event_id": "cc4fc7b11a58f2ff7e9aa162f38a824b",
+  "t": "2026-11-14T00:59:55+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401916297",
  "home": {
