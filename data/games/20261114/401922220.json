@@ -73,7 +73,7 @@
   "pre_home_spread": -3.5,
   "qualifies": false,
   "suspect": false,
-  "t": "2026-11-14T19:53:30+00:00",
+  "t": "2026-11-14T19:59:30+00:00",
   "win_zone": false,
   "win_zone_max": 2.0
  },
@@ -785,6 +785,68 @@
    "n_events": 85,
    "odds_event_id": "315f611a3a841f575260db9d7138f5e1",
    "t": "2026-11-14T19:53:30+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "spread": -6.5,
+     "total": 145.5
+    },
+    "betrivers": {
+     "spread": -6.5,
+     "total": 147.5
+    },
+    "draftkings": {
+     "spread": -5.5,
+     "total": 146.5
+    },
+    "fanatics": {
+     "spread": -6.5,
+     "total": 146.5
+    },
+    "williamhill_us": {
+     "spread": -6.5,
+     "total": 146.5
+    }
+   },
+   "credits_left": "29812",
+   "draftkings_home_spread": -5.5,
+   "draftkings_total": 146.5,
+   "match": 1.0,
+   "n_events": 90,
+   "odds_event_id": "315f611a3a841f575260db9d7138f5e1",
+   "t": "2026-11-14T19:56:30+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "spread": -6.5,
+     "total": 145.5
+    },
+    "betrivers": {
+     "spread": -6.5,
+     "total": 147.5
+    },
+    "draftkings": {
+     "spread": -5.5,
+     "total": 146.5
+    },
+    "fanatics": {
+     "spread": -6.5,
+     "total": 146.5
+    },
+    "williamhill_us": {
+     "spread": -6.5,
+     "total": 146.5
+    }
+   },
+   "credits_left": "29810",
+   "draftkings_home_spread": -5.5,
+   "draftkings_total": 146.5,
+   "match": 1.0,
+   "n_events": 93,
+   "odds_event_id": "315f611a3a841f575260db9d7138f5e1",
+   "t": "2026-11-14T19:59:30+00:00"
   }
  ],
  "odds_ticks": [
@@ -799,6 +861,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-14T19:53:30+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "29",
+    "home": "35"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T19:56:30+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "29",
+    "home": "35"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T19:59:30+00:00"
   }
  ],
  "pregame": {

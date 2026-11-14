@@ -4,6 +4,48 @@
   "id": "2751",
   "name": "Wyoming Cowboys"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 7.5,
+    "total": 149.5
+   },
+   "betonlineag": {
+    "spread": 7.5,
+    "total": 149.5
+   },
+   "betrivers": {
+    "spread": 7.5,
+    "total": 150.5
+   },
+   "betus": {
+    "spread": 7.5,
+    "total": 150.0
+   },
+   "draftkings": {
+    "spread": 7.5,
+    "total": 150.5
+   },
+   "fanatics": {
+    "spread": 7.5,
+    "total": 150.0
+   },
+   "fanduel": {
+    "spread": 7.5,
+    "total": 149.5
+   },
+   "lowvig": {
+    "spread": 7.5,
+    "total": 149.5
+   },
+   "williamhill_us": {
+    "spread": 7.5,
+    "total": 150.0
+   }
+  },
+  "odds_event_id": "eac5014e07a9672daa591aa30d48a936",
+  "t": "2026-11-14T19:59:31+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401924921",
  "home": {
