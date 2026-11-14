@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "CHEY",
+  "id": "2129",
+  "name": "Cheyney (PA) Wolves"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261114",
+ "event_id": "401921155",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 6,
+    "3pm": 2,
+    "fg_pct": 48.28,
+    "fga": 29,
+    "fgm": 14,
+    "fta": 4,
+    "ftm": 3
+   },
+   "home": {
+    "3pa": 14,
+    "3pm": 8,
+    "fg_pct": 55.0,
+    "fga": 40,
+    "fgm": 22,
+    "fta": 15,
+    "ftm": 9
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "33",
+   "home": "61"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-14T19:53:30+00:00"
+ },
+ "halftime_first_seen": "2026-11-14T19:53:30+00:00",
+ "home": {
+  "abbr": "NCAT",
+  "id": "2448",
+  "name": "North Carolina A&T Aggies"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Gardner-Webb Bulldogs @ South Carolina Gamecocks",
+   "credits_left": "29814",
+   "events_list_match": 0.46,
+   "events_list_n": 85,
+   "match": 0.46,
+   "n_events": 85,
+   "t": "2026-11-14T19:53:30+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "33",
+    "home": "61"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T19:53:30+00:00"
+  }
+ ],
+ "start": "2026-11-14T19:00Z"
+}

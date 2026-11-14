@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "COGA",
+  "id": "3189",
+  "name": "Coastal Georgia Mariner"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261114",
+ "event_id": "401923261",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 13,
+    "3pm": 5,
+    "fg_pct": 50.0,
+    "fga": 28,
+    "fgm": 14,
+    "fta": 2,
+    "ftm": 1
+   },
+   "home": {
+    "3pa": 9,
+    "3pm": 3,
+    "fg_pct": 58.62,
+    "fga": 29,
+    "fgm": 17,
+    "fta": 14,
+    "ftm": 9
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "34",
+   "home": "46"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-14T19:53:30+00:00"
+ },
+ "halftime_first_seen": "2026-11-14T19:53:30+00:00",
+ "home": {
+  "abbr": "FAU",
+  "id": "2226",
+  "name": "Florida Atlantic Owls"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Coppin St Eagles @ South Florida Bulls",
+   "credits_left": "29814",
+   "events_list_match": 0.45,
+   "events_list_n": 85,
+   "match": 0.45,
+   "n_events": 85,
+   "t": "2026-11-14T19:53:30+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "34",
+    "home": "46"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T19:53:30+00:00"
+  }
+ ],
+ "start": "2026-11-14T19:00Z"
+}
