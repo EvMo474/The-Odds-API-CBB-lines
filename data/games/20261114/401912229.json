@@ -4,6 +4,44 @@
   "id": "2900",
   "name": "St. Thomas Tommies"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 6.5,
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": 6.0,
+    "total": 147.0
+   },
+   "betrivers": {
+    "spread": 5.5,
+    "total": 146.5
+   },
+   "draftkings": {
+    "spread": 6.5,
+    "total": 146.5
+   },
+   "fanatics": {
+    "spread": 6.0,
+    "total": 146.5
+   },
+   "fanduel": {
+    "spread": 6.5,
+    "total": 145.5
+   },
+   "lowvig": {
+    "spread": 6.0,
+    "total": 147.0
+   },
+   "williamhill_us": {
+    "spread": 6.0,
+    "total": 146.5
+   }
+  },
+  "odds_event_id": "d32b25cf545658dbec5e24d755ebb8ce",
+  "t": "2026-11-14T17:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401912229",
  "home": {
