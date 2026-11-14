@@ -4,6 +4,48 @@
   "id": "233",
   "name": "South Dakota Coyotes"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -13.5,
+    "total": 158.5
+   },
+   "betonlineag": {
+    "spread": -13.5,
+    "total": 158.5
+   },
+   "betrivers": {
+    "spread": -13.5,
+    "total": 158.5
+   },
+   "betus": {
+    "spread": -13.0,
+    "total": 158.5
+   },
+   "draftkings": {
+    "spread": -13.5,
+    "total": 158.5
+   },
+   "fanatics": {
+    "spread": -13.5,
+    "total": 159.5
+   },
+   "fanduel": {
+    "spread": -13.5,
+    "total": 158.5
+   },
+   "lowvig": {
+    "spread": -13.5,
+    "total": 158.5
+   },
+   "williamhill_us": {
+    "spread": -13.0,
+    "total": 159.0
+   }
+  },
+  "odds_event_id": "e8f581fca659627171b85fcbe82784ca",
+  "t": "2026-11-14T00:29:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401927363",
  "home": {
