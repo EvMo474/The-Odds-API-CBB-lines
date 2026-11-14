@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "CBS",
+  "id": "128256",
+  "name": "College of Biblical Studies Ambassadors"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261113",
+ "event_id": "401924953",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 9,
+    "3pm": 2,
+    "fg_pct": 46.43,
+    "fga": 28,
+    "fgm": 13,
+    "fta": 7,
+    "ftm": 3
+   },
+   "home": {
+    "3pa": 10,
+    "3pm": 7,
+    "fg_pct": 65.52,
+    "fga": 29,
+    "fgm": 19,
+    "fta": 12,
+    "ftm": 7
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "33",
+   "home": "52"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-14T01:50:54+00:00"
+ },
+ "halftime_first_seen": "2026-11-14T01:50:54+00:00",
+ "home": {
+  "abbr": "HCU",
+  "id": "2277",
+  "name": "Houston Christian Huskies"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Ohio State Buckeyes @ UConn Huskies",
+   "credits_left": "29938",
+   "events_list_match": 0.45,
+   "events_list_n": 84,
+   "match": 0.45,
+   "n_events": 84,
+   "t": "2026-11-14T01:50:55+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Ohio State Buckeyes @ UConn Huskies",
+   "credits_left": "29936",
+   "events_list_match": 0.45,
+   "events_list_n": 82,
+   "match": 0.45,
+   "n_events": 82,
+   "t": "2026-11-14T01:53:55+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "33",
+    "home": "52"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T01:50:54+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "33",
+    "home": "52"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T01:53:54+00:00"
+  }
+ ],
+ "start": "2026-11-14T01:00Z"
+}
