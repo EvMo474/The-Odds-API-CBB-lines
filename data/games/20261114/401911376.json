@@ -4,6 +4,44 @@
   "id": "2698",
   "name": "West Georgia Wolves"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 149.5
+   },
+   "betonlineag": {
+    "spread": -4.0,
+    "total": 149.0
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 148.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 149.5
+   },
+   "fanatics": {
+    "spread": -3.5,
+    "total": 149.0
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 149.5
+   },
+   "lowvig": {
+    "spread": -4.0,
+    "total": 149.0
+   },
+   "williamhill_us": {
+    "spread": -3.5,
+    "total": 149.0
+   }
+  },
+  "odds_event_id": "619bf4e7c16d9baf970b9fb253a6a02c",
+  "t": "2026-11-14T23:55:36+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401911376",
  "home": {

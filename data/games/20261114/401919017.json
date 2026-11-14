@@ -4,6 +4,48 @@
   "id": "5",
   "name": "UAB Blazers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 2.5,
+    "total": 148.5
+   },
+   "betonlineag": {
+    "spread": 2.0,
+    "total": 148.0
+   },
+   "betrivers": {
+    "spread": 1.5,
+    "total": 148.5
+   },
+   "betus": {
+    "spread": 2.5,
+    "total": 148.0
+   },
+   "draftkings": {
+    "spread": 2.5,
+    "total": 147.5
+   },
+   "fanatics": {
+    "spread": 2.0,
+    "total": 147.5
+   },
+   "fanduel": {
+    "spread": 2.5,
+    "total": 147.5
+   },
+   "lowvig": {
+    "spread": 2.0,
+    "total": 148.0
+   },
+   "williamhill_us": {
+    "spread": 2.0,
+    "total": 148.0
+   }
+  },
+  "odds_event_id": "665e8ee69f880c0aff4c376b0b64392e",
+  "t": "2026-11-14T23:55:36+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401919017",
  "home": {

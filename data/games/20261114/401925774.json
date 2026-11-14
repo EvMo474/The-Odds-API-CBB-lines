@@ -4,6 +4,44 @@
   "id": "47",
   "name": "Howard Bison"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -10.5,
+    "total": 141.5
+   },
+   "betonlineag": {
+    "spread": -10.5,
+    "total": 142.5
+   },
+   "betrivers": {
+    "spread": -10.5,
+    "total": 141.5
+   },
+   "draftkings": {
+    "spread": -10.5,
+    "total": 141.5
+   },
+   "fanatics": {
+    "spread": -10.5,
+    "total": 141.5
+   },
+   "fanduel": {
+    "spread": -10.5,
+    "total": 141.5
+   },
+   "lowvig": {
+    "spread": -10.5,
+    "total": 142.5
+   },
+   "williamhill_us": {
+    "spread": -10.5,
+    "total": 141.5
+   }
+  },
+  "odds_event_id": "4e0ceb792e0b56a12aa0feda82cd6a3b",
+  "t": "2026-11-14T23:55:36+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401925774",
  "home": {

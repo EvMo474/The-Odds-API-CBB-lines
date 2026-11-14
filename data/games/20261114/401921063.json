@@ -4,6 +4,48 @@
   "id": "2502",
   "name": "Portland State Vikings"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -8.5,
+    "total": 142.5
+   },
+   "betonlineag": {
+    "spread": -9.0,
+    "total": 143.0
+   },
+   "betrivers": {
+    "spread": -7.5,
+    "total": 142.5
+   },
+   "betus": {
+    "spread": -8.5,
+    "total": 143.0
+   },
+   "draftkings": {
+    "spread": -8.5,
+    "total": 143.5
+   },
+   "fanatics": {
+    "spread": -8.5,
+    "total": 143.0
+   },
+   "fanduel": {
+    "spread": -8.5,
+    "total": 142.5
+   },
+   "lowvig": {
+    "spread": -9.0,
+    "total": 143.0
+   },
+   "williamhill_us": {
+    "spread": -8.5,
+    "total": 143.0
+   }
+  },
+  "odds_event_id": "22ff98eb6eb495dff14bfcd9f97b8397",
+  "t": "2026-11-14T23:55:36+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401921063",
  "home": {

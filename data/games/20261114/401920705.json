@@ -4,6 +4,44 @@
   "id": "288",
   "name": "Lipscomb Bisons"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 157.5
+   },
+   "betonlineag": {
+    "spread": -4.0,
+    "total": 157.5
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 156.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 157.5
+   },
+   "fanatics": {
+    "spread": -4.0,
+    "total": 158.0
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 157.5
+   },
+   "lowvig": {
+    "spread": -4.0,
+    "total": 157.5
+   },
+   "williamhill_us": {
+    "spread": -4.0,
+    "total": 158.0
+   }
+  },
+  "odds_event_id": "c46da6a53c1f49f293220108329947f0",
+  "t": "2026-11-14T23:55:36+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401920705",
  "home": {
