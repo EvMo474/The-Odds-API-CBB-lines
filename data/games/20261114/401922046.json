@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LONG",
+  "id": "2344",
+  "name": "Longwood Lancers"
+ },
+ "date_key": "20261114",
+ "event_id": "401922046",
+ "home": {
+  "abbr": "ODU",
+  "id": "295",
+  "name": "Old Dominion Monarchs"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ODU -7.5",
+    "home_spread": -7.5,
+    "provider": "DraftKings",
+    "raw_spread": -7.5,
+    "total": 143.5
+   }
+  ],
+  "t": "2026-11-14T05:02:54+00:00"
+ },
+ "start": "2026-11-14T21:00Z"
+}

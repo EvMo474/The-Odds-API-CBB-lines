@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NJIT",
+  "id": "2885",
+  "name": "NJIT Highlanders"
+ },
+ "date_key": "20261114",
+ "event_id": "401920867",
+ "home": {
+  "abbr": "FAIR",
+  "id": "2217",
+  "name": "Fairfield Stags"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "FAIR -11.5",
+    "home_spread": -11.5,
+    "provider": "DraftKings",
+    "raw_spread": -11.5,
+    "total": 139.5
+   }
+  ],
+  "t": "2026-11-14T05:02:54+00:00"
+ },
+ "start": "2026-11-15T00:00Z"
+}

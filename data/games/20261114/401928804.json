@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "TOL",
+  "id": "2649",
+  "name": "Toledo Rockets"
+ },
+ "date_key": "20261114",
+ "event_id": "401928804",
+ "home": {
+  "abbr": "DETM",
+  "id": "2174",
+  "name": "Detroit Mercy Titans"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "TOL -9.5",
+    "home_spread": 9.5,
+    "provider": "DraftKings",
+    "raw_spread": 9.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-14T05:02:54+00:00"
+ },
+ "start": "2026-11-14T21:00Z"
+}

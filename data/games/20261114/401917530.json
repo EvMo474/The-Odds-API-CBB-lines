@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UNM",
+  "id": "167",
+  "name": "New Mexico Lobos"
+ },
+ "date_key": "20261114",
+ "event_id": "401917530",
+ "home": {
+  "abbr": "SCU",
+  "id": "2541",
+  "name": "Santa Clara Broncos"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UNM -1.5",
+    "home_spread": 1.5,
+    "provider": "DraftKings",
+    "raw_spread": 1.5,
+    "total": 166.5
+   }
+  ],
+  "t": "2026-11-14T05:02:54+00:00"
+ },
+ "start": "2026-11-15T03:00Z"
+}

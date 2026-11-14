@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NIU",
+  "id": "2459",
+  "name": "Northern Illinois Huskies"
+ },
+ "date_key": "20261114",
+ "event_id": "401920915",
+ "home": {
+  "abbr": "BELL",
+  "id": "91",
+  "name": "Bellarmine Knights"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "BELL -1.5",
+    "home_spread": -1.5,
+    "provider": "DraftKings",
+    "raw_spread": -1.5,
+    "total": 151.5
+   }
+  ],
+  "t": "2026-11-14T05:02:54+00:00"
+ },
+ "start": "2026-11-14T19:00Z"
+}

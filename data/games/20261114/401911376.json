@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "WGA",
+  "id": "2698",
+  "name": "West Georgia Wolves"
+ },
+ "date_key": "20261114",
+ "event_id": "401911376",
+ "home": {
+  "abbr": "CHSO",
+  "id": "2127",
+  "name": "Charleston Southern Buccaneers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "CHSO -3.5",
+    "home_spread": -3.5,
+    "provider": "DraftKings",
+    "raw_spread": -3.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-14T05:02:54+00:00"
+ },
+ "start": "2026-11-15T00:00Z"
+}

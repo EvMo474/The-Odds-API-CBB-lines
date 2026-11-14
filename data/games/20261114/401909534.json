@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "COLO",
+  "id": "38",
+  "name": "Colorado Buffaloes"
+ },
+ "date_key": "20261114",
+ "event_id": "401909534",
+ "home": {
+  "abbr": "PROV",
+  "id": "2507",
+  "name": "Providence Friars"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "PROV -11.5",
+    "home_spread": -11.5,
+    "provider": "DraftKings",
+    "raw_spread": -11.5,
+    "total": 156.5
+   }
+  ],
+  "t": "2026-11-14T05:02:54+00:00"
+ },
+ "start": "2026-11-14T23:00Z"
+}

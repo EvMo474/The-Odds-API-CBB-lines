@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LT",
+  "id": "2348",
+  "name": "Louisiana Tech Bulldogs"
+ },
+ "date_key": "20261114",
+ "event_id": "401925063",
+ "home": {
+  "abbr": "NICH",
+  "id": "2447",
+  "name": "Nicholls Colonels"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "NICH -2.5",
+    "home_spread": -2.5,
+    "provider": "DraftKings",
+    "raw_spread": -2.5,
+    "total": 138.5
+   }
+  ],
+  "t": "2026-11-14T05:02:54+00:00"
+ },
+ "start": "2026-11-15T01:00Z"
+}
