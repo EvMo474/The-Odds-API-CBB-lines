@@ -95,6 +95,16 @@
    "n_events": 66,
    "t": "2026-11-14T18:59:30+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Lipscomb Bisons @ Western Carolina Catamounts",
+   "credits_left": "29836",
+   "events_list_match": 0.53,
+   "events_list_n": 67,
+   "match": 0.53,
+   "n_events": 67,
+   "t": "2026-11-14T19:02:30+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -157,6 +167,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-14T18:59:30+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "57"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T19:02:30+00:00"
+  },
+  {
+   "clock": "17:07",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "34",
+    "home": "67"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-14T19:05:30+00:00"
   }
  ],
  "start": "2026-11-14T18:00Z"
