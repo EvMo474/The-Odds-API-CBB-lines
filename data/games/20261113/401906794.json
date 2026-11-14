@@ -4,6 +4,48 @@
   "id": "2752",
   "name": "Xavier Musketeers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 3.5,
+    "total": 161.5
+   },
+   "betonlineag": {
+    "spread": 4.0,
+    "total": 161.5
+   },
+   "betrivers": {
+    "spread": 4.5,
+    "total": 161.5
+   },
+   "betus": {
+    "spread": 4.0,
+    "total": 161.5
+   },
+   "draftkings": {
+    "spread": 4.5,
+    "total": 161.5
+   },
+   "fanatics": {
+    "spread": 4.0,
+    "total": 161.5
+   },
+   "fanduel": {
+    "spread": 3.5,
+    "total": 161.5
+   },
+   "lowvig": {
+    "spread": 4.0,
+    "total": 161.5
+   },
+   "williamhill_us": {
+    "spread": 4.0,
+    "total": 161.5
+   }
+  },
+  "odds_event_id": "f7bfdc59d5dfb059715f3df93db76cf4",
+  "t": "2026-11-14T01:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401906794",
  "home": {

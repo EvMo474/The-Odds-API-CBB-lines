@@ -4,6 +4,48 @@
   "id": "2050",
   "name": "Ball State Cardinals"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -22.5,
+    "total": 150.5
+   },
+   "betonlineag": {
+    "spread": -22.5,
+    "total": 150.5
+   },
+   "betrivers": {
+    "spread": -22.5,
+    "total": 150.5
+   },
+   "betus": {
+    "spread": -22.5,
+    "total": 150.5
+   },
+   "draftkings": {
+    "spread": -22.5,
+    "total": 150.5
+   },
+   "fanatics": {
+    "spread": -22.5,
+    "total": 150.5
+   },
+   "fanduel": {
+    "spread": -21.5,
+    "total": 150.5
+   },
+   "lowvig": {
+    "spread": -22.5,
+    "total": 150.5
+   },
+   "williamhill_us": {
+    "spread": -22.5,
+    "total": 150.0
+   }
+  },
+  "odds_event_id": "2f94aaacef24591bb8cd0254b3c90b97",
+  "t": "2026-11-14T01:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401911014",
  "home": {

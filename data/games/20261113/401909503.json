@@ -4,6 +4,44 @@
   "id": "305",
   "name": "DePaul Blue Demons"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -1.5,
+    "total": 137.5
+   },
+   "betonlineag": {
+    "spread": 0.0,
+    "total": 136.5
+   },
+   "betrivers": {
+    "spread": -0.5,
+    "total": 136.5
+   },
+   "betus": {
+    "spread": 0.0,
+    "total": 136.5
+   },
+   "draftkings": {
+    "spread": -1.5,
+    "total": 136.5
+   },
+   "fanatics": {
+    "spread": 1.0,
+    "total": 137.0
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 136.5
+   },
+   "lowvig": {
+    "spread": 0.0,
+    "total": 136.5
+   }
+  },
+  "odds_event_id": "57ab6a3cf14dce84806a46770fa0bc59",
+  "t": "2026-11-14T01:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401909503",
  "home": {

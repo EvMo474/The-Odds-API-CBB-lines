@@ -4,6 +4,48 @@
   "id": "24",
   "name": "Stanford Cardinal"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 152.5
+   },
+   "betonlineag": {
+    "spread": 1.0,
+    "total": 153.0
+   },
+   "betrivers": {
+    "spread": -0.5,
+    "total": 152.5
+   },
+   "betus": {
+    "spread": 1.0,
+    "total": 152.5
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 152.5
+   },
+   "fanatics": {
+    "spread": 1.0,
+    "total": 152.5
+   },
+   "fanduel": {
+    "spread": 1.5,
+    "total": 152.5
+   },
+   "lowvig": {
+    "spread": 1.0,
+    "total": 153.0
+   },
+   "williamhill_us": {
+    "spread": 0.0,
+    "total": 152.5
+   }
+  },
+  "odds_event_id": "a7588bfc726ad6da426fc78330827a7b",
+  "t": "2026-11-14T01:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401921728",
  "home": {

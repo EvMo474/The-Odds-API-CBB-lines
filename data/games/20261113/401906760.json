@@ -4,6 +4,48 @@
   "id": "2550",
   "name": "Seton Hall Pirates"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -17.5,
+    "total": 156.5
+   },
+   "betonlineag": {
+    "spread": -18.0,
+    "total": 156.5
+   },
+   "betrivers": {
+    "spread": -17.5,
+    "total": 156.5
+   },
+   "betus": {
+    "spread": -18.0,
+    "total": 156.5
+   },
+   "draftkings": {
+    "spread": -18.5,
+    "total": 156.5
+   },
+   "fanatics": {
+    "spread": -18.0,
+    "total": 156.5
+   },
+   "fanduel": {
+    "spread": -17.5,
+    "total": 156.5
+   },
+   "lowvig": {
+    "spread": -18.0,
+    "total": 156.5
+   },
+   "williamhill_us": {
+    "spread": -18.0,
+    "total": 156.5
+   }
+  },
+  "odds_event_id": "b4bbd44c8aa7ec31c09e5e719ad5f874",
+  "t": "2026-11-14T01:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401906760",
  "home": {
