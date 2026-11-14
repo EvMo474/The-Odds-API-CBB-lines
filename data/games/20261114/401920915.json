@@ -41,8 +41,8 @@
  "date_key": "20261114",
  "event_id": "401920915",
  "flag": {
-  "best_book": "fanatics",
-  "best_line": -1.5,
+  "best_book": "fanduel",
+  "best_line": -0.5,
   "bucket": "Road Fav",
   "bucket_src": "close",
   "cold": "away",
@@ -51,7 +51,7 @@
    "betrivers": 2.5,
    "draftkings": 2.5,
    "fanatics": 2.5,
-   "fanduel": 2.5
+   "fanduel": 3.5
   },
   "cold_margin_1h": -4,
   "gap": 16.8,
@@ -60,13 +60,13 @@
    "betrivers": -1.5,
    "draftkings": -1.5,
    "fanatics": -1.5,
-   "fanduel": -1.5
+   "fanduel": -0.5
   },
   "neutral": false,
   "pre_home_spread": 1.5,
   "qualifies": false,
   "suspect": false,
-  "t": "2026-11-14T19:59:30+00:00",
+  "t": "2026-11-14T20:02:31+00:00",
   "win_zone": false,
   "win_zone_max": 2.0
  },
@@ -907,6 +907,38 @@
    "n_events": 93,
    "odds_event_id": "a1cc87eeeffb39fecaa58bf0df4d6ce8",
    "t": "2026-11-14T19:59:30+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "total": 135.5
+    },
+    "betrivers": {
+     "spread": -2.5,
+     "total": 135.5
+    },
+    "draftkings": {
+     "spread": -2.5,
+     "total": 137.5
+    },
+    "fanatics": {
+     "spread": -2.5,
+     "total": 136.5
+    },
+    "fanduel": {
+     "spread": -3.5,
+     "total": 136.5
+    }
+   },
+   "credits_left": "29808",
+   "draftkings_home_spread": -2.5,
+   "draftkings_total": 137.5,
+   "fanduel_home_spread": -3.5,
+   "fanduel_total": 136.5,
+   "match": 1.0,
+   "n_events": 93,
+   "odds_event_id": "a1cc87eeeffb39fecaa58bf0df4d6ce8",
+   "t": "2026-11-14T20:02:31+00:00"
   }
  ],
  "odds_ticks": [
@@ -969,6 +1001,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-14T19:59:30+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "27",
+    "home": "31"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T20:02:30+00:00"
+  },
+  {
+   "clock": "18:14",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "32",
+    "home": "31"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-14T20:05:30+00:00"
   }
  ],
  "pregame": {
