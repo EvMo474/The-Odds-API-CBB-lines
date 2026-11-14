@@ -4,6 +4,48 @@
   "id": "2655",
   "name": "Tulane Green Wave"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -11.5,
+    "total": 155.5
+   },
+   "betonlineag": {
+    "spread": -11.5,
+    "total": 156.0
+   },
+   "betrivers": {
+    "spread": -11.5,
+    "total": 156.5
+   },
+   "betus": {
+    "spread": -12.0,
+    "total": 156.0
+   },
+   "draftkings": {
+    "spread": -11.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": -12.0,
+    "total": 155.5
+   },
+   "fanduel": {
+    "spread": -12.5,
+    "total": 155.5
+   },
+   "lowvig": {
+    "spread": -11.5,
+    "total": 156.0
+   },
+   "williamhill_us": {
+    "spread": -11.5,
+    "total": 155.5
+   }
+  },
+  "odds_event_id": "4d805b3dd5cc85c566db652de1b4ca4e",
+  "t": "2026-11-14T16:59:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401919004",
  "home": {
