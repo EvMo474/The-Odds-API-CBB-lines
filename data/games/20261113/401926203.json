@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "MBAL",
+  "id": "124942",
+  "name": "Mary Baldwin Fighting Squirrels"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261113",
+ "event_id": "401926203",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 17,
+    "3pm": 4,
+    "fg_pct": 20.0,
+    "fga": 35,
+    "fgm": 7,
+    "fta": 1,
+    "ftm": 0
+   },
+   "home": {
+    "3pa": 18,
+    "3pm": 8,
+    "fg_pct": 46.43,
+    "fga": 28,
+    "fgm": 13,
+    "fta": 6,
+    "ftm": 4
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "18",
+   "home": "38"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-14T00:47:54+00:00"
+ },
+ "halftime_first_seen": "2026-11-14T00:47:54+00:00",
+ "home": {
+  "abbr": "VMI",
+  "id": "2678",
+  "name": "VMI Keydets"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Wright St Raiders @ Samford Bulldogs",
+   "credits_left": "29980",
+   "events_list_match": 0.36,
+   "events_list_n": 86,
+   "match": 0.36,
+   "n_events": 86,
+   "t": "2026-11-14T00:47:54+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "18",
+    "home": "38"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T00:47:54+00:00"
+  }
+ ],
+ "start": "2026-11-14T00:00Z"
+}
