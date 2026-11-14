@@ -4,6 +4,48 @@
   "id": "2117",
   "name": "Central Michigan Chippewas"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 161.5
+   },
+   "betonlineag": {
+    "spread": -3.0,
+    "total": 162.0
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 162.5
+   },
+   "betus": {
+    "spread": -3.5,
+    "total": 162.0
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 161.5
+   },
+   "fanatics": {
+    "spread": -3.0,
+    "total": 162.0
+   },
+   "fanduel": {
+    "spread": -2.5,
+    "total": 161.5
+   },
+   "lowvig": {
+    "spread": -3.0,
+    "total": 162.0
+   },
+   "williamhill_us": {
+    "spread": -3.5,
+    "total": 161.5
+   }
+  },
+  "odds_event_id": "926bdb2c44827732d441da9d6ec59a3f",
+  "t": "2026-11-14T20:29:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401911016",
  "home": {
