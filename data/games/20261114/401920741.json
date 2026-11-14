@@ -4,6 +4,44 @@
   "id": "2908",
   "name": "South Carolina Upstate Spartans"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -9.5,
+    "total": 144.5
+   },
+   "betonlineag": {
+    "spread": -9.0,
+    "total": 144.5
+   },
+   "betrivers": {
+    "spread": -8.5,
+    "total": 143.5
+   },
+   "draftkings": {
+    "spread": -9.5,
+    "total": 143.5
+   },
+   "fanatics": {
+    "spread": -9.5,
+    "total": 144.0
+   },
+   "fanduel": {
+    "spread": -9.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": -9.0,
+    "total": 144.5
+   },
+   "williamhill_us": {
+    "spread": -9.0,
+    "total": 144.5
+   }
+  },
+  "odds_event_id": "4f85131b4b86a5241b2228638fb6fffb",
+  "t": "2026-11-14T21:29:30+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401920741",
  "home": {
