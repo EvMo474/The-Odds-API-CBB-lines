@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "LNCA",
+  "id": "124946",
+  "name": "Lincoln (CA) Oaklanders"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261114",
+ "event_id": "401925948",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 5,
+    "3pm": 2,
+    "fg_pct": 30.0,
+    "fga": 20,
+    "fgm": 6,
+    "fta": 4,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 10,
+    "3pm": 0,
+    "fg_pct": 44.12,
+    "fga": 34,
+    "fgm": 15,
+    "fta": 2,
+    "ftm": 2
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "18",
+   "home": "32"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-14T23:40:36+00:00"
+ },
+ "halftime_first_seen": "2026-11-14T23:40:36+00:00",
+ "home": {
+  "abbr": "WEB",
+  "id": "2692",
+  "name": "Weber State Wildcats"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Princeton Tigers @ Rhode Island Rams",
+   "credits_left": "29704",
+   "events_list_match": 0.46,
+   "events_list_n": 68,
+   "match": 0.46,
+   "n_events": 68,
+   "t": "2026-11-14T23:40:36+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Princeton Tigers @ Rhode Island Rams",
+   "credits_left": "29702",
+   "events_list_match": 0.46,
+   "events_list_n": 68,
+   "match": 0.46,
+   "n_events": 68,
+   "t": "2026-11-14T23:43:36+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "18",
+    "home": "32"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T23:40:36+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "18",
+    "home": "32"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T23:43:36+00:00"
+  }
+ ],
+ "start": "2026-11-14T23:00Z"
+}
