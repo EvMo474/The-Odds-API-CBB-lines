@@ -46,7 +46,7 @@
  "date_key": "20261113",
  "event_id": "401909503",
  "flag": {
-  "best_book": "fanatics",
+  "best_book": "betmgm",
   "best_line": 0.5,
   "bucket": "Home Fav",
   "bucket_src": "close",
@@ -56,7 +56,7 @@
    "betmgm": 4.5,
    "betrivers": 3.5,
    "draftkings": 3.5,
-   "fanatics": 4.5,
+   "fanatics": 3.5,
    "fanduel": 3.5
   },
   "cold_margin_1h": -4,
@@ -66,14 +66,14 @@
    "betmgm": 0.5,
    "betrivers": -0.5,
    "draftkings": -0.5,
-   "fanatics": 0.5,
+   "fanatics": -0.5,
    "fanduel": -0.5
   },
   "neutral": false,
   "pre_home_spread": -1.5,
   "qualifies": false,
   "suspect": false,
-  "t": "2026-11-14T02:59:54+00:00",
+  "t": "2026-11-14T03:02:54+00:00",
   "win_zone": false,
   "win_zone_max": 2.0
  },
@@ -886,6 +886,39 @@
    "n_events": 87,
    "odds_event_id": "57ab6a3cf14dce84806a46770fa0bc59",
    "t": "2026-11-14T02:59:54+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "spread": 4.5,
+     "total": 119.5
+    },
+    "betrivers": {
+     "spread": 3.5,
+     "total": 120.5
+    },
+    "draftkings": {
+     "spread": 3.5,
+     "total": 120.5
+    },
+    "fanatics": {
+     "spread": 3.5,
+     "total": 120.5
+    },
+    "fanduel": {
+     "spread": 3.5,
+     "total": 120.5
+    }
+   },
+   "credits_left": "29908",
+   "draftkings_home_spread": 3.5,
+   "draftkings_total": 120.5,
+   "fanduel_home_spread": 3.5,
+   "fanduel_total": 120.5,
+   "match": 1.0,
+   "n_events": 86,
+   "odds_event_id": "57ab6a3cf14dce84806a46770fa0bc59",
+   "t": "2026-11-14T03:02:54+00:00"
   }
  ],
  "odds_ticks": [
@@ -936,6 +969,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-14T02:59:54+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "27",
+    "home": "23"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-14T03:02:54+00:00"
+  },
+  {
+   "clock": "19:43",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "27",
+    "home": "23"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-14T03:05:54+00:00"
   }
  ],
  "pregame": {
