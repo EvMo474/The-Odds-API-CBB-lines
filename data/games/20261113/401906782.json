@@ -4,6 +4,48 @@
   "id": "61",
   "name": "Georgia Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 164.5
+   },
+   "betonlineag": {
+    "spread": -4.0,
+    "total": 164.5
+   },
+   "betrivers": {
+    "spread": -4.5,
+    "total": 163.5
+   },
+   "betus": {
+    "spread": -4.0,
+    "total": 165.0
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 164.5
+   },
+   "fanatics": {
+    "spread": -4.0,
+    "total": 164.5
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 164.5
+   },
+   "lowvig": {
+    "spread": -4.0,
+    "total": 164.5
+   },
+   "williamhill_us": {
+    "spread": -4.0,
+    "total": 164.5
+   }
+  },
+  "odds_event_id": "95b21cbf2b6a6b03515d4da03dae452e",
+  "t": "2026-11-13T23:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401906782",
  "home": {

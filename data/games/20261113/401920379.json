@@ -4,6 +4,48 @@
   "id": "116",
   "name": "Mount St. Mary's Mountaineers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -27.5,
+    "total": 147.5
+   },
+   "betonlineag": {
+    "spread": -27.0,
+    "total": 147.5
+   },
+   "betrivers": {
+    "spread": -27.5,
+    "total": 148.5
+   },
+   "betus": {
+    "spread": -27.0,
+    "total": 147.5
+   },
+   "draftkings": {
+    "spread": -27.5,
+    "total": 147.5
+   },
+   "fanatics": {
+    "spread": -27.5,
+    "total": 148.0
+   },
+   "fanduel": {
+    "spread": -27.5,
+    "total": 147.5
+   },
+   "lowvig": {
+    "spread": -27.0,
+    "total": 147.5
+   },
+   "williamhill_us": {
+    "spread": -27.5,
+    "total": 148.0
+   }
+  },
+  "odds_event_id": "27b96eee690721c9fd416cff06f8a658",
+  "t": "2026-11-13T23:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401920379",
  "home": {

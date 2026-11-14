@@ -4,6 +4,48 @@
   "id": "2634",
   "name": "Tennessee State Tigers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -27.5,
+    "total": 157.5
+   },
+   "betonlineag": {
+    "spread": -27.0,
+    "total": 157.0
+   },
+   "betrivers": {
+    "spread": -27.5,
+    "total": 158.5
+   },
+   "betus": {
+    "spread": -27.5,
+    "total": 156.5
+   },
+   "draftkings": {
+    "spread": -27.5,
+    "total": 157.5
+   },
+   "fanatics": {
+    "spread": -27.5,
+    "total": 157.0
+   },
+   "fanduel": {
+    "spread": -27.5,
+    "total": 157.5
+   },
+   "lowvig": {
+    "spread": -27.0,
+    "total": 157.0
+   },
+   "williamhill_us": {
+    "spread": -28.0,
+    "total": 157.5
+   }
+  },
+  "odds_event_id": "fd82be15da4dd502ed746a9c5f329f08",
+  "t": "2026-11-13T23:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401906850",
  "home": {

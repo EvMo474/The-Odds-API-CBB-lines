@@ -4,6 +4,48 @@
   "id": "2460",
   "name": "Northern Iowa Panthers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -27.5,
+    "total": 154.5
+   },
+   "betonlineag": {
+    "spread": -27.5,
+    "total": 154.5
+   },
+   "betrivers": {
+    "spread": -27.5,
+    "total": 154.5
+   },
+   "betus": {
+    "spread": -27.5,
+    "total": 154.5
+   },
+   "draftkings": {
+    "spread": -27.5,
+    "total": 154.5
+   },
+   "fanatics": {
+    "spread": -27.5,
+    "total": 155.0
+   },
+   "fanduel": {
+    "spread": -26.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": -27.5,
+    "total": 154.5
+   },
+   "williamhill_us": {
+    "spread": -27.0,
+    "total": 155.0
+   }
+  },
+  "odds_event_id": "d4369adb02249ce5a740751f824b5ae3",
+  "t": "2026-11-13T23:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401925755",
  "home": {

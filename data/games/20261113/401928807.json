@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "VTBO",
+  "id": "2677",
+  "name": "Viterbo V-Hawks"
+ },
+ "date_key": "20261113",
+ "event_id": "401928807",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 27,
+    "3pm": 8,
+    "fg_pct": 30.91,
+    "fga": 55,
+    "fgm": 17,
+    "fta": 5,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 33,
+    "3pm": 7,
+    "fg_pct": 37.29,
+    "fga": 59,
+    "fgm": 22,
+    "fta": 19,
+    "ftm": 15
+   }
+  },
+  "linescores": {
+   "away": [
+    "23",
+    "23"
+   ],
+   "home": [
+    "24",
+    "42"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "46",
+   "home": "66"
+  },
+  "t": "2026-11-13T23:59:54+00:00"
+ },
+ "home": {
+  "abbr": "GB",
+  "id": "2739",
+  "name": "Green Bay Phoenix"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-13T17:00Z"
+}

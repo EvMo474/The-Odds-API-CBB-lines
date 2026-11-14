@@ -4,6 +4,48 @@
   "id": "195",
   "name": "Ohio Bobcats"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -18.5,
+    "total": 149.5
+   },
+   "betonlineag": {
+    "spread": -18.5,
+    "total": 150.0
+   },
+   "betrivers": {
+    "spread": -18.5,
+    "total": 150.5
+   },
+   "betus": {
+    "spread": -18.5,
+    "total": 150.0
+   },
+   "draftkings": {
+    "spread": -18.5,
+    "total": 149.5
+   },
+   "fanatics": {
+    "spread": -18.5,
+    "total": 149.5
+   },
+   "fanduel": {
+    "spread": -18.5,
+    "total": 149.5
+   },
+   "lowvig": {
+    "spread": -18.5,
+    "total": 150.0
+   },
+   "williamhill_us": {
+    "spread": -18.5,
+    "total": 150.0
+   }
+  },
+  "odds_event_id": "b8d0687ed4d60c2e52e4152725667c70",
+  "t": "2026-11-13T23:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401926133",
  "home": {

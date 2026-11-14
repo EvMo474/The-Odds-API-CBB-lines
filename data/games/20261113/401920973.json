@@ -4,6 +4,48 @@
   "id": "236",
   "name": "Chattanooga Mocs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -2.5,
+    "total": 151.5
+   },
+   "betonlineag": {
+    "spread": -2.0,
+    "total": 150.0
+   },
+   "betrivers": {
+    "spread": -1.5,
+    "total": 151.5
+   },
+   "betus": {
+    "spread": -2.0,
+    "total": 152.0
+   },
+   "draftkings": {
+    "spread": -2.5,
+    "total": 151.5
+   },
+   "fanatics": {
+    "spread": -2.0,
+    "total": 152.0
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 151.5
+   },
+   "lowvig": {
+    "spread": -2.0,
+    "total": 150.0
+   },
+   "williamhill_us": {
+    "spread": -2.0,
+    "total": 152.0
+   }
+  },
+  "odds_event_id": "f0d6eaf1bbcd999c63015f73ca994d94",
+  "t": "2026-11-13T23:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401920973",
  "home": {

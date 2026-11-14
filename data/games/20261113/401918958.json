@@ -4,6 +4,48 @@
   "id": "2653",
   "name": "Troy Trojans"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -22.5,
+    "total": 148.5
+   },
+   "betonlineag": {
+    "spread": -22.0,
+    "total": 149.0
+   },
+   "betrivers": {
+    "spread": -22.5,
+    "total": 148.5
+   },
+   "betus": {
+    "spread": -22.0,
+    "total": 148.5
+   },
+   "draftkings": {
+    "spread": -22.5,
+    "total": 148.5
+   },
+   "fanatics": {
+    "spread": -22.5,
+    "total": 148.5
+   },
+   "fanduel": {
+    "spread": -22.5,
+    "total": 148.5
+   },
+   "lowvig": {
+    "spread": -22.0,
+    "total": 149.0
+   },
+   "williamhill_us": {
+    "spread": -22.5,
+    "total": 148.5
+   }
+  },
+  "odds_event_id": "2c5da62f6e0fc26328bb0b70cb1166d7",
+  "t": "2026-11-13T23:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401918958",
  "home": {

@@ -4,6 +4,44 @@
   "id": "2229",
   "name": "Florida International Panthers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 160.5
+   },
+   "betonlineag": {
+    "spread": -3.0,
+    "total": 160.5
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 160.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 160.5
+   },
+   "fanatics": {
+    "spread": -3.0,
+    "total": 160.5
+   },
+   "fanduel": {
+    "spread": -2.5,
+    "total": 160.5
+   },
+   "lowvig": {
+    "spread": -3.0,
+    "total": 160.5
+   },
+   "williamhill_us": {
+    "spread": -3.0,
+    "total": 160.5
+   }
+  },
+  "odds_event_id": "8cccff6700d899b19e557f4243965f3c",
+  "t": "2026-11-13T23:59:54+00:00"
+ },
  "date_key": "20261113",
  "event_id": "401922211",
  "home": {
