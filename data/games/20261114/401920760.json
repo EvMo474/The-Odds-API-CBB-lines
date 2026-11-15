@@ -4,6 +4,48 @@
   "id": "231",
   "name": "Furman Paladins"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -2.5,
+    "total": 155.5
+   },
+   "betonlineag": {
+    "spread": -2.0,
+    "total": 155.5
+   },
+   "betrivers": {
+    "spread": -2.5,
+    "total": 155.5
+   },
+   "betus": {
+    "spread": -2.5,
+    "total": 155.5
+   },
+   "draftkings": {
+    "spread": -2.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": -2.5,
+    "total": 155.5
+   },
+   "fanduel": {
+    "spread": -2.5,
+    "total": 155.5
+   },
+   "lowvig": {
+    "spread": -2.0,
+    "total": 155.5
+   },
+   "williamhill_us": {
+    "spread": -2.5,
+    "total": 155.5
+   }
+  },
+  "odds_event_id": "afa8c37fcc6dbdb66ab22576fbf84849",
+  "t": "2026-11-15T01:25:36+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401920760",
  "home": {
