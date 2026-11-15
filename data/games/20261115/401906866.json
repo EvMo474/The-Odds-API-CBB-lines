@@ -714,6 +714,26 @@
    "n_events": 39,
    "t": "2026-11-15T21:07:13+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Long Beach St 49ers @ UCLA Bruins",
+   "credits_left": "29466",
+   "events_list_match": 0.45,
+   "events_list_n": 39,
+   "match": 0.45,
+   "n_events": 39,
+   "t": "2026-11-15T21:10:13+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Long Beach St 49ers @ UCLA Bruins",
+   "credits_left": "29464",
+   "events_list_match": 0.45,
+   "events_list_n": 38,
+   "match": 0.45,
+   "n_events": 38,
+   "t": "2026-11-15T21:13:13+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -752,6 +772,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-15T21:07:13+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "36",
+    "home": "39"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-15T21:10:13+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "36",
+    "home": "39"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-15T21:13:13+00:00"
   }
  ],
  "pregame": {
