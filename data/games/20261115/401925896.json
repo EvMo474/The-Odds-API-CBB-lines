@@ -4,6 +4,44 @@
   "id": "2450",
   "name": "Norfolk State Spartans"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -11.5,
+    "total": 144.5
+   },
+   "betonlineag": {
+    "spread": -11.5,
+    "total": 142.5
+   },
+   "betrivers": {
+    "spread": -12.5,
+    "total": 143.5
+   },
+   "draftkings": {
+    "spread": -11.5,
+    "total": 143.5
+   },
+   "fanatics": {
+    "spread": -11.5,
+    "total": 144.0
+   },
+   "fanduel": {
+    "spread": -11.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": -11.5,
+    "total": 142.5
+   },
+   "williamhill_us": {
+    "spread": -12.0,
+    "total": 143.5
+   }
+  },
+  "odds_event_id": "29c07e686c26cabf4f2032b342d49bee",
+  "t": "2026-11-15T17:55:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401925896",
  "home": {

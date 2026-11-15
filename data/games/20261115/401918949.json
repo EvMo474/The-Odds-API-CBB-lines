@@ -4,6 +4,48 @@
   "id": "97",
   "name": "Louisville Cardinals"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 9.5,
+    "total": 164.5
+   },
+   "betonlineag": {
+    "spread": 10.0,
+    "total": 164.0
+   },
+   "betrivers": {
+    "spread": 9.5,
+    "total": 163.5
+   },
+   "betus": {
+    "spread": 10.0,
+    "total": 164.0
+   },
+   "draftkings": {
+    "spread": 9.5,
+    "total": 164.5
+   },
+   "fanatics": {
+    "spread": 10.0,
+    "total": 164.0
+   },
+   "fanduel": {
+    "spread": 9.5,
+    "total": 163.5
+   },
+   "lowvig": {
+    "spread": 10.0,
+    "total": 164.0
+   },
+   "williamhill_us": {
+    "spread": 10.0,
+    "total": 164.5
+   }
+  },
+  "odds_event_id": "460c23d41c84519f5edf6c04d47cb25a",
+  "t": "2026-11-15T17:55:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401918949",
  "home": {

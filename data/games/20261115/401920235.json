@@ -4,6 +4,44 @@
   "id": "159",
   "name": "Dartmouth Big Green"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 142.5
+   },
+   "betonlineag": {
+    "spread": -3.0,
+    "total": 142.5
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 142.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 142.5
+   },
+   "fanatics": {
+    "spread": -3.0,
+    "total": 142.5
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 142.5
+   },
+   "lowvig": {
+    "spread": -3.0,
+    "total": 142.5
+   },
+   "williamhill_us": {
+    "spread": -4.0,
+    "total": 142.5
+   }
+  },
+  "odds_event_id": "e49472d7e5932731d706ab032eb40f96",
+  "t": "2026-11-15T17:55:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401920235",
  "home": {

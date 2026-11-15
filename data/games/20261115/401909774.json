@@ -4,6 +4,48 @@
   "id": "315",
   "name": "Niagara Purple Eagles"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -39.5,
+    "total": 143.5
+   },
+   "betonlineag": {
+    "spread": -39.0,
+    "total": 143.5
+   },
+   "betrivers": {
+    "spread": -39.5,
+    "total": 143.5
+   },
+   "betus": {
+    "spread": -39.0,
+    "total": 143.5
+   },
+   "draftkings": {
+    "spread": -39.5,
+    "total": 143.5
+   },
+   "fanatics": {
+    "spread": -39.5,
+    "total": 143.5
+   },
+   "fanduel": {
+    "spread": -39.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": -39.0,
+    "total": 143.5
+   },
+   "williamhill_us": {
+    "spread": -39.5,
+    "total": 143.0
+   }
+  },
+  "odds_event_id": "6e7b60ce8a7b43c70fd1d56fe26c9a28",
+  "t": "2026-11-15T17:55:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401909774",
  "home": {
