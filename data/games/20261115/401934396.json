@@ -1,0 +1,43 @@
+{
+ "away": {
+  "abbr": "AF",
+  "id": "2005",
+  "name": "Air Force Falcons"
+ },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -10.5,
+    "total": 164.5
+   },
+   "draftkings": {
+    "spread": -10.5,
+    "total": 164.5
+   },
+   "fanatics": {
+    "spread": -10.5,
+    "total": 164.5
+   },
+   "fanduel": {
+    "spread": -10.5,
+    "total": 164.5
+   },
+   "williamhill_us": {
+    "spread": -10.5,
+    "total": 165.0
+   }
+  },
+  "odds_event_id": "c3c58341c48b659af034931964de5495",
+  "t": "2026-11-15T20:55:13+00:00"
+ },
+ "date_key": "20261115",
+ "event_id": "401934396",
+ "home": {
+  "abbr": "PAC",
+  "id": "279",
+  "name": "Pacific Tigers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-15T21:00Z"
+}

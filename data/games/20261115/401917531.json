@@ -4,6 +4,40 @@
   "id": "2130",
   "name": "Chicago State Cougars"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -18.5,
+    "total": 138.5
+   },
+   "betonlineag": {
+    "spread": -18.5,
+    "total": 139.0
+   },
+   "betrivers": {
+    "spread": -18.5,
+    "total": 138.5
+   },
+   "draftkings": {
+    "spread": -18.5,
+    "total": 138.5
+   },
+   "fanatics": {
+    "spread": -17.5,
+    "total": 139.0
+   },
+   "fanduel": {
+    "spread": -18.5,
+    "total": 138.5
+   },
+   "lowvig": {
+    "spread": -18.5,
+    "total": 139.0
+   }
+  },
+  "odds_event_id": "fdb915f5dada025468c3a1250fbc09bb",
+  "t": "2026-11-15T20:55:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401917531",
  "home": {
