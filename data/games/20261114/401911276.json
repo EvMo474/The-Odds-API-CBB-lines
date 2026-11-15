@@ -4,6 +4,44 @@
   "id": "2066",
   "name": "Binghamton Bearcats"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -18.5,
+    "total": 140.5
+   },
+   "betonlineag": {
+    "spread": -18.0,
+    "total": 140.0
+   },
+   "betrivers": {
+    "spread": -17.5,
+    "total": 141.5
+   },
+   "draftkings": {
+    "spread": -17.5,
+    "total": 140.5
+   },
+   "fanatics": {
+    "spread": -17.5,
+    "total": 140.5
+   },
+   "fanduel": {
+    "spread": -18.5,
+    "total": 140.5
+   },
+   "lowvig": {
+    "spread": -18.0,
+    "total": 140.0
+   },
+   "williamhill_us": {
+    "spread": -18.0,
+    "total": 140.5
+   }
+  },
+  "odds_event_id": "d5cbf37f2b89719fb252a764888448e5",
+  "t": "2026-11-15T00:25:36+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401911276",
  "home": {

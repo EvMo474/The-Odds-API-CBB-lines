@@ -4,6 +4,48 @@
   "id": "2132",
   "name": "Cincinnati Bearcats"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 5.5,
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": 6.0,
+    "total": 146.5
+   },
+   "betrivers": {
+    "spread": 6.5,
+    "total": 147.5
+   },
+   "betus": {
+    "spread": 6.0,
+    "total": 147.0
+   },
+   "draftkings": {
+    "spread": 5.5,
+    "total": 146.5
+   },
+   "fanatics": {
+    "spread": 6.5,
+    "total": 146.5
+   },
+   "fanduel": {
+    "spread": 6.5,
+    "total": 146.5
+   },
+   "lowvig": {
+    "spread": 6.0,
+    "total": 146.5
+   },
+   "williamhill_us": {
+    "spread": 6.0,
+    "total": 147.0
+   }
+  },
+  "odds_event_id": "05f71288bf4061ab1b84b383ca03fbc6",
+  "t": "2026-11-15T00:25:36+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401911188",
  "home": {

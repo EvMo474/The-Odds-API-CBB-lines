@@ -4,6 +4,40 @@
   "id": "2378",
   "name": "UMBC Retrievers"
  },
+ "closing": {
+  "books": {
+   "betonlineag": {
+    "spread": -10.5,
+    "total": 144.5
+   },
+   "betrivers": {
+    "spread": -11.5,
+    "total": 145.5
+   },
+   "draftkings": {
+    "spread": -10.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": -10.5,
+    "total": 144.5
+   },
+   "fanduel": {
+    "spread": -10.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": -10.5,
+    "total": 144.5
+   },
+   "williamhill_us": {
+    "spread": -10.5,
+    "total": 144.5
+   }
+  },
+  "odds_event_id": "203d425dc27ecafb35edfcc95e4d2c54",
+  "t": "2026-11-15T00:25:36+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401920568",
  "home": {
