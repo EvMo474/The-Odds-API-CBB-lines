@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "HPU",
+  "id": "2272",
+  "name": "High Point Panthers"
+ },
+ "date_key": "20261115",
+ "event_id": "401911251",
+ "home": {
+  "abbr": "SLU",
+  "id": "139",
+  "name": "Saint Louis Billikens"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SLU -6.5",
+    "home_spread": -6.5,
+    "provider": "DraftKings",
+    "raw_spread": -6.5,
+    "total": 164.5
+   }
+  ],
+  "t": "2026-11-15T05:01:48+00:00"
+ },
+ "start": "2026-11-15T20:00Z"
+}

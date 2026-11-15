@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ALST",
+  "id": "2011",
+  "name": "Alabama State Hornets"
+ },
+ "date_key": "20261115",
+ "event_id": "401911472",
+ "home": {
+  "abbr": "SJSU",
+  "id": "23",
+  "name": "San Jos\u00e9 State Spartans"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SJSU -12.5",
+    "home_spread": -12.5,
+    "provider": "DraftKings",
+    "raw_spread": -12.5,
+    "total": 158.5
+   }
+  ],
+  "t": "2026-11-15T05:01:48+00:00"
+ },
+ "start": "2026-11-16T02:00Z"
+}

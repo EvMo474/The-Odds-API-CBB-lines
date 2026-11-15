@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LOU",
+  "id": "97",
+  "name": "Louisville Cardinals"
+ },
+ "date_key": "20261115",
+ "event_id": "401918949",
+ "home": {
+  "abbr": "MEM",
+  "id": "235",
+  "name": "Memphis Tigers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "LOU -8.5",
+    "home_spread": 8.5,
+    "provider": "DraftKings",
+    "raw_spread": 8.5,
+    "total": 164.5
+   }
+  ],
+  "t": "2026-11-15T05:01:48+00:00"
+ },
+ "start": "2026-11-15T18:00Z"
+}

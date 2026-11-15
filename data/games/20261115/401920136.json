@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CSUB",
+  "id": "2934",
+  "name": "Cal State Bakersfield Roadrunners"
+ },
+ "date_key": "20261115",
+ "event_id": "401920136",
+ "home": {
+  "abbr": "NDSU",
+  "id": "2449",
+  "name": "North Dakota State Bison"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "NDSU -4.5",
+    "home_spread": -4.5,
+    "provider": "DraftKings",
+    "raw_spread": -4.5,
+    "total": 153.5
+   }
+  ],
+  "t": "2026-11-15T05:01:48+00:00"
+ },
+ "start": "2026-11-15T19:00Z"
+}
