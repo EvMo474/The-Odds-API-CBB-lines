@@ -4,6 +4,48 @@
   "id": "2099",
   "name": "Canisius Golden Griffins"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -13.5,
+    "total": 150.5
+   },
+   "betonlineag": {
+    "spread": -13.0,
+    "total": 150.5
+   },
+   "betrivers": {
+    "spread": -14.5,
+    "total": 149.5
+   },
+   "betus": {
+    "spread": -13.0,
+    "total": 150.5
+   },
+   "draftkings": {
+    "spread": -13.5,
+    "total": 150.5
+   },
+   "fanatics": {
+    "spread": -13.5,
+    "total": 150.5
+   },
+   "fanduel": {
+    "spread": -13.5,
+    "total": 149.5
+   },
+   "lowvig": {
+    "spread": -13.0,
+    "total": 150.5
+   },
+   "williamhill_us": {
+    "spread": -13.5,
+    "total": 150.5
+   }
+  },
+  "odds_event_id": "f8f468a5a4e424ca97009c8effa99395",
+  "t": "2026-11-15T22:25:39+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401911017",
  "home": {
