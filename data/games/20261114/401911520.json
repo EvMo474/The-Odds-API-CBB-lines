@@ -4,6 +4,48 @@
   "id": "302",
   "name": "UC Davis Aggies"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 161.5
+   },
+   "betonlineag": {
+    "spread": -4.0,
+    "total": 161.5
+   },
+   "betrivers": {
+    "spread": -2.5,
+    "total": 161.5
+   },
+   "betus": {
+    "spread": -3.5,
+    "total": 161.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 161.5
+   },
+   "fanatics": {
+    "spread": -3.5,
+    "total": 161.5
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 161.5
+   },
+   "lowvig": {
+    "spread": -4.0,
+    "total": 161.5
+   },
+   "williamhill_us": {
+    "spread": -3.5,
+    "total": 161.5
+   }
+  },
+  "odds_event_id": "15edafe6e2995177e025a19b91d5e2fe",
+  "t": "2026-11-15T00:55:36+00:00"
+ },
  "date_key": "20261114",
  "event_id": "401911520",
  "home": {
