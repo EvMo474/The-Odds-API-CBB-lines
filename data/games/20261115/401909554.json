@@ -4,6 +4,44 @@
   "id": "160",
   "name": "New Hampshire Wildcats"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -20.5,
+    "total": 131.5
+   },
+   "betonlineag": {
+    "spread": -21.0,
+    "total": 132.0
+   },
+   "betrivers": {
+    "spread": -20.5,
+    "total": 132.5
+   },
+   "draftkings": {
+    "spread": -20.5,
+    "total": 131.5
+   },
+   "fanatics": {
+    "spread": -21.5,
+    "total": 132.5
+   },
+   "fanduel": {
+    "spread": -20.5,
+    "total": 131.5
+   },
+   "lowvig": {
+    "spread": -21.0,
+    "total": 132.0
+   },
+   "williamhill_us": {
+    "spread": -21.0,
+    "total": 132.0
+   }
+  },
+  "odds_event_id": "7bd8e4044302f52d0233d1a4f9b0cc19",
+  "t": "2026-11-15T18:25:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401909554",
  "home": {
