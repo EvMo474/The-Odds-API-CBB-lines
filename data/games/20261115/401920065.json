@@ -4,6 +4,48 @@
   "id": "163",
   "name": "Princeton Tigers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -7.5,
+    "total": 138.5
+   },
+   "betonlineag": {
+    "spread": -7.0,
+    "total": 138.0
+   },
+   "betrivers": {
+    "spread": -7.5,
+    "total": 137.5
+   },
+   "betus": {
+    "spread": -7.0,
+    "total": 138.0
+   },
+   "draftkings": {
+    "spread": -7.5,
+    "total": 138.5
+   },
+   "fanatics": {
+    "spread": -7.5,
+    "total": 138.5
+   },
+   "fanduel": {
+    "spread": -7.5,
+    "total": 138.5
+   },
+   "lowvig": {
+    "spread": -7.0,
+    "total": 138.0
+   },
+   "williamhill_us": {
+    "spread": -7.0,
+    "total": 138.5
+   }
+  },
+  "odds_event_id": "53f1d7d718a5681b4061402ea95b2cec",
+  "t": "2026-11-15T18:55:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401920065",
  "home": {

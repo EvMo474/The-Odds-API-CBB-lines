@@ -4,6 +4,44 @@
   "id": "399",
   "name": "UAlbany Great Danes"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "betonlineag": {
+    "spread": 2.5,
+    "total": 144.5
+   },
+   "betrivers": {
+    "spread": 3.5,
+    "total": 144.5
+   },
+   "draftkings": {
+    "spread": 2.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": 3.0,
+    "total": 144.5
+   },
+   "fanduel": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "lowvig": {
+    "spread": 2.5,
+    "total": 144.5
+   },
+   "williamhill_us": {
+    "spread": 3.0,
+    "total": 144.5
+   }
+  },
+  "odds_event_id": "d6c14f3934e52f439aa1020e487e61e9",
+  "t": "2026-11-15T18:55:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401921287",
  "home": {

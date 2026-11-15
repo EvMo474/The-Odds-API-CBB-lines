@@ -4,6 +4,48 @@
   "id": "2729",
   "name": "William & Mary Tribe"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -26.5,
+    "total": 169.5
+   },
+   "betonlineag": {
+    "spread": -26.5,
+    "total": 169.5
+   },
+   "betrivers": {
+    "spread": -26.5,
+    "total": 168.5
+   },
+   "betus": {
+    "spread": -26.5,
+    "total": 169.5
+   },
+   "draftkings": {
+    "spread": -26.5,
+    "total": 169.5
+   },
+   "fanatics": {
+    "spread": -26.5,
+    "total": 169.0
+   },
+   "fanduel": {
+    "spread": -26.5,
+    "total": 169.5
+   },
+   "lowvig": {
+    "spread": -26.5,
+    "total": 169.5
+   },
+   "williamhill_us": {
+    "spread": -26.5,
+    "total": 169.5
+   }
+  },
+  "odds_event_id": "f8912bd0c3c303a795510b502cc81dfa",
+  "t": "2026-11-15T18:55:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401918453",
  "home": {

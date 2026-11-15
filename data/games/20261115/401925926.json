@@ -4,6 +4,44 @@
   "id": "2569",
   "name": "South Carolina State Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -19.5,
+    "total": 161.5
+   },
+   "betonlineag": {
+    "spread": -19.5,
+    "total": 160.0
+   },
+   "betrivers": {
+    "spread": -19.5,
+    "total": 161.5
+   },
+   "draftkings": {
+    "spread": -19.5,
+    "total": 160.5
+   },
+   "fanatics": {
+    "spread": -19.0,
+    "total": 160.0
+   },
+   "fanduel": {
+    "spread": -19.5,
+    "total": 160.5
+   },
+   "lowvig": {
+    "spread": -19.5,
+    "total": 160.0
+   },
+   "williamhill_us": {
+    "spread": -19.5,
+    "total": 160.5
+   }
+  },
+  "odds_event_id": "66df731c5f17068a2aa084c7d1683254",
+  "t": "2026-11-15T18:55:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401925926",
  "home": {
