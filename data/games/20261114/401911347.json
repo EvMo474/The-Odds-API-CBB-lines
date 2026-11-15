@@ -59,7 +59,7 @@
   "cold_full_spread_by_book": {
    "betmgm": 29.5,
    "betrivers": 28.5,
-   "draftkings": 30.5,
+   "draftkings": 29.5,
    "fanatics": 29.5,
    "fanduel": 29.5,
    "williamhill_us": 30.5
@@ -70,7 +70,7 @@
   "lines_2h": {
    "betmgm": 12.5,
    "betrivers": 11.5,
-   "draftkings": 13.5,
+   "draftkings": 12.5,
    "fanatics": 12.5,
    "fanduel": 12.5,
    "williamhill_us": 13.5
@@ -79,7 +79,7 @@
   "pre_home_spread": -31.5,
   "qualifies": true,
   "suspect": false,
-  "t": "2026-11-15T02:01:36+00:00",
+  "t": "2026-11-15T02:04:36+00:00",
   "win_zone": false,
   "win_zone_max": 2.0
  },
@@ -860,6 +860,43 @@
    "n_events": 59,
    "odds_event_id": "07df49d2214375c44c9336962971cf6e",
    "t": "2026-11-15T02:01:36+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "spread": -29.5,
+     "total": 153.5
+    },
+    "betrivers": {
+     "spread": -28.5,
+     "total": 152.5
+    },
+    "draftkings": {
+     "spread": -29.5,
+     "total": 152.5
+    },
+    "fanatics": {
+     "spread": -29.5,
+     "total": 153.5
+    },
+    "fanduel": {
+     "spread": -29.5,
+     "total": 152.5
+    },
+    "williamhill_us": {
+     "spread": -30.5,
+     "total": 153.5
+    }
+   },
+   "credits_left": "29620",
+   "draftkings_home_spread": -29.5,
+   "draftkings_total": 152.5,
+   "fanduel_home_spread": -29.5,
+   "fanduel_total": 152.5,
+   "match": 0.95,
+   "n_events": 59,
+   "odds_event_id": "07df49d2214375c44c9336962971cf6e",
+   "t": "2026-11-15T02:04:36+00:00"
   }
  ],
  "odds_ticks": [
@@ -910,6 +947,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-15T02:01:36+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "43"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-15T02:04:36+00:00"
+  },
+  {
+   "clock": "19:49",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "26",
+    "home": "43"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-15T02:07:36+00:00"
   }
  ],
  "pregame": {
