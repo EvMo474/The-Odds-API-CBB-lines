@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "CAPU",
+  "id": "424",
+  "name": "Capital Crusaders"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261115",
+ "event_id": "401928825",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 14,
+    "3pm": 4,
+    "fg_pct": 29.63,
+    "fga": 27,
+    "fgm": 8,
+    "fta": 10,
+    "ftm": 6
+   },
+   "home": {
+    "3pa": 9,
+    "3pm": 3,
+    "fg_pct": 60.0,
+    "fga": 25,
+    "fgm": 15,
+    "fta": 9,
+    "ftm": 6
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "26",
+   "home": "39"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-15T19:49:13+00:00"
+ },
+ "halftime_first_seen": "2026-11-15T19:49:13+00:00",
+ "home": {
+  "abbr": "RMU",
+  "id": "2523",
+  "name": "Robert Morris Colonials"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Central Arkansas Bears @ Oklahoma St Cowboys",
+   "credits_left": "29514",
+   "events_list_match": 0.45,
+   "events_list_n": 48,
+   "match": 0.45,
+   "n_events": 48,
+   "t": "2026-11-15T19:49:13+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "39"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-15T19:49:13+00:00"
+  }
+ ],
+ "start": "2026-11-15T19:00Z"
+}
