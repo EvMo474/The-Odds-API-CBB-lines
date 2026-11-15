@@ -4,6 +4,48 @@
   "id": "156",
   "name": "Creighton Bluejays"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": -4.0,
+    "total": 146.5
+   },
+   "betrivers": {
+    "spread": -4.5,
+    "total": 146.5
+   },
+   "betus": {
+    "spread": -4.0,
+    "total": 146.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 146.5
+   },
+   "fanatics": {
+    "spread": -4.0,
+    "total": 146.5
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "lowvig": {
+    "spread": -4.0,
+    "total": 146.5
+   },
+   "williamhill_us": {
+    "spread": -4.0,
+    "total": 146.5
+   }
+  },
+  "odds_event_id": "3ab5a8599cd00fad06d1d7f8c1fd0fb2",
+  "t": "2026-11-15T19:55:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401909493",
  "home": {

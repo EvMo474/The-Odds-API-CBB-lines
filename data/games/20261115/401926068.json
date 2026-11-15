@@ -4,6 +4,44 @@
   "id": "2870",
   "name": "Purdue Fort Wayne Mastodons"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 3.5,
+    "total": 144.5
+   },
+   "betonlineag": {
+    "spread": 3.0,
+    "total": 144.5
+   },
+   "betrivers": {
+    "spread": 3.5,
+    "total": 143.5
+   },
+   "betus": {
+    "spread": 3.5,
+    "total": 144.5
+   },
+   "draftkings": {
+    "spread": 3.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": 3.5,
+    "total": 144.0
+   },
+   "fanduel": {
+    "spread": 3.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": 3.0,
+    "total": 144.5
+   }
+  },
+  "odds_event_id": "d7a912b4db90df3d2c89b5a01a257e63",
+  "t": "2026-11-15T19:55:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401926068",
  "home": {

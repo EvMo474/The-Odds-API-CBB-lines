@@ -4,6 +4,44 @@
   "id": "2272",
   "name": "High Point Panthers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -7.5,
+    "total": 164.5
+   },
+   "betonlineag": {
+    "spread": -7.0,
+    "total": 164.5
+   },
+   "betrivers": {
+    "spread": -7.5,
+    "total": 165.5
+   },
+   "draftkings": {
+    "spread": -7.5,
+    "total": 164.5
+   },
+   "fanatics": {
+    "spread": -7.5,
+    "total": 164.5
+   },
+   "fanduel": {
+    "spread": -6.5,
+    "total": 164.5
+   },
+   "lowvig": {
+    "spread": -7.0,
+    "total": 164.5
+   },
+   "williamhill_us": {
+    "spread": -7.0,
+    "total": 164.5
+   }
+  },
+  "odds_event_id": "28059682f0c9cbb4179d66fd772d537f",
+  "t": "2026-11-15T19:55:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401911251",
  "home": {
