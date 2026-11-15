@@ -8,10 +8,10 @@
   "books": {
    "betmgm": {
     "spread": -15.5,
-    "total": 144.5
+    "total": 143.5
    },
    "betonlineag": {
-    "spread": -15.5,
+    "spread": -16.0,
     "total": 144.0
    },
    "betrivers": {
@@ -35,7 +35,7 @@
     "total": 144.5
    },
    "lowvig": {
-    "spread": -15.5,
+    "spread": -16.0,
     "total": 144.0
    },
    "williamhill_us": {
@@ -44,7 +44,7 @@
    }
   },
   "odds_event_id": "57c1c361f582c6043b1f59baa3de3b08",
-  "t": "2026-11-15T20:55:13+00:00"
+  "t": "2026-11-15T21:01:13+00:00"
  },
  "date_key": "20261115",
  "event_id": "401917528",
