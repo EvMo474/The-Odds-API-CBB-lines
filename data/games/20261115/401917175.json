@@ -4,6 +4,44 @@
   "id": "2441",
   "name": "New Haven Chargers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -23.5,
+    "total": 142.5
+   },
+   "betonlineag": {
+    "spread": -23.5,
+    "total": 143.5
+   },
+   "betrivers": {
+    "spread": -23.5,
+    "total": 141.5
+   },
+   "draftkings": {
+    "spread": -23.5,
+    "total": 141.5
+   },
+   "fanatics": {
+    "spread": -23.5,
+    "total": 142.5
+   },
+   "fanduel": {
+    "spread": -23.5,
+    "total": 142.5
+   },
+   "lowvig": {
+    "spread": -23.5,
+    "total": 143.5
+   },
+   "williamhill_us": {
+    "spread": -23.5,
+    "total": 141.5
+   }
+  },
+  "odds_event_id": "f154a8a07a9fdf4cee296812d8a6b9cd",
+  "t": "2026-11-15T21:25:13+00:00"
+ },
  "date_key": "20261115",
  "event_id": "401917175",
  "home": {
