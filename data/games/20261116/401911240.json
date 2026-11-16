@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "RICH",
+  "id": "257",
+  "name": "Richmond Spiders"
+ },
+ "date_key": "20261116",
+ "event_id": "401911240",
+ "home": {
+  "abbr": "VT",
+  "id": "259",
+  "name": "Virginia Tech Hokies"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VT -12.5",
+    "home_spread": -12.5,
+    "provider": "Draft Kings",
+    "raw_spread": -12.5,
+    "total": 154.5
+   }
+  ],
+  "t": "2026-11-16T05:00:06+00:00"
+ },
+ "start": "2026-11-17T00:00Z"
+}

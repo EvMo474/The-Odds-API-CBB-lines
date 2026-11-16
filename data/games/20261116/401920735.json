@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "COLU",
+  "id": "171",
+  "name": "Columbia Lions"
+ },
+ "date_key": "20261116",
+ "event_id": "401920735",
+ "home": {
+  "abbr": "NU",
+  "id": "77",
+  "name": "Northwestern Wildcats"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "NU -12.5",
+    "home_spread": -12.5,
+    "provider": "Draft Kings",
+    "raw_spread": -12.5,
+    "total": 140.5
+   }
+  ],
+  "t": "2026-11-16T05:00:06+00:00"
+ },
+ "start": "2026-11-17T01:00Z"
+}

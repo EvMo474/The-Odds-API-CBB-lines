@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LBSU",
+  "id": "299",
+  "name": "Long Beach State Beach"
+ },
+ "date_key": "20261116",
+ "event_id": "401924265",
+ "home": {
+  "abbr": "UCLA",
+  "id": "26",
+  "name": "UCLA Bruins"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UCLA -34.5",
+    "home_spread": -34.5,
+    "provider": "Draft Kings",
+    "raw_spread": -34.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-16T05:00:06+00:00"
+ },
+ "start": "2026-11-17T03:00Z"
+}

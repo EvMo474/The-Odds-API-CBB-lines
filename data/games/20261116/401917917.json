@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CARK",
+  "id": "2110",
+  "name": "Central Arkansas Bears"
+ },
+ "date_key": "20261116",
+ "event_id": "401917917",
+ "home": {
+  "abbr": "OKST",
+  "id": "197",
+  "name": "Oklahoma State Cowboys"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "OKST -21.5",
+    "home_spread": -21.5,
+    "provider": "Draft Kings",
+    "raw_spread": -21.5,
+    "total": 160.5
+   }
+  ],
+  "t": "2026-11-16T05:00:06+00:00"
+ },
+ "start": "2026-11-17T01:00Z"
+}
