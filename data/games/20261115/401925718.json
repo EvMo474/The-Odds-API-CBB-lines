@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "STLM",
+  "id": "2948",
+  "name": "Stillman Tigers"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261115",
+ "event_id": "401925718",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 11,
+    "3pm": 3,
+    "fg_pct": 33.33,
+    "fga": 33,
+    "fgm": 11,
+    "fta": 4,
+    "ftm": 2
+   },
+   "home": {
+    "3pa": 13,
+    "3pm": 6,
+    "fg_pct": 51.61,
+    "fga": 31,
+    "fgm": 16,
+    "fta": 8,
+    "ftm": 4
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "27",
+   "home": "42"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-16T01:49:39+00:00"
+ },
+ "halftime_first_seen": "2026-11-16T01:49:39+00:00",
+ "home": {
+  "abbr": "BCU",
+  "id": "2065",
+  "name": "Bethune-Cookman Wildcats"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Grambling St Tigers @ Kentucky Wildcats",
+   "credits_left": "29368",
+   "events_list_match": 0.61,
+   "events_list_n": 28,
+   "match": 0.61,
+   "n_events": 28,
+   "t": "2026-11-16T01:49:39+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "27",
+    "home": "42"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-16T01:49:39+00:00"
+  }
+ ],
+ "start": "2026-11-16T01:00Z"
+}
