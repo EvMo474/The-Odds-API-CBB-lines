@@ -4,6 +4,44 @@
   "id": "2710",
   "name": "Western Illinois Leathernecks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -33.5,
+    "total": 135.5
+   },
+   "betonlineag": {
+    "spread": -33.5,
+    "total": 136.0
+   },
+   "betrivers": {
+    "spread": -33.5,
+    "total": 136.5
+   },
+   "betus": {
+    "spread": -33.5,
+    "total": 136.0
+   },
+   "draftkings": {
+    "spread": -33.5,
+    "total": 135.5
+   },
+   "fanatics": {
+    "spread": -33.5,
+    "total": 135.5
+   },
+   "fanduel": {
+    "spread": -33.5,
+    "total": 135.5
+   },
+   "lowvig": {
+    "spread": -33.5,
+    "total": 136.0
+   }
+  },
+  "odds_event_id": "d7b58d2eb9be75440fd207564bb76381",
+  "t": "2026-11-17T00:55:25+00:00"
+ },
  "date_key": "20261116",
  "event_id": "401916307",
  "home": {

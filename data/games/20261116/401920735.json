@@ -4,6 +4,44 @@
   "id": "171",
   "name": "Columbia Lions"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -11.5,
+    "total": 139.5
+   },
+   "betonlineag": {
+    "spread": -12.0,
+    "total": 140.0
+   },
+   "betrivers": {
+    "spread": -11.5,
+    "total": 139.5
+   },
+   "betus": {
+    "spread": -12.0,
+    "total": 139.5
+   },
+   "draftkings": {
+    "spread": -12.5,
+    "total": 139.5
+   },
+   "fanatics": {
+    "spread": -12.0,
+    "total": 139.5
+   },
+   "fanduel": {
+    "spread": -11.5,
+    "total": 140.5
+   },
+   "lowvig": {
+    "spread": -12.0,
+    "total": 140.0
+   }
+  },
+  "odds_event_id": "037d59d2f185430c4ee7b3ec96f4e39e",
+  "t": "2026-11-17T00:55:25+00:00"
+ },
  "date_key": "20261116",
  "event_id": "401920735",
  "home": {
