@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SEA",
+  "id": "2547",
+  "name": "Seattle U Redhawks"
+ },
+ "date_key": "20261117",
+ "event_id": "401917533",
+ "home": {
+  "abbr": "CBU",
+  "id": "2856",
+  "name": "California Baptist Lancers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SEA -9.5",
+    "home_spread": 9.5,
+    "provider": "DraftKings",
+    "raw_spread": 9.5,
+    "total": 135.5
+   }
+  ],
+  "t": "2026-11-17T05:01:24+00:00"
+ },
+ "start": "2026-11-18T03:00Z"
+}

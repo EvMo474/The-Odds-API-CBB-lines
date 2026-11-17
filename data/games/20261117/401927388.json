@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LIN",
+  "id": "2815",
+  "name": "Lindenwood Lions"
+ },
+ "date_key": "20261117",
+ "event_id": "401927388",
+ "home": {
+  "abbr": "UNI",
+  "id": "2460",
+  "name": "Northern Iowa Panthers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UNI -12.5",
+    "home_spread": -12.5,
+    "provider": "DraftKings",
+    "raw_spread": -12.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-17T05:01:24+00:00"
+ },
+ "start": "2026-11-18T01:00Z"
+}

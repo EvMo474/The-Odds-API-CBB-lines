@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LIP",
+  "id": "288",
+  "name": "Lipscomb Bisons"
+ },
+ "date_key": "20261117",
+ "event_id": "401920706",
+ "home": {
+  "abbr": "PUR",
+  "id": "2509",
+  "name": "Purdue Boilermakers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "PUR -19.5",
+    "home_spread": -19.5,
+    "provider": "DraftKings",
+    "raw_spread": -19.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-17T05:01:24+00:00"
+ },
+ "start": "2026-11-17T23:30Z"
+}
