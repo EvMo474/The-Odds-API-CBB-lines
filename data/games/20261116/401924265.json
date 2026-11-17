@@ -4,6 +4,47 @@
   "id": "299",
   "name": "Long Beach State Beach"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -30.5
+   },
+   "betonlineag": {
+    "spread": -30.0,
+    "total": 145.0
+   },
+   "betrivers": {
+    "spread": -30.5,
+    "total": 145.5
+   },
+   "betus": {
+    "spread": -30.0,
+    "total": 145.0
+   },
+   "draftkings": {
+    "spread": -30.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": -30.0,
+    "total": 144.5
+   },
+   "fanduel": {
+    "spread": -29.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": -30.0,
+    "total": 145.0
+   },
+   "williamhill_us": {
+    "spread": -30.5,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "3180dabd245219f81ad4e9e46f08c970",
+  "t": "2026-11-17T02:55:24+00:00"
+ },
  "date_key": "20261116",
  "event_id": "401924265",
  "home": {
