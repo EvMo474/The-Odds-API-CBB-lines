@@ -179,6 +179,28 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-17T01:01:24+00:00"
+  },
+  {
+   "clock": "18:51",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "26",
+    "home": "39"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-17T01:04:24+00:00"
+  },
+  {
+   "clock": "17:04",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "26",
+    "home": "41"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-17T01:07:24+00:00"
   }
  ],
  "start": "2026-11-17T00:00Z"

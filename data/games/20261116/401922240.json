@@ -85,6 +85,16 @@
    "n_events": 64,
    "t": "2026-11-17T01:01:24+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "SE Louisiana Lions @ Texas A&M Aggies",
+   "credits_left": "29308",
+   "events_list_match": 0.5,
+   "events_list_n": 64,
+   "match": 0.5,
+   "n_events": 64,
+   "t": "2026-11-17T01:04:24+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -135,6 +145,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-17T01:01:24+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "27",
+    "home": "40"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-17T01:04:24+00:00"
+  },
+  {
+   "clock": "19:13",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "27",
+    "home": "44"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-17T01:07:24+00:00"
   }
  ],
  "start": "2026-11-17T00:00Z"
