@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "FC",
+  "id": "366",
+  "name": "Ferrum Panthers"
+ },
+ "date_key": "20261116",
+ "event_id": "401911211",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 11,
+    "3pm": 3,
+    "fg_pct": 32.69,
+    "fga": 52,
+    "fgm": 17,
+    "fta": 30,
+    "ftm": 20
+   },
+   "home": {
+    "3pa": 36,
+    "3pm": 13,
+    "fg_pct": 54.55,
+    "fga": 66,
+    "fgm": 36,
+    "fta": 16,
+    "ftm": 9
+   }
+  },
+  "linescores": {
+   "away": [
+    "26",
+    "31"
+   ],
+   "home": [
+    "42",
+    "52"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "57",
+   "home": "94"
+  },
+  "t": "2026-11-17T00:07:25+00:00"
+ },
+ "home": {
+  "abbr": "GW",
+  "id": "45",
+  "name": "George Washington Revolutionaries"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-16T17:00Z"
+}
