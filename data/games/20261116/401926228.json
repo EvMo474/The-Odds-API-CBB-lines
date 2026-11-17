@@ -85,6 +85,26 @@
    "n_events": 58,
    "t": "2026-11-17T03:55:24+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Michigan St Spartans @ Tennessee Volunteers",
+   "credits_left": "29226",
+   "events_list_match": 0.44,
+   "events_list_n": 58,
+   "match": 0.44,
+   "n_events": 58,
+   "t": "2026-11-17T03:58:24+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Michigan St Spartans @ Tennessee Volunteers",
+   "credits_left": "29224",
+   "events_list_match": 0.44,
+   "events_list_n": 58,
+   "match": 0.44,
+   "n_events": 58,
+   "t": "2026-11-17T04:01:24+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -135,6 +155,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-17T03:55:24+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "34",
+    "home": "50"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-17T03:58:24+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "34",
+    "home": "50"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-17T04:01:24+00:00"
   }
  ],
  "start": "2026-11-17T03:00Z"
