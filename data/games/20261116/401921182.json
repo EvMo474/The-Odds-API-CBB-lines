@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "DSLU",
+  "id": "111949",
+  "name": "DeSales Bulldogs"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261116",
+ "event_id": "401921182",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 13,
+    "3pm": 0,
+    "fg_pct": 34.48,
+    "fga": 29,
+    "fgm": 10,
+    "fta": 2,
+    "ftm": 2
+   },
+   "home": {
+    "3pa": 17,
+    "3pm": 5,
+    "fg_pct": 41.67,
+    "fga": 36,
+    "fgm": 15,
+    "fta": 8,
+    "ftm": 2
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "22",
+   "home": "37"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-17T00:46:24+00:00"
+ },
+ "halftime_first_seen": "2026-11-17T00:46:24+00:00",
+ "home": {
+  "abbr": "PENN",
+  "id": "219",
+  "name": "Pennsylvania Quakers"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "The Citadel Bulldogs @ Clemson Tigers",
+   "credits_left": "29320",
+   "events_list_match": 0.51,
+   "events_list_n": 64,
+   "match": 0.51,
+   "n_events": 64,
+   "t": "2026-11-17T00:46:25+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "The Citadel Bulldogs @ Clemson Tigers",
+   "credits_left": "29318",
+   "events_list_match": 0.51,
+   "events_list_n": 64,
+   "match": 0.51,
+   "n_events": 64,
+   "t": "2026-11-17T00:49:24+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "22",
+    "home": "37"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-17T00:46:24+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "22",
+    "home": "37"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-17T00:49:24+00:00"
+  }
+ ],
+ "start": "2026-11-17T00:00Z"
+}
