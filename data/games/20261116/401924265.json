@@ -7,7 +7,8 @@
  "closing": {
   "books": {
    "betmgm": {
-    "spread": -30.5
+    "spread": -30.5,
+    "total": 144.5
    },
    "betonlineag": {
     "spread": -30.0,
@@ -39,11 +40,11 @@
    },
    "williamhill_us": {
     "spread": -30.5,
-    "total": 145.5
+    "total": 144.5
    }
   },
   "odds_event_id": "3180dabd245219f81ad4e9e46f08c970",
-  "t": "2026-11-17T02:55:24+00:00"
+  "t": "2026-11-17T03:01:24+00:00"
  },
  "date_key": "20261116",
  "event_id": "401924265",
