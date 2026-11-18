@@ -4,6 +4,48 @@
   "id": "2447",
   "name": "Nicholls Colonels"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -27.5,
+    "total": 142.5
+   },
+   "betonlineag": {
+    "spread": -26.5,
+    "total": 142.5
+   },
+   "betrivers": {
+    "spread": -27.5,
+    "total": 142.5
+   },
+   "circasports": {
+    "spread": -27.0,
+    "total": 142.5
+   },
+   "draftkings": {
+    "spread": -27.5,
+    "total": 142.5
+   },
+   "fanatics": {
+    "spread": -27.5,
+    "total": 142.5
+   },
+   "fanduel": {
+    "spread": -27.5,
+    "total": 142.5
+   },
+   "lowvig": {
+    "spread": -26.5,
+    "total": 142.5
+   },
+   "williamhill_us": {
+    "spread": -27.5,
+    "total": 142.5
+   }
+  },
+  "odds_event_id": "ddb1e091501449395eb13e294efdc595",
+  "t": "2026-11-18T01:25:52+00:00"
+ },
  "date_key": "20261117",
  "event_id": "401925064",
  "home": {

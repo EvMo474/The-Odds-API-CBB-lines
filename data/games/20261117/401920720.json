@@ -4,6 +4,52 @@
   "id": "331",
   "name": "Eastern Washington Eagles"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -13.5,
+    "total": 145.5
+   },
+   "betonlineag": {
+    "spread": -13.0,
+    "total": 145.5
+   },
+   "betrivers": {
+    "spread": -12.5,
+    "total": 144.5
+   },
+   "betus": {
+    "spread": -13.0,
+    "total": 146.0
+   },
+   "circasports": {
+    "spread": -13.0,
+    "total": 146.0
+   },
+   "draftkings": {
+    "spread": -12.5,
+    "total": 145.5
+   },
+   "fanatics": {
+    "spread": -13.5,
+    "total": 146.0
+   },
+   "fanduel": {
+    "spread": -12.5,
+    "total": 145.5
+   },
+   "lowvig": {
+    "spread": -13.0,
+    "total": 145.5
+   },
+   "williamhill_us": {
+    "spread": -13.0,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "ea9b9bf9131650d8502e7f35600230f1",
+  "t": "2026-11-18T01:25:52+00:00"
+ },
  "date_key": "20261117",
  "event_id": "401920720",
  "home": {
