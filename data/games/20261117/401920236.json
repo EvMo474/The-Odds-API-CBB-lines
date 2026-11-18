@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "UMA",
+  "id": "126890",
+  "name": "Maine Augusta Moose"
+ },
+ "break_via": "STATUS_IN_PROGRESS",
+ "date_key": "20261117",
+ "event_id": "401920236",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 12,
+    "3pm": 2,
+    "fg_pct": 31.25,
+    "fga": 32,
+    "fgm": 10,
+    "fta": 8,
+    "ftm": 5
+   },
+   "home": {
+    "3pa": 20,
+    "3pm": 7,
+    "fg_pct": 57.14,
+    "fga": 35,
+    "fgm": 20,
+    "fta": 18,
+    "ftm": 13
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "27",
+   "home": "60"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-18T00:25:51+00:00"
+ },
+ "halftime_first_seen": "2026-11-18T00:25:51+00:00",
+ "home": {
+  "abbr": "DART",
+  "id": "159",
+  "name": "Dartmouth Big Green"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Marist Red Foxes @ Army Knights",
+   "credits_left": "29206",
+   "events_list_match": 0.42,
+   "events_list_n": 81,
+   "match": 0.42,
+   "n_events": 81,
+   "t": "2026-11-18T00:25:51+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "27",
+    "home": "60"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-18T00:25:51+00:00"
+  }
+ ],
+ "start": "2026-11-17T23:30Z"
+}
