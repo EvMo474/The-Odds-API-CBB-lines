@@ -20,7 +20,7 @@
    },
    "betus": {
     "spread": -13.5,
-    "total": 154.5
+    "total": 153.5
    },
    "circasports": {
     "spread": -13.5,
@@ -44,11 +44,11 @@
    },
    "williamhill_us": {
     "spread": -13.5,
-    "total": 154.0
+    "total": 154.5
    }
   },
   "odds_event_id": "f1b87f5055c345501b45a893f6866c00",
-  "t": "2026-11-18T00:55:52+00:00"
+  "t": "2026-11-18T01:01:52+00:00"
  },
  "date_key": "20261117",
  "event_id": "401927388",
