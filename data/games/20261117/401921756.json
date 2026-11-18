@@ -7,6 +7,44 @@
  "break_via": "STATUS_HALFTIME",
  "date_key": "20261117",
  "event_id": "401921756",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 15,
+    "3pm": 6,
+    "fg_pct": 47.17,
+    "fga": 53,
+    "fgm": 25,
+    "fta": 41,
+    "ftm": 30
+   },
+   "home": {
+    "3pa": 13,
+    "3pm": 3,
+    "fg_pct": 42.31,
+    "fga": 52,
+    "fgm": 22,
+    "fta": 43,
+    "ftm": 36
+   }
+  },
+  "linescores": {
+   "away": [
+    "37",
+    "49"
+   ],
+   "home": [
+    "42",
+    "41"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "86",
+   "home": "83"
+  },
+  "t": "2026-11-18T02:40:51+00:00"
+ },
  "flag": {
   "best_book": "betmgm",
   "best_line": 1.5,
