@@ -85,6 +85,26 @@
    "n_events": 81,
    "t": "2026-11-18T00:43:52+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Oakland Golden Grizzlies @ Arizona St Sun Devils",
+   "credits_left": "29192",
+   "events_list_match": 0.46,
+   "events_list_n": 81,
+   "match": 0.46,
+   "n_events": 81,
+   "t": "2026-11-18T00:46:51+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Oakland Golden Grizzlies @ Arizona St Sun Devils",
+   "credits_left": "29190",
+   "events_list_match": 0.46,
+   "events_list_n": 81,
+   "match": 0.46,
+   "n_events": 81,
+   "t": "2026-11-18T00:49:51+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -135,6 +155,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-18T00:43:51+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "23",
+    "home": "55"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-18T00:46:51+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "23",
+    "home": "55"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-18T00:49:51+00:00"
   }
  ],
  "start": "2026-11-18T00:00Z"
