@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "LCHR",
+  "id": "2347",
+  "name": "Louisiana Christian Wildcats"
+ },
+ "date_key": "20261117",
+ "event_id": "401928360",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 24,
+    "3pm": 9,
+    "fg_pct": 45.24,
+    "fga": 42,
+    "fgm": 19,
+    "fta": 18,
+    "ftm": 11
+   },
+   "home": {
+    "3pa": 19,
+    "3pm": 6,
+    "fg_pct": 58.73,
+    "fga": 63,
+    "fgm": 37,
+    "fta": 26,
+    "ftm": 20
+   }
+  },
+  "linescores": {
+   "away": [
+    "32",
+    "26"
+   ],
+   "home": [
+    "54",
+    "46"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "58",
+   "home": "100"
+  },
+  "t": "2026-11-18T00:13:52+00:00"
+ },
+ "home": {
+  "abbr": "SOU",
+  "id": "2582",
+  "name": "Southern Jaguars"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-17T17:00Z"
+}
