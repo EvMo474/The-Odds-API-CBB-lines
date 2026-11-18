@@ -7,6 +7,44 @@
  "break_via": "STATUS_HALFTIME",
  "date_key": "20261117",
  "event_id": "401909729",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 16,
+    "3pm": 8,
+    "fg_pct": 47.27,
+    "fga": 55,
+    "fgm": 26,
+    "fta": 21,
+    "ftm": 16
+   },
+   "home": {
+    "3pa": 12,
+    "3pm": 2,
+    "fg_pct": 45.61,
+    "fga": 57,
+    "fgm": 26,
+    "fta": 37,
+    "ftm": 27
+   }
+  },
+  "linescores": {
+   "away": [
+    "33",
+    "43"
+   ],
+   "home": [
+    "37",
+    "44"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "76",
+   "home": "81"
+  },
+  "t": "2026-11-18T02:19:51+00:00"
+ },
  "flag": {
   "best_book": "draftkings",
   "best_line": -7.5,
@@ -1256,6 +1294,17 @@
    },
    "status": "STATUS_IN_PROGRESS",
    "t": "2026-11-18T02:13:51+00:00"
+  },
+  {
+   "clock": "0:04",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "76",
+    "home": "79"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-18T02:16:51+00:00"
   }
  ],
  "pregame": {
