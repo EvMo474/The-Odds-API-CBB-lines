@@ -4,6 +4,52 @@
   "id": "295",
   "name": "Old Dominion Monarchs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -26.5,
+    "total": 145.5
+   },
+   "betonlineag": {
+    "spread": -26.0,
+    "total": 144.5
+   },
+   "betrivers": {
+    "spread": -26.5,
+    "total": 145.5
+   },
+   "betus": {
+    "spread": -26.0,
+    "total": 145.0
+   },
+   "circasports": {
+    "spread": -26.0,
+    "total": 144.5
+   },
+   "draftkings": {
+    "spread": -26.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": -26.0,
+    "total": 144.5
+   },
+   "fanduel": {
+    "spread": -25.5,
+    "total": 145.5
+   },
+   "lowvig": {
+    "spread": -26.0,
+    "total": 144.5
+   },
+   "williamhill_us": {
+    "spread": -26.0,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "b041e7809fd4d00f42cea09d7973ff0f",
+  "t": "2026-11-18T01:55:52+00:00"
+ },
  "date_key": "20261117",
  "event_id": "401920426",
  "home": {
