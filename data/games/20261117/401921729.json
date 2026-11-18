@@ -4,6 +4,52 @@
   "id": "300",
   "name": "UC Irvine Anteaters"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -6.5,
+    "total": 142.5
+   },
+   "betonlineag": {
+    "spread": -6.0,
+    "total": 142.0
+   },
+   "betrivers": {
+    "spread": -6.5,
+    "total": 142.5
+   },
+   "betus": {
+    "spread": -6.5,
+    "total": 142.0
+   },
+   "circasports": {
+    "spread": -6.5,
+    "total": 142.0
+   },
+   "draftkings": {
+    "spread": -6.5,
+    "total": 141.5
+   },
+   "fanatics": {
+    "spread": -6.5,
+    "total": 141.5
+   },
+   "fanduel": {
+    "spread": -6.5,
+    "total": 142.5
+   },
+   "lowvig": {
+    "spread": -6.0,
+    "total": 142.0
+   },
+   "williamhill_us": {
+    "spread": -6.0,
+    "total": 142.0
+   }
+  },
+  "odds_event_id": "e6fc3d1d4dfbd6b227ae2a4d1cbf6351",
+  "t": "2026-11-18T02:55:52+00:00"
+ },
  "date_key": "20261117",
  "event_id": "401921729",
  "home": {
