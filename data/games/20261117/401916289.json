@@ -694,6 +694,26 @@
    "n_events": 78,
    "t": "2026-11-18T01:25:52+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Fordham Rams @ Manhattan Jaspers",
+   "credits_left": "29164",
+   "events_list_match": 0.4,
+   "events_list_n": 78,
+   "match": 0.4,
+   "n_events": 78,
+   "t": "2026-11-18T01:28:51+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Fordham Rams @ Manhattan Jaspers",
+   "credits_left": "29162",
+   "events_list_match": 0.4,
+   "events_list_n": 78,
+   "match": 0.4,
+   "n_events": 78,
+   "t": "2026-11-18T01:31:52+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -708,6 +728,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-18T01:25:51+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "34",
+    "home": "36"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-18T01:28:51+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "34",
+    "home": "36"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-18T01:31:51+00:00"
   }
  ],
  "pregame": {
