@@ -4,6 +4,52 @@
   "id": "2393",
   "name": "Middle Tennessee Blue Raiders"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 155.5
+   },
+   "betonlineag": {
+    "spread": 2.0,
+    "total": 155.5
+   },
+   "betrivers": {
+    "spread": 2.5,
+    "total": 156.5
+   },
+   "betus": {
+    "spread": 2.0,
+    "total": 155.5
+   },
+   "circasports": {
+    "spread": 1.5,
+    "total": 157.0
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": 1.5,
+    "total": 155.5
+   },
+   "fanduel": {
+    "spread": 2.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": 2.0,
+    "total": 155.5
+   },
+   "williamhill_us": {
+    "spread": 2.0,
+    "total": 155.5
+   }
+  },
+  "odds_event_id": "53e1f9b0793855a7036d7c480c5c5aa3",
+  "t": "2026-11-18T00:55:52+00:00"
+ },
  "date_key": "20261117",
  "event_id": "401921027",
  "home": {

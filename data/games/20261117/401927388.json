@@ -4,6 +4,52 @@
   "id": "2815",
   "name": "Lindenwood Lions"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -13.5,
+    "total": 153.5
+   },
+   "betonlineag": {
+    "spread": -13.5,
+    "total": 152.5
+   },
+   "betrivers": {
+    "spread": -13.5,
+    "total": 154.5
+   },
+   "betus": {
+    "spread": -13.5,
+    "total": 154.5
+   },
+   "circasports": {
+    "spread": -13.5,
+    "total": 154.0
+   },
+   "draftkings": {
+    "spread": -13.5,
+    "total": 153.5
+   },
+   "fanatics": {
+    "spread": -13.5,
+    "total": 154.0
+   },
+   "fanduel": {
+    "spread": -12.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": -13.5,
+    "total": 152.5
+   },
+   "williamhill_us": {
+    "spread": -13.5,
+    "total": 154.0
+   }
+  },
+  "odds_event_id": "f1b87f5055c345501b45a893f6866c00",
+  "t": "2026-11-18T00:55:52+00:00"
+ },
  "date_key": "20261117",
  "event_id": "401927388",
  "home": {

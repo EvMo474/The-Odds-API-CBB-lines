@@ -4,6 +4,52 @@
   "id": "198",
   "name": "Oral Roberts Golden Eagles"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -22.5,
+    "total": 156.5
+   },
+   "betonlineag": {
+    "spread": -22.5,
+    "total": 156.0
+   },
+   "betrivers": {
+    "spread": -22.5,
+    "total": 155.5
+   },
+   "betus": {
+    "spread": -22.5,
+    "total": 156.0
+   },
+   "circasports": {
+    "spread": -22.5,
+    "total": 156.0
+   },
+   "draftkings": {
+    "spread": -22.5,
+    "total": 156.5
+   },
+   "fanatics": {
+    "spread": -22.5,
+    "total": 156.0
+   },
+   "fanduel": {
+    "spread": -21.5,
+    "total": 155.5
+   },
+   "lowvig": {
+    "spread": -22.5,
+    "total": 156.0
+   },
+   "williamhill_us": {
+    "spread": -22.5,
+    "total": 156.5
+   }
+  },
+  "odds_event_id": "27053ab77b65c239990d626417fbeaea",
+  "t": "2026-11-18T00:55:52+00:00"
+ },
  "date_key": "20261117",
  "event_id": "401918970",
  "home": {
