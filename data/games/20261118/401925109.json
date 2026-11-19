@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "CBS",
+  "id": "128256",
+  "name": "College of Biblical Studies Ambassadors"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261118",
+ "event_id": "401925109",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 6,
+    "3pm": 2,
+    "fg_pct": 38.1,
+    "fga": 21,
+    "fgm": 8,
+    "fta": 2,
+    "ftm": 2
+   },
+   "home": {
+    "3pa": 18,
+    "3pm": 3,
+    "fg_pct": 45.45,
+    "fga": 44,
+    "fgm": 20,
+    "fta": 5,
+    "ftm": 3
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "20",
+   "home": "46"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-19T01:15:34+00:00"
+ },
+ "halftime_first_seen": "2026-11-19T01:15:34+00:00",
+ "home": {
+  "abbr": "RGV",
+  "id": "292",
+  "name": "UT Rio Grande Valley Vaqueros"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Fort Wayne Mastodons @ Bradley Braves",
+   "credits_left": "29070",
+   "events_list_match": 0.39,
+   "events_list_n": 75,
+   "match": 0.39,
+   "n_events": 75,
+   "t": "2026-11-19T01:15:34+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "20",
+    "home": "46"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-19T01:15:34+00:00"
+  }
+ ],
+ "start": "2026-11-19T00:30Z"
+}
