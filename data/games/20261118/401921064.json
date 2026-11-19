@@ -4,6 +4,52 @@
   "id": "309",
   "name": "Louisiana Ragin' Cajuns"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -10.5,
+    "total": 133.5
+   },
+   "betonlineag": {
+    "spread": -10.5,
+    "total": 134.0
+   },
+   "betrivers": {
+    "spread": -10.5,
+    "total": 133.5
+   },
+   "betus": {
+    "spread": -10.5,
+    "total": 134.0
+   },
+   "circasports": {
+    "spread": -10.5,
+    "total": 133.0
+   },
+   "draftkings": {
+    "spread": -10.5,
+    "total": 133.5
+   },
+   "fanatics": {
+    "spread": -10.5,
+    "total": 134.0
+   },
+   "fanduel": {
+    "spread": -10.5,
+    "total": 133.5
+   },
+   "lowvig": {
+    "spread": -10.5,
+    "total": 134.0
+   },
+   "williamhill_us": {
+    "spread": -10.5,
+    "total": 133.5
+   }
+  },
+  "odds_event_id": "dbefa3975d810f789b5ad29c9c9e140a",
+  "t": "2026-11-19T02:57:34+00:00"
+ },
  "date_key": "20261118",
  "event_id": "401921064",
  "home": {

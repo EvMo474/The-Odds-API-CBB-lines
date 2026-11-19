@@ -4,6 +4,52 @@
   "id": "70",
   "name": "Idaho Vandals"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -18.5,
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": -18.5,
+    "total": 146.5
+   },
+   "betrivers": {
+    "spread": -18.5,
+    "total": 145.5
+   },
+   "betus": {
+    "spread": -18.5,
+    "total": 147.0
+   },
+   "circasports": {
+    "spread": -18.5,
+    "total": 147.0
+   },
+   "draftkings": {
+    "spread": -18.5,
+    "total": 146.5
+   },
+   "fanatics": {
+    "spread": -18.5,
+    "total": 147.0
+   },
+   "fanduel": {
+    "spread": -18.5,
+    "total": 146.5
+   },
+   "lowvig": {
+    "spread": -18.5,
+    "total": 146.5
+   },
+   "williamhill_us": {
+    "spread": -18.5,
+    "total": 147.0
+   }
+  },
+  "odds_event_id": "da0659a81b6c52abe99dc5e07b1434a8",
+  "t": "2026-11-19T02:57:34+00:00"
+ },
  "date_key": "20261118",
  "event_id": "401911456",
  "home": {
