@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "UTIC",
+  "id": "390",
+  "name": "Utica Pioneers"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261118",
+ "event_id": "401920772",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 12,
+    "3pm": 1,
+    "fg_pct": 19.35,
+    "fga": 31,
+    "fgm": 6,
+    "fta": 7,
+    "ftm": 3
+   },
+   "home": {
+    "3pa": 18,
+    "3pm": 9,
+    "fg_pct": 52.5,
+    "fga": 40,
+    "fgm": 21,
+    "fta": 5,
+    "ftm": 5
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "16",
+   "home": "56"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-19T00:39:34+00:00"
+ },
+ "halftime_first_seen": "2026-11-19T00:39:34+00:00",
+ "home": {
+  "abbr": "COLG",
+  "id": "2142",
+  "name": "Colgate Raiders"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "LSU Tigers @ Texas Tech Red Raiders",
+   "credits_left": "29094",
+   "events_list_match": 0.52,
+   "events_list_n": 76,
+   "match": 0.52,
+   "n_events": 76,
+   "t": "2026-11-19T00:39:34+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "16",
+    "home": "56"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-19T00:39:34+00:00"
+  }
+ ],
+ "start": "2026-11-19T00:00Z"
+}
