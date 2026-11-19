@@ -16,15 +16,15 @@
    },
    "betrivers": {
     "spread": -9.5,
-    "total": 157.5
+    "total": 156.5
    },
    "betus": {
     "spread": -9.5,
     "total": 157.0
    },
    "circasports": {
-    "spread": -9.5,
-    "total": 156.0
+    "spread": -10.0,
+    "total": 155.5
    },
    "draftkings": {
     "spread": -9.5,
@@ -43,12 +43,12 @@
     "total": 157.0
    },
    "williamhill_us": {
-    "spread": -9.5,
-    "total": 156.5
+    "spread": -11.5,
+    "total": 155.5
    }
   },
   "odds_event_id": "b86b3fdea018ce4da96e2f720e3a5842",
-  "t": "2026-11-19T03:27:34+00:00"
+  "t": "2026-11-19T03:30:34+00:00"
  },
  "date_key": "20261118",
  "event_id": "401920516",
