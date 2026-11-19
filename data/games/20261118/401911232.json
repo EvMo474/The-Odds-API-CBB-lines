@@ -24,7 +24,7 @@
    },
    "circasports": {
     "spread": 1.0,
-    "total": 151.0
+    "total": 150.5
    },
    "draftkings": {
     "spread": 1.5,
@@ -44,7 +44,7 @@
    }
   },
   "odds_event_id": "6144d8ef7328faadb4d152a96f8740ba",
-  "t": "2026-11-19T00:57:35+00:00"
+  "t": "2026-11-19T01:00:39+00:00"
  },
  "date_key": "20261118",
  "event_id": "401911232",

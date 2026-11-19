@@ -35,7 +35,7 @@
   "pre_home_spread": null,
   "qualifies": false,
   "suspect": false,
-  "t": "2026-11-19T00:57:35+00:00",
+  "t": "2026-11-19T01:03:35+00:00",
   "win_zone": false,
   "win_zone_max": 2.0
  },
@@ -725,6 +725,72 @@
    "n_events": 75,
    "odds_event_id": "f01d24c5ed66f5adf7bb2e2a7760e9c8",
    "t": "2026-11-19T00:57:35+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "spread": -15.5,
+     "total": 134.5
+    },
+    "betrivers": {
+     "spread": -15.5,
+     "total": 133.5
+    },
+    "draftkings": {
+     "spread": -14.5,
+     "total": 133.5
+    },
+    "fanatics": {
+     "spread": -14.5,
+     "total": 134.5
+    },
+    "fanduel": {
+     "spread": -14.5,
+     "total": 133.5
+    }
+   },
+   "credits_left": "29080",
+   "draftkings_home_spread": -14.5,
+   "draftkings_total": 133.5,
+   "fanduel_home_spread": -14.5,
+   "fanduel_total": 133.5,
+   "match": 0.96,
+   "n_events": 75,
+   "odds_event_id": "f01d24c5ed66f5adf7bb2e2a7760e9c8",
+   "t": "2026-11-19T01:00:39+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "spread": -15.5,
+     "total": 134.5
+    },
+    "betrivers": {
+     "spread": -15.5,
+     "total": 133.5
+    },
+    "draftkings": {
+     "spread": -14.5,
+     "total": 133.5
+    },
+    "fanatics": {
+     "spread": -14.5,
+     "total": 134.5
+    },
+    "fanduel": {
+     "spread": -14.5,
+     "total": 133.5
+    }
+   },
+   "credits_left": "29078",
+   "draftkings_home_spread": -14.5,
+   "draftkings_total": 133.5,
+   "fanduel_home_spread": -14.5,
+   "fanduel_total": 133.5,
+   "match": 0.96,
+   "n_events": 75,
+   "odds_event_id": "f01d24c5ed66f5adf7bb2e2a7760e9c8",
+   "t": "2026-11-19T01:03:35+00:00"
   }
  ],
  "odds_ticks": [
@@ -739,6 +805,30 @@
    },
    "status": "STATUS_IN_PROGRESS",
    "t": "2026-11-19T00:57:34+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "30",
+    "home": "33"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-19T01:00:34+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "30",
+    "home": "33"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-19T01:03:34+00:00"
   }
  ],
  "start": "2026-11-19T00:00Z"
