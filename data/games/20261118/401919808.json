@@ -714,6 +714,26 @@
    "n_events": 75,
    "t": "2026-11-19T01:03:34+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "UNC Wilmington Seahawks @ LIU Sharks",
+   "credits_left": "29076",
+   "events_list_match": 0.76,
+   "events_list_n": 75,
+   "match": 0.76,
+   "n_events": 75,
+   "t": "2026-11-19T01:06:34+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "UNC Wilmington Seahawks @ LIU Sharks",
+   "credits_left": "29074",
+   "events_list_match": 0.76,
+   "events_list_n": 75,
+   "match": 0.76,
+   "n_events": 75,
+   "t": "2026-11-19T01:09:34+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -752,6 +772,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-19T01:03:34+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "48",
+    "home": "51"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-19T01:06:34+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "48",
+    "home": "51"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-19T01:09:34+00:00"
   }
  ],
  "start": "2026-11-19T00:00Z"
