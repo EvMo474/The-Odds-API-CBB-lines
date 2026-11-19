@@ -4,6 +4,52 @@
   "id": "2433",
   "name": "UL Monroe Warhawks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -37.5,
+    "total": 159.5
+   },
+   "betonlineag": {
+    "spread": -37.0,
+    "total": 159.5
+   },
+   "betrivers": {
+    "spread": -38.5,
+    "total": 159.5
+   },
+   "betus": {
+    "spread": -37.0,
+    "total": 160.5
+   },
+   "circasports": {
+    "spread": -37.5,
+    "total": 161.0
+   },
+   "draftkings": {
+    "spread": -37.5,
+    "total": 159.5
+   },
+   "fanatics": {
+    "spread": -37.5,
+    "total": 159.5
+   },
+   "fanduel": {
+    "spread": -37.5,
+    "total": 159.5
+   },
+   "lowvig": {
+    "spread": -37.0,
+    "total": 159.5
+   },
+   "williamhill_us": {
+    "spread": -37.5,
+    "total": 159.5
+   }
+  },
+  "odds_event_id": "03c1c51ea60287cbe17ce32bef17cc5f",
+  "t": "2026-11-19T00:57:35+00:00"
+ },
  "date_key": "20261118",
  "event_id": "401917982",
  "home": {

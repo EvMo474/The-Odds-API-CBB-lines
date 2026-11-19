@@ -4,6 +4,52 @@
   "id": "172",
   "name": "Cornell Big Red"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -18.5,
+    "total": 155.5
+   },
+   "betonlineag": {
+    "spread": -18.5,
+    "total": 155.5
+   },
+   "betrivers": {
+    "spread": -19.5,
+    "total": 155.5
+   },
+   "betus": {
+    "spread": -19.0,
+    "total": 155.5
+   },
+   "circasports": {
+    "spread": -19.0,
+    "total": 155.5
+   },
+   "draftkings": {
+    "spread": -18.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": -18.5,
+    "total": 155.5
+   },
+   "fanduel": {
+    "spread": -18.5,
+    "total": 155.5
+   },
+   "lowvig": {
+    "spread": -18.5,
+    "total": 155.5
+   },
+   "williamhill_us": {
+    "spread": -18.5,
+    "total": 155.5
+   }
+  },
+  "odds_event_id": "775c3580dd1c3bee5cf5d488c6b7d09f",
+  "t": "2026-11-19T00:57:35+00:00"
+ },
  "date_key": "20261118",
  "event_id": "401924721",
  "home": {

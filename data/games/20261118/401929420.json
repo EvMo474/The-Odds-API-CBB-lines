@@ -4,6 +4,47 @@
   "id": "50",
   "name": "Florida A&M Rattlers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "total": 148.5
+   },
+   "betonlineag": {
+    "spread": -17.0,
+    "total": 148.5
+   },
+   "betrivers": {
+    "spread": -17.5,
+    "total": 148.5
+   },
+   "circasports": {
+    "spread": -17.5,
+    "total": 148.5
+   },
+   "draftkings": {
+    "spread": -17.5,
+    "total": 148.5
+   },
+   "fanatics": {
+    "spread": -17.5,
+    "total": 148.5
+   },
+   "fanduel": {
+    "spread": -17.5,
+    "total": 148.5
+   },
+   "lowvig": {
+    "spread": -17.0,
+    "total": 148.5
+   },
+   "williamhill_us": {
+    "spread": -17.0,
+    "total": 148.5
+   }
+  },
+  "odds_event_id": "c9d6c86cc70b0ff1c34ab46d27686e4c",
+  "t": "2026-11-19T00:57:35+00:00"
+ },
  "date_key": "20261118",
  "event_id": "401929420",
  "home": {
