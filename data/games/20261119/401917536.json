@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "VCU",
+  "id": "2670",
+  "name": "VCU Rams"
+ },
+ "date_key": "20261119",
+ "event_id": "401917536",
+ "home": {
+  "abbr": "SCU",
+  "id": "2541",
+  "name": "Santa Clara Broncos"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "",
+    "home_spread": null,
+    "provider": "Draft Kings",
+    "raw_spread": null,
+    "total": 164.5
+   }
+  ],
+  "t": "2026-11-19T05:00:34+00:00"
+ },
+ "start": "2026-11-20T03:30Z"
+}

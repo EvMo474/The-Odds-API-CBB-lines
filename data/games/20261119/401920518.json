@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "HOU",
+  "id": "248",
+  "name": "Houston Cougars"
+ },
+ "date_key": "20261119",
+ "event_id": "401920518",
+ "home": {
+  "abbr": "KU",
+  "id": "2305",
+  "name": "Kansas Jayhawks"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "HOU -2.5",
+    "home_spread": 2.5,
+    "provider": "Draft Kings",
+    "raw_spread": 2.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-19T05:00:34+00:00"
+ },
+ "start": "2026-11-20T04:00Z"
+}

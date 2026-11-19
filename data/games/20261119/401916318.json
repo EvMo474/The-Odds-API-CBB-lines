@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UMBC",
+  "id": "2378",
+  "name": "UMBC Retrievers"
+ },
+ "date_key": "20261119",
+ "event_id": "401916318",
+ "home": {
+  "abbr": "OSU",
+  "id": "194",
+  "name": "Ohio State Buckeyes"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "OSU -32.5",
+    "home_spread": -32.5,
+    "provider": "Draft Kings",
+    "raw_spread": -32.5,
+    "total": 158.5
+   }
+  ],
+  "t": "2026-11-19T05:00:34+00:00"
+ },
+ "start": "2026-11-20T00:00Z"
+}
