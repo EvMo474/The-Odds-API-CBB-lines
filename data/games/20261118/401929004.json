@@ -714,6 +714,26 @@
    "n_events": 43,
    "t": "2026-11-19T03:57:34+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Charleston Cougars @ Drake Bulldogs",
+   "credits_left": "28976",
+   "events_list_match": 0.44,
+   "events_list_n": 43,
+   "match": 0.44,
+   "n_events": 43,
+   "t": "2026-11-19T04:00:34+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Charleston Cougars @ Drake Bulldogs",
+   "credits_left": "28974",
+   "events_list_match": 0.44,
+   "events_list_n": 43,
+   "match": 0.44,
+   "n_events": 43,
+   "t": "2026-11-19T04:03:34+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -752,6 +772,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-19T03:57:34+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "30",
+    "home": "26"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-19T04:00:34+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "30",
+    "home": "26"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-19T04:03:34+00:00"
   }
  ],
  "pregame": {
