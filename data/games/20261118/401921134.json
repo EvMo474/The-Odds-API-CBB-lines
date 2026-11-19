@@ -4,6 +4,32 @@
   "id": "2443",
   "name": "LSU New Orleans Privateers"
  },
+ "closing": {
+  "books": {
+   "betrivers": {
+    "spread": -36.5,
+    "total": 157.5
+   },
+   "draftkings": {
+    "spread": -36.5,
+    "total": 157.5
+   },
+   "fanatics": {
+    "spread": -36.0,
+    "total": 157.5
+   },
+   "fanduel": {
+    "spread": -36.5,
+    "total": 157.5
+   },
+   "williamhill_us": {
+    "spread": -37.0,
+    "total": 157.5
+   }
+  },
+  "odds_event_id": "777b5470c240c35ca5ca5f73695acc16",
+  "t": "2026-11-19T00:27:34+00:00"
+ },
  "date_key": "20261118",
  "event_id": "401921134",
  "home": {

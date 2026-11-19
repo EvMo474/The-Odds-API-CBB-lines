@@ -4,6 +4,52 @@
   "id": "2305",
   "name": "Kansas Jayhawks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 6.5,
+    "total": 150.5
+   },
+   "betonlineag": {
+    "spread": 6.5,
+    "total": 150.5
+   },
+   "betrivers": {
+    "spread": 7.5,
+    "total": 150.5
+   },
+   "betus": {
+    "spread": 6.5,
+    "total": 151.0
+   },
+   "circasports": {
+    "spread": 7.0,
+    "total": 151.0
+   },
+   "draftkings": {
+    "spread": 6.5,
+    "total": 150.5
+   },
+   "fanatics": {
+    "spread": 7.0,
+    "total": 150.5
+   },
+   "fanduel": {
+    "spread": 6.5,
+    "total": 150.5
+   },
+   "lowvig": {
+    "spread": 6.5,
+    "total": 150.5
+   },
+   "williamhill_us": {
+    "spread": 6.5,
+    "total": 150.5
+   }
+  },
+  "odds_event_id": "c36425b5ec4189fc1acd91902c721bf2",
+  "t": "2026-11-19T00:27:34+00:00"
+ },
  "date_key": "20261118",
  "event_id": "401920515",
  "home": {
