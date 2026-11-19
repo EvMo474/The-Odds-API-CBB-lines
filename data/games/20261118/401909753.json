@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "JKST",
+  "id": "2296",
+  "name": "Jackson State Tigers"
+ },
+ "date_key": "20261118",
+ "event_id": "401909753",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 24,
+    "3pm": 5,
+    "fg_pct": 41.82,
+    "fga": 55,
+    "fgm": 23,
+    "fta": 10,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 32,
+    "3pm": 14,
+    "fg_pct": 57.58,
+    "fga": 66,
+    "fgm": 38,
+    "fta": 18,
+    "ftm": 14
+   }
+  },
+  "linescores": {
+   "away": [
+    "19",
+    "36"
+   ],
+   "home": [
+    "60",
+    "44"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "55",
+   "home": "104"
+  },
+  "t": "2026-11-19T00:15:36+00:00"
+ },
+ "home": {
+  "abbr": "BAY",
+  "id": "239",
+  "name": "Baylor Bears"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-18T17:00Z"
+}

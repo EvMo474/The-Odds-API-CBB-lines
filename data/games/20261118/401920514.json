@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "HOU",
+  "id": "248",
+  "name": "Houston Cougars"
+ },
+ "date_key": "20261118",
+ "event_id": "401920514",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 9,
+    "3pm": 3,
+    "fg_pct": 49.15,
+    "fga": 59,
+    "fgm": 29,
+    "fta": 27,
+    "ftm": 25
+   },
+   "home": {
+    "3pa": 26,
+    "3pm": 15,
+    "fg_pct": 50.0,
+    "fga": 54,
+    "fgm": 27,
+    "fta": 9,
+    "ftm": 7
+   }
+  },
+  "linescores": {
+   "away": [
+    "37",
+    "49"
+   ],
+   "home": [
+    "40",
+    "36"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "86",
+   "home": "76"
+  },
+  "t": "2026-11-19T00:15:36+00:00"
+ },
+ "home": {
+  "abbr": "FLA",
+  "id": "57",
+  "name": "Florida Gators"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "start": "2026-11-18T21:48Z"
+}

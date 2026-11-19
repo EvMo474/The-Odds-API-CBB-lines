@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UNCG",
+  "id": "2430",
+  "name": "UNC Greensboro Spartans"
+ },
+ "date_key": "20261118",
+ "event_id": "401911393",
+ "home": {
+  "abbr": "GWEB",
+  "id": "2241",
+  "name": "Gardner-Webb Runnin' Bulldogs"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UNCG -2.5",
+    "home_spread": 2.5,
+    "provider": "Draft Kings",
+    "raw_spread": 2.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-19T00:15:36+00:00"
+ },
+ "start": "2026-11-19T01:00Z"
+}

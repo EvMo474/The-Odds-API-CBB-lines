@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CSUF",
+  "id": "2239",
+  "name": "Cal State Fullerton Titans"
+ },
+ "date_key": "20261118",
+ "event_id": "401920158",
+ "home": {
+  "abbr": "UCLA",
+  "id": "26",
+  "name": "UCLA Bruins"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UCLA -31.5",
+    "home_spread": -31.5,
+    "provider": "Draft Kings",
+    "raw_spread": -31.5,
+    "total": 166.5
+   }
+  ],
+  "t": "2026-11-19T00:15:36+00:00"
+ },
+ "start": "2026-11-19T03:30Z"
+}

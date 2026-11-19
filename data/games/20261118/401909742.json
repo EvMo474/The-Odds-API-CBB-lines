@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CONN",
+  "id": "41",
+  "name": "UConn Huskies"
+ },
+ "date_key": "20261118",
+ "event_id": "401909742",
+ "home": {
+  "abbr": "ARIZ",
+  "id": "12",
+  "name": "Arizona Wildcats"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ARIZ -3.5",
+    "home_spread": -3.5,
+    "provider": "Draft Kings",
+    "raw_spread": -3.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-19T00:15:36+00:00"
+ },
+ "start": "2026-11-19T02:00Z"
+}

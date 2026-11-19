@@ -1,0 +1,57 @@
+{
+ "away": {
+  "abbr": "RUTG",
+  "id": "164",
+  "name": "Rutgers Scarlet Knights"
+ },
+ "date_key": "20261118",
+ "event_id": "401920513",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 19,
+    "3pm": 8,
+    "fg_pct": 53.62,
+    "fga": 69,
+    "fgm": 37,
+    "fta": 24,
+    "ftm": 18
+   },
+   "home": {
+    "3pa": 23,
+    "3pm": 11,
+    "fg_pct": 64.52,
+    "fga": 62,
+    "fgm": 40,
+    "fta": 27,
+    "ftm": 19
+   }
+  },
+  "linescores": {
+   "away": [
+    "45",
+    "50",
+    "5"
+   ],
+   "home": [
+    "49",
+    "46",
+    "15"
+   ]
+  },
+  "periods": 3,
+  "score": {
+   "away": "100",
+   "home": "110"
+  },
+  "t": "2026-11-19T00:15:36+00:00"
+ },
+ "home": {
+  "abbr": "ND",
+  "id": "87",
+  "name": "Notre Dame Fighting Irish"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "start": "2026-11-18T19:00Z"
+}

@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "FRES",
+  "id": "278",
+  "name": "Fresno State Bulldogs"
+ },
+ "date_key": "20261118",
+ "event_id": "401911473",
+ "home": {
+  "abbr": "SJSU",
+  "id": "23",
+  "name": "San Jos\u00e9 State Spartans"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SJSU -6.5",
+    "home_spread": -6.5,
+    "provider": "Draft Kings",
+    "raw_spread": -6.5,
+    "total": 156.5
+   }
+  ],
+  "t": "2026-11-19T00:15:36+00:00"
+ },
+ "start": "2026-11-19T02:00Z"
+}
