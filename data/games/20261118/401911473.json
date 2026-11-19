@@ -4,6 +4,52 @@
   "id": "278",
   "name": "Fresno State Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -6.5,
+    "total": 156.5
+   },
+   "betonlineag": {
+    "spread": -6.0,
+    "total": 157.0
+   },
+   "betrivers": {
+    "spread": -6.5,
+    "total": 157.5
+   },
+   "betus": {
+    "spread": -6.0,
+    "total": 156.5
+   },
+   "circasports": {
+    "spread": -6.0,
+    "total": 156.0
+   },
+   "draftkings": {
+    "spread": -6.5,
+    "total": 156.5
+   },
+   "fanatics": {
+    "spread": -6.0,
+    "total": 157.0
+   },
+   "fanduel": {
+    "spread": -6.5,
+    "total": 156.5
+   },
+   "lowvig": {
+    "spread": -6.0,
+    "total": 157.0
+   },
+   "williamhill_us": {
+    "spread": -6.0,
+    "total": 157.0
+   }
+  },
+  "odds_event_id": "34adecee185d2196638cd55c5f1e9c27",
+  "t": "2026-11-19T01:57:34+00:00"
+ },
  "date_key": "20261118",
  "event_id": "401911473",
  "home": {

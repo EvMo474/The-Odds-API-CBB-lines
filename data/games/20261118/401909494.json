@@ -4,6 +4,48 @@
   "id": "2065",
   "name": "Bethune-Cookman Wildcats"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -24.5,
+    "total": 153.5
+   },
+   "betonlineag": {
+    "spread": -25.0,
+    "total": 153.5
+   },
+   "betrivers": {
+    "spread": -24.5,
+    "total": 153.5
+   },
+   "circasports": {
+    "spread": -24.0,
+    "total": 154.0
+   },
+   "draftkings": {
+    "spread": -24.5,
+    "total": 153.5
+   },
+   "fanatics": {
+    "spread": -24.5,
+    "total": 153.5
+   },
+   "fanduel": {
+    "spread": -23.5,
+    "total": 152.5
+   },
+   "lowvig": {
+    "spread": -25.0,
+    "total": 153.5
+   },
+   "williamhill_us": {
+    "spread": -24.5,
+    "total": 153.5
+   }
+  },
+  "odds_event_id": "a5a44801fd94ef0aebd452621ac7d5fa",
+  "t": "2026-11-19T01:57:34+00:00"
+ },
  "date_key": "20261118",
  "event_id": "401909494",
  "home": {

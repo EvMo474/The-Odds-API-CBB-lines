@@ -4,6 +4,44 @@
   "id": "41",
   "name": "UConn Huskies"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -2.5,
+    "total": 146.5
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "betus": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "circasports": {
+    "spread": -3.0,
+    "total": 145.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "fanatics": {
+    "spread": -3.5,
+    "total": 146.0
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "williamhill_us": {
+    "spread": -3.5,
+    "total": 146.0
+   }
+  },
+  "odds_event_id": "fd4d53d6aab2a2562f89bda0add41f92",
+  "t": "2026-11-19T01:57:34+00:00"
+ },
  "date_key": "20261118",
  "event_id": "401909742",
  "home": {

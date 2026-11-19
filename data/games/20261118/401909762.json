@@ -4,6 +4,52 @@
   "id": "2501",
   "name": "Portland Pilots"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -15.5,
+    "total": 156.5
+   },
+   "betonlineag": {
+    "spread": -15.5,
+    "total": 156.0
+   },
+   "betrivers": {
+    "spread": -14.5,
+    "total": 156.5
+   },
+   "betus": {
+    "spread": -15.5,
+    "total": 156.0
+   },
+   "circasports": {
+    "spread": -16.0,
+    "total": 155.5
+   },
+   "draftkings": {
+    "spread": -15.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": -15.0,
+    "total": 156.5
+   },
+   "fanduel": {
+    "spread": -15.5,
+    "total": 156.5
+   },
+   "lowvig": {
+    "spread": -15.5,
+    "total": 156.0
+   },
+   "williamhill_us": {
+    "spread": -15.5,
+    "total": 155.0
+   }
+  },
+  "odds_event_id": "2d82f6779bd0ff45a95caa0215ae9be7",
+  "t": "2026-11-19T01:57:34+00:00"
+ },
  "date_key": "20261118",
  "event_id": "401909762",
  "home": {
