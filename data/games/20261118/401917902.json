@@ -1,0 +1,75 @@
+{
+ "away": {
+  "abbr": "CCSC",
+  "id": "130401",
+  "name": "Columbia (SC) Fighting Koalas"
+ },
+ "break_via": "STATUS_IN_PROGRESS",
+ "date_key": "20261118",
+ "event_id": "401917902",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 6,
+    "3pm": 3,
+    "fg_pct": 45.83,
+    "fga": 24,
+    "fgm": 11,
+    "fta": 8,
+    "ftm": 5
+   },
+   "home": {
+    "3pa": 11,
+    "3pm": 2,
+    "fg_pct": 34.29,
+    "fga": 35,
+    "fgm": 12,
+    "fta": 7,
+    "ftm": 6
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "32",
+   "home": "32"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-19T00:45:34+00:00"
+ },
+ "halftime_first_seen": "2026-11-19T00:45:34+00:00",
+ "home": {
+  "abbr": "WGA",
+  "id": "2698",
+  "name": "West Georgia Wolves"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Campbell Fighting Camels @ Oklahoma Sooners",
+   "credits_left": "29090",
+   "events_list_match": 0.47,
+   "events_list_n": 75,
+   "match": 0.47,
+   "n_events": 75,
+   "t": "2026-11-19T00:45:34+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "32",
+    "home": "32"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-19T00:45:34+00:00"
+  }
+ ],
+ "start": "2026-11-19T00:00Z"
+}
