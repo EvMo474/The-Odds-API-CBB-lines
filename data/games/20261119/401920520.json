@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "RUTG",
+  "id": "164",
+  "name": "Rutgers Scarlet Knights"
+ },
+ "date_key": "20261119",
+ "event_id": "401920520",
+ "home": {
+  "abbr": "UNLV",
+  "id": "2439",
+  "name": "UNLV Rebels"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "RUTG -2.5",
+    "home_spread": 2.5,
+    "provider": "Draft Kings",
+    "raw_spread": 2.5,
+    "total": 157.5
+   }
+  ],
+  "t": "2026-11-20T00:09:42+00:00"
+ },
+ "start": "2026-11-20T01:30Z"
+}
