@@ -4,6 +4,52 @@
   "id": "2670",
   "name": "VCU Rams"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -1.5,
+    "total": 164.5
+   },
+   "betonlineag": {
+    "spread": -1.5,
+    "total": 163.5
+   },
+   "betrivers": {
+    "spread": -1.5,
+    "total": 163.5
+   },
+   "betus": {
+    "spread": -1.5,
+    "total": 164.0
+   },
+   "circasports": {
+    "spread": -2.0,
+    "total": 164.0
+   },
+   "draftkings": {
+    "spread": -1.5,
+    "total": 163.5
+   },
+   "fanatics": {
+    "spread": -2.0,
+    "total": 164.0
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 164.5
+   },
+   "lowvig": {
+    "spread": -1.5,
+    "total": 163.5
+   },
+   "williamhill_us": {
+    "spread": -2.0,
+    "total": 164.0
+   }
+  },
+  "odds_event_id": "42a35684e7ff6f13af5834f9a5004df6",
+  "t": "2026-11-20T03:27:42+00:00"
+ },
  "date_key": "20261119",
  "event_id": "401917536",
  "home": {
