@@ -4,6 +4,52 @@
   "id": "253",
   "name": "Southern Utah Thunderbirds"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -35.5,
+    "total": 155.5
+   },
+   "betonlineag": {
+    "spread": -35.0,
+    "total": 156.0
+   },
+   "betrivers": {
+    "spread": -36.5,
+    "total": 156.5
+   },
+   "betus": {
+    "spread": -35.0,
+    "total": 156.5
+   },
+   "circasports": {
+    "spread": -36.0,
+    "total": 156.5
+   },
+   "draftkings": {
+    "spread": -35.5,
+    "total": 155.5
+   },
+   "fanatics": {
+    "spread": -36.0,
+    "total": 156.0
+   },
+   "fanduel": {
+    "spread": -35.5,
+    "total": 155.5
+   },
+   "lowvig": {
+    "spread": -35.0,
+    "total": 156.0
+   },
+   "williamhill_us": {
+    "spread": -35.5,
+    "total": 156.0
+   }
+  },
+  "odds_event_id": "a25d06bbc2209ccc30f89edcbb8efb8e",
+  "t": "2026-11-20T00:57:42+00:00"
+ },
  "date_key": "20261119",
  "event_id": "401906867",
  "home": {

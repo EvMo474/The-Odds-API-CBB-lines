@@ -4,6 +4,48 @@
   "id": "290",
   "name": "Georgia Southern Eagles"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 152.5
+   },
+   "betonlineag": {
+    "spread": -3.5,
+    "total": 153.0
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 153.5
+   },
+   "circasports": {
+    "spread": -3.5,
+    "total": 153.0
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 153.5
+   },
+   "fanatics": {
+    "spread": -3.5,
+    "total": 152.5
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 152.5
+   },
+   "lowvig": {
+    "spread": -3.5,
+    "total": 153.0
+   },
+   "williamhill_us": {
+    "spread": -3.5,
+    "total": 153.0
+   }
+  },
+  "odds_event_id": "dbb1b55e5ce880c36dd40da9019cfc56",
+  "t": "2026-11-20T00:57:42+00:00"
+ },
  "date_key": "20261119",
  "event_id": "401921028",
  "home": {

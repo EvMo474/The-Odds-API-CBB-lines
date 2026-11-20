@@ -4,6 +4,48 @@
   "id": "56",
   "name": "Stetson Hatters"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -36.5,
+    "total": 154.5
+   },
+   "betonlineag": {
+    "spread": -37.0,
+    "total": 154.5
+   },
+   "betrivers": {
+    "spread": -35.5,
+    "total": 154.5
+   },
+   "circasports": {
+    "spread": -36.0,
+    "total": 154.5
+   },
+   "draftkings": {
+    "spread": -36.5,
+    "total": 154.5
+   },
+   "fanatics": {
+    "spread": -36.5,
+    "total": 154.5
+   },
+   "fanduel": {
+    "spread": -36.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": -37.0,
+    "total": 154.5
+   },
+   "williamhill_us": {
+    "spread": -36.5,
+    "total": 154.5
+   }
+  },
+  "odds_event_id": "1a136a0253a5b66b6057918946a432df",
+  "t": "2026-11-20T00:57:42+00:00"
+ },
  "date_key": "20261119",
  "event_id": "401918950",
  "home": {
