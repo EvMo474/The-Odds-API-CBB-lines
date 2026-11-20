@@ -4,6 +4,52 @@
   "id": "248",
   "name": "Houston Cougars"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 3.5,
+    "total": 151.5
+   },
+   "betonlineag": {
+    "spread": 3.5,
+    "total": 151.5
+   },
+   "betrivers": {
+    "spread": 1.5,
+    "total": 152.5
+   },
+   "betus": {
+    "spread": 3.5,
+    "total": 151.5
+   },
+   "circasports": {
+    "spread": 3.0,
+    "total": 151.5
+   },
+   "draftkings": {
+    "spread": 3.5,
+    "total": 151.5
+   },
+   "fanatics": {
+    "spread": 3.5,
+    "total": 151.5
+   },
+   "fanduel": {
+    "spread": 2.5,
+    "total": 151.5
+   },
+   "lowvig": {
+    "spread": 3.5,
+    "total": 151.5
+   },
+   "williamhill_us": {
+    "spread": 3.0,
+    "total": 151.5
+   }
+  },
+  "odds_event_id": "6d51497e3276256e5dd07220b624c37f",
+  "t": "2026-11-20T03:57:42+00:00"
+ },
  "date_key": "20261119",
  "event_id": "401920518",
  "home": {
