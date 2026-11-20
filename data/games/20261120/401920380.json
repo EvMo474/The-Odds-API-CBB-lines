@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NU",
+  "id": "77",
+  "name": "Northwestern Wildcats"
+ },
+ "date_key": "20261120",
+ "event_id": "401920380",
+ "home": {
+  "abbr": "VT",
+  "id": "259",
+  "name": "Virginia Tech Hokies"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VT -10.5",
+    "home_spread": -10.5,
+    "provider": "Draft Kings",
+    "raw_spread": -10.5,
+    "total": 141.5
+   }
+  ],
+  "t": "2026-11-20T05:00:42+00:00"
+ },
+ "start": "2026-11-20T20:00Z"
+}

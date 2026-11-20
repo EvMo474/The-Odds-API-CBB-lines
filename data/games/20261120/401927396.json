@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "RICH",
+  "id": "257",
+  "name": "Richmond Spiders"
+ },
+ "date_key": "20261120",
+ "event_id": "401927396",
+ "home": {
+  "abbr": "WKU",
+  "id": "98",
+  "name": "Western Kentucky Hilltoppers"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "RICH -1.5",
+    "home_spread": 1.5,
+    "provider": "Draft Kings",
+    "raw_spread": 1.5,
+    "total": 151.5
+   }
+  ],
+  "t": "2026-11-20T05:00:42+00:00"
+ },
+ "start": "2026-11-21T00:00Z"
+}

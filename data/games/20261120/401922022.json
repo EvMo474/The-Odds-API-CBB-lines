@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SDST",
+  "id": "2571",
+  "name": "South Dakota State Jackrabbits"
+ },
+ "date_key": "20261120",
+ "event_id": "401922022",
+ "home": {
+  "abbr": "IDST",
+  "id": "304",
+  "name": "Idaho State Bengals"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SDST -6.5",
+    "home_spread": 6.5,
+    "provider": "Draft Kings",
+    "raw_spread": 6.5,
+    "total": 144.5
+   }
+  ],
+  "t": "2026-11-20T05:00:42+00:00"
+ },
+ "start": "2026-11-20T21:00Z"
+}

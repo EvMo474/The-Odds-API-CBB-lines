@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "WMU",
+  "id": "2711",
+  "name": "Western Michigan Broncos"
+ },
+ "date_key": "20261120",
+ "event_id": "401920922",
+ "home": {
+  "abbr": "MSM",
+  "id": "116",
+  "name": "Mount St. Mary's Mountaineers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "WMU -8.5",
+    "home_spread": 8.5,
+    "provider": "Draft Kings",
+    "raw_spread": 8.5,
+    "total": 143.5
+   }
+  ],
+  "t": "2026-11-20T05:00:42+00:00"
+ },
+ "start": "2026-11-21T00:00Z"
+}

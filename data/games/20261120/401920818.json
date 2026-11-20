@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SELA",
+  "id": "2545",
+  "name": "SE Louisiana Lions"
+ },
+ "date_key": "20261120",
+ "event_id": "401920818",
+ "home": {
+  "abbr": "KENN",
+  "id": "338",
+  "name": "Kennesaw State Owls"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "KENN -11.5",
+    "home_spread": -11.5,
+    "provider": "Draft Kings",
+    "raw_spread": -11.5,
+    "total": 154.5
+   }
+  ],
+  "t": "2026-11-20T05:00:42+00:00"
+ },
+ "start": "2026-11-21T00:00Z"
+}

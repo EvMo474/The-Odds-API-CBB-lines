@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LEM",
+  "id": "2330",
+  "name": "Le Moyne Dolphins"
+ },
+ "date_key": "20261120",
+ "event_id": "401919784",
+ "home": {
+  "abbr": "MIZ",
+  "id": "142",
+  "name": "Missouri Tigers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MIZ -36.5",
+    "home_spread": -36.5,
+    "provider": "Draft Kings",
+    "raw_spread": -36.5,
+    "total": 155.5
+   }
+  ],
+  "t": "2026-11-20T05:00:42+00:00"
+ },
+ "start": "2026-11-21T01:00Z"
+}

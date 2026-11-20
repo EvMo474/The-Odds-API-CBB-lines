@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "DEL",
+  "id": "48",
+  "name": "Delaware Blue Hens"
+ },
+ "date_key": "20261120",
+ "event_id": "401920298",
+ "home": {
+  "abbr": "CSUN",
+  "id": "2463",
+  "name": "Cal State Northridge Matadors"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "CSUN -6.5",
+    "home_spread": -6.5,
+    "provider": "Draft Kings",
+    "raw_spread": -6.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-20T05:00:42+00:00"
+ },
+ "start": "2026-11-20T23:00Z"
+}
