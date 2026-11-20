@@ -75,6 +75,26 @@
    "n_events": 62,
    "t": "2026-11-20T01:51:42+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "UMBC Retrievers @ Ohio State Buckeyes",
+   "credits_left": "28900",
+   "events_list_match": 0.48,
+   "events_list_n": 62,
+   "match": 0.48,
+   "n_events": 62,
+   "t": "2026-11-20T01:54:42+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "UMBC Retrievers @ Ohio State Buckeyes",
+   "credits_left": "28898",
+   "events_list_match": 0.48,
+   "events_list_n": 62,
+   "match": 0.48,
+   "n_events": 62,
+   "t": "2026-11-20T01:57:42+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -113,6 +133,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-20T01:51:42+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "29",
+    "home": "65"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-20T01:54:42+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "29",
+    "home": "65"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-20T01:57:42+00:00"
   }
  ],
  "start": "2026-11-20T01:00Z"

@@ -4,6 +4,52 @@
   "id": "2540",
   "name": "UC Santa Barbara Gauchos"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 148.5
+   },
+   "betonlineag": {
+    "spread": 2.5,
+    "total": 149.0
+   },
+   "betrivers": {
+    "spread": 1.5,
+    "total": 148.5
+   },
+   "betus": {
+    "spread": 2.0,
+    "total": 148.0
+   },
+   "circasports": {
+    "spread": 2.0,
+    "total": 148.0
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 148.5
+   },
+   "fanatics": {
+    "spread": 2.0,
+    "total": 148.0
+   },
+   "fanduel": {
+    "spread": 2.5,
+    "total": 147.5
+   },
+   "lowvig": {
+    "spread": 2.5,
+    "total": 149.0
+   },
+   "williamhill_us": {
+    "spread": 2.0,
+    "total": 148.0
+   }
+  },
+  "odds_event_id": "06c795c1626c246ad89e38eb1a35dbfb",
+  "t": "2026-11-20T01:57:42+00:00"
+ },
  "date_key": "20261119",
  "event_id": "401928354",
  "home": {

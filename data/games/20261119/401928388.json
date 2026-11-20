@@ -4,6 +4,44 @@
   "id": "2572",
   "name": "Southern Miss Golden Eagles"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 143.5
+   },
+   "betonlineag": {
+    "spread": 1.5,
+    "total": 144.0
+   },
+   "betrivers": {
+    "spread": 0.5,
+    "total": 144.5
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": 1.5,
+    "total": 144.5
+   },
+   "fanduel": {
+    "spread": 1.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": 1.5,
+    "total": 144.0
+   },
+   "williamhill_us": {
+    "spread": 1.5,
+    "total": 144.0
+   }
+  },
+  "odds_event_id": "44061430be1aeb7eff6e79c0e48ecbb9",
+  "t": "2026-11-20T01:57:42+00:00"
+ },
  "date_key": "20261119",
  "event_id": "401928388",
  "home": {

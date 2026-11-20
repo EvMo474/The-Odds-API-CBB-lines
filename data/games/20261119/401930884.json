@@ -4,6 +4,52 @@
   "id": "204",
   "name": "Oregon State Beavers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -1.5,
+    "total": 161.5
+   },
+   "betonlineag": {
+    "spread": -1.5,
+    "total": 160.0
+   },
+   "betrivers": {
+    "spread": -1.5,
+    "total": 160.5
+   },
+   "betus": {
+    "spread": -1.5,
+    "total": 160.5
+   },
+   "circasports": {
+    "spread": -1.5,
+    "total": 161.0
+   },
+   "draftkings": {
+    "spread": -1.5,
+    "total": 160.5
+   },
+   "fanatics": {
+    "spread": -1.5,
+    "total": 160.5
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 160.5
+   },
+   "lowvig": {
+    "spread": -1.5,
+    "total": 160.0
+   },
+   "williamhill_us": {
+    "spread": -1.5,
+    "total": 161.0
+   }
+  },
+  "odds_event_id": "112a3e561a6b673b4ca74bb0e0605c2c",
+  "t": "2026-11-20T01:57:42+00:00"
+ },
  "date_key": "20261119",
  "event_id": "401930884",
  "home": {
