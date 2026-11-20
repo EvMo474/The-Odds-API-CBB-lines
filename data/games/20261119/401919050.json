@@ -19,11 +19,11 @@
     "total": 162.5
    },
    "betus": {
-    "spread": 0.0,
+    "spread": 1.5,
     "total": 163.5
    },
    "circasports": {
-    "spread": 0.0,
+    "spread": 1.5,
     "total": 163.5
    },
    "draftkings": {
@@ -48,7 +48,7 @@
    }
   },
   "odds_event_id": "a21492045a6fa8b2a6e9d8b136534ac4",
-  "t": "2026-11-20T00:57:42+00:00"
+  "t": "2026-11-20T01:00:43+00:00"
  },
  "date_key": "20261119",
  "event_id": "401919050",
