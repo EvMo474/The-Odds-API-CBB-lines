@@ -4,6 +4,52 @@
   "id": "232",
   "name": "Charleston Cougars"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -1.5,
+    "total": 158.5
+   },
+   "betonlineag": {
+    "spread": -1.5,
+    "total": 158.5
+   },
+   "betrivers": {
+    "spread": -1.5,
+    "total": 158.5
+   },
+   "betus": {
+    "spread": -1.5,
+    "total": 158.5
+   },
+   "circasports": {
+    "spread": -1.5,
+    "total": 158.0
+   },
+   "draftkings": {
+    "spread": -1.5,
+    "total": 158.5
+   },
+   "fanatics": {
+    "spread": -1.5,
+    "total": 158.0
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 158.5
+   },
+   "lowvig": {
+    "spread": -1.5,
+    "total": 158.5
+   },
+   "williamhill_us": {
+    "spread": -1.5,
+    "total": 158.5
+   }
+  },
+  "odds_event_id": "9fd39939b846d3cbd50dc78087ec35f1",
+  "t": "2026-11-20T00:27:42+00:00"
+ },
  "date_key": "20261119",
  "event_id": "401926814",
  "home": {

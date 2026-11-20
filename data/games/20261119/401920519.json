@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "ND",
+  "id": "87",
+  "name": "Notre Dame Fighting Irish"
+ },
+ "date_key": "20261119",
+ "event_id": "401920519",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 21,
+    "3pm": 8,
+    "fg_pct": 49.02,
+    "fga": 51,
+    "fgm": 25,
+    "fta": 27,
+    "ftm": 20
+   },
+   "home": {
+    "3pa": 29,
+    "3pm": 9,
+    "fg_pct": 40.74,
+    "fga": 54,
+    "fgm": 22,
+    "fta": 28,
+    "ftm": 20
+   }
+  },
+  "linescores": {
+   "away": [
+    "42",
+    "36"
+   ],
+   "home": [
+    "36",
+    "37"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "78",
+   "home": "73"
+  },
+  "t": "2026-11-20T00:27:42+00:00"
+ },
+ "home": {
+  "abbr": "AUB",
+  "id": "2",
+  "name": "Auburn Tigers"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "start": "2026-11-19T22:00Z"
+}
