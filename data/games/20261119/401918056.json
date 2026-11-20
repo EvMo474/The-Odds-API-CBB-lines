@@ -4,6 +4,48 @@
   "id": "2837",
   "name": "East Texas A&M Lions"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -14.5,
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": -14.5,
+    "total": 146.5
+   },
+   "betrivers": {
+    "spread": -14.5,
+    "total": 146.5
+   },
+   "circasports": {
+    "spread": -14.5,
+    "total": 147.0
+   },
+   "draftkings": {
+    "spread": -14.5,
+    "total": 147.5
+   },
+   "fanatics": {
+    "spread": -14.5,
+    "total": 146.5
+   },
+   "fanduel": {
+    "spread": -13.5,
+    "total": 146.5
+   },
+   "lowvig": {
+    "spread": -14.5,
+    "total": 146.5
+   },
+   "williamhill_us": {
+    "spread": -14.0,
+    "total": 147.0
+   }
+  },
+  "odds_event_id": "cd5851d9377b5aa32b67f9c534385a0c",
+  "t": "2026-11-20T02:57:42+00:00"
+ },
  "date_key": "20261119",
  "event_id": "401918056",
  "home": {
