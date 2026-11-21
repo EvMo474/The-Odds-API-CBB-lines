@@ -4,6 +4,52 @@
   "id": "2294",
   "name": "Iowa Hawkeyes"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "betonlineag": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "betrivers": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "betus": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "circasports": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "draftkings": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "fanatics": {
+    "spread": -3.5,
+    "total": 144.5
+   },
+   "fanduel": {
+    "spread": -3.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": -3.5,
+    "total": 145.5
+   },
+   "williamhill_us": {
+    "spread": -3.5,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "100d3d166816eec2b3b05481324cd009",
+  "t": "2026-11-21T00:24:57+00:00"
+ },
  "date_key": "20261120",
  "event_id": "401909545",
  "home": {

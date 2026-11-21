@@ -4,6 +4,48 @@
   "id": "250",
   "name": "UT Arlington Mavericks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "betonlineag": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "betrivers": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "circasports": {
+    "spread": 4.0,
+    "total": 145.5
+   },
+   "draftkings": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "fanatics": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "fanduel": {
+    "spread": 4.5,
+    "total": 145.5
+   },
+   "lowvig": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "williamhill_us": {
+    "spread": 3.5,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "06df46ace9654cc71563660d03a73cf4",
+  "t": "2026-11-21T00:24:57+00:00"
+ },
  "date_key": "20261120",
  "event_id": "401925080",
  "home": {
