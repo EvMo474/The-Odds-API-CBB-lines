@@ -65,6 +65,26 @@
    "n_events": 59,
    "t": "2026-11-21T21:55:49+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Nicholls St Colonels @ Southern Miss Golden Eagles",
+   "credits_left": "28490",
+   "events_list_match": 0.49,
+   "events_list_n": 59,
+   "match": 0.49,
+   "n_events": 59,
+   "t": "2026-11-21T21:58:48+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Nicholls St Colonels @ Southern Miss Golden Eagles",
+   "credits_left": "28488",
+   "events_list_match": 0.49,
+   "events_list_n": 59,
+   "match": 0.49,
+   "n_events": 59,
+   "t": "2026-11-21T22:01:48+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -91,6 +111,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-21T21:55:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "42"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T21:58:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "42"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T22:01:48+00:00"
   }
  ],
  "start": "2026-11-21T21:00Z"
