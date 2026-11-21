@@ -740,6 +740,26 @@
    "n_events": 56,
    "t": "2026-11-21T22:26:11+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "UC Irvine Anteaters @ Loyola Marymount Lions",
+   "credits_left": "28470",
+   "events_list_match": 0.53,
+   "events_list_n": 56,
+   "match": 0.53,
+   "n_events": 56,
+   "t": "2026-11-21T22:29:11+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "UC Irvine Anteaters @ Loyola Marymount Lions",
+   "credits_left": "28468",
+   "events_list_match": 0.53,
+   "events_list_n": 56,
+   "match": 0.53,
+   "n_events": 56,
+   "t": "2026-11-21T22:32:11+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -754,6 +774,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-21T22:26:11+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "34"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T22:29:11+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "34"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T22:32:11+00:00"
   }
  ],
  "pregame": {
