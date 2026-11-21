@@ -4,6 +4,52 @@
   "id": "2181",
   "name": "Drake Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 3.5,
+    "total": 140.5
+   },
+   "betonlineag": {
+    "spread": 3.0,
+    "total": 140.5
+   },
+   "betrivers": {
+    "spread": 3.5,
+    "total": 140.5
+   },
+   "betus": {
+    "spread": 3.0,
+    "total": 140.5
+   },
+   "circasports": {
+    "spread": 3.5,
+    "total": 140.5
+   },
+   "draftkings": {
+    "spread": 3.5,
+    "total": 140.5
+   },
+   "fanatics": {
+    "spread": 4.0,
+    "total": 141.0
+   },
+   "fanduel": {
+    "spread": 3.5,
+    "total": 140.5
+   },
+   "lowvig": {
+    "spread": 3.0,
+    "total": 140.5
+   },
+   "williamhill_us": {
+    "spread": 3.5,
+    "total": 140.5
+   }
+  },
+  "odds_event_id": "2b15ead6a4087a68d986d3ec08373d14",
+  "t": "2026-11-21T19:55:49+00:00"
+ },
  "date_key": "20261121",
  "event_id": "401927365",
  "home": {

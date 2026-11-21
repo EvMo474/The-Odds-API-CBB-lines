@@ -4,6 +4,48 @@
   "id": "292",
   "name": "UT Rio Grande Valley Vaqueros"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -5.5,
+    "total": 143.5
+   },
+   "betonlineag": {
+    "spread": -5.0,
+    "total": 144.0
+   },
+   "betrivers": {
+    "spread": -4.5,
+    "total": 143.5
+   },
+   "circasports": {
+    "spread": -6.0,
+    "total": 143.5
+   },
+   "draftkings": {
+    "spread": -5.5,
+    "total": 143.5
+   },
+   "fanatics": {
+    "spread": -5.5,
+    "total": 143.5
+   },
+   "fanduel": {
+    "spread": -5.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": -5.0,
+    "total": 144.0
+   },
+   "williamhill_us": {
+    "spread": -5.5,
+    "total": 142.5
+   }
+  },
+  "odds_event_id": "264c7486fa86ec1cf972df7956696ac5",
+  "t": "2026-11-21T19:55:49+00:00"
+ },
  "date_key": "20261121",
  "event_id": "401917953",
  "home": {
