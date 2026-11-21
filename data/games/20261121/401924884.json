@@ -7,6 +7,44 @@
  "break_via": "STATUS_IN_PROGRESS",
  "date_key": "20261121",
  "event_id": "401924884",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 24,
+    "3pm": 5,
+    "fg_pct": 45.16,
+    "fga": 62,
+    "fgm": 28,
+    "fta": 44,
+    "ftm": 32
+   },
+   "home": {
+    "3pa": 33,
+    "3pm": 13,
+    "fg_pct": 51.67,
+    "fga": 60,
+    "fgm": 31,
+    "fta": 25,
+    "ftm": 12
+   }
+  },
+  "linescores": {
+   "away": [
+    "49",
+    "44"
+   ],
+   "home": [
+    "48",
+    "39"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "93",
+   "home": "87"
+  },
+  "t": "2026-11-21T18:22:48+00:00"
+ },
  "flag": {
   "best_book": "betmgm",
   "best_line": -3.5,
