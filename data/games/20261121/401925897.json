@@ -4,6 +4,48 @@
   "id": "350",
   "name": "UNC Wilmington Seahawks"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 11.5,
+    "total": 149.5
+   },
+   "betonlineag": {
+    "spread": 11.5,
+    "total": 149.0
+   },
+   "betrivers": {
+    "spread": 12.5,
+    "total": 149.5
+   },
+   "circasports": {
+    "spread": 11.0,
+    "total": 148.5
+   },
+   "draftkings": {
+    "spread": 11.5,
+    "total": 149.5
+   },
+   "fanatics": {
+    "spread": 11.5,
+    "total": 149.5
+   },
+   "fanduel": {
+    "spread": 12.5,
+    "total": 149.5
+   },
+   "lowvig": {
+    "spread": 11.5,
+    "total": 149.0
+   },
+   "williamhill_us": {
+    "spread": 11.5,
+    "total": 149.5
+   }
+  },
+  "odds_event_id": "7d2d0772fddef71e92f444c6221354a3",
+  "t": "2026-11-21T22:56:11+00:00"
+ },
  "date_key": "20261121",
  "event_id": "401925897",
  "home": {
