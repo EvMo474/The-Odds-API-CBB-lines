@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "BRWN",
+  "id": "225",
+  "name": "Brown Bears"
+ },
+ "date_key": "20261121",
+ "event_id": "401911310",
+ "home": {
+  "abbr": "UVM",
+  "id": "261",
+  "name": "Vermont Catamounts"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UVM -3.5",
+    "home_spread": -3.5,
+    "provider": "Draft Kings",
+    "raw_spread": -3.5,
+    "total": 132.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-22T00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UPST",
+  "id": "2908",
+  "name": "South Carolina Upstate Spartans"
+ },
+ "date_key": "20261121",
+ "event_id": "401922284",
+ "home": {
+  "abbr": "UNCG",
+  "id": "2430",
+  "name": "UNC Greensboro Spartans"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UNCG -7.5",
+    "home_spread": -7.5,
+    "provider": "Draft Kings",
+    "raw_spread": -7.5,
+    "total": 146.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-21T16:00Z"
+}

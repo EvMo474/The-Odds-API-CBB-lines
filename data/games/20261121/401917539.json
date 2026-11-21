@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CBU",
+  "id": "2856",
+  "name": "California Baptist Lancers"
+ },
+ "date_key": "20261121",
+ "event_id": "401917539",
+ "home": {
+  "abbr": "LMU",
+  "id": "2351",
+  "name": "Loyola Marymount Lions"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "LMU -13.5",
+    "home_spread": -13.5,
+    "provider": "Draft Kings",
+    "raw_spread": -13.5,
+    "total": 137.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-22T00:00Z"
+}

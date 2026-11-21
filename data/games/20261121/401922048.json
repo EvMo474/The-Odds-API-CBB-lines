@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LONG",
+  "id": "2344",
+  "name": "Longwood Lancers"
+ },
+ "date_key": "20261121",
+ "event_id": "401922048",
+ "home": {
+  "abbr": "ETSU",
+  "id": "2193",
+  "name": "East Tennessee State Buccaneers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ETSU -6.5",
+    "home_spread": -6.5,
+    "provider": "Draft Kings",
+    "raw_spread": -6.5,
+    "total": 141.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-21T21:00Z"
+}

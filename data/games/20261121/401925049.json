@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NOLA",
+  "id": "2443",
+  "name": "LSU New Orleans Privateers"
+ },
+ "date_key": "20261121",
+ "event_id": "401925049",
+ "home": {
+  "abbr": "TXSO",
+  "id": "2640",
+  "name": "Texas Southern Tigers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "TXSO -1.5",
+    "home_spread": -1.5,
+    "provider": "Draft Kings",
+    "raw_spread": -1.5,
+    "total": 159.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-22T01:30Z"
+}

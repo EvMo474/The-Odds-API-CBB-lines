@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CARK",
+  "id": "2110",
+  "name": "Central Arkansas Bears"
+ },
+ "date_key": "20261121",
+ "event_id": "401917918",
+ "home": {
+  "abbr": "JAX",
+  "id": "294",
+  "name": "Jacksonville Dolphins"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "CARK -3.5",
+    "home_spread": 3.5,
+    "provider": "Draft Kings",
+    "raw_spread": 3.5,
+    "total": 146.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-21T21:00Z"
+}

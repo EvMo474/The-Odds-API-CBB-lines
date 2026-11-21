@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "GWEB",
+  "id": "2241",
+  "name": "Gardner-Webb Runnin' Bulldogs"
+ },
+ "date_key": "20261121",
+ "event_id": "401911394",
+ "home": {
+  "abbr": "VMI",
+  "id": "2678",
+  "name": "VMI Keydets"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VMI -8.5",
+    "home_spread": -8.5,
+    "provider": "Draft Kings",
+    "raw_spread": -8.5,
+    "total": 149.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-22T00:00Z"
+}

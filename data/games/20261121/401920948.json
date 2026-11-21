@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "DEN",
+  "id": "2172",
+  "name": "Denver Pioneers"
+ },
+ "date_key": "20261121",
+ "event_id": "401920948",
+ "home": {
+  "abbr": "EMU",
+  "id": "2199",
+  "name": "Eastern Michigan Eagles"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "EMU -7.5",
+    "home_spread": -7.5,
+    "provider": "Draft Kings",
+    "raw_spread": -7.5,
+    "total": 139.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-21T18:00Z"
+}

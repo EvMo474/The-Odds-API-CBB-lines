@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "WIU",
+  "id": "2710",
+  "name": "Western Illinois Leathernecks"
+ },
+ "date_key": "20261121",
+ "event_id": "401919828",
+ "home": {
+  "abbr": "MERC",
+  "id": "2385",
+  "name": "Mercyhurst Lakers"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MERC -6.5",
+    "home_spread": -6.5,
+    "provider": "Draft Kings",
+    "raw_spread": -6.5,
+    "total": 133.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-21T18:30Z"
+}

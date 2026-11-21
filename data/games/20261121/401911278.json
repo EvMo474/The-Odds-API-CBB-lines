@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ARMY",
+  "id": "349",
+  "name": "Army Black Knights"
+ },
+ "date_key": "20261121",
+ "event_id": "401911278",
+ "home": {
+  "abbr": "BING",
+  "id": "2066",
+  "name": "Binghamton Bearcats"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ARMY -1.5",
+    "home_spread": 1.5,
+    "provider": "Draft Kings",
+    "raw_spread": 1.5,
+    "total": 138.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-21T20:30Z"
+}

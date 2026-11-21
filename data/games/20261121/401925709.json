@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "WIN",
+  "id": "2737",
+  "name": "Winthrop Eagles"
+ },
+ "date_key": "20261121",
+ "event_id": "401925709",
+ "home": {
+  "abbr": "WOF",
+  "id": "2747",
+  "name": "Wofford Terriers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "WOF -6.5",
+    "home_spread": -6.5,
+    "provider": "Draft Kings",
+    "raw_spread": -6.5,
+    "total": 165.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-21T22:00Z"
+}

@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NE",
+  "id": "111",
+  "name": "Northeastern Huskies"
+ },
+ "date_key": "20261121",
+ "event_id": "401919849",
+ "home": {
+  "abbr": "STO",
+  "id": "284",
+  "name": "Stonehill Skyhawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "NE -7.5",
+    "home_spread": 7.5,
+    "provider": "Draft Kings",
+    "raw_spread": 7.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-21T22:00Z"
+}

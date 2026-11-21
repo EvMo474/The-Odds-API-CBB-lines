@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "COPP",
+  "id": "2154",
+  "name": "Coppin State Eagles"
+ },
+ "date_key": "20261121",
+ "event_id": "401909517",
+ "home": {
+  "abbr": "GTWN",
+  "id": "46",
+  "name": "Georgetown Hoyas"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "GTWN -32.5",
+    "home_spread": -32.5,
+    "provider": "Draft Kings",
+    "raw_spread": -32.5,
+    "total": 141.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-21T23:00Z"
+}

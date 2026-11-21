@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "STMN",
+  "id": "2900",
+  "name": "St. Thomas Tommies"
+ },
+ "date_key": "20261121",
+ "event_id": "401920846",
+ "home": {
+  "abbr": "MILW",
+  "id": "270",
+  "name": "Milwaukee Panthers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "STMN -1.5",
+    "home_spread": 1.5,
+    "provider": "Draft Kings",
+    "raw_spread": 1.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-21T20:00Z"
+}

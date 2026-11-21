@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NAU",
+  "id": "2464",
+  "name": "Northern Arizona Lumberjacks"
+ },
+ "date_key": "20261121",
+ "event_id": "401920125",
+ "home": {
+  "abbr": "CP",
+  "id": "13",
+  "name": "Cal Poly Mustangs"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "CP -7.5",
+    "home_spread": -7.5,
+    "provider": "Draft Kings",
+    "raw_spread": -7.5,
+    "total": 156.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-22T00:00Z"
+}

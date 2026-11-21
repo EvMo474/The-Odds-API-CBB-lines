@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "RAD",
+  "id": "2515",
+  "name": "Radford Highlanders"
+ },
+ "date_key": "20261121",
+ "event_id": "401920975",
+ "home": {
+  "abbr": "UTC",
+  "id": "236",
+  "name": "Chattanooga Mocs"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UTC -8.5",
+    "home_spread": -8.5,
+    "provider": "Draft Kings",
+    "raw_spread": -8.5,
+    "total": 155.5
+   }
+  ],
+  "t": "2026-11-21T05:00:57+00:00"
+ },
+ "start": "2026-11-22T00:00Z"
+}
