@@ -4,15 +4,822 @@
   "id": "2908",
   "name": "South Carolina Upstate Spartans"
  },
+ "break_via": "STATUS_HALFTIME",
  "date_key": "20261121",
  "event_id": "401922284",
+ "flag": {
+  "best_book": "fanatics",
+  "best_line": 1.5,
+  "bucket": "Road Dog",
+  "bucket_src": "pregame",
+  "cold": "away",
+  "cold_full_spread": 16.0,
+  "cold_full_spread_by_book": {
+   "betmgm": 15.5,
+   "betrivers": 15.5,
+   "draftkings": 15.5,
+   "fanatics": 17.5,
+   "fanduel": 16.5,
+   "williamhill_us": 16.5
+  },
+  "cold_margin_1h": -16,
+  "gap": 11.4,
+  "gap_min": 10.0,
+  "lines_2h": {
+   "betmgm": -0.5,
+   "betrivers": -0.5,
+   "draftkings": -0.5,
+   "fanatics": 1.5,
+   "fanduel": 0.5,
+   "williamhill_us": 0.5
+  },
+  "neutral": false,
+  "pre_home_spread": -7.5,
+  "qualifies": true,
+  "suspect": false,
+  "t": "2026-11-21T16:49:48+00:00",
+  "win_zone": false,
+  "win_zone_max": 2.0
+ },
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 7,
+    "3pm": 2,
+    "fg_pct": 47.83,
+    "fga": 23,
+    "fgm": 11,
+    "fta": 2,
+    "ftm": 1
+   },
+   "home": {
+    "3pa": 13,
+    "3pm": 6,
+    "fg_pct": 59.26,
+    "fga": 27,
+    "fgm": 16,
+    "fta": 5,
+    "ftm": 3
+   }
+  },
+  "raw_pickcenter": [
+   {
+    "awayTeamOdds": {
+     "favorite": false,
+     "favoriteAtOpen": false,
+     "moneyLine": 230,
+     "spreadOdds": -112.0,
+     "team": {
+      "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/2908?lang=en&region=us"
+     },
+     "teamId": "2908",
+     "underdog": true
+    },
+    "details": "UNCG -6.5",
+    "footer": {
+     "disclaimer": "GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Call 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD), 1-800-981-0023 (PR). 21+ and present in most states. (18+ DC/KY/NH/PR/WY). Void in ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino (KS). Pass-thru of per wager tax may apply in IL."
+    },
+    "header": {
+     "logo": {
+      "dark": "https://a.espncdn.com/i/espnbet/dark/espn-bet-square-off.svg",
+      "exclusivesLogoDark": "https://a.espncdn.com/i/espnbet/espn-bet-square-mint.svg",
+      "exclusivesLogoLight": "https://a.espncdn.com/i/espnbet/espn-bet-square-mint.svg",
+      "light": "https://a.espncdn.com/i/espnbet/espn-bet-square-off.svg"
+     },
+     "text": "Game Odds"
+    },
+    "homeTeamOdds": {
+     "favorite": true,
+     "favoriteAtOpen": true,
+     "moneyLine": -285,
+     "spreadOdds": -108.0,
+     "team": {
+      "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/2430?lang=en&region=us"
+     },
+     "teamId": "2430",
+     "underdog": false
+    },
+    "link": {
+     "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559",
+     "isExternal": true,
+     "isPremium": false,
+     "language": "en-US",
+     "rel": [
+      "game",
+      "desktop",
+      "bets"
+     ],
+     "shortText": "Game",
+     "text": "See More Live Odds",
+     "tracking": {
+      "campaign": "betting-integrations",
+      "tags": {
+       "betSide": "none",
+       "betType": "straight",
+       "gameId": 401922284,
+       "league": "mens-college-basketball",
+       "sport": "basketball"
+      }
+     }
+    },
+    "links": [
+     {
+      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0ML87342879_1",
+      "isExternal": true,
+      "isPremium": false,
+      "language": "en-US",
+      "rel": [
+       "home",
+       "desktop",
+       "bets",
+       "draft-kings"
+      ],
+      "shortText": "Home Bet",
+      "text": "Home Bet",
+      "tracking": {
+       "campaign": "betting-integrations",
+       "tags": {
+        "betSide": "home",
+        "betType": "straight",
+        "gameId": 401922284,
+        "league": "mens-college-basketball",
+        "sport": "basketball"
+       }
+      }
+     },
+     {
+      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0ML87342879_3",
+      "isExternal": true,
+      "isPremium": false,
+      "language": "en-US",
+      "rel": [
+       "away",
+       "desktop",
+       "bets",
+       "draft-kings"
+      ],
+      "shortText": "Away Bet",
+      "text": "Away Bet",
+      "tracking": {
+       "campaign": "betting-integrations",
+       "tags": {
+        "betSide": "away",
+        "betType": "straight",
+        "gameId": 401922284,
+        "league": "mens-college-basketball",
+        "sport": "basketball"
+       }
+      }
+     },
+     {
+      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0HC87342879N650_1",
+      "isExternal": true,
+      "isPremium": false,
+      "language": "en-US",
+      "rel": [
+       "homeSpread",
+       "desktop",
+       "bets"
+      ],
+      "shortText": "Home Point Spread",
+      "text": "Home Point Spread",
+      "tracking": {
+       "campaign": "betting-integrations",
+       "tags": {
+        "betDetails": "Spread:UNCG-6.5",
+        "betSide": "none",
+        "betType": "straight",
+        "gameId": 401922284,
+        "league": "mens-college-basketball",
+        "sport": "basketball"
+       }
+      }
+     },
+     {
+      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0HC87342879P650_3",
+      "isExternal": true,
+      "isPremium": false,
+      "language": "en-US",
+      "rel": [
+       "awaySpread",
+       "desktop",
+       "bets"
+      ],
+      "shortText": "Away Point Spread",
+      "text": "Away Point Spread",
+      "tracking": {
+       "campaign": "betting-integrations",
+       "tags": {
+        "betDetails": "Spread:UPST+6.5",
+        "betSide": "none",
+        "betType": "straight",
+        "gameId": 401922284,
+        "league": "mens-college-basketball",
+        "sport": "basketball"
+       }
+      }
+     },
+     {
+      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0OU87342879O14550_1",
+      "isExternal": true,
+      "isPremium": false,
+      "language": "en-US",
+      "rel": [
+       "over",
+       "desktop",
+       "bets"
+      ],
+      "shortText": "Over Odds",
+      "text": "Over Odds",
+      "tracking": {
+       "campaign": "betting-integrations",
+       "tags": {
+        "betDetails": "Over:145.5",
+        "betSide": "over",
+        "betType": "straight",
+        "gameId": 401922284,
+        "league": "mens-college-basketball",
+        "sport": "basketball"
+       }
+      }
+     },
+     {
+      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0OU87342879U14550_3",
+      "isExternal": true,
+      "isPremium": false,
+      "language": "en-US",
+      "rel": [
+       "under",
+       "desktop",
+       "bets"
+      ],
+      "shortText": "Under Odds",
+      "text": "Under Odds",
+      "tracking": {
+       "campaign": "betting-integrations",
+       "tags": {
+        "betDetails": "Under:145.5",
+        "betSide": "under",
+        "betType": "straight",
+        "gameId": 401922284,
+        "league": "mens-college-basketball",
+        "sport": "basketball"
+       }
+      }
+     },
+     {
+      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559",
+      "isExternal": true,
+      "isPremium": false,
+      "language": "en-US",
+      "rel": [
+       "game",
+       "desktop",
+       "bets"
+      ],
+      "shortText": "Game",
+      "text": "See More Live Odds",
+      "tracking": {
+       "campaign": "betting-integrations",
+       "tags": {
+        "betSide": "none",
+        "betType": "straight",
+        "gameId": 401922284,
+        "league": "mens-college-basketball",
+        "sport": "basketball"
+       }
+      }
+     }
+    ],
+    "moneyline": {
+     "away": {
+      "close": {
+       "link": {
+        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0ML87342879_3",
+        "isExternal": true,
+        "isPremium": false,
+        "language": "en-US",
+        "rel": [
+         "away",
+         "desktop",
+         "bets",
+         "draft-kings"
+        ],
+        "shortText": "Away Bet",
+        "text": "Away Bet",
+        "tracking": {
+         "campaign": "betting-integrations",
+         "tags": {
+          "betSide": "away",
+          "betType": "straight",
+          "gameId": 401922284,
+          "league": "mens-college-basketball",
+          "sport": "basketball"
+         }
+        }
+       },
+       "odds": "+230"
+      },
+      "live": {
+       "link": {
+        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0ML87353255_3",
+        "isExternal": true,
+        "isPremium": false,
+        "language": "en-US",
+        "rel": [
+         "away",
+         "desktop",
+         "bets",
+         "draft-kings---live-odds"
+        ],
+        "shortText": "Away Bet",
+        "text": "Away Bet",
+        "tracking": {
+         "campaign": "betting-integrations",
+         "tags": {
+          "betSide": "away",
+          "betType": "straight",
+          "gameId": 401922284,
+          "league": "mens-college-basketball",
+          "sport": "basketball"
+         }
+        }
+       },
+       "odds": "+2200"
+      },
+      "open": {
+       "odds": "+260"
+      }
+     },
+     "displayName": "Moneyline",
+     "home": {
+      "close": {
+       "link": {
+        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0ML87342879_1",
+        "isExternal": true,
+        "isPremium": false,
+        "language": "en-US",
+        "rel": [
+         "home",
+         "desktop",
+         "bets",
+         "draft-kings"
+        ],
+        "shortText": "Home Bet",
+        "text": "Home Bet",
+        "tracking": {
+         "campaign": "betting-integrations",
+         "tags": {
+          "betSide": "home",
+          "betType": "straight",
+          "gameId": 401922284,
+          "league": "mens-college-basketball",
+          "sport": "basketball"
+         }
+        }
+       },
+       "odds": "-285"
+      },
+      "live": {
+       "link": {
+        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0ML87353255_1",
+        "isExternal": true,
+        "isPremium": false,
+        "language": "en-US",
+        "rel": [
+         "home",
+         "desktop",
+         "bets",
+         "draft-kings---live-odds"
+        ],
+        "shortText": "Home Bet",
+        "text": "Home Bet",
+        "tracking": {
+         "campaign": "betting-integrations",
+         "tags": {
+          "betSide": "home",
+          "betType": "straight",
+          "gameId": 401922284,
+          "league": "mens-college-basketball",
+          "sport": "basketball"
+         }
+        }
+       },
+       "odds": "-10000"
+      },
+      "open": {
+       "odds": "-325"
+      }
+     },
+     "shortDisplayName": "ML"
+    },
+    "overOdds": -110.0,
+    "overUnder": 145.5,
+    "pointSpread": {
+     "away": {
+      "close": {
+       "line": "+6.5",
+       "link": {
+        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0HC87342879P650_3",
+        "isExternal": true,
+        "isPremium": false,
+        "language": "en-US",
+        "rel": [
+         "awaySpread",
+         "desktop",
+         "bets"
+        ],
+        "shortText": "Away Point Spread",
+        "text": "Away Point Spread",
+        "tracking": {
+         "campaign": "betting-integrations",
+         "tags": {
+          "betDetails": "Spread:UPST+6.5",
+          "betSide": "none",
+          "betType": "straight",
+          "gameId": 401922284,
+          "league": "mens-college-basketball",
+          "sport": "basketball"
+         }
+        }
+       },
+       "odds": "-112"
+      },
+      "live": {
+       "line": "+18.5",
+       "link": {
+        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0HC87353255P1850_3",
+        "isExternal": true,
+        "isPremium": false,
+        "language": "en-US",
+        "rel": [
+         "awaySpread",
+         "desktop",
+         "bets"
+        ],
+        "shortText": "Away Point Spread",
+        "text": "Away Point Spread",
+        "tracking": {
+         "campaign": "betting-integrations",
+         "tags": {
+          "betDetails": "Spread:UPST+18.5",
+          "betSide": "none",
+          "betType": "straight",
+          "gameId": 401922284,
+          "league": "mens-college-basketball",
+          "sport": "basketball"
+         }
+        }
+       },
+       "odds": "-110"
+      },
+      "open": {
+       "line": "+7.5",
+       "odds": "-112"
+      }
+     },
+     "displayName": "Spread",
+     "home": {
+      "close": {
+       "line": "-6.5",
+       "link": {
+        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0HC87342879N650_1",
+        "isExternal": true,
+        "isPremium": false,
+        "language": "en-US",
+        "rel": [
+         "homeSpread",
+         "desktop",
+         "bets"
+        ],
+        "shortText": "Home Point Spread",
+        "text": "Home Point Spread",
+        "tracking": {
+         "campaign": "betting-integrations",
+         "tags": {
+          "betDetails": "Spread:UNCG-6.5",
+          "betSide": "none",
+          "betType": "straight",
+          "gameId": 401922284,
+          "league": "mens-college-basketball",
+          "sport": "basketball"
+         }
+        }
+       },
+       "odds": "-108"
+      },
+      "live": {
+       "line": "-18.5",
+       "link": {
+        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0HC87353255N1850_1",
+        "isExternal": true,
+        "isPremium": false,
+        "language": "en-US",
+        "rel": [
+         "homeSpread",
+         "desktop",
+         "bets"
+        ],
+        "shortText": "Home Point Spread",
+        "text": "Home Point Spread",
+        "tracking": {
+         "campaign": "betting-integrations",
+         "tags": {
+          "betDetails": "Spread:UNCG-18.5",
+          "betSide": "none",
+          "betType": "straight",
+          "gameId": 401922284,
+          "league": "mens-college-basketball",
+          "sport": "basketball"
+         }
+        }
+       },
+       "odds": "-120"
+      },
+      "open": {
+       "line": "-7.5",
+       "odds": "-108"
+      }
+     },
+     "shortDisplayName": "Spread"
+    },
+    "provider": {
+     "id": "100",
+     "logos": [
+      {
+       "href": "https://a.espncdn.com/i/betting/Draftkings_Light.svg",
+       "rel": [
+        "light"
+       ]
+      },
+      {
+       "href": "https://a.espncdn.com/i/betting/Draftkings_Dark.svg",
+       "rel": [
+        "dark"
+       ]
+      }
+     ],
+     "name": "Draft Kings",
+     "priority": 1
+    },
+    "spread": -6.5,
+    "total": {
+     "displayName": "Total",
+     "over": {
+      "close": {
+       "line": "o145.5",
+       "link": {
+        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0OU87342879O14550_1",
+        "isExternal": true,
+        "isPremium": false,
+        "language": "en-US",
+        "rel": [
+         "over",
+         "desktop",
+         "bets"
+        ],
+        "shortText": "Over Odds",
+        "text": "Over Odds",
+        "tracking": {
+         "campaign": "betting-integrations",
+         "tags": {
+          "betDetails": "Over:145.5",
+          "betSide": "over",
+          "betType": "straight",
+          "gameId": 401922284,
+          "league": "mens-college-basketball",
+          "sport": "basketball"
+         }
+        }
+       },
+       "odds": "-110"
+      },
+      "live": {
+       "line": "o148.5",
+       "link": {
+        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0OU87353255O14850_1",
+        "isExternal": true,
+        "isPremium": false,
+        "language": "en-US",
+        "rel": [
+         "over",
+         "desktop",
+         "bets"
+        ],
+        "shortText": "Over Odds",
+        "text": "Over Odds",
+        "tracking": {
+         "campaign": "betting-integrations",
+         "tags": {
+          "betDetails": "Over:148.5",
+          "betSide": "over",
+          "betType": "straight",
+          "gameId": 401922284,
+          "league": "mens-college-basketball",
+          "sport": "basketball"
+         }
+        }
+       },
+       "odds": "-120"
+      },
+      "open": {
+       "line": "o147.5",
+       "odds": "-110"
+      }
+     },
+     "shortDisplayName": "Total",
+     "under": {
+      "close": {
+       "line": "u145.5",
+       "link": {
+        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0OU87342879U14550_3",
+        "isExternal": true,
+        "isPremium": false,
+        "language": "en-US",
+        "rel": [
+         "under",
+         "desktop",
+         "bets"
+        ],
+        "shortText": "Under Odds",
+        "text": "Under Odds",
+        "tracking": {
+         "campaign": "betting-integrations",
+         "tags": {
+          "betDetails": "Under:145.5",
+          "betSide": "under",
+          "betType": "straight",
+          "gameId": 401922284,
+          "league": "mens-college-basketball",
+          "sport": "basketball"
+         }
+        }
+       },
+       "odds": "-110"
+      },
+      "live": {
+       "line": "u148.5",
+       "link": {
+        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F35058559%3Foutcomes%3D0OU87353255U14850_3",
+        "isExternal": true,
+        "isPremium": false,
+        "language": "en-US",
+        "rel": [
+         "under",
+         "desktop",
+         "bets"
+        ],
+        "shortText": "Under Odds",
+        "text": "Under Odds",
+        "tracking": {
+         "campaign": "betting-integrations",
+         "tags": {
+          "betDetails": "Under:148.5",
+          "betSide": "under",
+          "betType": "straight",
+          "gameId": 401922284,
+          "league": "mens-college-basketball",
+          "sport": "basketball"
+         }
+        }
+       },
+       "odds": "-110"
+      },
+      "open": {
+       "line": "u147.5",
+       "odds": "-110"
+      }
+     }
+    },
+    "underOdds": -110.0
+   }
+  ],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "25",
+   "home": "41"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [
+   {
+    "details": "UNCG -6.5",
+    "home_spread": -6.5,
+    "provider": "Draft Kings",
+    "raw_spread": -6.5,
+    "total": 145.5
+   }
+  ],
+  "t": "2026-11-21T16:46:48+00:00"
+ },
+ "halftime_first_seen": "2026-11-21T16:46:48+00:00",
  "home": {
   "abbr": "UNCG",
   "id": "2430",
   "name": "UNC Greensboro Spartans"
  },
  "neutral_site": false,
- "odds_ticks": [],
+ "odds_api_ticks": [
+  {
+   "books": {
+    "betmgm": {
+     "spread": -15.5,
+     "total": 142.5
+    },
+    "betrivers": {
+     "spread": -15.5,
+     "total": 142.5
+    },
+    "draftkings": {
+     "spread": -17.5,
+     "total": 142.5
+    },
+    "fanatics": {
+     "spread": -17.5,
+     "total": 143.5
+    },
+    "fanduel": {
+     "spread": -16.5,
+     "total": 142.5
+    },
+    "williamhill_us": {
+     "spread": -16.5,
+     "total": 142.5
+    }
+   },
+   "credits_left": "28652",
+   "draftkings_home_spread": -17.5,
+   "draftkings_total": 142.5,
+   "fanduel_home_spread": -16.5,
+   "fanduel_total": 142.5,
+   "match": 1.0,
+   "n_events": 51,
+   "odds_event_id": "b346f6555c1055ecaf0494e0a23d08dc",
+   "t": "2026-11-21T16:46:48+00:00"
+  },
+  {
+   "books": {
+    "betmgm": {
+     "spread": -15.5,
+     "total": 142.5
+    },
+    "betrivers": {
+     "spread": -15.5,
+     "total": 142.5
+    },
+    "draftkings": {
+     "spread": -15.5,
+     "total": 141.5
+    },
+    "fanatics": {
+     "spread": -17.5,
+     "total": 143.5
+    },
+    "fanduel": {
+     "spread": -16.5,
+     "total": 142.5
+    },
+    "williamhill_us": {
+     "spread": -16.5,
+     "total": 141.5
+    }
+   },
+   "credits_left": "28650",
+   "draftkings_home_spread": -15.5,
+   "draftkings_total": 141.5,
+   "fanduel_home_spread": -16.5,
+   "fanduel_total": 142.5,
+   "match": 1.0,
+   "n_events": 51,
+   "odds_event_id": "b346f6555c1055ecaf0494e0a23d08dc",
+   "t": "2026-11-21T16:49:48+00:00"
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "25",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T16:46:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "25",
+    "home": "41"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T16:49:48+00:00"
+  }
+ ],
  "pregame": {
   "odds": [
    {
