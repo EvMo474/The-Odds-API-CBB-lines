@@ -710,6 +710,16 @@
    "n_events": 71,
    "t": "2026-11-21T00:54:57+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "UMKC Kangaroos @ Iona Gaels",
+   "credits_left": "28770",
+   "events_list_match": 0.77,
+   "events_list_n": 70,
+   "match": 0.77,
+   "n_events": 70,
+   "t": "2026-11-21T00:57:57+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -772,6 +782,29 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-21T00:54:57+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "34",
+    "home": "31"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T00:57:57+00:00"
+  },
+  {
+   "clock": "19:07",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "36",
+    "home": "31"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-21T01:00:57+00:00"
   }
  ],
  "pregame": {
