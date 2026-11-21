@@ -4,6 +4,52 @@
   "id": "2309",
   "name": "Kent State Golden Flashes"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "betonlineag": {
+    "spread": 3.5,
+    "total": 146.5
+   },
+   "betrivers": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "betus": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "circasports": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "draftkings": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "fanatics": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "fanduel": {
+    "spread": 3.5,
+    "total": 145.5
+   },
+   "lowvig": {
+    "spread": 3.5,
+    "total": 146.5
+   },
+   "williamhill_us": {
+    "spread": 4.0,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "32314571b0ef6ac30a06778a1d5c1cc1",
+  "t": "2026-11-21T17:55:48+00:00"
+ },
  "date_key": "20261121",
  "event_id": "401921169",
  "home": {
