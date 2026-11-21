@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "BFC",
+  "id": "2854",
+  "name": "Bloomfield Deacons"
+ },
+ "date_key": "20261120",
+ "event_id": "401925841",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 21,
+    "3pm": 7,
+    "fg_pct": 43.86,
+    "fga": 57,
+    "fgm": 25,
+    "fta": 26,
+    "ftm": 20
+   },
+   "home": {
+    "3pa": 23,
+    "3pm": 9,
+    "fg_pct": 55.17,
+    "fga": 58,
+    "fgm": 32,
+    "fta": 19,
+    "ftm": 14
+   }
+  },
+  "linescores": {
+   "away": [
+    "30",
+    "47"
+   ],
+   "home": [
+    "42",
+    "45"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "77",
+   "home": "87"
+  },
+  "t": "2026-11-21T00:12:57+00:00"
+ },
+ "home": {
+  "abbr": "UMES",
+  "id": "2379",
+  "name": "Maryland Eastern Shore Hawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-20T17:00Z"
+}

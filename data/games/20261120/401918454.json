@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "AVER",
+  "id": "2047",
+  "name": "Averett Cougars"
+ },
+ "date_key": "20261120",
+ "event_id": "401918454",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 31,
+    "3pm": 5,
+    "fg_pct": 25.81,
+    "fga": 62,
+    "fgm": 16,
+    "fta": 4,
+    "ftm": 2
+   },
+   "home": {
+    "3pa": 23,
+    "3pm": 7,
+    "fg_pct": 50.0,
+    "fga": 58,
+    "fgm": 29,
+    "fta": 27,
+    "ftm": 20
+   }
+  },
+  "linescores": {
+   "away": [
+    "28",
+    "11"
+   ],
+   "home": [
+    "41",
+    "44"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "39",
+   "home": "85"
+  },
+  "t": "2026-11-21T00:12:57+00:00"
+ },
+ "home": {
+  "abbr": "W&M",
+  "id": "2729",
+  "name": "William & Mary Tribe"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-20T16:00Z"
+}
