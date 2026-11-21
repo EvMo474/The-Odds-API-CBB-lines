@@ -694,6 +694,26 @@
    "n_events": 79,
    "t": "2026-11-21T02:12:57+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Marshall Thundering Herd @ North Carolina Tar Heels",
+   "credits_left": "28722",
+   "events_list_match": 0.55,
+   "events_list_n": 79,
+   "match": 0.55,
+   "n_events": 79,
+   "t": "2026-11-21T02:15:57+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Marshall Thundering Herd @ North Carolina Tar Heels",
+   "credits_left": "28720",
+   "events_list_match": 0.55,
+   "events_list_n": 79,
+   "match": 0.55,
+   "n_events": 79,
+   "t": "2026-11-21T02:18:57+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -708,6 +728,30 @@
    },
    "status": "STATUS_IN_PROGRESS",
    "t": "2026-11-21T02:12:57+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "39",
+    "home": "48"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-21T02:15:57+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "39",
+    "home": "48"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-21T02:18:57+00:00"
   }
  ],
  "pregame": {
