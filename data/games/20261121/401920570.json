@@ -4,6 +4,44 @@
   "id": "79",
   "name": "Southern Illinois Salukis"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 1.5,
+    "total": 153.5
+   },
+   "betonlineag": {
+    "spread": 1.5,
+    "total": 153.0
+   },
+   "betus": {
+    "spread": 1.5,
+    "total": 153.0
+   },
+   "circasports": {
+    "spread": 1.5,
+    "total": 153.0
+   },
+   "draftkings": {
+    "spread": 1.5,
+    "total": 153.5
+   },
+   "fanatics": {
+    "spread": 1.5,
+    "total": 153.0
+   },
+   "fanduel": {
+    "spread": 1.5,
+    "total": 152.5
+   },
+   "lowvig": {
+    "spread": 1.5,
+    "total": 153.0
+   }
+  },
+  "odds_event_id": "fa6a6d717b7ee026ba18c92b10e5e36e",
+  "t": "2026-11-21T22:26:11+00:00"
+ },
  "date_key": "20261121",
  "event_id": "401920570",
  "home": {
