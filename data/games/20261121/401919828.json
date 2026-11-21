@@ -714,6 +714,26 @@
    "n_events": 48,
    "t": "2026-11-21T19:25:48+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Southern Illinois Salukis @ East Carolina Pirates",
+   "credits_left": "28582",
+   "events_list_match": 0.54,
+   "events_list_n": 48,
+   "match": 0.54,
+   "n_events": 48,
+   "t": "2026-11-21T19:28:49+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Southern Illinois Salukis @ East Carolina Pirates",
+   "credits_left": "28580",
+   "events_list_match": 0.54,
+   "events_list_n": 47,
+   "match": 0.54,
+   "n_events": 47,
+   "t": "2026-11-21T19:31:48+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -752,6 +772,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-21T19:25:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "34",
+    "home": "29"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T19:28:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "34",
+    "home": "29"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T19:31:48+00:00"
   }
  ],
  "pregame": {
