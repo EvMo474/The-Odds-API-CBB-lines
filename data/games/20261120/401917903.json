@@ -55,6 +55,26 @@
    "n_events": 87,
    "t": "2026-11-21T01:18:57+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "SE Louisiana Lions @ Kennesaw St Owls",
+   "credits_left": "28754",
+   "events_list_match": 0.5,
+   "events_list_n": 88,
+   "match": 0.5,
+   "n_events": 88,
+   "t": "2026-11-21T01:21:57+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "SE Louisiana Lions @ Kennesaw St Owls",
+   "credits_left": "28752",
+   "events_list_match": 0.5,
+   "events_list_n": 88,
+   "match": 0.5,
+   "n_events": 88,
+   "t": "2026-11-21T01:24:57+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -69,6 +89,30 @@
    },
    "status": "STATUS_IN_PROGRESS",
    "t": "2026-11-21T01:18:57+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "22",
+    "home": "57"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T01:21:57+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "22",
+    "home": "57"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T01:24:57+00:00"
   }
  ],
  "start": "2026-11-21T00:15Z"
