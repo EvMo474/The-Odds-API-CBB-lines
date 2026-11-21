@@ -765,6 +765,26 @@
    "n_events": 59,
    "t": "2026-11-21T21:37:48+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Liberty Flames @ Richmond Spiders",
+   "credits_left": "28502",
+   "events_list_match": 0.44,
+   "events_list_n": 59,
+   "match": 0.44,
+   "n_events": 59,
+   "t": "2026-11-21T21:40:48+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Liberty Flames @ Richmond Spiders",
+   "credits_left": "28500",
+   "events_list_match": 0.44,
+   "events_list_n": 59,
+   "match": 0.44,
+   "n_events": 59,
+   "t": "2026-11-21T21:43:48+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -815,6 +835,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-21T21:37:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "18",
+    "home": "35"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T21:40:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "18",
+    "home": "35"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T21:43:48+00:00"
   }
  ],
  "pregame": {
