@@ -4,6 +4,48 @@
   "id": "2330",
   "name": "Le Moyne Dolphins"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -35.5,
+    "total": 154.5
+   },
+   "betonlineag": {
+    "spread": -34.5,
+    "total": 154.5
+   },
+   "betrivers": {
+    "spread": -35.5,
+    "total": 155.5
+   },
+   "circasports": {
+    "spread": -35.5,
+    "total": 154.0
+   },
+   "draftkings": {
+    "spread": -35.5,
+    "total": 154.5
+   },
+   "fanatics": {
+    "spread": -35.0,
+    "total": 154.5
+   },
+   "fanduel": {
+    "spread": -35.5,
+    "total": 154.5
+   },
+   "lowvig": {
+    "spread": -34.5,
+    "total": 154.5
+   },
+   "williamhill_us": {
+    "spread": -35.0,
+    "total": 155.0
+   }
+  },
+  "odds_event_id": "5510f024997e32ccb84f6d5ad2b58e8d",
+  "t": "2026-11-21T00:54:58+00:00"
+ },
  "date_key": "20261120",
  "event_id": "401919784",
  "home": {

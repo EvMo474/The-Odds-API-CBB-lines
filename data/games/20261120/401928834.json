@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "WVUT",
+  "id": "2706",
+  "name": "WVU Tech Golden Bears"
+ },
+ "date_key": "20261120",
+ "event_id": "401928834",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 23,
+    "3pm": 7,
+    "fg_pct": 39.06,
+    "fga": 64,
+    "fgm": 25,
+    "fta": 17,
+    "ftm": 14
+   },
+   "home": {
+    "3pa": 36,
+    "3pm": 13,
+    "fg_pct": 55.84,
+    "fga": 77,
+    "fgm": 43,
+    "fta": 22,
+    "ftm": 17
+   }
+  },
+  "linescores": {
+   "away": [
+    "33",
+    "38"
+   ],
+   "home": [
+    "68",
+    "48"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "71",
+   "home": "116"
+  },
+  "t": "2026-11-21T00:54:57+00:00"
+ },
+ "home": {
+  "abbr": "AKR",
+  "id": "2006",
+  "name": "Akron Zips"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-20T23:00Z"
+}
