@@ -4,6 +4,48 @@
   "id": "2031",
   "name": "Little Rock Trojans"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 4.5,
+    "total": 159.5
+   },
+   "betonlineag": {
+    "spread": 4.5,
+    "total": 160.0
+   },
+   "betrivers": {
+    "spread": 4.5,
+    "total": 158.5
+   },
+   "circasports": {
+    "spread": 4.0,
+    "total": 159.5
+   },
+   "draftkings": {
+    "spread": 4.5,
+    "total": 159.5
+   },
+   "fanatics": {
+    "spread": 4.5,
+    "total": 159.5
+   },
+   "fanduel": {
+    "spread": 5.5,
+    "total": 159.5
+   },
+   "lowvig": {
+    "spread": 4.5,
+    "total": 160.0
+   },
+   "williamhill_us": {
+    "spread": 4.5,
+    "total": 159.5
+   }
+  },
+  "odds_event_id": "fb773220f5132a61b708f5d7ed605b9f",
+  "t": "2026-11-21T18:55:48+00:00"
+ },
  "date_key": "20261121",
  "event_id": "401922222",
  "home": {
