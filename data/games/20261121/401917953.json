@@ -1194,6 +1194,39 @@
    },
    "status": "STATUS_IN_PROGRESS",
    "t": "2026-11-21T22:01:48+00:00"
+  },
+  {
+   "clock": "3:15",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "63",
+    "home": "61"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-21T22:08:12+00:00"
+  },
+  {
+   "clock": "2:19",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "66",
+    "home": "61"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-21T22:11:11+00:00"
+  },
+  {
+   "clock": "1:07",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "67",
+    "home": "64"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-21T22:14:11+00:00"
   }
  ],
  "pregame": {
