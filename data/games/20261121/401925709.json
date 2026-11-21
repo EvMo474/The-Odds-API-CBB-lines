@@ -4,6 +4,48 @@
   "id": "2737",
   "name": "Winthrop Eagles"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -6.5,
+    "total": 161.5
+   },
+   "betonlineag": {
+    "spread": -6.5,
+    "total": 162.0
+   },
+   "betrivers": {
+    "spread": -6.5,
+    "total": 161.5
+   },
+   "circasports": {
+    "spread": -6.5,
+    "total": 162.0
+   },
+   "draftkings": {
+    "spread": -6.5,
+    "total": 161.5
+   },
+   "fanatics": {
+    "spread": -6.5,
+    "total": 162.0
+   },
+   "fanduel": {
+    "spread": -6.5,
+    "total": 160.5
+   },
+   "lowvig": {
+    "spread": -6.5,
+    "total": 162.0
+   },
+   "williamhill_us": {
+    "spread": -6.5,
+    "total": 161.5
+   }
+  },
+  "odds_event_id": "7522960fbb3bcea978fbb1291c8c866b",
+  "t": "2026-11-21T21:55:49+00:00"
+ },
  "date_key": "20261121",
  "event_id": "401925709",
  "home": {

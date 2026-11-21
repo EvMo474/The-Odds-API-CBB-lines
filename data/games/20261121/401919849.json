@@ -4,6 +4,48 @@
   "id": "111",
   "name": "Northeastern Huskies"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 10.5,
+    "total": 146.5
+   },
+   "betonlineag": {
+    "spread": 11.0,
+    "total": 146.5
+   },
+   "betrivers": {
+    "spread": 10.5,
+    "total": 147.5
+   },
+   "circasports": {
+    "spread": 10.5,
+    "total": 146.5
+   },
+   "draftkings": {
+    "spread": 10.5,
+    "total": 146.5
+   },
+   "fanatics": {
+    "spread": 10.5,
+    "total": 147.0
+   },
+   "fanduel": {
+    "spread": 10.5,
+    "total": 146.5
+   },
+   "lowvig": {
+    "spread": 11.0,
+    "total": 146.5
+   },
+   "williamhill_us": {
+    "spread": 10.5,
+    "total": 145.5
+   }
+  },
+  "odds_event_id": "e7d59ea4f2c81294a88a46cc63628713",
+  "t": "2026-11-21T21:55:49+00:00"
+ },
  "date_key": "20261121",
  "event_id": "401919849",
  "home": {

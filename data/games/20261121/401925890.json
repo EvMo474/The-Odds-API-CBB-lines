@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "JUS",
+  "id": "130183",
+  "name": "Justice Lions"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261121",
+ "event_id": "401925890",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 21,
+    "3pm": 4,
+    "fg_pct": 24.32,
+    "fga": 37,
+    "fgm": 9,
+    "fta": 11,
+    "ftm": 9
+   },
+   "home": {
+    "3pa": 16,
+    "3pm": 5,
+    "fg_pct": 40.0,
+    "fga": 35,
+    "fgm": 14,
+    "fta": 14,
+    "ftm": 9
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "31",
+   "home": "42"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-21T21:52:48+00:00"
+ },
+ "halftime_first_seen": "2026-11-21T21:52:48+00:00",
+ "home": {
+  "abbr": "UNCO",
+  "id": "2458",
+  "name": "Northern Colorado Bears"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Nicholls St Colonels @ Southern Miss Golden Eagles",
+   "credits_left": "28494",
+   "events_list_match": 0.49,
+   "events_list_n": 59,
+   "match": 0.49,
+   "n_events": 59,
+   "t": "2026-11-21T21:52:49+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Nicholls St Colonels @ Southern Miss Golden Eagles",
+   "credits_left": "28492",
+   "events_list_match": 0.49,
+   "events_list_n": 59,
+   "match": 0.49,
+   "n_events": 59,
+   "t": "2026-11-21T21:55:49+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "42"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T21:52:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "31",
+    "home": "42"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T21:55:48+00:00"
+  }
+ ],
+ "start": "2026-11-21T21:00Z"
+}
