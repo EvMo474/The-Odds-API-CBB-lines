@@ -4,6 +4,48 @@
   "id": "2197",
   "name": "Eastern Illinois Panthers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -46.5,
+    "total": 163.5
+   },
+   "betonlineag": {
+    "spread": -46.0,
+    "total": 164.0
+   },
+   "betrivers": {
+    "spread": -45.5,
+    "total": 163.5
+   },
+   "betus": {
+    "spread": -46.0,
+    "total": 164.0
+   },
+   "circasports": {
+    "spread": -46.0,
+    "total": 164.0
+   },
+   "draftkings": {
+    "spread": -45.5,
+    "total": 163.5
+   },
+   "fanatics": {
+    "spread": -46.0,
+    "total": 163.5
+   },
+   "fanduel": {
+    "spread": -45.5,
+    "total": 163.5
+   },
+   "lowvig": {
+    "spread": -46.0,
+    "total": 164.0
+   }
+  },
+  "odds_event_id": "ccd4397771cec2458b64efaca3c2c783",
+  "t": "2026-11-21T01:54:57+00:00"
+ },
  "date_key": "20261120",
  "event_id": "401913529",
  "home": {

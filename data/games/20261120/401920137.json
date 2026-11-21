@@ -4,6 +4,52 @@
   "id": "2934",
   "name": "Cal State Bakersfield Roadrunners"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -2.5,
+    "total": 153.5
+   },
+   "betonlineag": {
+    "spread": -2.5,
+    "total": 153.0
+   },
+   "betrivers": {
+    "spread": -1.5,
+    "total": 153.5
+   },
+   "betus": {
+    "spread": -2.0,
+    "total": 153.5
+   },
+   "circasports": {
+    "spread": -2.0,
+    "total": 153.5
+   },
+   "draftkings": {
+    "spread": -2.5,
+    "total": 153.5
+   },
+   "fanatics": {
+    "spread": -2.0,
+    "total": 153.5
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 153.5
+   },
+   "lowvig": {
+    "spread": -2.5,
+    "total": 153.0
+   },
+   "williamhill_us": {
+    "spread": -2.5,
+    "total": 153.5
+   }
+  },
+  "odds_event_id": "73becee99238228e81a7770cea1108c8",
+  "t": "2026-11-21T01:54:57+00:00"
+ },
  "date_key": "20261120",
  "event_id": "401920137",
  "home": {
