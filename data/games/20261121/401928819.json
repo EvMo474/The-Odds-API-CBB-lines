@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "CSJ",
+  "id": "502",
+  "name": "Calumet St. Joseph Crimson Wave"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261121",
+ "event_id": "401928819",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 13,
+    "3pm": 3,
+    "fg_pct": 34.48,
+    "fga": 29,
+    "fgm": 10,
+    "fta": 4,
+    "ftm": 2
+   },
+   "home": {
+    "3pa": 9,
+    "3pm": 4,
+    "fg_pct": 56.25,
+    "fga": 32,
+    "fgm": 18,
+    "fta": 7,
+    "ftm": 5
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "25",
+   "home": "45"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-21T19:46:48+00:00"
+ },
+ "halftime_first_seen": "2026-11-21T19:46:48+00:00",
+ "home": {
+  "abbr": "PFW",
+  "id": "2870",
+  "name": "Purdue Fort Wayne Mastodons"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "South Florida Bulls @ George Mason Patriots",
+   "credits_left": "28572",
+   "events_list_match": 0.37,
+   "events_list_n": 47,
+   "match": 0.37,
+   "n_events": 47,
+   "t": "2026-11-21T19:46:48+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "South Florida Bulls @ George Mason Patriots",
+   "credits_left": "28570",
+   "events_list_match": 0.37,
+   "events_list_n": 47,
+   "match": 0.37,
+   "n_events": 47,
+   "t": "2026-11-21T19:49:49+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "25",
+    "home": "45"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T19:46:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "25",
+    "home": "45"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T19:49:48+00:00"
+  }
+ ],
+ "start": "2026-11-21T19:00Z"
+}
