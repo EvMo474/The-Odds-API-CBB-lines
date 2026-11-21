@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "CTON",
+  "id": "126954",
+  "name": "Clinton Golden Bears"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261121",
+ "event_id": "401926113",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 11,
+    "3pm": 4,
+    "fg_pct": 48.48,
+    "fga": 33,
+    "fgm": 16,
+    "fta": 0,
+    "ftm": 0
+   },
+   "home": {
+    "3pa": 22,
+    "3pm": 8,
+    "fg_pct": 48.57,
+    "fga": 35,
+    "fgm": 17,
+    "fta": 11,
+    "ftm": 8
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "36",
+   "home": "50"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-21T21:46:48+00:00"
+ },
+ "halftime_first_seen": "2026-11-21T21:46:48+00:00",
+ "home": {
+  "abbr": "FUR",
+  "id": "231",
+  "name": "Furman Paladins"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Binghamton Bearcats @ Army Knights",
+   "credits_left": "28498",
+   "events_list_match": 0.47,
+   "events_list_n": 59,
+   "match": 0.47,
+   "n_events": 59,
+   "t": "2026-11-21T21:46:48+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Binghamton Bearcats @ Army Knights",
+   "credits_left": "28496",
+   "events_list_match": 0.47,
+   "events_list_n": 59,
+   "match": 0.47,
+   "n_events": 59,
+   "t": "2026-11-21T21:49:48+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "36",
+    "home": "50"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T21:46:48+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "36",
+    "home": "50"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T21:49:48+00:00"
+  }
+ ],
+ "start": "2026-11-21T21:00Z"
+}
