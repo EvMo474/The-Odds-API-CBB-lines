@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "NEU",
+  "id": "422",
+  "name": "Neumann Knights"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261120",
+ "event_id": "401926755",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 4,
+    "3pm": 1,
+    "fg_pct": 26.92,
+    "fga": 26,
+    "fgm": 7,
+    "fta": 4,
+    "ftm": 3
+   },
+   "home": {
+    "3pa": 14,
+    "3pm": 3,
+    "fg_pct": 44.44,
+    "fga": 36,
+    "fgm": 16,
+    "fta": 4,
+    "ftm": 1
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "18",
+   "home": "36"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-21T01:57:57+00:00"
+ },
+ "halftime_first_seen": "2026-11-21T01:57:57+00:00",
+ "home": {
+  "abbr": "LEH",
+  "id": "2329",
+  "name": "Lehigh Mountain Hawks"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Army Knights @ Binghamton Bearcats",
+   "credits_left": "28734",
+   "events_list_match": 0.56,
+   "events_list_n": 86,
+   "match": 0.56,
+   "n_events": 86,
+   "t": "2026-11-21T01:57:57+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Army Knights @ Binghamton Bearcats",
+   "credits_left": "28732",
+   "events_list_match": 0.56,
+   "events_list_n": 86,
+   "match": 0.56,
+   "n_events": 86,
+   "t": "2026-11-21T02:00:58+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "18",
+    "home": "36"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T01:57:57+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "18",
+    "home": "36"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-21T02:00:57+00:00"
+  }
+ ],
+ "start": "2026-11-21T01:00Z"
+}
