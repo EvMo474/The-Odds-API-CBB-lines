@@ -4,6 +4,52 @@
   "id": "254",
   "name": "Utah Utes"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -9.5,
+    "total": 132.5
+   },
+   "betonlineag": {
+    "spread": -9.5,
+    "total": 132.5
+   },
+   "betrivers": {
+    "spread": -9.5,
+    "total": 131.5
+   },
+   "betus": {
+    "spread": -9.5,
+    "total": 132.5
+   },
+   "circasports": {
+    "spread": -9.0,
+    "total": 132.5
+   },
+   "draftkings": {
+    "spread": -9.5,
+    "total": 132.5
+   },
+   "fanatics": {
+    "spread": -9.5,
+    "total": 132.0
+   },
+   "fanduel": {
+    "spread": -9.5,
+    "total": 131.5
+   },
+   "lowvig": {
+    "spread": -9.5,
+    "total": 132.5
+   },
+   "williamhill_us": {
+    "spread": -9.5,
+    "total": 132.5
+   }
+  },
+  "odds_event_id": "c176d337261bbb0fe334d3bf7f270ba6",
+  "t": "2026-11-22T22:57:05+00:00"
+ },
  "date_key": "20261122",
  "event_id": "401921420",
  "home": {
