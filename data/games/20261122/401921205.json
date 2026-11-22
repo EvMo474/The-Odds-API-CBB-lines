@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "TEM",
+  "id": "218",
+  "name": "Temple Owls"
+ },
+ "date_key": "20261122",
+ "event_id": "401921205",
+ "home": {
+  "abbr": "SFA",
+  "id": "2617",
+  "name": "Stephen F. Austin Lumberjacks"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "TEM -1.5",
+    "home_spread": 1.5,
+    "provider": "DraftKings",
+    "raw_spread": 1.5,
+    "total": 144.5
+   }
+  ],
+  "t": "2026-11-22T05:02:25+00:00"
+ },
+ "start": "2026-11-22T22:30Z"
+}

@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "EVAN",
+  "id": "339",
+  "name": "Evansville Purple Aces"
+ },
+ "date_key": "20261122",
+ "event_id": "401918988",
+ "home": {
+  "abbr": "MEM",
+  "id": "235",
+  "name": "Memphis Tigers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MEM -21.5",
+    "home_spread": -21.5,
+    "provider": "DraftKings",
+    "raw_spread": -21.5,
+    "total": 159.5
+   }
+  ],
+  "t": "2026-11-22T05:02:25+00:00"
+ },
+ "start": "2026-11-22T19:00Z"
+}

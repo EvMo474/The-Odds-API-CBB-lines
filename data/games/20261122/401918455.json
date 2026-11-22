@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "W&M",
+  "id": "2729",
+  "name": "William & Mary Tribe"
+ },
+ "date_key": "20261122",
+ "event_id": "401918455",
+ "home": {
+  "abbr": "YSU",
+  "id": "2754",
+  "name": "Youngstown State Penguins"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "W&M -2.5",
+    "home_spread": 2.5,
+    "provider": "DraftKings",
+    "raw_spread": 2.5,
+    "total": 164.5
+   }
+  ],
+  "t": "2026-11-22T05:02:25+00:00"
+ },
+ "start": "2026-11-22T19:00Z"
+}

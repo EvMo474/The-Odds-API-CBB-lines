@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "USM",
+  "id": "2572",
+  "name": "Southern Miss Golden Eagles"
+ },
+ "date_key": "20261122",
+ "event_id": "401928999",
+ "home": {
+  "abbr": "VAL",
+  "id": "2674",
+  "name": "Valparaiso Beacons"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VAL -7.5",
+    "home_spread": -7.5,
+    "provider": "DraftKings",
+    "raw_spread": -7.5,
+    "total": 143.5
+   }
+  ],
+  "t": "2026-11-22T05:02:25+00:00"
+ },
+ "start": "2026-11-22T23:00Z"
+}
