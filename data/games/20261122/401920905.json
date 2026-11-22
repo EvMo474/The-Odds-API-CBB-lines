@@ -4,6 +4,52 @@
   "id": "48",
   "name": "Delaware Blue Hens"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -30.5,
+    "total": 144.5
+   },
+   "betonlineag": {
+    "spread": -30.5,
+    "total": 144.5
+   },
+   "betrivers": {
+    "spread": -30.5,
+    "total": 144.5
+   },
+   "betus": {
+    "spread": -30.5,
+    "total": 144.5
+   },
+   "circasports": {
+    "spread": -30.5,
+    "total": 144.0
+   },
+   "draftkings": {
+    "spread": -30.5,
+    "total": 144.5
+   },
+   "fanatics": {
+    "spread": -30.0,
+    "total": 144.5
+   },
+   "fanduel": {
+    "spread": -30.5,
+    "total": 144.5
+   },
+   "lowvig": {
+    "spread": -30.5,
+    "total": 144.5
+   },
+   "williamhill_us": {
+    "spread": -30.5,
+    "total": 145.0
+   }
+  },
+  "odds_event_id": "44c35f271b07ee73f3cdeb6afb468ff6",
+  "t": "2026-11-22T23:57:05+00:00"
+ },
  "date_key": "20261122",
  "event_id": "401920905",
  "home": {
