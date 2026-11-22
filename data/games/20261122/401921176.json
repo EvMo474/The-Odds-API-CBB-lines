@@ -724,6 +724,26 @@
    "n_events": 46,
    "t": "2026-11-22T22:33:05+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Tennessee Volunteers @ Maryland Terrapins",
+   "credits_left": "28294",
+   "events_list_match": 0.44,
+   "events_list_n": 49,
+   "match": 0.44,
+   "n_events": 49,
+   "t": "2026-11-22T22:36:05+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Tennessee Volunteers @ Maryland Terrapins",
+   "credits_left": "28292",
+   "events_list_match": 0.44,
+   "events_list_n": 49,
+   "match": 0.44,
+   "n_events": 49,
+   "t": "2026-11-22T22:39:05+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -774,6 +794,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-22T22:33:04+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "43",
+    "home": "28"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-22T22:36:04+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "43",
+    "home": "28"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-22T22:39:04+00:00"
   }
  ],
  "pregame": {
