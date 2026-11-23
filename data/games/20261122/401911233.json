@@ -4,6 +4,48 @@
   "id": "23",
   "name": "San Jos\u00e9 State Spartans"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -4.5,
+    "total": 148.5
+   },
+   "betonlineag": {
+    "spread": -4.0,
+    "total": 148.5
+   },
+   "betrivers": {
+    "spread": -4.5,
+    "total": 147.5
+   },
+   "betus": {
+    "spread": -4.0,
+    "total": 148.5
+   },
+   "circasports": {
+    "spread": -4.0,
+    "total": 146.5
+   },
+   "draftkings": {
+    "spread": -4.5,
+    "total": 147.5
+   },
+   "fanatics": {
+    "spread": -4.5,
+    "total": 147.5
+   },
+   "fanduel": {
+    "spread": -4.5,
+    "total": 147.5
+   },
+   "lowvig": {
+    "spread": -4.0,
+    "total": 148.5
+   }
+  },
+  "odds_event_id": "e1df42277edc29d6e8f5fe465c9fb695",
+  "t": "2026-11-23T04:57:18+00:00"
+ },
  "date_key": "20261122",
  "event_id": "401911233",
  "home": {
