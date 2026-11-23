@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "DEN",
+  "id": "2172",
+  "name": "Denver Pioneers"
+ },
+ "date_key": "20261123",
+ "event_id": "401909788",
+ "home": {
+  "abbr": "KU",
+  "id": "2305",
+  "name": "Kansas Jayhawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "KU -35.5",
+    "home_spread": -35.5,
+    "provider": "Draft Kings",
+    "raw_spread": -35.5,
+    "total": 157.5
+   }
+  ],
+  "t": "2026-11-23T05:00:18+00:00"
+ },
+ "start": "2026-11-24T01:00Z"
+}

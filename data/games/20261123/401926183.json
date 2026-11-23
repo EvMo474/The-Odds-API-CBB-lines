@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UNCG",
+  "id": "2430",
+  "name": "UNC Greensboro Spartans"
+ },
+ "date_key": "20261123",
+ "event_id": "401926183",
+ "home": {
+  "abbr": "PEPP",
+  "id": "2492",
+  "name": "Pepperdine Waves"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "PEPP -11.5",
+    "home_spread": -11.5,
+    "provider": "Draft Kings",
+    "raw_spread": -11.5,
+    "total": 155.5
+   }
+  ],
+  "t": "2026-11-23T05:00:18+00:00"
+ },
+ "start": "2026-11-24T02:30Z"
+}

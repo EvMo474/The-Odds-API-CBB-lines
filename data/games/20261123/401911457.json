@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NEV",
+  "id": "2440",
+  "name": "Nevada Wolf Pack"
+ },
+ "date_key": "20261123",
+ "event_id": "401911457",
+ "home": {
+  "abbr": "SF",
+  "id": "2539",
+  "name": "San Francisco Dons"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "NEV -7.5",
+    "home_spread": 7.5,
+    "provider": "Draft Kings",
+    "raw_spread": 7.5,
+    "total": 138.5
+   }
+  ],
+  "t": "2026-11-23T05:00:18+00:00"
+ },
+ "start": "2026-11-23T21:30Z"
+}

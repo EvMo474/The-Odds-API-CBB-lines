@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "YALE",
+  "id": "43",
+  "name": "Yale Bulldogs"
+ },
+ "date_key": "20261123",
+ "event_id": "401929286",
+ "home": {
+  "abbr": "BEL",
+  "id": "2057",
+  "name": "Belmont Bruins"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "BEL -2.5",
+    "home_spread": -2.5,
+    "provider": "Draft Kings",
+    "raw_spread": -2.5,
+    "total": 142.5
+   }
+  ],
+  "t": "2026-11-23T05:00:18+00:00"
+ },
+ "start": "2026-11-23T21:00Z"
+}

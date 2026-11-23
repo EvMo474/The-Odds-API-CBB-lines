@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UNI",
+  "id": "2460",
+  "name": "Northern Iowa Panthers"
+ },
+ "date_key": "20261123",
+ "event_id": "401921700",
+ "home": {
+  "abbr": "DAV",
+  "id": "2166",
+  "name": "Davidson Wildcats"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "DAV -4.5",
+    "home_spread": -4.5,
+    "provider": "Draft Kings",
+    "raw_spread": -4.5,
+    "total": 140.5
+   }
+  ],
+  "t": "2026-11-23T05:00:18+00:00"
+ },
+ "start": "2026-11-23T16:00Z"
+}

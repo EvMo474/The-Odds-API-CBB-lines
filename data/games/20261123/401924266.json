@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LBSU",
+  "id": "299",
+  "name": "Long Beach State Beach"
+ },
+ "date_key": "20261123",
+ "event_id": "401924266",
+ "home": {
+  "abbr": "FIU",
+  "id": "2229",
+  "name": "Florida International Panthers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "FIU -9.5",
+    "home_spread": -9.5,
+    "provider": "Draft Kings",
+    "raw_spread": -9.5,
+    "total": 160.5
+   }
+  ],
+  "t": "2026-11-23T05:00:18+00:00"
+ },
+ "start": "2026-11-23T18:00Z"
+}
