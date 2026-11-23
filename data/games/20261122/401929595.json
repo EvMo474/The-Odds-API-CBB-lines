@@ -133,6 +133,16 @@
    "n_events": 44,
    "t": "2026-11-23T01:51:05+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Monmouth Hawks @ North Carolina Tar Heels",
+   "credits_left": "28200",
+   "events_list_match": 0.53,
+   "events_list_n": 44,
+   "match": 0.53,
+   "n_events": 44,
+   "t": "2026-11-23T01:54:05+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -195,6 +205,183 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-23T01:51:04+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "41",
+    "home": "43"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-23T01:54:05+00:00"
+  },
+  {
+   "clock": "18:26",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "41",
+    "home": "45"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T01:57:04+00:00"
+  },
+  {
+   "clock": "17:08",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "45",
+    "home": "49"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:00:05+00:00"
+  },
+  {
+   "clock": "15:48",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "47",
+    "home": "51"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:03:04+00:00"
+  },
+  {
+   "clock": "14:32",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "47",
+    "home": "57"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:06:04+00:00"
+  },
+  {
+   "clock": "13:20",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "48",
+    "home": "60"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:09:04+00:00"
+  },
+  {
+   "clock": "11:38",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "51",
+    "home": "65"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:12:05+00:00"
+  },
+  {
+   "clock": "10:56",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "51",
+    "home": "68"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:15:05+00:00"
+  },
+  {
+   "clock": "9:37",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "56",
+    "home": "71"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:18:04+00:00"
+  },
+  {
+   "clock": "8:29",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "58",
+    "home": "73"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:21:05+00:00"
+  },
+  {
+   "clock": "7:27",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "60",
+    "home": "76"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:24:05+00:00"
+  },
+  {
+   "clock": "5:43",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "65",
+    "home": "80"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:27:05+00:00"
+  },
+  {
+   "clock": "4:46",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "69",
+    "home": "82"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:30:04+00:00"
+  },
+  {
+   "clock": "2:29",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "72",
+    "home": "87"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:33:04+00:00"
+  },
+  {
+   "clock": "2:03",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "72",
+    "home": "91"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:36:04+00:00"
+  },
+  {
+   "clock": "0:26",
+   "odds": [],
+   "period": 2,
+   "score": {
+    "away": "77",
+    "home": "94"
+   },
+   "status": "STATUS_IN_PROGRESS",
+   "t": "2026-11-23T02:39:04+00:00"
   }
  ],
  "start": "2026-11-23T01:00Z"
