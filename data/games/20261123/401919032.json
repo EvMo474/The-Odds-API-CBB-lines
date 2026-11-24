@@ -11,7 +11,7 @@
    },
    "betonlineag": {
     "spread": -18.0,
-    "total": 142.0
+    "total": 141.5
    },
    "betrivers": {
     "spread": -18.5,
@@ -19,7 +19,7 @@
    },
    "circasports": {
     "spread": -18.0,
-    "total": 142.0
+    "total": 141.0
    },
    "draftkings": {
     "spread": -18.5,
@@ -27,7 +27,7 @@
    },
    "fanatics": {
     "spread": -18.5,
-    "total": 141.5
+    "total": 142.0
    },
    "fanduel": {
     "spread": -18.5,
@@ -39,11 +39,11 @@
    },
    "williamhill_us": {
     "spread": -18.5,
-    "total": 142.0
+    "total": 141.5
    }
   },
   "odds_event_id": "9fd23b7824675dff70bd989ae6fe4967",
-  "t": "2026-11-24T00:27:20+00:00"
+  "t": "2026-11-24T00:30:22+00:00"
  },
  "date_key": "20261123",
  "event_id": "401919032",
