@@ -4,6 +4,48 @@
   "id": "2011",
   "name": "Alabama State Hornets"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -17.5,
+    "total": 142.5
+   },
+   "betonlineag": {
+    "spread": -17.5,
+    "total": 143.0
+   },
+   "betrivers": {
+    "spread": -17.5,
+    "total": 142.5
+   },
+   "circasports": {
+    "spread": -18.0,
+    "total": 143.5
+   },
+   "draftkings": {
+    "spread": -17.5,
+    "total": 143.5
+   },
+   "fanatics": {
+    "spread": -18.0,
+    "total": 142.5
+   },
+   "fanduel": {
+    "spread": -17.5,
+    "total": 143.5
+   },
+   "lowvig": {
+    "spread": -17.5,
+    "total": 143.0
+   },
+   "williamhill_us": {
+    "spread": -18.0,
+    "total": 142.5
+   }
+  },
+  "odds_event_id": "b7a4f6e90eb128b0d569dacbfe487e80",
+  "t": "2026-11-24T02:57:21+00:00"
+ },
  "date_key": "20261123",
  "event_id": "401918057",
  "home": {
