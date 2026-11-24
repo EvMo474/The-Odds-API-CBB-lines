@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "ECCL",
+  "id": "3120",
+  "name": "Ecclesia Royals"
+ },
+ "date_key": "20261123",
+ "event_id": "401928389",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 21,
+    "3pm": 5,
+    "fg_pct": 29.31,
+    "fga": 58,
+    "fgm": 17,
+    "fta": 17,
+    "ftm": 6
+   },
+   "home": {
+    "3pa": 35,
+    "3pm": 15,
+    "fg_pct": 62.35,
+    "fga": 85,
+    "fgm": 53,
+    "fta": 11,
+    "ftm": 5
+   }
+  },
+  "linescores": {
+   "away": [
+    "24",
+    "21"
+   ],
+   "home": [
+    "62",
+    "64"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "45",
+   "home": "126"
+  },
+  "t": "2026-11-24T00:15:20+00:00"
+ },
+ "home": {
+  "abbr": "GRAM",
+  "id": "2755",
+  "name": "Grambling Tigers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-23T20:00Z"
+}
