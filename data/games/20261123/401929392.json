@@ -1,0 +1,97 @@
+{
+ "away": {
+  "abbr": "UWST",
+  "id": "2744",
+  "name": "Wisconsin Stout Blue Devils"
+ },
+ "break_via": "STATUS_HALFTIME",
+ "date_key": "20261123",
+ "event_id": "401929392",
+ "halftime": {
+  "box_1h": {
+   "away": {
+    "3pa": 20,
+    "3pm": 7,
+    "fg_pct": 32.14,
+    "fga": 28,
+    "fgm": 9,
+    "fta": 3,
+    "ftm": 1
+   },
+   "home": {
+    "3pa": 10,
+    "3pm": 4,
+    "fg_pct": 47.22,
+    "fga": 36,
+    "fgm": 17,
+    "fta": 5,
+    "ftm": 2
+   }
+  },
+  "raw_pickcenter": [],
+  "raw_summary_odds": [],
+  "score": {
+   "away": "26",
+   "home": "40"
+  },
+  "summary_odds": [],
+  "summary_pickcenter": [],
+  "t": "2026-11-24T01:48:20+00:00"
+ },
+ "halftime_first_seen": "2026-11-24T01:48:20+00:00",
+ "home": {
+  "abbr": "NDSU",
+  "id": "2449",
+  "name": "North Dakota State Bison"
+ },
+ "neutral_site": false,
+ "odds_api_ticks": [
+  {
+   "closest": "Idaho State Bengals @ Boise State Broncos",
+   "credits_left": "28098",
+   "events_list_match": 0.49,
+   "events_list_n": 80,
+   "match": 0.49,
+   "n_events": 80,
+   "t": "2026-11-24T01:48:20+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Idaho State Bengals @ Boise State Broncos",
+   "credits_left": "28096",
+   "events_list_match": 0.49,
+   "events_list_n": 81,
+   "match": 0.49,
+   "n_events": 81,
+   "t": "2026-11-24T01:51:20+00:00",
+   "unmatched": true
+  }
+ ],
+ "odds_ticks": [
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "40"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-24T01:48:20+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "26",
+    "home": "40"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-24T01:51:20+00:00"
+  }
+ ],
+ "start": "2026-11-24T01:00Z"
+}
