@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "GWEB",
+  "id": "2241",
+  "name": "Gardner-Webb Runnin' Bulldogs"
+ },
+ "date_key": "20261124",
+ "event_id": "401911027",
+ "home": {
+  "abbr": "BGSU",
+  "id": "189",
+  "name": "Bowling Green Falcons"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "BGSU -12.5",
+    "home_spread": -12.5,
+    "provider": "Draft Kings",
+    "raw_spread": -12.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-25T00:00Z"
+}

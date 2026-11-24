@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SELA",
+  "id": "2545",
+  "name": "SE Louisiana Lions"
+ },
+ "date_key": "20261124",
+ "event_id": "401920819",
+ "home": {
+  "abbr": "UNCO",
+  "id": "2458",
+  "name": "Northern Colorado Bears"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UNCO -3.5",
+    "home_spread": -3.5,
+    "provider": "Draft Kings",
+    "raw_spread": -3.5,
+    "total": 145.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-24T17:30Z"
+}

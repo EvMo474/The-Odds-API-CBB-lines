@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "MER",
+  "id": "2382",
+  "name": "Mercer Bears"
+ },
+ "date_key": "20261124",
+ "event_id": "401923262",
+ "home": {
+  "abbr": "FAU",
+  "id": "2226",
+  "name": "Florida Atlantic Owls"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "FAU -7.5",
+    "home_spread": -7.5,
+    "provider": "Draft Kings",
+    "raw_spread": -7.5,
+    "total": 160.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-24T23:00Z"
+}

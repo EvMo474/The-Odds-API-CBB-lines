@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UND",
+  "id": "155",
+  "name": "North Dakota Fighting Hawks"
+ },
+ "date_key": "20261124",
+ "event_id": "401920546",
+ "home": {
+  "abbr": "DETM",
+  "id": "2174",
+  "name": "Detroit Mercy Titans"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UND -4.5",
+    "home_spread": 4.5,
+    "provider": "Draft Kings",
+    "raw_spread": 4.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-24T20:00Z"
+}

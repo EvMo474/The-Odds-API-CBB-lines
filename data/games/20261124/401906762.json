@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "BAY",
+  "id": "239",
+  "name": "Baylor Bears"
+ },
+ "date_key": "20261124",
+ "event_id": "401906762",
+ "home": {
+  "abbr": "ALA",
+  "id": "333",
+  "name": "Alabama Crimson Tide"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "ALA -1.5",
+    "home_spread": -1.5,
+    "provider": "Draft Kings",
+    "raw_spread": -1.5,
+    "total": 173.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-25T03:00Z"
+}

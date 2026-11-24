@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "COFC",
+  "id": "232",
+  "name": "Charleston Cougars"
+ },
+ "date_key": "20261124",
+ "event_id": "401911535",
+ "home": {
+  "abbr": "UTEP",
+  "id": "2638",
+  "name": "UTEP Miners"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "COFC -1.5",
+    "home_spread": 1.5,
+    "provider": "Draft Kings",
+    "raw_spread": 1.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-25T01:30Z"
+}

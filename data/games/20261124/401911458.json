@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NEV",
+  "id": "2440",
+  "name": "Nevada Wolf Pack"
+ },
+ "date_key": "20261124",
+ "event_id": "401911458",
+ "home": {
+  "abbr": "SCU",
+  "id": "2541",
+  "name": "Santa Clara Broncos"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "NEV -1.5",
+    "home_spread": 1.5,
+    "provider": "Draft Kings",
+    "raw_spread": 1.5,
+    "total": 156.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-25T00:00Z"
+}

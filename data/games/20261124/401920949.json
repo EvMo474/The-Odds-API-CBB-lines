@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "EMU",
+  "id": "2199",
+  "name": "Eastern Michigan Eagles"
+ },
+ "date_key": "20261124",
+ "event_id": "401920949",
+ "home": {
+  "abbr": "KENN",
+  "id": "338",
+  "name": "Kennesaw State Owls"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "KENN -3.5",
+    "home_spread": -3.5,
+    "provider": "Draft Kings",
+    "raw_spread": -3.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-24T23:00Z"
+}

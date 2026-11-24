@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "GCU",
+  "id": "2253",
+  "name": "Grand Canyon Lopes"
+ },
+ "date_key": "20261124",
+ "event_id": "401911253",
+ "home": {
+  "abbr": "SLU",
+  "id": "139",
+  "name": "Saint Louis Billikens"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "GCU -1.5",
+    "home_spread": 1.5,
+    "provider": "Draft Kings",
+    "raw_spread": 1.5,
+    "total": 165.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-25T02:30Z"
+}

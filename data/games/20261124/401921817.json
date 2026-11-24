@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "EVAN",
+  "id": "339",
+  "name": "Evansville Purple Aces"
+ },
+ "date_key": "20261124",
+ "event_id": "401921817",
+ "home": {
+  "abbr": "MIZ",
+  "id": "142",
+  "name": "Missouri Tigers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "MIZ -32.5",
+    "home_spread": -32.5,
+    "provider": "Draft Kings",
+    "raw_spread": -32.5,
+    "total": 149.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-25T02:00Z"
+}

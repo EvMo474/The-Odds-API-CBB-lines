@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "PFW",
+  "id": "2870",
+  "name": "Purdue Fort Wayne Mastodons"
+ },
+ "date_key": "20261124",
+ "event_id": "401926154",
+ "home": {
+  "abbr": "SEMO",
+  "id": "2546",
+  "name": "Southeast Missouri State Redhawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SEMO -1.5",
+    "home_spread": -1.5,
+    "provider": "Draft Kings",
+    "raw_spread": -1.5,
+    "total": 150.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-25T00:30Z"
+}

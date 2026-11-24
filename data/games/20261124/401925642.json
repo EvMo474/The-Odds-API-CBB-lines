@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "AAMU",
+  "id": "2010",
+  "name": "Alabama A&M Bulldogs"
+ },
+ "date_key": "20261124",
+ "event_id": "401925642",
+ "home": {
+  "abbr": "UNA",
+  "id": "2453",
+  "name": "North Alabama Lions"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UNA -3.5",
+    "home_spread": -3.5,
+    "provider": "Draft Kings",
+    "raw_spread": -3.5,
+    "total": 142.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-25T01:00Z"
+}

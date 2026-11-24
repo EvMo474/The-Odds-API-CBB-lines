@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "WRST",
+  "id": "2750",
+  "name": "Wright State Raiders"
+ },
+ "date_key": "20261124",
+ "event_id": "401927398",
+ "home": {
+  "abbr": "SBU",
+  "id": "179",
+  "name": "St. Bonaventure Bonnies"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SBU -1.5",
+    "home_spread": -1.5,
+    "provider": "Draft Kings",
+    "raw_spread": -1.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-24T15:00Z"
+}

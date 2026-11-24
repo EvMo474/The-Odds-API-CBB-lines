@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "STAN",
+  "id": "24",
+  "name": "Stanford Cardinal"
+ },
+ "date_key": "20261124",
+ "event_id": "401909763",
+ "home": {
+  "abbr": "COLO",
+  "id": "38",
+  "name": "Colorado Buffaloes"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "STAN -4.5",
+    "home_spread": 4.5,
+    "provider": "Draft Kings",
+    "raw_spread": 4.5,
+    "total": 142.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-25T04:59Z"
+}

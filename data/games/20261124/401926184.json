@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UNCG",
+  "id": "2430",
+  "name": "UNC Greensboro Spartans"
+ },
+ "date_key": "20261124",
+ "event_id": "401926184",
+ "home": {
+  "abbr": "UCSB",
+  "id": "2540",
+  "name": "UC Santa Barbara Gauchos"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UCSB -18.5",
+    "home_spread": -18.5,
+    "provider": "Draft Kings",
+    "raw_spread": -18.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-25T02:00Z"
+}

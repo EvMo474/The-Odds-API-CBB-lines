@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "COPP",
+  "id": "2154",
+  "name": "Coppin State Eagles"
+ },
+ "date_key": "20261124",
+ "event_id": "401921777",
+ "home": {
+  "abbr": "VILL",
+  "id": "222",
+  "name": "Villanova Wildcats"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VILL -32.5",
+    "home_spread": -32.5,
+    "provider": "Draft Kings",
+    "raw_spread": -32.5,
+    "total": 142.5
+   }
+  ],
+  "t": "2026-11-24T05:00:20+00:00"
+ },
+ "start": "2026-11-25T00:00Z"
+}
