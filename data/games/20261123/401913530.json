@@ -23,11 +23,11 @@
     "total": 182.0
    },
    "draftkings": {
-    "spread": -43.5,
+    "spread": -42.5,
     "total": 181.5
    },
    "fanatics": {
-    "spread": -42.5,
+    "spread": -43.0,
     "total": 182.0
    },
    "fanduel": {
@@ -40,7 +40,7 @@
    }
   },
   "odds_event_id": "8dac68fbecc816a6de76442cf1e28270",
-  "t": "2026-11-24T00:57:21+00:00"
+  "t": "2026-11-24T01:00:22+00:00"
  },
  "date_key": "20261123",
  "event_id": "401913530",
