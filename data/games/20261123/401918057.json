@@ -24,7 +24,7 @@
    },
    "draftkings": {
     "spread": -17.5,
-    "total": 143.5
+    "total": 142.5
    },
    "fanatics": {
     "spread": -18.0,
@@ -39,12 +39,12 @@
     "total": 143.0
    },
    "williamhill_us": {
-    "spread": -18.0,
+    "spread": -17.5,
     "total": 142.5
    }
   },
   "odds_event_id": "b7a4f6e90eb128b0d569dacbfe487e80",
-  "t": "2026-11-24T02:57:21+00:00"
+  "t": "2026-11-24T03:00:22+00:00"
  },
  "date_key": "20261123",
  "event_id": "401918057",
