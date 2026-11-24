@@ -4,6 +4,48 @@
   "id": "2350",
   "name": "Loyola Chicago Ramblers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": -1.5,
+    "total": 139.5
+   },
+   "betonlineag": {
+    "spread": -1.5,
+    "total": 138.5
+   },
+   "betrivers": {
+    "spread": -1.5,
+    "total": 138.5
+   },
+   "betus": {
+    "spread": -1.5,
+    "total": 138.5
+   },
+   "circasports": {
+    "spread": -1.5,
+    "total": 138.5
+   },
+   "draftkings": {
+    "spread": -1.5,
+    "total": 138.5
+   },
+   "fanatics": {
+    "spread": -1.5,
+    "total": 139.0
+   },
+   "fanduel": {
+    "spread": -1.5,
+    "total": 138.5
+   },
+   "lowvig": {
+    "spread": -1.5,
+    "total": 138.5
+   }
+  },
+  "odds_event_id": "cac32b9a0db74c5e4ff90ebbbbcaab93",
+  "t": "2026-11-24T02:27:20+00:00"
+ },
  "date_key": "20261123",
  "event_id": "401921663",
  "home": {
