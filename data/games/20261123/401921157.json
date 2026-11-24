@@ -7,6 +7,28 @@
  "break_via": "STATUS_HALFTIME",
  "date_key": "20261123",
  "event_id": "401921157",
+ "final": {
+  "box_full": {
+   "away": {},
+   "home": {}
+  },
+  "linescores": {
+   "away": [
+    "32",
+    "30"
+   ],
+   "home": [
+    "32",
+    "28"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "62",
+   "home": "60"
+  },
+  "t": "2026-11-24T02:00:20+00:00"
+ },
  "halftime": {
   "box_1h": {
    "away": {},
