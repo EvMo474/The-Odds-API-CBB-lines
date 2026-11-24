@@ -23,16 +23,16 @@
     "total": 158.5
    },
    "circasports": {
-    "spread": -16.5,
+    "spread": -17.5,
     "total": 158.0
    },
    "draftkings": {
-    "spread": -16.5,
+    "spread": -17.5,
     "total": 158.5
    },
    "fanatics": {
     "spread": -16.5,
-    "total": 158.0
+    "total": 158.5
    },
    "fanduel": {
     "spread": -16.5,
@@ -48,7 +48,7 @@
    }
   },
   "odds_event_id": "b45e9d96ab3298d614e74c19902f3998",
-  "t": "2026-11-24T04:27:20+00:00"
+  "t": "2026-11-24T04:30:20+00:00"
  },
  "date_key": "20261123",
  "event_id": "401909743",
