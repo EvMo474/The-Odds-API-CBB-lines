@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "SNYF",
+  "id": "2902",
+  "name": "SUNY Fredonia Blue Devils"
+ },
+ "date_key": "20261124",
+ "event_id": "401919829",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 18,
+    "3pm": 8,
+    "fg_pct": 38.18,
+    "fga": 55,
+    "fgm": 21,
+    "fta": 10,
+    "ftm": 6
+   },
+   "home": {
+    "3pa": 17,
+    "3pm": 4,
+    "fg_pct": 66.67,
+    "fga": 54,
+    "fgm": 36,
+    "fta": 22,
+    "ftm": 19
+   }
+  },
+  "linescores": {
+   "away": [
+    "30",
+    "26"
+   ],
+   "home": [
+    "49",
+    "46"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "56",
+   "home": "95"
+  },
+  "t": "2026-11-25T05:34:48+00:00"
+ },
+ "home": {
+  "abbr": "MERC",
+  "id": "2385",
+  "name": "Mercyhurst Lakers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-25T00:00Z"
+}

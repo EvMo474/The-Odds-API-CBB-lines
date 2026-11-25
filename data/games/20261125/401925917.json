@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "PRST",
+  "id": "2502",
+  "name": "Portland State Vikings"
+ },
+ "date_key": "20261125",
+ "event_id": "401925917",
+ "home": {
+  "abbr": "UCR",
+  "id": "27",
+  "name": "UC Riverside Highlanders"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UCR -2.5",
+    "home_spread": -2.5,
+    "provider": "Draft Kings",
+    "raw_spread": -2.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-25T05:34:49+00:00"
+ },
+ "start": "2026-11-25T22:00Z"
+}

@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "PSBK",
+  "id": "124686",
+  "name": "Penn State Berks Nittany Lions"
+ },
+ "date_key": "20261124",
+ "event_id": "401921223",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 24,
+    "3pm": 4,
+    "fg_pct": 33.33,
+    "fga": 54,
+    "fgm": 18,
+    "fta": 10,
+    "ftm": 6
+   },
+   "home": {
+    "3pa": 37,
+    "3pm": 10,
+    "fg_pct": 44.58,
+    "fga": 83,
+    "fgm": 37,
+    "fta": 16,
+    "ftm": 13
+   }
+  },
+  "linescores": {
+   "away": [
+    "21",
+    "25"
+   ],
+   "home": [
+    "51",
+    "46"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "46",
+   "home": "97"
+  },
+  "t": "2026-11-25T05:34:47+00:00"
+ },
+ "home": {
+  "abbr": "NAVY",
+  "id": "2426",
+  "name": "Navy Midshipmen"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-24T21:30Z"
+}

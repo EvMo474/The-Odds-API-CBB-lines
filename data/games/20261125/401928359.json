@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ARST",
+  "id": "2032",
+  "name": "Arkansas State Red Wolves"
+ },
+ "date_key": "20261125",
+ "event_id": "401928359",
+ "home": {
+  "abbr": "FIU",
+  "id": "2229",
+  "name": "Florida International Panthers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "FIU -1.5",
+    "home_spread": -1.5,
+    "provider": "Draft Kings",
+    "raw_spread": -1.5,
+    "total": 172.5
+   }
+  ],
+  "t": "2026-11-25T05:34:49+00:00"
+ },
+ "start": "2026-11-25T20:30Z"
+}

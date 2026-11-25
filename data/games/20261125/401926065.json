@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "SOU",
+  "id": "2582",
+  "name": "Southern Jaguars"
+ },
+ "date_key": "20261125",
+ "event_id": "401926065",
+ "home": {
+  "abbr": "NEB",
+  "id": "158",
+  "name": "Nebraska Cornhuskers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "NEB -35.5",
+    "home_spread": -35.5,
+    "provider": "Draft Kings",
+    "raw_spread": -35.5,
+    "total": 149.5
+   }
+  ],
+  "t": "2026-11-25T05:34:49+00:00"
+ },
+ "start": "2026-11-25T22:00Z"
+}

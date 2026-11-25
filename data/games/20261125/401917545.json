@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "EWU",
+  "id": "331",
+  "name": "Eastern Washington Eagles"
+ },
+ "date_key": "20261125",
+ "event_id": "401917545",
+ "home": {
+  "abbr": "LMU",
+  "id": "2351",
+  "name": "Loyola Marymount Lions"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "LMU -7.5",
+    "home_spread": -7.5,
+    "provider": "Draft Kings",
+    "raw_spread": -7.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-25T05:34:49+00:00"
+ },
+ "start": "2026-11-26T02:00Z"
+}

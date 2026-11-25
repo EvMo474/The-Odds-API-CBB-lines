@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "GRAM",
+  "id": "2755",
+  "name": "Grambling Tigers"
+ },
+ "date_key": "20261125",
+ "event_id": "401925050",
+ "home": {
+  "abbr": "NOLA",
+  "id": "2443",
+  "name": "LSU New Orleans Privateers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "NOLA -4.5",
+    "home_spread": -4.5,
+    "provider": "Draft Kings",
+    "raw_spread": -4.5,
+    "total": 152.5
+   }
+  ],
+  "t": "2026-11-25T05:34:49+00:00"
+ },
+ "start": "2026-11-25T21:00Z"
+}

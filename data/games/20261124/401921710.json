@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "PROV",
+  "id": "2507",
+  "name": "Providence Friars"
+ },
+ "date_key": "20261124",
+ "event_id": "401921710",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 28,
+    "3pm": 7,
+    "fg_pct": 38.46,
+    "fga": 65,
+    "fgm": 25,
+    "fta": 14,
+    "ftm": 9
+   },
+   "home": {
+    "3pa": 19,
+    "3pm": 10,
+    "fg_pct": 51.92,
+    "fga": 52,
+    "fgm": 27,
+    "fta": 24,
+    "ftm": 20
+   }
+  },
+  "linescores": {
+   "away": [
+    "26",
+    "40"
+   ],
+   "home": [
+    "48",
+    "36"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "66",
+   "home": "84"
+  },
+  "t": "2026-11-25T05:34:46+00:00"
+ },
+ "home": {
+  "abbr": "ARIZ",
+  "id": "12",
+  "name": "Arizona Wildcats"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "start": "2026-11-24T22:00Z"
+}

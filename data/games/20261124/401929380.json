@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "ARBA",
+  "id": "2027",
+  "name": "Arkansas Baptist Buffaloes"
+ },
+ "date_key": "20261124",
+ "event_id": "401929380",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 15,
+    "3pm": 5,
+    "fg_pct": 29.51,
+    "fga": 61,
+    "fgm": 18,
+    "fta": 13,
+    "ftm": 6
+   },
+   "home": {
+    "3pa": 20,
+    "3pm": 6,
+    "fg_pct": 50.82,
+    "fga": 61,
+    "fgm": 31,
+    "fta": 28,
+    "ftm": 14
+   }
+  },
+  "linescores": {
+   "away": [
+    "25",
+    "22"
+   ],
+   "home": [
+    "45",
+    "37"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "47",
+   "home": "82"
+  },
+  "t": "2026-11-25T05:34:48+00:00"
+ },
+ "home": {
+  "abbr": "LR",
+  "id": "2031",
+  "name": "Little Rock Trojans"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-25T01:00Z"
+}

@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "VTSR",
+  "id": "130189",
+  "name": "Vermont State Randolph Knights"
+ },
+ "date_key": "20261124",
+ "event_id": "401919850",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 22,
+    "3pm": 9,
+    "fg_pct": 34.43,
+    "fga": 61,
+    "fgm": 21,
+    "fta": 16,
+    "ftm": 13
+   },
+   "home": {
+    "3pa": 36,
+    "3pm": 14,
+    "fg_pct": 54.32,
+    "fga": 81,
+    "fgm": 44,
+    "fta": 16,
+    "ftm": 10
+   }
+  },
+  "linescores": {
+   "away": [
+    "21",
+    "43"
+   ],
+   "home": [
+    "61",
+    "51"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "64",
+   "home": "112"
+  },
+  "t": "2026-11-25T05:34:46+00:00"
+ },
+ "home": {
+  "abbr": "STO",
+  "id": "284",
+  "name": "Stonehill Skyhawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-24T18:00Z"
+}

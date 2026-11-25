@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CSUN",
+  "id": "2463",
+  "name": "Cal State Northridge Matadors"
+ },
+ "date_key": "20261125",
+ "event_id": "401920299",
+ "home": {
+  "abbr": "WEB",
+  "id": "2692",
+  "name": "Weber State Wildcats"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "CSUN -2.5",
+    "home_spread": 2.5,
+    "provider": "Draft Kings",
+    "raw_spread": 2.5,
+    "total": 167.5
+   }
+  ],
+  "t": "2026-11-25T05:34:49+00:00"
+ },
+ "start": "2026-11-25T23:00Z"
+}

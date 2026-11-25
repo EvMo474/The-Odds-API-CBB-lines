@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "UNCO",
+  "id": "2458",
+  "name": "Northern Colorado Bears"
+ },
+ "date_key": "20261125",
+ "event_id": "401920547",
+ "home": {
+  "abbr": "DETM",
+  "id": "2174",
+  "name": "Detroit Mercy Titans"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UNCO -5.5",
+    "home_spread": 5.5,
+    "provider": "Draft Kings",
+    "raw_spread": 5.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-25T05:34:49+00:00"
+ },
+ "start": "2026-11-25T17:30Z"
+}

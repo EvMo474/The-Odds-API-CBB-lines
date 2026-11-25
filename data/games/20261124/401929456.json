@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "LCHR",
+  "id": "2347",
+  "name": "Louisiana Christian Wildcats"
+ },
+ "date_key": "20261124",
+ "event_id": "401929456",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 14,
+    "3pm": 2,
+    "fg_pct": 25.64,
+    "fga": 39,
+    "fgm": 10,
+    "fta": 4,
+    "ftm": 2
+   },
+   "home": {
+    "3pa": 19,
+    "3pm": 7,
+    "fg_pct": 55.17,
+    "fga": 58,
+    "fgm": 32,
+    "fta": 27,
+    "ftm": 20
+   }
+  },
+  "linescores": {
+   "away": [
+    "14",
+    "10"
+   ],
+   "home": [
+    "51",
+    "40"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "24",
+   "home": "91"
+  },
+  "t": "2026-11-25T05:34:48+00:00"
+ },
+ "home": {
+  "abbr": "UL",
+  "id": "309",
+  "name": "Louisiana Ragin' Cajuns"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-25T01:30Z"
+}
