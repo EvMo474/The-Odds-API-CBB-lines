@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "VCU",
+  "id": "2670",
+  "name": "VCU Rams"
+ },
+ "date_key": "20261124",
+ "event_id": "401921712",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 33,
+    "3pm": 14,
+    "fg_pct": 54.39,
+    "fga": 57,
+    "fgm": 31,
+    "fta": 13,
+    "ftm": 8
+   },
+   "home": {
+    "3pa": 21,
+    "3pm": 9,
+    "fg_pct": 55.32,
+    "fga": 47,
+    "fgm": 26,
+    "fta": 24,
+    "ftm": 20
+   }
+  },
+  "linescores": {
+   "away": [
+    "49",
+    "35"
+   ],
+   "home": [
+    "40",
+    "41"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "84",
+   "home": "81"
+  },
+  "t": "2026-11-25T05:52:46+00:00"
+ },
+ "home": {
+  "abbr": "CSU",
+  "id": "36",
+  "name": "Colorado State Rams"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "start": "2026-11-25T03:30Z"
+}
