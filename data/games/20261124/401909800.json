@@ -4,6 +4,52 @@
   "id": "2250",
   "name": "Gonzaga Bulldogs"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 14.5,
+    "total": 157.5
+   },
+   "betonlineag": {
+    "spread": 15.0,
+    "total": 158.0
+   },
+   "betrivers": {
+    "spread": 15.5,
+    "total": 159.5
+   },
+   "betus": {
+    "spread": 15.0,
+    "total": 157.5
+   },
+   "circasports": {
+    "spread": 15.0,
+    "total": 158.0
+   },
+   "draftkings": {
+    "spread": 14.5,
+    "total": 157.5
+   },
+   "fanatics": {
+    "spread": 14.5,
+    "total": 157.5
+   },
+   "fanduel": {
+    "spread": 14.5,
+    "total": 157.5
+   },
+   "lowvig": {
+    "spread": 15.0,
+    "total": 158.0
+   },
+   "williamhill_us": {
+    "spread": 15.0,
+    "total": 157.5
+   }
+  },
+  "odds_event_id": "62f11de81607e09d5edea5c4e1b26feb",
+  "t": "2026-11-25T05:46:46+00:00"
+ },
  "date_key": "20261124",
  "event_id": "401909800",
  "home": {
