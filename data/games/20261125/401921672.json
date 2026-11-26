@@ -704,6 +704,26 @@
    "n_events": 24,
    "t": "2026-11-26T06:59:18+00:00",
    "unmatched": true
+  },
+  {
+   "closest": "Incarnate Word Cardinals @ Hawai'i Rainbow Warriors",
+   "credits_left": "27924",
+   "events_list_match": 0.45,
+   "events_list_n": 24,
+   "match": 0.45,
+   "n_events": 24,
+   "t": "2026-11-26T07:02:17+00:00",
+   "unmatched": true
+  },
+  {
+   "closest": "Incarnate Word Cardinals @ Hawai'i Rainbow Warriors",
+   "credits_left": "27922",
+   "events_list_match": 0.45,
+   "events_list_n": 24,
+   "match": 0.45,
+   "n_events": 24,
+   "t": "2026-11-26T07:05:17+00:00",
+   "unmatched": true
   }
  ],
  "odds_ticks": [
@@ -730,6 +750,30 @@
    },
    "status": "STATUS_HALFTIME",
    "t": "2026-11-26T06:59:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "33",
+    "home": "36"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-26T07:02:17+00:00"
+  },
+  {
+   "clock": "0:00",
+   "odds": [],
+   "period": 1,
+   "raw": null,
+   "score": {
+    "away": "33",
+    "home": "36"
+   },
+   "status": "STATUS_HALFTIME",
+   "t": "2026-11-26T07:05:17+00:00"
   }
  ],
  "start": "2026-11-26T06:08Z"
