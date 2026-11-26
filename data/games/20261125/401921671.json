@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "GCU",
+  "id": "2253",
+  "name": "Grand Canyon Lopes"
+ },
+ "date_key": "20261125",
+ "event_id": "401921671",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 17,
+    "3pm": 6,
+    "fg_pct": 45.45,
+    "fga": 55,
+    "fgm": 25,
+    "fta": 34,
+    "ftm": 23
+   },
+   "home": {
+    "3pa": 21,
+    "3pm": 7,
+    "fg_pct": 36.84,
+    "fga": 57,
+    "fgm": 21,
+    "fta": 34,
+    "ftm": 24
+   }
+  },
+  "linescores": {
+   "away": [
+    "37",
+    "42"
+   ],
+   "home": [
+    "35",
+    "38"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "79",
+   "home": "73"
+  },
+  "t": "2026-11-26T05:35:17+00:00"
+ },
+ "home": {
+  "abbr": "COLO",
+  "id": "38",
+  "name": "Colorado Buffaloes"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "start": "2026-11-26T03:30Z"
+}
