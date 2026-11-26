@@ -4,6 +4,52 @@
   "id": "228",
   "name": "Clemson Tigers"
  },
+ "closing": {
+  "books": {
+   "betmgm": {
+    "spread": 4.5,
+    "total": 147.5
+   },
+   "betonlineag": {
+    "spread": 4.0,
+    "total": 148.0
+   },
+   "betrivers": {
+    "spread": 3.5,
+    "total": 147.5
+   },
+   "betus": {
+    "spread": 4.0,
+    "total": 147.5
+   },
+   "circasports": {
+    "spread": 4.0,
+    "total": 147.5
+   },
+   "draftkings": {
+    "spread": 4.5,
+    "total": 147.5
+   },
+   "fanatics": {
+    "spread": 4.5,
+    "total": 147.0
+   },
+   "fanduel": {
+    "spread": 4.5,
+    "total": 147.5
+   },
+   "lowvig": {
+    "spread": 4.0,
+    "total": 148.0
+   },
+   "williamhill_us": {
+    "spread": 4.0,
+    "total": 147.5
+   }
+  },
+  "odds_event_id": "48369de2888c9b053bc390ff138c9434",
+  "t": "2026-11-26T05:29:17+00:00"
+ },
  "date_key": "20261125",
  "event_id": "401921714",
  "home": {
