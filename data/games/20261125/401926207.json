@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "MNTT",
+  "id": "2410",
+  "name": "Montreat Cavaliers"
+ },
+ "date_key": "20261125",
+ "event_id": "401926207",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 25,
+    "3pm": 5,
+    "fg_pct": 26.0,
+    "fga": 50,
+    "fgm": 13,
+    "fta": 16,
+    "ftm": 11
+   },
+   "home": {
+    "3pa": 29,
+    "3pm": 15,
+    "fg_pct": 52.83,
+    "fga": 53,
+    "fgm": 28,
+    "fta": 38,
+    "ftm": 29
+   }
+  },
+  "linescores": {
+   "away": [
+    "20",
+    "22"
+   ],
+   "home": [
+    "48",
+    "52"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "42",
+   "home": "100"
+  },
+  "t": "2026-11-26T05:17:18+00:00"
+ },
+ "home": {
+  "abbr": "WCU",
+  "id": "2717",
+  "name": "Western Carolina Catamounts"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-25T19:00Z"
+}

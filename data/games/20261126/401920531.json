@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "TTU",
+  "id": "2641",
+  "name": "Texas Tech Red Raiders"
+ },
+ "date_key": "20261126",
+ "event_id": "401920531",
+ "home": {
+  "abbr": "ORE",
+  "id": "2483",
+  "name": "Oregon Ducks"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "TTU -10.5",
+    "home_spread": 10.5,
+    "provider": "DraftKings",
+    "raw_spread": 10.5,
+    "total": 148.5
+   }
+  ],
+  "t": "2026-11-26T05:17:20+00:00"
+ },
+ "start": "2026-11-27T04:30Z"
+}

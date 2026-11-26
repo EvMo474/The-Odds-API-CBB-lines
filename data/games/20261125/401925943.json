@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "BTHS",
+  "id": "3246",
+  "name": "Bethesda Flames"
+ },
+ "date_key": "20261125",
+ "event_id": "401925943",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 36,
+    "3pm": 8,
+    "fg_pct": 27.54,
+    "fga": 69,
+    "fgm": 19,
+    "fta": 13,
+    "ftm": 8
+   },
+   "home": {
+    "3pa": 33,
+    "3pm": 10,
+    "fg_pct": 54.55,
+    "fga": 88,
+    "fgm": 48,
+    "fta": 23,
+    "ftm": 18
+   }
+  },
+  "linescores": {
+   "away": [
+    "26",
+    "28"
+   ],
+   "home": [
+    "65",
+    "59"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "54",
+   "home": "124"
+  },
+  "t": "2026-11-26T05:17:19+00:00"
+ },
+ "home": {
+  "abbr": "UTU",
+  "id": "3101",
+  "name": "Utah Tech Trailblazers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-25T21:00Z"
+}

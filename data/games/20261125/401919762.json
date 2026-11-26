@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "VTSR",
+  "id": "130189",
+  "name": "Vermont State Randolph Knights"
+ },
+ "date_key": "20261125",
+ "event_id": "401919762",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 24,
+    "3pm": 9,
+    "fg_pct": 33.33,
+    "fga": 57,
+    "fgm": 19,
+    "fta": 3,
+    "ftm": 1
+   },
+   "home": {
+    "3pa": 24,
+    "3pm": 14,
+    "fg_pct": 66.67,
+    "fga": 69,
+    "fgm": 46,
+    "fta": 20,
+    "ftm": 17
+   }
+  },
+  "linescores": {
+   "away": [
+    "16",
+    "32"
+   ],
+   "home": [
+    "65",
+    "58"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "48",
+   "home": "123"
+  },
+  "t": "2026-11-26T05:17:18+00:00"
+ },
+ "home": {
+  "abbr": "FDU",
+  "id": "161",
+  "name": "Fairleigh Dickinson Knights"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-25T17:00Z"
+}

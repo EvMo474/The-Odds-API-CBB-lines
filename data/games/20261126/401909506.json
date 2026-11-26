@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "DEP",
+  "id": "305",
+  "name": "DePaul Blue Demons"
+ },
+ "date_key": "20261126",
+ "event_id": "401909506",
+ "home": {
+  "abbr": "PITT",
+  "id": "221",
+  "name": "Pittsburgh Panthers"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "PITT -1.5",
+    "home_spread": -1.5,
+    "provider": "DraftKings",
+    "raw_spread": -1.5,
+    "total": 138.5
+   }
+  ],
+  "t": "2026-11-26T05:17:20+00:00"
+ },
+ "start": "2026-11-27T00:00Z"
+}

@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "KENN",
+  "id": "338",
+  "name": "Kennesaw State Owls"
+ },
+ "date_key": "20261125",
+ "event_id": "401920549",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 34,
+    "3pm": 8,
+    "fg_pct": 36.76,
+    "fga": 68,
+    "fgm": 25,
+    "fta": 24,
+    "ftm": 19
+   },
+   "home": {
+    "3pa": 23,
+    "3pm": 7,
+    "fg_pct": 52.17,
+    "fga": 69,
+    "fgm": 36,
+    "fta": 21,
+    "ftm": 12
+   }
+  },
+  "linescores": {
+   "away": [
+    "36",
+    "41"
+   ],
+   "home": [
+    "46",
+    "45"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "77",
+   "home": "91"
+  },
+  "t": "2026-11-26T05:17:19+00:00"
+ },
+ "home": {
+  "abbr": "COFC",
+  "id": "232",
+  "name": "Charleston Cougars"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "start": "2026-11-25T23:00Z"
+}

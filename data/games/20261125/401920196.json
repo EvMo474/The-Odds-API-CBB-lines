@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "PSAB",
+  "id": "3183",
+  "name": "Penn State Abington Nittany Lions"
+ },
+ "date_key": "20261125",
+ "event_id": "401920196",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 31,
+    "3pm": 4,
+    "fg_pct": 31.75,
+    "fga": 63,
+    "fgm": 20,
+    "fta": 8,
+    "ftm": 4
+   },
+   "home": {
+    "3pa": 31,
+    "3pm": 15,
+    "fg_pct": 60.0,
+    "fga": 65,
+    "fgm": 39,
+    "fta": 18,
+    "ftm": 11
+   }
+  },
+  "linescores": {
+   "away": [
+    "28",
+    "20"
+   ],
+   "home": [
+    "58",
+    "46"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "48",
+   "home": "104"
+  },
+  "t": "2026-11-26T05:17:18+00:00"
+ },
+ "home": {
+  "abbr": "JOES",
+  "id": "2603",
+  "name": "Saint Joseph's Hawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-25T17:00Z"
+}

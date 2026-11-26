@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "GCRU",
+  "id": "126822",
+  "name": "Grace Christian Tigers"
+ },
+ "date_key": "20261125",
+ "event_id": "401928850",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 34,
+    "3pm": 9,
+    "fg_pct": 31.67,
+    "fga": 60,
+    "fgm": 19,
+    "fta": 7,
+    "ftm": 5
+   },
+   "home": {
+    "3pa": 29,
+    "3pm": 10,
+    "fg_pct": 60.0,
+    "fga": 65,
+    "fgm": 39,
+    "fta": 23,
+    "ftm": 16
+   }
+  },
+  "linescores": {
+   "away": [
+    "24",
+    "28"
+   ],
+   "home": [
+    "44",
+    "60"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "52",
+   "home": "104"
+  },
+  "t": "2026-11-26T05:17:18+00:00"
+ },
+ "home": {
+  "abbr": "WMU",
+  "id": "2711",
+  "name": "Western Michigan Broncos"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-25T19:00Z"
+}

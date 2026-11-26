@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "JWU",
+  "id": "353",
+  "name": "Johnson & Wales Griffins"
+ },
+ "date_key": "20261125",
+ "event_id": "401911311",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 19,
+    "3pm": 4,
+    "fg_pct": 35.29,
+    "fga": 51,
+    "fgm": 18,
+    "fta": 17,
+    "ftm": 12
+   },
+   "home": {
+    "3pa": 16,
+    "3pm": 7,
+    "fg_pct": 52.05,
+    "fga": 73,
+    "fgm": 38,
+    "fta": 18,
+    "ftm": 15
+   }
+  },
+  "linescores": {
+   "away": [
+    "27",
+    "25"
+   ],
+   "home": [
+    "58",
+    "40"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "52",
+   "home": "98"
+  },
+  "t": "2026-11-26T05:17:18+00:00"
+ },
+ "home": {
+  "abbr": "BRWN",
+  "id": "225",
+  "name": "Brown Bears"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-25T19:00Z"
+}

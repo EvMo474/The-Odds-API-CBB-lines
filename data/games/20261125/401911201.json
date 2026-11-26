@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "MRCY",
+  "id": "2384",
+  "name": "Mercy Mavericks"
+ },
+ "date_key": "20261125",
+ "event_id": "401911201",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 21,
+    "3pm": 5,
+    "fg_pct": 33.93,
+    "fga": 56,
+    "fgm": 19,
+    "fta": 18,
+    "ftm": 13
+   },
+   "home": {
+    "3pa": 23,
+    "3pm": 9,
+    "fg_pct": 53.85,
+    "fga": 65,
+    "fgm": 35,
+    "fta": 36,
+    "ftm": 25
+   }
+  },
+  "linescores": {
+   "away": [
+    "26",
+    "30"
+   ],
+   "home": [
+    "55",
+    "49"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "56",
+   "home": "104"
+  },
+  "t": "2026-11-26T05:17:18+00:00"
+ },
+ "home": {
+  "abbr": "FOR",
+  "id": "2230",
+  "name": "Fordham Rams"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-25T16:00Z"
+}
