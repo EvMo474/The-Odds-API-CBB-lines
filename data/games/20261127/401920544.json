@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CREI",
+  "id": "156",
+  "name": "Creighton Bluejays"
+ },
+ "date_key": "20261127",
+ "event_id": "401920544",
+ "home": {
+  "abbr": "GONZ",
+  "id": "2250",
+  "name": "Gonzaga Bulldogs"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "GONZ -5.5",
+    "home_spread": -5.5,
+    "provider": "DraftKings",
+    "raw_spread": -5.5,
+    "total": 161.5
+   }
+  ],
+  "t": "2026-11-27T07:22:48+00:00"
+ },
+ "start": "2026-11-28T04:00Z"
+}
