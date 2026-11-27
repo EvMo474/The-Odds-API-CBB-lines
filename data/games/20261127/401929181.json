@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "USA",
+  "id": "6",
+  "name": "South Alabama Jaguars"
+ },
+ "date_key": "20261127",
+ "event_id": "401929181",
+ "home": {
+  "abbr": "FRES",
+  "id": "278",
+  "name": "Fresno State Bulldogs"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "FRES -1.5",
+    "home_spread": -1.5,
+    "provider": "DraftKings",
+    "raw_spread": -1.5,
+    "total": 144.5
+   }
+  ],
+  "t": "2026-11-27T05:13:49+00:00"
+ },
+ "start": "2026-11-27T19:00Z"
+}

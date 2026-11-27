@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "ODU",
+  "id": "295",
+  "name": "Old Dominion Monarchs"
+ },
+ "date_key": "20261127",
+ "event_id": "401920382",
+ "home": {
+  "abbr": "VT",
+  "id": "259",
+  "name": "Virginia Tech Hokies"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "VT -18.5",
+    "home_spread": -18.5,
+    "provider": "DraftKings",
+    "raw_spread": -18.5,
+    "total": 144.5
+   }
+  ],
+  "t": "2026-11-27T05:13:49+00:00"
+ },
+ "start": "2026-11-27T22:00Z"
+}

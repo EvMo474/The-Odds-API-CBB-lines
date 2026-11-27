@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "NE",
+  "id": "111",
+  "name": "Northeastern Huskies"
+ },
+ "date_key": "20261127",
+ "event_id": "401920737",
+ "home": {
+  "abbr": "NU",
+  "id": "77",
+  "name": "Northwestern Wildcats"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "NU -12.5",
+    "home_spread": -12.5,
+    "provider": "DraftKings",
+    "raw_spread": -12.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-27T05:13:49+00:00"
+ },
+ "start": "2026-11-28T01:00Z"
+}

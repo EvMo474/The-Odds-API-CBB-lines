@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "LIB",
+  "id": "2335",
+  "name": "Liberty Flames"
+ },
+ "date_key": "20261127",
+ "event_id": "401920848",
+ "home": {
+  "abbr": "STMN",
+  "id": "2900",
+  "name": "St. Thomas Tommies"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "LIB -1.5",
+    "home_spread": 1.5,
+    "provider": "DraftKings",
+    "raw_spread": 1.5,
+    "total": 146.5
+   }
+  ],
+  "t": "2026-11-27T05:13:49+00:00"
+ },
+ "start": "2026-11-27T17:00Z"
+}
