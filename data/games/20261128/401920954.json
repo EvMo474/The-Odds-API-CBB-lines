@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "PRST",
+  "id": "2502",
+  "name": "Portland State Vikings"
+ },
+ "date_key": "20261128",
+ "event_id": "401920954",
+ "home": {
+  "abbr": "SIU",
+  "id": "79",
+  "name": "Southern Illinois Salukis"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "SIU -7.5",
+    "home_spread": -7.5,
+    "provider": "Draft Kings",
+    "raw_spread": -7.5,
+    "total": 155.5
+   }
+  ],
+  "t": "2026-11-28T05:02:12+00:00"
+ },
+ "start": "2026-11-29T00:00Z"
+}

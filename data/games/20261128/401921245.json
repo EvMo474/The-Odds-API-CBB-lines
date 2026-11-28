@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "CCSU",
+  "id": "2115",
+  "name": "Central Connecticut Blue Devils"
+ },
+ "date_key": "20261128",
+ "event_id": "401921245",
+ "home": {
+  "abbr": "NAVY",
+  "id": "2426",
+  "name": "Navy Midshipmen"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "CCSU -1.5",
+    "home_spread": 1.5,
+    "provider": "Draft Kings",
+    "raw_spread": 1.5,
+    "total": 128.5
+   }
+  ],
+  "t": "2026-11-28T05:02:12+00:00"
+ },
+ "start": "2026-11-28T19:00Z"
+}

@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "JOES",
+  "id": "2603",
+  "name": "Saint Joseph's Hawks"
+ },
+ "date_key": "20261128",
+ "event_id": "401920197",
+ "home": {
+  "abbr": "MONM",
+  "id": "2405",
+  "name": "Monmouth Hawks"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "JOES -2.5",
+    "home_spread": 2.5,
+    "provider": "Draft Kings",
+    "raw_spread": 2.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-28T05:02:12+00:00"
+ },
+ "start": "2026-11-29T00:00Z"
+}

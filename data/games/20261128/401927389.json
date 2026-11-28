@@ -1,0 +1,29 @@
+{
+ "away": {
+  "abbr": "RMU",
+  "id": "2523",
+  "name": "Robert Morris Colonials"
+ },
+ "date_key": "20261128",
+ "event_id": "401927389",
+ "home": {
+  "abbr": "UNI",
+  "id": "2460",
+  "name": "Northern Iowa Panthers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "pregame": {
+  "odds": [
+   {
+    "details": "UNI -6.5",
+    "home_spread": -6.5,
+    "provider": "Draft Kings",
+    "raw_spread": -6.5,
+    "total": 147.5
+   }
+  ],
+  "t": "2026-11-28T05:02:12+00:00"
+ },
+ "start": "2026-11-28T18:00Z"
+}
