@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "AUM",
+  "id": "2040",
+  "name": "Auburn Montgomery Senators"
+ },
+ "date_key": "20261127",
+ "event_id": "401919021",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 35,
+    "3pm": 7,
+    "fg_pct": 30.14,
+    "fga": 73,
+    "fgm": 22,
+    "fta": 17,
+    "ftm": 11
+   },
+   "home": {
+    "3pa": 18,
+    "3pm": 7,
+    "fg_pct": 46.67,
+    "fga": 75,
+    "fgm": 35,
+    "fta": 32,
+    "ftm": 25
+   }
+  },
+  "linescores": {
+   "away": [
+    "35",
+    "27"
+   ],
+   "home": [
+    "44",
+    "58"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "62",
+   "home": "102"
+  },
+  "t": "2026-11-28T04:50:15+00:00"
+ },
+ "home": {
+  "abbr": "UAB",
+  "id": "5",
+  "name": "UAB Blazers"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-27T20:00Z"
+}

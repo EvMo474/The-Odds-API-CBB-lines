@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "MD",
+  "id": "120",
+  "name": "Maryland Terrapins"
+ },
+ "date_key": "20261127",
+ "event_id": "401920532",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 19,
+    "3pm": 8,
+    "fg_pct": 46.0,
+    "fga": 50,
+    "fgm": 23,
+    "fta": 28,
+    "ftm": 19
+   },
+   "home": {
+    "3pa": 12,
+    "3pm": 8,
+    "fg_pct": 56.67,
+    "fga": 60,
+    "fgm": 34,
+    "fta": 16,
+    "ftm": 12
+   }
+  },
+  "linescores": {
+   "away": [
+    "35",
+    "38"
+   ],
+   "home": [
+    "40",
+    "48"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "73",
+   "home": "88"
+  },
+  "t": "2026-11-28T04:50:16+00:00"
+ },
+ "home": {
+  "abbr": "ORE",
+  "id": "2483",
+  "name": "Oregon Ducks"
+ },
+ "neutral_site": true,
+ "odds_ticks": [],
+ "start": "2026-11-27T20:30Z"
+}

@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "SWES",
+  "id": "2576",
+  "name": "Southern Wesleyan Warriors"
+ },
+ "date_key": "20261127",
+ "event_id": "401933055",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 17,
+    "3pm": 8,
+    "fg_pct": 47.17,
+    "fga": 53,
+    "fgm": 25,
+    "fta": 30,
+    "ftm": 20
+   },
+   "home": {
+    "3pa": 29,
+    "3pm": 7,
+    "fg_pct": 42.47,
+    "fga": 73,
+    "fgm": 31,
+    "fta": 27,
+    "ftm": 18
+   }
+  },
+  "linescores": {
+   "away": [
+    "44",
+    "34"
+   ],
+   "home": [
+    "34",
+    "53"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "78",
+   "home": "87"
+  },
+  "t": "2026-11-28T04:50:17+00:00"
+ },
+ "home": {
+  "abbr": "UPST",
+  "id": "2908",
+  "name": "South Carolina Upstate Spartans"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-27T23:00Z"
+}

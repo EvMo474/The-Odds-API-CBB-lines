@@ -1,0 +1,55 @@
+{
+ "away": {
+  "abbr": "B&SO",
+  "id": "131761",
+  "name": "Bryant & Stratton (OH) Bobcats"
+ },
+ "date_key": "20261127",
+ "event_id": "401920753",
+ "final": {
+  "box_full": {
+   "away": {
+    "3pa": 16,
+    "3pm": 6,
+    "fg_pct": 38.24,
+    "fga": 68,
+    "fgm": 26,
+    "fta": 16,
+    "ftm": 8
+   },
+   "home": {
+    "3pa": 34,
+    "3pm": 12,
+    "fg_pct": 50.0,
+    "fga": 54,
+    "fgm": 27,
+    "fta": 42,
+    "ftm": 30
+   }
+  },
+  "linescores": {
+   "away": [
+    "34",
+    "32"
+   ],
+   "home": [
+    "53",
+    "43"
+   ]
+  },
+  "periods": 2,
+  "score": {
+   "away": "66",
+   "home": "96"
+  },
+  "t": "2026-11-28T04:50:14+00:00"
+ },
+ "home": {
+  "abbr": "YSU",
+  "id": "2754",
+  "name": "Youngstown State Penguins"
+ },
+ "neutral_site": false,
+ "odds_ticks": [],
+ "start": "2026-11-27T18:00Z"
+}
